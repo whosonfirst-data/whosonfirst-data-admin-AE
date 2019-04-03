@@ -1,0 +1,74 @@
+{
+  "id": 1376826437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.55663,25.50401,55.55663,25.50401",
+    "geom:latitude":25.50401,
+    "geom:longitude":55.55663,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Abraq",
+    "gn:country_code":"AE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8052063,
+    "gn:latitude":25.50401,
+    "gn:longitude":55.55663,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Abraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0628\u0631\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455645,
+        1376833609,
+        85667955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052063
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"1b84bc24c5a1d0aea694651ca2e427ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":890455645,
+            "neighbourhood_id":1376826437,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1376826437,
+    "wof:lastmodified":1548974131,
+    "wof:name":"Al Abraq",
+    "wof:parent_id":890455645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193010029
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.55663000000001,
+    25.50401,
+    55.55663000000001,
+    25.50401
+],
+  "geometry": {"coordinates":[55.55663000000001,25.50401],"type":"Point"}
+}

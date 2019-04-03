@@ -1,0 +1,68 @@
+{
+  "id": 1343455521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.63109,25.44573,55.63109,25.44573",
+    "geom:latitude":25.44573,
+    "geom:longitude":55.63109,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"As Surrah",
+    "gn:country_code":"AE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8052070,
+    "gn:latitude":25.44573,
+    "gn:longitude":55.63109,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Surrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052070
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"847a1194db628e7516a9bc53fa7066f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343455521,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1343455521,
+    "wof:lastmodified":1537579251,
+    "wof:name":"As Surrah",
+    "wof:parent_id":85667955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.63109,
+    25.44573,
+    55.63109,
+    25.44573
+],
+  "geometry": {"coordinates":[55.63109,25.44573],"type":"Point"}
+}

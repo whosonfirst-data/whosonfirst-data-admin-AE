@@ -1,0 +1,65 @@
+{
+  "id": 1276478003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.305,25.60549,56.305,25.60549",
+    "geom:latitude":25.60549,
+    "geom:longitude":56.305,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ras Dibba",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308747,
+    "gn:latitude":25.60549,
+    "gn:longitude":56.305,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ras Dibba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308747
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"88abbccb5ab642c150910240fa00ce7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1276478003,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1276478003,
+    "wof:lastmodified":1537079003,
+    "wof:name":"Ras Dibba",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.305,
+    25.60549,
+    56.305,
+    25.60549
+],
+  "geometry": {"coordinates":[56.305,25.60549],"type":"Point"}
+}

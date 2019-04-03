@@ -1,0 +1,68 @@
+{
+  "id": 1344261787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.13867,25.48246,56.13867,25.48246",
+    "geom:latitude":25.48246,
+    "geom:longitude":56.13867,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dab`ah",
+    "gn:country_code":"AE",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292313,
+    "gn:latitude":25.48246,
+    "gn:longitude":56.13867,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u1e10ab\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ab\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292313
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"26333b06cc19f750eeb88e43942204ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1344261787,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1344261787,
+    "wof:lastmodified":1537578733,
+    "wof:name":"Dab`ah",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.13867,
+    25.48246,
+    56.13867,
+    25.48246
+],
+  "geometry": {"coordinates":[56.13867,25.48246],"type":"Point"}
+}

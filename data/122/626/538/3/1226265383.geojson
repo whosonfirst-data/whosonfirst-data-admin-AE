@@ -1,0 +1,71 @@
+{
+  "id": 1226265383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.10806,26.04306,56.10806,26.04306",
+    "geom:latitude":26.04306,
+    "geom:longitude":56.10806,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sharyat",
+    "gn:country_code":"AE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388445,
+    "gn:latitude":26.04306,
+    "gn:longitude":56.10806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shary\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shary\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951,
+        1376833605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388445,
+        "wk:page":"Sharyat"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"ad77665cd6b7b13cb0e5879e0108947e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":1226265383,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1226265383,
+    "wof:lastmodified":1548974125,
+    "wof:name":"Sharyat",
+    "wof:parent_id":1376833605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.10806,
+    26.04306,
+    56.10806,
+    26.04306
+],
+  "geometry": {"coordinates":[56.10806,26.04306],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 421171849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.27805,25.24151,55.27805,25.24151",
+    "geom:latitude":25.24151,
+    "geom:longitude":55.27805,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0636\u064a\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hudaiba"
+    ],
+    "name:ind_x_preferred":[
+        "Al Hudaiba"
+    ],
+    "name:ita_x_preferred":[
+        "Al Hudaiba"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062d\u0636\u06cc\u0628\u0629"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":6691093,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0647\u0636\u064a\u0628\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u062f\u0628\u064a",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1269239,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":55872530,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691093,
+        "gp:id":55872530,
+        "qs:id":1269239,
+        "wd:id":"Q4117061",
+        "wk:page":"Al Hudaiba"
+    },
+    "wof:country":"AE",
+    "wof:created":1459008909,
+    "wof:geomhash":"823d0cc152604408c8bc1d2bdf085d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":421171849,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":421171849,
+    "wof:lastmodified":1548974106,
+    "wof:name":"\u0627\u0644\u0647\u0636\u064a\u0628\u0629",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.27805,
+    25.24151,
+    55.27805,
+    25.24151
+],
+  "geometry": {"coordinates":[55.27805,25.24151],"type":"Point"}
+}

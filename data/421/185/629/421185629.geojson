@@ -1,0 +1,75 @@
+{
+  "id": 421185629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.115245,24.80185,56.115245,24.80185",
+    "geom:latitude":24.80185,
+    "geom:longitude":56.115245,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u062d\u062a\u0627",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u062f\u0628\u064a",
+    "qs:photos":441,
+    "qs:photos_1k":89,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":441,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":899357,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":55872946,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667983,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55872946,
+        "qs:id":899357
+    },
+    "wof:country":"AE",
+    "wof:created":1459009449,
+    "wof:geomhash":"b971bd88dd8354524147006306e46e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421185629,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":421185629,
+    "wof:lastmodified":1548974103,
+    "wof:name":"\u062d\u062a\u0627",
+    "wof:parent_id":1376833603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.115245,
+    24.80185,
+    56.115245,
+    24.80185
+],
+  "geometry": {"coordinates":[56.115245,24.80185],"type":"Point"}
+}

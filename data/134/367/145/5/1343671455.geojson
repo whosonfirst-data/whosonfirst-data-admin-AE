@@ -1,0 +1,68 @@
+{
+  "id": 1343671455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.68333,23.11667,53.68333,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":53.68333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mujib",
+    "gn:country_code":"AE",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291376,
+    "gn:latitude":23.11667,
+    "gn:longitude":53.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u016bjib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u016bjib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291376
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"c59874ff8ff6cee70d59b7595309b36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343671455,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1343671455,
+    "wof:lastmodified":1537578731,
+    "wof:name":"Mujib",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.68333000000001,
+    23.11667000000001,
+    53.68333000000001,
+    23.11667000000001
+],
+  "geometry": {"coordinates":[53.68333000000001,23.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242677035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.03056,25.09708,56.03056,25.09708",
+    "geom:latitude":25.09708,
+    "geom:longitude":56.03056,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marhamid",
+    "gn:country_code":"AE",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291513,
+    "gn:latitude":25.09708,
+    "gn:longitude":56.03056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mar\u1e29\u0101mid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u1e29\u0101mid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291513,
+        "wk:page":"Marhamid"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d6a714bcc76f1a97907299c7b057d1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1242677035,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1242677035,
+    "wof:lastmodified":1537578731,
+    "wof:name":"Marhamid",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.03056,
+    25.09708,
+    56.03056,
+    25.09708
+],
+  "geometry": {"coordinates":[56.03056,25.09708],"type":"Point"}
+}

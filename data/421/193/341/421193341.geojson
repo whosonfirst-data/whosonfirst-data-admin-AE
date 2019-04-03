@@ -1,0 +1,104 @@
+{
+  "id": 421193341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.43298,25.24423,55.43298,25.24423",
+    "geom:latitude":25.24423,
+    "geom:longitude":55.43298,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0647\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mizhar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0647\u0631"
+    ],
+    "name:ind_x_preferred":[
+        "Al Mizhar"
+    ],
+    "name:ita_x_preferred":[
+        "Al Mizhar"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0647\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Al Mizhar"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":8200820,
+    "qs:gn_pop":0,
+    "qs:name":"Al Mezhar",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u062f\u0628\u064a",
+    "qs:photos":184,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":888240,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":22724547,
+    "src:geom":"quattroshapes",
+    "wd:latitude":25.2449,
+    "wd:longitude":55.442,
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200820,
+        "gp:id":22724547,
+        "qs:id":888240,
+        "wd:id":"Q4117476",
+        "wk:page":"Al Mizhar"
+    },
+    "wof:country":"AE",
+    "wof:created":1459009768,
+    "wof:geomhash":"b34f58ab0d537348185f9112df410718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":421193341,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":421193341,
+    "wof:lastmodified":1548974111,
+    "wof:name":"Al Mezhar",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43298,
+    25.24423,
+    55.43298,
+    25.24423
+],
+  "geometry": {"coordinates":[55.43298,25.24423],"type":"Point"}
+}

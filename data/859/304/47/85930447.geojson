@@ -1,0 +1,102 @@
+{
+  "id": 85930447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.298965,25.268708,55.298965,25.268708",
+    "geom:latitude":25.268708,
+    "geom:longitude":55.298965,
+    "gn:id":"",
+    "iso:country":"AE",
+    "lbl:latitude":25.268708,
+    "lbl:longitude":55.298965,
+    "mps:latitude":25.269132,
+    "mps:longitude":55.298978,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Buteen"
+    ],
+    "name:eng_x_variant":[
+        "Community 114",
+        "Al Buteen"
+    ],
+    "name:ind_x_preferred":[
+        "Al Buteen"
+    ],
+    "name:ita_x_preferred":[
+        "Al Buteen"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u06cc\u0646"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55872655,
+        "qs:id":1090127,
+        "qs_pg:id":1090127,
+        "wd:id":"Q4117392"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"31e1101b5ae2b63e9b4eed0a9b60188d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":85930447,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":85930447,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974113,
+    "wof:name":"\u0627\u0644\u0628\u0637\u064a\u0646",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.298965,
+    25.268708,
+    55.298965,
+    25.268708
+],
+  "geometry": {"coordinates":[55.298965,25.268708],"type":"Point"}
+}

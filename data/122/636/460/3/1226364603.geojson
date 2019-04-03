@@ -1,0 +1,71 @@
+{
+  "id": 1226364603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.24549,25.29138,56.24549,25.29138",
+    "geom:latitude":25.29138,
+    "geom:longitude":56.24549,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Shis",
+    "gn:country_code":"AE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290793,
+    "gn:latitude":25.29138,
+    "gn:longitude":56.24549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sh\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977,
+        421182269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290793,
+        "wk:page":"Shis"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"3607559e7bca305f162b34d9b8808780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421182269,
+            "locality_id":1226364603,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1226364603,
+    "wof:lastmodified":1548974166,
+    "wof:name":"Shis",
+    "wof:parent_id":421182269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.24549,
+    25.29138,
+    56.24549,
+    25.29138
+],
+  "geometry": {"coordinates":[56.24549,25.29138],"type":"Point"}
+}

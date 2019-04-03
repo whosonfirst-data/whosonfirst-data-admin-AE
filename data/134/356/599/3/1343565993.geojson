@@ -1,0 +1,72 @@
+{
+  "id": 1343565993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.07719,25.24764,56.07719,25.24764",
+    "geom:latitude":25.24764,
+    "geom:longitude":56.07719,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tawi Siji",
+    "gn:country_code":"AE",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290759,
+    "gn:latitude":25.24764,
+    "gn:longitude":56.07719,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Tawi Siji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u012bj\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u0162aw\u012b as S\u012bj\u012b",
+        "Tawi Siji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290759
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"26436d01cf7ba35416f7af25bce2a463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343565993,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1343565993,
+    "wof:lastmodified":1537579939,
+    "wof:name":"Tawi Siji",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.07719,
+    25.24764,
+    56.07719,
+    25.24764
+],
+  "geometry": {"coordinates":[56.07719,25.24764],"type":"Point"}
+}

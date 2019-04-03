@@ -1,0 +1,65 @@
+{
+  "id": 1293206685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.07194,25.51417,56.07194,25.51417",
+    "geom:latitude":25.51417,
+    "geom:longitude":56.07194,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jareef",
+    "gn:country_code":"AE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019360,
+    "gn:latitude":25.51417,
+    "gn:longitude":56.07194,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Jareef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019360
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"a92400874266a2342f280a123bac3fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1293206685,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1293206685,
+    "wof:lastmodified":1536695048,
+    "wof:name":"Jareef",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.07194000000001,
+    25.51417,
+    56.07194000000001,
+    25.51417
+],
+  "geometry": {"coordinates":[56.07194000000001,25.51417],"type":"Point"}
+}

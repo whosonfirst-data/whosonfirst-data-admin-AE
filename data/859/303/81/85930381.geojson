@@ -1,0 +1,118 @@
+{
+  "id": 85930381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.47499,24.413126,54.47499,24.413126",
+    "geom:latitude":24.413126,
+    "geom:longitude":54.47499,
+    "gn:latitude":24.40618,
+    "gn:longitude":54.48137,
+    "iso:country":"AE",
+    "lbl:latitude":24.413126,
+    "lbl:longitude":54.47499,
+    "mps:latitude":24.409893,
+    "mps:longitude":54.476341,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0637\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Maqtaa"
+    ],
+    "name:eng_x_variant":[
+        "Al Maqtaa"
+    ],
+    "name:unk_x_variant":[
+        "Al Maq\u0163a\u2018",
+        "\u0627\u0644\u0645\u0642\u0637\u0639"
+    ],
+    "qs:gn_adm0_cc":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":292968,
+    "qs:gn_nam_loc":"\u0623\u0628\u0648\u0638\u0628\u064a, \u0623\u0628\u0648\u0638\u0628\u064a, \u0623\u0628\u0648\u0638\u0628\u064a, AE",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Al Maq\u0163a\u2018",
+    "qs:local_max":3156,
+    "qs:local_sum":8910,
+    "qs:localhoods":17,
+    "qs:name":"\u0627\u0644\u0645\u0642\u0637\u0639",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:name_adm2":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:name_en":"Al Maqtaa",
+    "qs:name_local":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:photo_max":2073,
+    "qs:photo_sum":3156,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424738,
+    "qs:woe_adm1":2347109,
+    "qs:woe_adm2":55922608,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940330,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421179641,
+        421172075,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389393,
+        "gp:id":55872599,
+        "qs:id":1311295,
+        "qs_pg:id":1311295
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"55accbce5263243e86bde53b9650f605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":85930381,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":85930381,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974155,
+    "wof:name":"\u0627\u0644\u0645\u0642\u0637\u0639",
+    "wof:parent_id":421179641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.47499,
+    24.413126,
+    54.47499,
+    24.413126
+],
+  "geometry": {"coordinates":[54.47499,24.413126],"type":"Point"}
+}

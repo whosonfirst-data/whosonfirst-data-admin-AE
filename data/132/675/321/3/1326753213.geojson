@@ -1,0 +1,69 @@
+{
+  "id": 1326753213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.10159,25.1707,56.10159,25.1707",
+    "geom:latitude":25.1707,
+    "geom:longitude":56.10159,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fa'y",
+    "gn:country_code":"AE",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292173,
+    "gn:latitude":25.1707,
+    "gn:longitude":56.10159,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fa\u2019y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fa\u2019y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292173,
+        "wk:page":"Fa%27y"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"2fa22efd807b4be1d4e7d1d7077d616d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1326753213,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1326753213,
+    "wof:lastmodified":1537578733,
+    "wof:name":"Fa'y",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.10159,
+    25.1707,
+    56.10159,
+    25.1707
+],
+  "geometry": {"coordinates":[56.10159,25.1707],"type":"Point"}
+}

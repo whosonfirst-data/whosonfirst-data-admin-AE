@@ -1,0 +1,72 @@
+{
+  "id": 1310218871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.68333,24.08333,55.68333,24.08333",
+    "geom:latitude":24.08333,
+    "geom:longitude":55.68333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ayn al Faydah",
+    "gn:country_code":"AE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292617,
+    "gn:latitude":24.08333,
+    "gn:longitude":55.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018Ayn al Fay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ayn al Faidah",
+        "\u2018Ayn al Fay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292617
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d09a44d9717cd0de9b7e5686fce063c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310218871,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1310218871,
+    "wof:lastmodified":1548974015,
+    "wof:name":"`Ayn al Faydah",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826529
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.68333000000001,
+    24.08333,
+    55.68333000000001,
+    24.08333
+],
+  "geometry": {"coordinates":[55.68333000000001,24.08333],"type":"Point"}
+}

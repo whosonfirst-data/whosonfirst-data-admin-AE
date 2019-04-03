@@ -1,0 +1,68 @@
+{
+  "id": 1277078367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.91653,23.13561,53.91653,23.13561",
+    "geom:latitude":23.13561,
+    "geom:longitude":53.91653,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shah",
+    "gn:country_code":"AE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290863,
+    "gn:latitude":23.13561,
+    "gn:longitude":53.91653,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290863
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"39ef4846206a97d826ded211675e7baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1277078367,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1277078367,
+    "wof:lastmodified":1537578730,
+    "wof:name":"Shah",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.91653,
+    23.13561,
+    53.91653,
+    23.13561
+],
+  "geometry": {"coordinates":[53.91653,23.13561],"type":"Point"}
+}

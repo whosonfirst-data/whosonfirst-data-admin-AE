@@ -1,0 +1,71 @@
+{
+  "id": 1293901393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.08422,23.07734,54.08422,23.07734",
+    "geom:latitude":23.07734,
+    "geom:longitude":54.08422,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dahin",
+    "gn:country_code":"AE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292294,
+    "gn:latitude":23.07734,
+    "gn:longitude":54.08422,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u0101hin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101hin"
+    ],
+    "name:und_x_variant":[
+        "Duwayh\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292294
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"f4f6f56d070ca53a6f1b1b733aedad09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1293901393,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1293901393,
+    "wof:lastmodified":1537578733,
+    "wof:name":"Dahin",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.08422,
+    23.07734,
+    54.08422,
+    23.07734
+],
+  "geometry": {"coordinates":[54.08422,23.07734],"type":"Point"}
+}

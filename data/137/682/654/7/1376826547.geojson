@@ -1,0 +1,75 @@
+{
+  "id": 1376826547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.97712,25.76453,55.97712,25.76453",
+    "geom:latitude":25.76453,
+    "geom:longitude":55.97712,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bida",
+    "gn:country_code":"AE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292516,
+    "gn:latitude":25.76453,
+    "gn:longitude":55.97712,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Bid\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Bid\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292516,
+        "wk:page":"Bida,_Ras_al-Khaimah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"553b894283c05739c4e02e1f749a551f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1376826547,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1376826547,
+    "wof:lastmodified":1548974127,
+    "wof:name":"Bida",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327157041
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.97711999999999,
+    25.76453,
+    55.97711999999999,
+    25.76453
+],
+  "geometry": {"coordinates":[55.97711999999999,25.76453],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193154753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.15447,23.01353,54.15447,23.01353",
+    "geom:latitude":23.01353,
+    "geom:longitude":54.15447,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mawsil",
+    "gn:country_code":"AE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291471,
+    "gn:latitude":23.01353,
+    "gn:longitude":54.15447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maw\u015fil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u016b\u1e63il",
+        "Maw\u015fal",
+        "Mausil",
+        "Mausal",
+        "Maw\u015fil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        1376826403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291471
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"96a00c8b728404ccfeef97d49bd92e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826403,
+            "locality_id":1193154753,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1193154753,
+    "wof:lastmodified":1548974038,
+    "wof:name":"Mawsil",
+    "wof:parent_id":1376826403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.15447,
+    23.01353,
+    54.15447,
+    23.01353
+],
+  "geometry": {"coordinates":[54.15447,23.01353],"type":"Point"}
+}

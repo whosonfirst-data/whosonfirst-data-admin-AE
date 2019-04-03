@@ -1,0 +1,72 @@
+{
+  "id": 1209338717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18991,25.45353,56.18991,25.45353",
+    "geom:latitude":25.45353,
+    "geom:longitude":56.18991,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Abadilah",
+    "gn:country_code":"AE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293003,
+    "gn:latitude":25.45353,
+    "gn:longitude":56.18991,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"\u2018Ab\u0101dilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ab\u0101dilah",
+        "Al Abadilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293003,
+        "wk:page":"%27Abadilah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"e7debf69b6784fd09a264fb43bb88fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":1209338717,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1209338717,
+    "wof:lastmodified":1548974134,
+    "wof:name":"`Abadilah",
+    "wof:parent_id":1376833611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18991,
+    25.45353,
+    56.18991,
+    25.45353
+],
+  "geometry": {"coordinates":[56.18991,25.45353],"type":"Point"}
+}

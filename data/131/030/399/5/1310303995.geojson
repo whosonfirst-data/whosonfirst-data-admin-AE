@@ -1,0 +1,71 @@
+{
+  "id": 1310303995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.15073,25.39831,56.15073,25.39831",
+    "geom:latitude":25.39831,
+    "geom:longitude":56.15073,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Asamah",
+    "gn:country_code":"AE",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292680,
+    "gn:latitude":25.39831,
+    "gn:longitude":56.15073,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"\u2018Asamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajima",
+        "\u2018Asimah",
+        "\u2018Asamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292680,
+        "wk:page":"%27Asamah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"f21a4bf2a3795b6af24392fe53d7a3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310303995,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1310303995,
+    "wof:lastmodified":1537579943,
+    "wof:name":"`Asamah",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.15073,
+    25.39831,
+    56.15073,
+    25.39831
+],
+  "geometry": {"coordinates":[56.15073,25.39831],"type":"Point"}
+}

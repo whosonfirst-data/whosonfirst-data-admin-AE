@@ -1,0 +1,71 @@
+{
+  "id": 1310127191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.79832,25.41463,55.79832,25.41463",
+    "geom:latitude":25.41463,
+    "geom:longitude":55.79832,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Biyatah",
+    "gn:country_code":"AE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308860,
+    "gn:latitude":25.41463,
+    "gn:longitude":55.79832,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Biy\u0101tah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Biy\u0101tah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308860
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"5a0ecee38194d9ab6b6ccda6d0b1b426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310127191,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1310127191,
+    "wof:lastmodified":1537579251,
+    "wof:name":"Biyatah",
+    "wof:parent_id":85667955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.79832,
+    25.41463,
+    55.79832,
+    25.41463
+],
+  "geometry": {"coordinates":[55.79832,25.41463],"type":"Point"}
+}

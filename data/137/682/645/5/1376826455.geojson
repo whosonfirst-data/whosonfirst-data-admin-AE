@@ -1,0 +1,78 @@
+{
+  "id": 1376826455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.34472,25.36167,56.34472,25.36167",
+    "geom:latitude":25.36167,
+    "geom:longitude":56.34472,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nedaifi",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291418,
+    "gn:latitude":25.36167,
+    "gn:longitude":56.34472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nedaifi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Muaifi",
+        "Muw\u0101f\u012b",
+        "Nedaifi",
+        "Mu\u1e11ayf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421187069,
+        421182269,
+        85667977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291418,
+        "wk:page":"Muaifi"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"4fe58d95a1a2e784c1f97424a78bc6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421182269,
+            "locality_id":421187069,
+            "neighbourhood_id":1376826455,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1376826455,
+    "wof:lastmodified":1548974167,
+    "wof:name":"Nedaifi",
+    "wof:parent_id":421187069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209607849
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.34472,
+    25.36167,
+    56.34472,
+    25.36167
+],
+  "geometry": {"coordinates":[56.34472,25.36167],"type":"Point"}
+}

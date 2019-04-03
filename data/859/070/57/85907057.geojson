@@ -1,0 +1,92 @@
+{
+  "id": 85907057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.296233,25.266333,55.296233,25.266333",
+    "geom:latitude":25.266333,
+    "geom:longitude":55.296233,
+    "gn:id":"",
+    "iso:country":"AE",
+    "lbl:latitude":25.266333,
+    "lbl:longitude":55.296233,
+    "mps:latitude":25.266941,
+    "mps:longitude":55.296144,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ras"
+    ],
+    "name:ind_x_preferred":[
+        "Al Ras"
+    ],
+    "name:ita_x_preferred":[
+        "Al Ras"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724562,
+        "qs:id":215941,
+        "qs_pg:id":215941,
+        "wd:id":"Q4117365"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"5fcd00d6380753e7fb5e95ef3b12db83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":85907057,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":85907057,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974107,
+    "wof:name":"\u0627\u0644\u0631\u0627\u0633",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.296233,
+    25.266333,
+    55.296233,
+    25.266333
+],
+  "geometry": {"coordinates":[55.296233,25.266333],"type":"Point"}
+}

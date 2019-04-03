@@ -1,0 +1,69 @@
+{
+  "id": 1343958891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.2076,25.21966,56.2076,25.21966",
+    "geom:latitude":25.21966,
+    "geom:longitude":56.2076,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ghurah",
+    "gn:country_code":"AE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292071,
+    "gn:latitude":25.21966,
+    "gn:longitude":56.2076,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghurah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghura",
+        "Ghurah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292071
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"e8ea11446a07bb572df7c10a59d4d069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343958891,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1343958891,
+    "wof:lastmodified":1537579942,
+    "wof:name":"Ghurah",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.2076,
+    25.21966,
+    56.2076,
+    25.21966
+],
+  "geometry": {"coordinates":[56.2076,25.21966],"type":"Point"}
+}

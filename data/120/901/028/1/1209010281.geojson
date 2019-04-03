@@ -1,0 +1,74 @@
+{
+  "id": 1209010281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33039,25.17467,56.33039,25.17467",
+    "geom:latitude":25.17467,
+    "geom:longitude":56.33039,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Saqamqam",
+    "gn:country_code":"AE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290909,
+    "gn:latitude":25.17467,
+    "gn:longitude":56.33039,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saqamqam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "As Saqamqam",
+        "Sakamkam",
+        "Saqamqam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290909,
+        "wk:page":"Saqamqam"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d92b0c456ca6718a5f6ba9cdf7718f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1209010281,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1209010281,
+    "wof:lastmodified":1548973980,
+    "wof:name":"Saqamqam",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826447
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33039,
+    25.17467000000001,
+    56.33039,
+    25.17467000000001
+],
+  "geometry": {"coordinates":[56.33039,25.17467000000001],"type":"Point"}
+}

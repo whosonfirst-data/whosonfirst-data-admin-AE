@@ -1,0 +1,70 @@
+{
+  "id": 1327230859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.09619,25.16356,56.09619,25.16356",
+    "geom:latitude":25.16356,
+    "geom:longitude":56.09619,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Athabat",
+    "gn:country_code":"AE",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292643,
+    "gn:latitude":25.16356,
+    "gn:longitude":56.09619,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Athab\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Athab\u0101",
+        "Athab\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292643,
+        "wk:page":"Athabat"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"b4867278cb318de11cc4f330b1bcc403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1327230859,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1327230859,
+    "wof:lastmodified":1537579943,
+    "wof:name":"Athabat",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.09619,
+    25.16356,
+    56.09619,
+    25.16356
+],
+  "geometry": {"coordinates":[56.09619,25.16356],"type":"Point"}
+}

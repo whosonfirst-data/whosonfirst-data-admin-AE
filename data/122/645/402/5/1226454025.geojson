@@ -1,0 +1,71 @@
+{
+  "id": 1226454025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1857,25.13377,55.1857,25.13377",
+    "geom:latitude":25.13377,
+    "geom:longitude":55.1857,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat Shikaghu Bitsh",
+    "gn:country_code":"AE",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8225781,
+    "gn:latitude":25.13377,
+    "gn:longitude":55.1857,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Qaryat Sh\u012bk\u0101gh\u016b B\u012btsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0634\u064a\u0643\u0627\u063a\u0648 \u0628\u064a\u062a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Sh\u012bk\u0101gh\u016b B\u012btsh",
+        "Chicago Beach Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8225781
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"7013879aec9f39693a9f1d97444f5837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1226454025,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226454025,
+    "wof:lastmodified":1537579946,
+    "wof:name":"Qaryat Shikaghu Bitsh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1857,
+    25.13377,
+    55.1857,
+    25.13377
+],
+  "geometry": {"coordinates":[55.1857,25.13377],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226050237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1978,25.11311,55.1978,25.11311",
+    "geom:latitude":25.11311,
+    "geom:longitude":55.1978,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Barsha First",
+    "gn:country_code":"AE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6691106,
+    "gn:latitude":25.11311,
+    "gn:longitude":55.1978,
+    "gn:modification_date":"2017-08-21",
+    "gn:name":"Al Barsha First",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0634\u0627\u0621"
+    ],
+    "name:deu_x_preferred":[
+        "Al Barsha"
+    ],
+    "name:eng_x_preferred":[
+        "Al Barsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691106,
+        "wk:page":"Al_Barsha"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"ddfb9e8ffd9766d0b515a53eba1aa896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1226050237,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1226050237,
+    "wof:lastmodified":1548973985,
+    "wof:name":"Al Barsha First",
+    "wof:parent_id":85667983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826461
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1978,
+    25.11311,
+    55.1978,
+    25.11311
+],
+  "geometry": {"coordinates":[55.1978,25.11311],"type":"Point"}
+}

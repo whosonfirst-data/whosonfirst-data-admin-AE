@@ -1,0 +1,69 @@
+{
+  "id": 1309802765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.10445,26.03244,56.10445,26.03244",
+    "geom:latitude":26.03244,
+    "geom:longitude":56.10445,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Qir",
+    "gn:country_code":"AE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292765,
+    "gn:latitude":26.03244,
+    "gn:longitude":56.10445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Q\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Q\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292765,
+        "wk:page":"Al_Qir"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"c51e4509663f42a3494ca4f3495b495b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1309802765,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1309802765,
+    "wof:lastmodified":1537578734,
+    "wof:name":"Al Qir",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.10445,
+    26.03244,
+    56.10445,
+    26.03244
+],
+  "geometry": {"coordinates":[56.10445,26.03244],"type":"Point"}
+}

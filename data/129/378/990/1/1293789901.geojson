@@ -1,0 +1,71 @@
+{
+  "id": 1293789901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.10494,25.33912,56.10494,25.33912",
+    "geom:latitude":25.33912,
+    "geom:longitude":56.10494,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Maydaq",
+    "gn:country_code":"AE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291588,
+    "gn:latitude":25.33912,
+    "gn:longitude":56.10494,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maydaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mad\u0101q",
+        "Maydaq",
+        "Maidaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291588,
+        "wk:page":"Maydaq"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"5c45b34d1f7f95169cb21202c2571412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1293789901,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1293789901,
+    "wof:lastmodified":1537579941,
+    "wof:name":"Maydaq",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.10494,
+    25.33912,
+    56.10494,
+    25.33912
+],
+  "geometry": {"coordinates":[56.10494,25.33912],"type":"Point"}
+}

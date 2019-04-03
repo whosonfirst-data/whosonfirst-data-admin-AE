@@ -1,0 +1,72 @@
+{
+  "id": 1327034639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.90028,25.61139,55.90028,25.61139",
+    "geom:latitude":25.61139,
+    "geom:longitude":55.90028,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Hamraniyah",
+    "gn:country_code":"AE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412516,
+    "gn:latitude":25.61139,
+    "gn:longitude":55.90028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28amr\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Al \u1e28amr\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412516,
+        "wk:page":"Al_Hamraniyah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"0b7252ef9d45554b928320e12b60aef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1327034639,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1327034639,
+    "wof:lastmodified":1548974020,
+    "wof:name":"Al Hamraniyah",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826541
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.90028,
+    25.61139,
+    55.90028,
+    25.61139
+],
+  "geometry": {"coordinates":[55.90028,25.61139],"type":"Point"}
+}

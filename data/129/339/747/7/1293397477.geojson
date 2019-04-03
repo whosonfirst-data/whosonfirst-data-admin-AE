@@ -1,0 +1,68 @@
+{
+  "id": 1293397477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.47531,24.93138,55.47531,24.93138",
+    "geom:latitude":24.93138,
+    "geom:longitude":55.47531,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Lusayli",
+    "gn:country_code":"AE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412981,
+    "gn:latitude":24.93138,
+    "gn:longitude":55.47531,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Lusayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Lusayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412981
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"87f7043fb837b1ad0d069d4c697a5139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1293397477,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1293397477,
+    "wof:lastmodified":1537579250,
+    "wof:name":"Al Lusayli",
+    "wof:parent_id":85667983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.47531,
+    24.93138,
+    55.47531,
+    24.93138
+],
+  "geometry": {"coordinates":[55.47531,24.93138],"type":"Point"}
+}

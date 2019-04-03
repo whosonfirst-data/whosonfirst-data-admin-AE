@@ -1,0 +1,72 @@
+{
+  "id": 1242676963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.03333,25.1,56.03333,25.1",
+    "geom:latitude":25.1,
+    "geom:longitude":56.03333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Shawkah",
+    "gn:cc2":"AE",
+    "gn:country_code":"AE",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290812,
+    "gn:latitude":25.1,
+    "gn:longitude":56.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shawkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shauka",
+        "Shokah",
+        "Shawkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290812,
+        "wk:page":"Shawkah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d24a71f9a8036ebeed464604928d643a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1242676963,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1242676963,
+    "wof:lastmodified":1537579939,
+    "wof:name":"Shawkah",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.03333000000001,
+    25.1,
+    56.03333000000001,
+    25.1
+],
+  "geometry": {"coordinates":[56.03333000000001,25.1],"type":"Point"}
+}

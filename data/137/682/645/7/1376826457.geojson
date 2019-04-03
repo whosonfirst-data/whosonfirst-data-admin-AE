@@ -1,0 +1,79 @@
+{
+  "id": 1376826457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.96776,25.71617,55.96776,25.71617",
+    "geom:latitude":25.71617,
+    "geom:longitude":55.96776,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kharran",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291715,
+    "gn:latitude":25.71617,
+    "gn:longitude":55.96776,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kharr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Al Kharan",
+        "Khawr\u0101n",
+        "Khouran",
+        "Khauran",
+        "Kharr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291715,
+        "wk:page":"Kharran"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"1b09aabd44db90f2d38a79ac0cf4606f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1376826457,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1376826457,
+    "wof:lastmodified":1548974125,
+    "wof:name":"Kharran",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209614335
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.96776,
+    25.71617,
+    55.96776,
+    25.71617
+],
+  "geometry": {"coordinates":[55.96776,25.71617],"type":"Point"}
+}

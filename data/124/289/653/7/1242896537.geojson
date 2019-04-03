@@ -1,0 +1,70 @@
+{
+  "id": 1242896537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.09139,26.02139,56.09139,26.02139",
+    "geom:latitude":26.02139,
+    "geom:longitude":56.09139,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Fay`",
+    "gn:country_code":"AE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292883,
+    "gn:latitude":26.02139,
+    "gn:longitude":56.09139,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Al Fay\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Fai",
+        "Al Fay\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292883,
+        "wk:page":"Al_Fay%27"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"13ce423d3dbe94d99e9a19d0e501fb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1242896537,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1242896537,
+    "wof:lastmodified":1537579946,
+    "wof:name":"Al Fay`",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.09139,
+    26.02139,
+    56.09139,
+    26.02139
+],
+  "geometry": {"coordinates":[56.09139,26.02139],"type":"Point"}
+}

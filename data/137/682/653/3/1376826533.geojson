@@ -1,0 +1,81 @@
+{
+  "id": 1376826533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.41955,25.38148,55.41955,25.38148",
+    "geom:latitude":25.38148,
+    "geom:longitude":55.41955,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Hayrah",
+    "gn:country_code":"AE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292850,
+    "gn:latitude":25.38148,
+    "gn:longitude":55.41955,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al \u1e28ayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Hayrah",
+        "Al Hairah",
+        "Al Haira",
+        "Haira",
+        "Al-\u1e24\u012brah",
+        "Hair",
+        "Al \u1e28ayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168683,
+        421171391,
+        85667977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292850,
+        "wk:page":"Al_Hayrah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"7610ecbcbc248bb3cab22ce114fa3560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1376826533,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1376826533,
+    "wof:lastmodified":1548974150,
+    "wof:name":"Al Hayrah",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310403273
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.41955,
+    25.38148,
+    55.41955,
+    25.38148
+],
+  "geometry": {"coordinates":[55.41955,25.38148],"type":"Point"}
+}

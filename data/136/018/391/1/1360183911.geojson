@@ -1,0 +1,72 @@
+{
+  "id": 1360183911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.05222,25.88556,56.05222,25.88556",
+    "geom:latitude":25.88556,
+    "geom:longitude":56.05222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Hulaylah",
+    "gn:country_code":"AE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388440,
+    "gn:latitude":25.88556,
+    "gn:longitude":56.05222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ulaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Al \u1e28ulaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388440,
+        "wk:page":"Al_Hulaylah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"2954a2c58bdcf4bc93beceb71587314f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1360183911,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1360183911,
+    "wof:lastmodified":1548974029,
+    "wof:name":"Al Hulaylah",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826565
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.05222,
+    25.88556,
+    56.05222,
+    25.88556
+],
+  "geometry": {"coordinates":[56.05222,25.88556],"type":"Point"}
+}

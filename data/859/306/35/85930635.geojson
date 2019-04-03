@@ -1,0 +1,114 @@
+{
+  "id": 85930635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.739043,24.179862,55.739043,24.179862",
+    "geom:latitude":24.179862,
+    "geom:longitude":55.739043,
+    "gn:id":"",
+    "iso:country":"AE",
+    "lbl:latitude":24.179862,
+    "lbl:longitude":55.739043,
+    "mps:latitude":24.183201,
+    "mps:longitude":55.736711,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Owainah"
+    ],
+    "name:eng_x_variant":[
+        "Al Owainah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0639\u0648\u064a\u0646\u0629"
+    ],
+    "qs:gn_adm0_cc":"AE",
+    "qs:gn_id":0,
+    "qs:gn_local":292913,
+    "qs:gn_nam_loc":"\u0627\u0644\u0639\u064a\u0646, \u0627\u0644\u0639\u064a\u0646, \u0623\u0628\u0648\u0638\u0628\u064a, AE",
+    "qs:gn_namadm1":"01",
+    "qs:local_max":73,
+    "qs:local_sum":110,
+    "qs:localhoods":2,
+    "qs:name":"\u0627\u0644\u0639\u0648\u064a\u0646\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:name_adm2":"\u0627\u0644\u0639\u064a\u0646",
+    "qs:name_en":"Al Owainah",
+    "qs:name_local":"\u0627\u0644\u0639\u064a\u0646",
+    "qs:photo_max":48,
+    "qs:photo_sum":73,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424738,
+    "qs:woe_adm1":2347109,
+    "qs:woe_adm2":55922610,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940048,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55873104,
+        "qs:id":1338031,
+        "qs_pg:id":1338031
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"fddb5a72abed43ed8fb621cfe255de50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":85930635,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":85930635,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974181,
+    "wof:name":"\u0627\u0644\u0639\u0648\u064a\u0646\u0629",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.739043,
+    24.179862,
+    55.739043,
+    24.179862
+],
+  "geometry": {"coordinates":[55.739043,24.179862],"type":"Point"}
+}

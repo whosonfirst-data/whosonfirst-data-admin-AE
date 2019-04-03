@@ -1,0 +1,70 @@
+{
+  "id": 1276353727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.98181,23.12917,53.98181,23.12917",
+    "geom:latitude":23.12917,
+    "geom:longitude":53.98181,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sabkhah",
+    "gn:country_code":"AE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290989,
+    "gn:latitude":23.12917,
+    "gn:longitude":53.98181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabkha",
+        "Sabukhah",
+        "Sabkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290989
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"5b293cd55cc0cdcbb30159c9e1502f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1276353727,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1276353727,
+    "wof:lastmodified":1537579939,
+    "wof:name":"Sabkhah",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.98181,
+    23.12917,
+    53.98181,
+    23.12917
+],
+  "geometry": {"coordinates":[53.98181,23.12917],"type":"Point"}
+}

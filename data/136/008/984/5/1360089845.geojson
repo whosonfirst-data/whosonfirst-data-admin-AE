@@ -1,0 +1,69 @@
+{
+  "id": 1360089845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.025,24.99417,56.025,24.99417",
+    "geom:latitude":24.99417,
+    "geom:longitude":56.025,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sa`abah",
+    "gn:country_code":"AE",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":290995,
+    "gn:latitude":24.99417,
+    "gn:longitude":56.025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sa\u2018abah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sa\u2018bah",
+        "Sa\u2018abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290995
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"0f82e5aef7b5a1fad3484475f008f155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1360089845,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1360089845,
+    "wof:lastmodified":1537579939,
+    "wof:name":"Sa`abah",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.025,
+    24.99417,
+    56.025,
+    24.99417
+],
+  "geometry": {"coordinates":[56.025,24.99417],"type":"Point"}
+}

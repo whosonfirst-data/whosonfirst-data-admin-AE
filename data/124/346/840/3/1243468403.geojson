@@ -1,0 +1,70 @@
+{
+  "id": 1243468403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.49077,24.09911,53.49077,24.09911",
+    "geom:latitude":24.09911,
+    "geom:longitude":53.49077,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Marfa'",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292795,
+    "gn:latitude":24.09911,
+    "gn:longitude":53.49077,
+    "gn:modification_date":"2013-10-26",
+    "gn:name":"Al Marfa\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Al-Mirfa\u2019"
+    ],
+    "name:und_x_variant":[
+        "Mirfa",
+        "Mirfah",
+        "Bandar Mirfah",
+        "Al Marfa\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292795
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"efd5909644e956d33a36fbaadb228ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243468403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243468403,
+    "wof:lastmodified":1537579945,
+    "wof:name":"Al Marfa'",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.49077,
+    24.09911,
+    53.49077,
+    24.09911
+],
+  "geometry": {"coordinates":[53.49077,24.09911],"type":"Point"}
+}

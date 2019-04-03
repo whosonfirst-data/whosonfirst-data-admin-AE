@@ -1,0 +1,70 @@
+{
+  "id": 1226741611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.66856,25.43355,55.66856,25.43355",
+    "geom:latitude":25.43355,
+    "geom:longitude":55.66856,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Muhadhdhib",
+    "gn:country_code":"AE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8052071,
+    "gn:latitude":25.43355,
+    "gn:longitude":55.66856,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Muhadhdhib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u0630\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667955,
+        1376833609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052071
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"4855d5286c216bad56d1b8a4ad6749e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":1226741611,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1226741611,
+    "wof:lastmodified":1548974131,
+    "wof:name":"Muhadhdhib",
+    "wof:parent_id":1376833609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.66856,
+    25.43355,
+    55.66856,
+    25.43355
+],
+  "geometry": {"coordinates":[55.66856,25.43355],"type":"Point"}
+}

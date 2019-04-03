@@ -1,0 +1,75 @@
+{
+  "id": 1310205505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35381,25.12496,56.35381,25.12496",
+    "geom:latitude":25.12496,
+    "geom:longitude":56.35381,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Ghurfah",
+    "gn:country_code":"AE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292871,
+    "gn:latitude":25.12496,
+    "gn:longitude":56.35381,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Ghurfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gharaifah",
+        "Ghurfah",
+        "Ghurayfah",
+        "Gharefa",
+        "Al Ghurfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292871
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"7087f830a47f9e0fb2a4d5ce4dd60744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310205505,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1310205505,
+    "wof:lastmodified":1548974014,
+    "wof:name":"Al Ghurfah",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826527
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35381,
+    25.12496,
+    56.35381,
+    25.12496
+],
+  "geometry": {"coordinates":[56.35381,25.12496],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310106823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.16772,25.50868,56.16772,25.50868",
+    "geom:latitude":25.50868,
+    "geom:longitude":56.16772,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sinnah",
+    "gn:country_code":"AE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290747,
+    "gn:latitude":25.50868,
+    "gn:longitude":56.16772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290747
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"6f88cf5e148815f0c2d05b94598a7950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310106823,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1310106823,
+    "wof:lastmodified":1536993739,
+    "wof:name":"Sinnah",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.16772,
+    25.50868,
+    56.16772,
+    25.50868
+],
+  "geometry": {"coordinates":[56.16772,25.50868],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1277083925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.60715,23.09525,53.60715,23.09525",
+    "geom:latitude":23.09525,
+    "geom:longitude":53.60715,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hamarur",
+    "gn:country_code":"AE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291996,
+    "gn:latitude":23.09525,
+    "gn:longitude":53.60715,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u1e28amar\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28amar\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291996
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"f8227cb58bb245857cf0393f8d5c9c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1277083925,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1277083925,
+    "wof:lastmodified":1537578732,
+    "wof:name":"Hamarur",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.60715,
+    23.09525,
+    53.60715,
+    23.09525
+],
+  "geometry": {"coordinates":[53.60715,23.09525],"type":"Point"}
+}

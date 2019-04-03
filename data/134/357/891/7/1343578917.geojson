@@ -1,0 +1,72 @@
+{
+  "id": 1343578917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.76347,24.05399,53.76347,24.05399",
+    "geom:latitude":24.05399,
+    "geom:longitude":53.76347,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tarif",
+    "gn:country_code":"AE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290681,
+    "gn:latitude":24.05399,
+    "gn:longitude":53.76347,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0162ar\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162ar\u012bf",
+        "Taraif",
+        "Al-Tar\u012bf",
+        "A\u0163 \u0162urayf",
+        "\u0162ar\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290681
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"c40009a908f26040538cd1e67a6ff6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343578917,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1343578917,
+    "wof:lastmodified":1537579939,
+    "wof:name":"Tarif",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.76347,
+    24.05399,
+    53.76347,
+    24.05399
+],
+  "geometry": {"coordinates":[53.76347,24.05399],"type":"Point"}
+}

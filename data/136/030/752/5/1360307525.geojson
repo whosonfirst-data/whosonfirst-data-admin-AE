@@ -1,0 +1,67 @@
+{
+  "id": 1360307525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35435,25.26089,56.35435,25.26089",
+    "geom:latitude":25.26089,
+    "geom:longitude":56.35435,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Girath",
+    "gn:country_code":"AE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019328,
+    "gn:latitude":25.26089,
+    "gn:longitude":56.35435,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Girath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019328
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"de976bd3b0fd913a3d7c7bb7452e22a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":1360307525,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1360307525,
+    "wof:lastmodified":1548974133,
+    "wof:name":"Girath",
+    "wof:parent_id":1376833611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35435,
+    25.26089,
+    56.35435,
+    25.26089
+],
+  "geometry": {"coordinates":[56.35435,25.26089],"type":"Point"}
+}

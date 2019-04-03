@@ -1,0 +1,70 @@
+{
+  "id": 1226466397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.3047,25.60151,56.3047,25.60151",
+    "geom:latitude":25.60151,
+    "geom:longitude":56.3047,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Kubus",
+    "gn:country_code":"AE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292808,
+    "gn:latitude":25.60151,
+    "gn:longitude":56.3047,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Kub\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kub\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292808
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"afc03680ae0d14032fa41cffe151df58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":1226466397,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1226466397,
+    "wof:lastmodified":1548974135,
+    "wof:name":"Al Kubus",
+    "wof:parent_id":1376833611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.3047,
+    25.60151,
+    56.3047,
+    25.60151
+],
+  "geometry": {"coordinates":[56.3047,25.60151],"type":"Point"}
+}

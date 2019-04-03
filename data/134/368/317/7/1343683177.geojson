@@ -1,0 +1,71 @@
+{
+  "id": 1343683177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5908,25.49242,55.5908,25.49242",
+    "geom:latitude":25.49242,
+    "geom:longitude":55.5908,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"As Salamah",
+    "gn:country_code":"AE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8052062,
+    "gn:latitude":25.49242,
+    "gn:longitude":55.5908,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"As Salamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052062
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"eedd6769af16a49e35c7eaeb292247be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343683177,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1343683177,
+    "wof:lastmodified":1548974023,
+    "wof:name":"As Salamah",
+    "wof:parent_id":85667955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826551
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5908,
+    25.49242000000001,
+    55.5908,
+    25.49242000000001
+],
+  "geometry": {"coordinates":[55.5908,25.49242000000001],"type":"Point"}
+}

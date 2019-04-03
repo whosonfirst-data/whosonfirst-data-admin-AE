@@ -1,0 +1,71 @@
+{
+  "id": 1376826567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.36767,24.49424,54.36767,24.49424",
+    "geom:latitude":24.49424,
+    "geom:longitude":54.36767,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mariah United Group",
+    "gn:country_code":"AE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8030638,
+    "gn:latitude":24.49424,
+    "gn:longitude":54.36767,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Al Mariah United Group",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421179641,
+        421172075,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030638
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"619d946781a9cbac16f00b9970d7a4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":1376826567,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1376826567,
+    "wof:lastmodified":1548974157,
+    "wof:name":"Al Mariah United Group",
+    "wof:parent_id":421179641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360299203
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.36767,
+    24.49424,
+    54.36767,
+    24.49424
+],
+  "geometry": {"coordinates":[54.36767,24.49424],"type":"Point"}
+}

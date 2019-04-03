@@ -1,0 +1,72 @@
+{
+  "id": 1210034101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.31016,22.94082,54.31016,22.94082",
+    "geom:latitude":22.94082,
+    "geom:longitude":54.31016,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jurayrah",
+    "gn:country_code":"AE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291774,
+    "gn:latitude":22.94082,
+    "gn:longitude":54.31016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jurayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jeraira",
+        "Jereirah",
+        "Jurayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        1376826403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291774
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"44e312665d051228a52a23df4a8f75c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826403,
+            "locality_id":1210034101,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1210034101,
+    "wof:lastmodified":1548974037,
+    "wof:name":"Jurayrah",
+    "wof:parent_id":1376826403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.31016,
+    22.94082,
+    54.31016,
+    22.94082
+],
+  "geometry": {"coordinates":[54.31016,22.94082],"type":"Point"}
+}

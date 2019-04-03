@@ -1,0 +1,121 @@
+{
+  "id": 421183741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27291,25.61955,56.27291,25.61955",
+    "geom:latitude":25.61955,
+    "geom:longitude":56.27291,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u1e28i\u015fn Dib\u0101"
+    ],
+    "name:ara_x_variant":[
+        "Dib\u0101",
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Emirat de Diba"
+    ],
+    "name:dut_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
+    "name:eng_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
+    "name:ger_x_preferred":[
+        "Dibba"
+    ],
+    "name:ita_x_preferred":[
+        "Dib\u0101"
+    ],
+    "name:nno_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0431\u0431\u0430 \u0410\u043b\u044c-\u0425\u0438\u0441\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dibba al-Hisn"
+    ],
+    "name:tgl_x_preferred":[
+        "Dibba"
+    ],
+    "name:unk_x_variant":[
+        "Dibah"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":292239,
+    "qs:gn_pop":26395,
+    "qs:name":"\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0647",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0645\u0633\u0646\u062f\u0645",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":983801,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":55926641,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977,
+        1376826387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292239,
+        "gp:id":55926641,
+        "qs:id":983801,
+        "wd:id":"Q6742405",
+        "wk:page":"Dibba Al-Hisn"
+    },
+    "wof:country":"AE",
+    "wof:created":1459009381,
+    "wof:geomhash":"e139c1a5e054bec057b641913e0a4c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826387,
+            "locality_id":421183741,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":421183741,
+    "wof:lastmodified":1548974954,
+    "wof:name":"\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0647",
+    "wof:parent_id":1376826387,
+    "wof:placetype":"locality",
+    "wof:population":26395,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27291,
+    25.61955,
+    56.27291,
+    25.61955
+],
+  "geometry": {"coordinates":[56.27291,25.61955],"type":"Point"}
+}

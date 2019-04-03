@@ -1,0 +1,114 @@
+{
+  "id": 421192959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.88157,25.28812,55.88157,25.28812",
+    "geom:latitude":25.28812,
+    "geom:longitude":55.88157,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0630\u064a\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Dhaid"
+    ],
+    "name:chi_x_preferred":[
+        "\u9054\u4f0a\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Dhaid"
+    ],
+    "name:eng_x_preferred":[
+        "Dhaid"
+    ],
+    "name:nno_x_preferred":[
+        "Dhaid"
+    ],
+    "name:per_x_preferred":[
+        "\u0630\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zajd"
+    ],
+    "name:swe_x_preferred":[
+        "Adh Dhayd"
+    ],
+    "name:unk_x_variant":[
+        "Dhaid"
+    ],
+    "name:urd_x_preferred":[
+        "\u0630\u06cc\u062f"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":292953,
+    "qs:gn_pop":24716,
+    "qs:name":"\u0627\u0644\u0630\u064a\u062f",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0627\u0631\u0642\u0629",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":78,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1221265,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":1940331,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667955,
+        1376833609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292953,
+        "gp:id":1940331,
+        "qs:id":1221265,
+        "wd:id":"Q3492826",
+        "wk:page":"Dhaid"
+    },
+    "wof:country":"AE",
+    "wof:created":1459009754,
+    "wof:geomhash":"9518a691c3990095c3d75bf89af404ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":421192959,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":421192959,
+    "wof:lastmodified":1548974131,
+    "wof:name":"\u0627\u0644\u0630\u064a\u062f",
+    "wof:parent_id":1376833609,
+    "wof:placetype":"locality",
+    "wof:population":24716,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.88157,
+    25.28812,
+    55.88157,
+    25.28812
+],
+  "geometry": {"coordinates":[55.88157,25.28812],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310127279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.28013,25.26822,56.28013,25.26822",
+    "geom:latitude":25.26822,
+    "geom:longitude":56.28013,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nahwah",
+    "gn:country_code":"AE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291265,
+    "gn:latitude":25.26822,
+    "gn:longitude":56.28013,
+    "gn:modification_date":"2017-10-23",
+    "gn:name":"Na\u1e29wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nahawa",
+        "Nahw\u00e1",
+        "Na\u1e29wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977,
+        85632207,
+        85675709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291265,
+        "wk:page":"Nahwa"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"b58991d2d3cd1b23e75a73222a7d354d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310127279,
+            "region_id":85667977
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1310127279,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310127279,
+    "wof:lastmodified":1537579940,
+    "wof:name":"Nahwah",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.28013000000001,
+    25.26822,
+    56.28013000000001,
+    25.26822
+],
+  "geometry": {"coordinates":[56.28013000000001,25.26822],"type":"Point"}
+}

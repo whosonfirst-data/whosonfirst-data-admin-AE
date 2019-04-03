@@ -1,0 +1,70 @@
+{
+  "id": 1226540455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.24205,25.1842,56.24205,25.1842",
+    "geom:latitude":25.1842,
+    "geom:longitude":56.24205,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sa'if",
+    "gn:country_code":"AE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290956,
+    "gn:latitude":25.1842,
+    "gn:longitude":56.24205,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u0101\u2019if",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u0101\u2019if"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290956
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"2668bcd6b6d70bc76b13a886e0163e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":1226540455,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1226540455,
+    "wof:lastmodified":1548974135,
+    "wof:name":"Sa'if",
+    "wof:parent_id":1376833611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.24205,
+    25.1842,
+    56.24205,
+    25.1842
+],
+  "geometry": {"coordinates":[56.24205,25.1842],"type":"Point"}
+}

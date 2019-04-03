@@ -1,0 +1,70 @@
+{
+  "id": 1310222635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2114,24.29801,53.2114,24.29801",
+    "geom:latitude":24.29801,
+    "geom:longitude":53.2114,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Fiyay",
+    "gn:country_code":"AE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292880,
+    "gn:latitude":24.29801,
+    "gn:longitude":53.2114,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al F\u012byay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Fiyy\u00e1",
+        "Al Fuyay\u2019",
+        "Al F\u012byay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292880
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d5ac9794f60dfda58e377f6a474ca3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1310222635,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1310222635,
+    "wof:lastmodified":1537579946,
+    "wof:name":"Al Fiyay",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2114,
+    24.29801,
+    53.2114,
+    24.29801
+],
+  "geometry": {"coordinates":[53.2114,24.29801],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326824771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.85619,25.36585,55.85619,25.36585",
+    "geom:latitude":25.36585,
+    "geom:longitude":55.85619,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Uwaynat",
+    "gn:country_code":"AE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292630,
+    "gn:latitude":25.36585,
+    "gn:longitude":55.85619,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"\u2018Uwayn\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Aw\u0101n\u0101t",
+        "\u2018Uwayn\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292630,
+        "wk:page":"Awanat,_Umm_al-Quwain"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"a5e474fa0114441ca95d410a6f01b868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1326824771,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1326824771,
+    "wof:lastmodified":1537579943,
+    "wof:name":"`Uwaynat",
+    "wof:parent_id":85667955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.85619000000001,
+    25.36585,
+    55.85619000000001,
+    25.36585
+],
+  "geometry": {"coordinates":[55.85619000000001,25.36585],"type":"Point"}
+}

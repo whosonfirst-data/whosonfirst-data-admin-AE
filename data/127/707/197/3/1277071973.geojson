@@ -1,0 +1,73 @@
+{
+  "id": 1277071973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35464,25.39258,56.35464,25.39258",
+    "geom:latitude":25.39258,
+    "geom:longitude":56.35464,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lulayyah",
+    "gn:country_code":"AE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291598,
+    "gn:latitude":25.39258,
+    "gn:longitude":56.35464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u016blayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u016blaiyah",
+        "Lu\u2019lu\u2019\u012byah",
+        "L\u016bliyyah",
+        "Luluya",
+        "L\u016blayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291598,
+        "wk:page":"Lulayyah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"505794bd67649c3de1aa78a786e35a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1277071973,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1277071973,
+    "wof:lastmodified":1537579941,
+    "wof:name":"Lulayyah",
+    "wof:parent_id":85667977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35464,
+    25.39258,
+    56.35464,
+    25.39258
+],
+  "geometry": {"coordinates":[56.35464,25.39258],"type":"Point"}
+}

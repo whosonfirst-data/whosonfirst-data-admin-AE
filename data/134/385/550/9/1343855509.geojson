@@ -1,0 +1,72 @@
+{
+  "id": 1343855509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.36667,25.35,55.36667,25.35",
+    "geom:latitude":25.35,
+    "geom:longitude":55.36667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Jazirah",
+    "gn:country_code":"AE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292833,
+    "gn:latitude":25.35,
+    "gn:longitude":55.36667,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Al Jaz\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Al Jaz\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292833,
+        "wk:page":"Al_Jazirah,_Sharjah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"89931412bc5a1b2635183b5a90edd88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1343855509,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1343855509,
+    "wof:lastmodified":1548974025,
+    "wof:name":"Al Jazirah",
+    "wof:parent_id":85667977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[
+        1376826555
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.36666999999999,
+    25.35,
+    55.36666999999999,
+    25.35
+],
+  "geometry": {"coordinates":[55.36666999999999,25.35],"type":"Point"}
+}

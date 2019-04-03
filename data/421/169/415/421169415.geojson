@@ -1,0 +1,84 @@
+{
+  "id": 421169415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.37136,24.46488,54.37136,24.46488",
+    "geom:latitude":24.46488,
+    "geom:longitude":54.37136,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0627\u0645\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al Kar\u0101mah"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":8053994,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0643\u0631\u0627\u0645\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1198285,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":55872805,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421179641,
+        421172075,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8053994,
+        "gp:id":55872805,
+        "qs:id":1198285
+    },
+    "wof:country":"AE",
+    "wof:created":1459008809,
+    "wof:geomhash":"5ba32611a6a9bf9b9cf1fb3005035391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":421169415,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":421169415,
+    "wof:lastmodified":1548974154,
+    "wof:name":"\u0627\u0644\u0643\u0631\u0627\u0645\u0629",
+    "wof:parent_id":421179641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.37136,
+    24.46488,
+    54.37136,
+    24.46488
+],
+  "geometry": {"coordinates":[54.37136,24.46488],"type":"Point"}
+}

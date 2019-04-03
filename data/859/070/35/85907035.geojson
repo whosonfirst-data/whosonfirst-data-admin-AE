@@ -1,0 +1,102 @@
+{
+  "id": 85907035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.370519,25.263355,55.370519,25.263355",
+    "geom:latitude":25.263355,
+    "geom:longitude":55.370519,
+    "gn:id":"",
+    "iso:country":"AE",
+    "lbl:latitude":25.263355,
+    "lbl:longitude":55.370519,
+    "mps:latitude":25.26789,
+    "mps:longitude":55.372296,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u0631 1"
+    ],
+    "name:eng_x_preferred":[
+        "Al Twar"
+    ],
+    "name:eng_x_variant":[
+        "Al Twar 1",
+        "Al Twar"
+    ],
+    "name:ind_x_preferred":[
+        "Al Twar"
+    ],
+    "name:ita_x_preferred":[
+        "Al Twar"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u0631 1"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724545,
+        "qs:id":8168,
+        "qs_pg:id":8168,
+        "wd:id":"Q4117471"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"162cd04cd97fae8ad187f79a97104565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":85907035,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":85907035,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974106,
+    "wof:name":"\u0627\u0644\u0637\u0648\u0627\u0631 1",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.370519,
+    25.263355,
+    55.370519,
+    25.263355
+],
+  "geometry": {"coordinates":[55.370519,25.263355],"type":"Point"}
+}

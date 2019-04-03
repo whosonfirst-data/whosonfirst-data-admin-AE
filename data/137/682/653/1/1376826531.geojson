@@ -1,0 +1,80 @@
+{
+  "id": 1376826531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.73989,24.219,55.73989,24.219",
+    "geom:latitude":24.219,
+    "geom:longitude":55.73989,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mu`tarad",
+    "gn:country_code":"AE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292777,
+    "gn:latitude":24.219,
+    "gn:longitude":55.73989,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Mu\u2018tara\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Mutarad",
+        "Al Mu\u2018taridh",
+        "Mutaradh",
+        "Mu\u2018tara\u1e11",
+        "Ma\u2019ataradh",
+        "Ma\u2019ataridh",
+        "Al Mu\u2018tara\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292777
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"23c6a07cd69381878e36f53b3d54938d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1376826531,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1376826531,
+    "wof:lastmodified":1548974182,
+    "wof:name":"Al Mu`tarad",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310219189
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.73989,
+    24.219,
+    55.73989,
+    24.219
+],
+  "geometry": {"coordinates":[55.73989,24.219],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85930501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.372874,24.511301,54.372874,24.511301",
+    "geom:latitude":24.511301,
+    "geom:longitude":54.372874,
+    "gn:id":"",
+    "iso:country":"AE",
+    "lbl:latitude":24.511301,
+    "lbl:longitude":54.372874,
+    "mps:latitude":24.516818,
+    "mps:longitude":54.372447,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0646\u064a\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Corniche"
+    ],
+    "name:eng_x_variant":[
+        "Corniche"
+    ],
+    "name:unk_x_variant":[
+        "\u0643\u0648\u0631\u0646\u064a\u0634"
+    ],
+    "qs:gn_adm0_cc":"AE",
+    "qs:gn_id":0,
+    "qs:gn_local":292968,
+    "qs:gn_nam_loc":"\u0623\u0628\u0648\u0638\u0628\u064a, \u0623\u0628\u0648\u0638\u0628\u064a, \u0623\u0628\u0648\u0638\u0628\u064a, AE",
+    "qs:gn_namadm1":"01",
+    "qs:local_max":3156,
+    "qs:local_sum":8910,
+    "qs:localhoods":17,
+    "qs:name":"\u0643\u0648\u0631\u0646\u064a\u0634",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:name_adm2":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:name_en":"Corniche",
+    "qs:name_local":"\u0623\u0628\u0648\u0638\u0628\u064a",
+    "qs:photo_max":66,
+    "qs:photo_sum":202,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424738,
+    "qs:woe_adm1":2347109,
+    "qs:woe_adm2":55922608,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940330,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421179641,
+        421172075,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55872775,
+        "qs:id":218236,
+        "qs_pg:id":218236
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d3cdcea9a0c0af2faa6b93263f18294e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":85930501,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":85930501,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974156,
+    "wof:name":"\u0643\u0648\u0631\u0646\u064a\u0634",
+    "wof:parent_id":421179641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.372874,
+    24.511301,
+    54.372874,
+    24.511301
+],
+  "geometry": {"coordinates":[54.372874,24.511301],"type":"Point"}
+}

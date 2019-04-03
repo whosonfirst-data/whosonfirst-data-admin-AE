@@ -1,0 +1,78 @@
+{
+  "id": 1376826477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.01088,25.8178,56.01088,25.8178",
+    "geom:latitude":25.8178,
+    "geom:longitude":56.01088,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Shimal",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290795,
+    "gn:latitude":25.8178,
+    "gn:longitude":56.01088,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shim\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Shim\u0101l"
+    ],
+    "name:und_x_variant":[
+        "Shimil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290795,
+        "wk:page":"Shimal"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"d3d8472d86386487e5bac0d1ac4e5549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1376826477,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1376826477,
+    "wof:lastmodified":1548974126,
+    "wof:name":"Shimal",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243195091
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.01088000000001,
+    25.8178,
+    56.01088000000001,
+    25.8178
+],
+  "geometry": {"coordinates":[56.01088000000001,25.8178],"type":"Point"}
+}

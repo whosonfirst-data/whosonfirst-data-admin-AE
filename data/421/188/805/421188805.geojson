@@ -1,0 +1,100 @@
+{
+  "id": 421188805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45555,25.3334,55.45555,25.3334",
+    "geom:latitude":25.3334,
+    "geom:longitude":55.45555,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0641\u0627\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kifaf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0641\u0627\u0641"
+    ],
+    "name:ind_x_preferred":[
+        "Al Kifaf"
+    ],
+    "name:ita_x_preferred":[
+        "Al Kifaf"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06a9\u0641\u0627\u0641"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":6691129,
+    "qs:gn_pop":0,
+    "qs:name":"Al Kifaf",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u062f\u0628\u064a",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104188,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":55872740,
+    "src:geom":"quattroshapes",
+    "wd:latitude":25.235322,
+    "wd:longitude":55.296506,
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168683,
+        421171391,
+        85667977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691129,
+        "gp:id":55872740,
+        "qs:id":1104188,
+        "wd:id":"Q4117130"
+    },
+    "wof:country":"AE",
+    "wof:created":1459009579,
+    "wof:geomhash":"6da6b0b66bec2dd2a654de010d708e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":421188805,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":421188805,
+    "wof:lastmodified":1548974150,
+    "wof:name":"Al Kifaf",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45555,
+    25.3334,
+    55.45555,
+    25.3334
+],
+  "geometry": {"coordinates":[55.45555,25.3334],"type":"Point"}
+}

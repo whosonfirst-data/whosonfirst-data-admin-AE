@@ -1,0 +1,70 @@
+{
+  "id": 1276562121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.33069,24.29457,53.33069,24.29457",
+    "geom:latitude":24.29457,
+    "geom:longitude":53.33069,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marawwah",
+    "gn:country_code":"AE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291517,
+    "gn:latitude":24.29457,
+    "gn:longitude":53.33069,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marawwa\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murawwa\u1e29",
+        "Marawa\u1e29",
+        "Marawwa\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291517
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"8f9c386615589d305234bd39d0966061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1276562121,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1276562121,
+    "wof:lastmodified":1537579941,
+    "wof:name":"Marawwah",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.33069,
+    24.29457,
+    53.33069,
+    24.29457
+],
+  "geometry": {"coordinates":[53.33069,24.29457],"type":"Point"}
+}

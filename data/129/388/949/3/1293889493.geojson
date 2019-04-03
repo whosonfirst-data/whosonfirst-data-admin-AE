@@ -1,0 +1,71 @@
+{
+  "id": 1293889493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.34546,25.55481,56.34546,25.55481",
+    "geom:latitude":25.55481,
+    "geom:longitude":56.34546,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rul Dadna",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291035,
+    "gn:latitude":25.55481,
+    "gn:longitude":56.34546,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u016bl \u1e10adn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rul Dhadna",
+        "R\u016bl \u1e10adnah",
+        "Rol \u1e0cadnah",
+        "R\u016bl \u1e10adn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291035
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"40d6e8a4459837962dfe3b1899fe804b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1293889493,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1293889493,
+    "wof:lastmodified":1537579939,
+    "wof:name":"Rul Dadna",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.34546,
+    25.55481,
+    56.34546,
+    25.55481
+],
+  "geometry": {"coordinates":[56.34546,25.55481],"type":"Point"}
+}

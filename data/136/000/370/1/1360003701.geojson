@@ -1,0 +1,72 @@
+{
+  "id": 1360003701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.53333,23.06667,53.53333,23.06667",
+    "geom:latitude":23.06667,
+    "geom:longitude":53.53333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Milqatah",
+    "gn:cc2":"AE",
+    "gn:country_code":"AE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291443,
+    "gn:latitude":23.06667,
+    "gn:longitude":53.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Milqa\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milqata",
+        "Milqa\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        1376826403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291443
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"56fe27234fed0f13f65b683addadd63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826403,
+            "locality_id":1360003701,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1360003701,
+    "wof:lastmodified":1548974037,
+    "wof:name":"Milqatah",
+    "wof:parent_id":1376826403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.53333000000001,
+    23.06667,
+    53.53333000000001,
+    23.06667
+],
+  "geometry": {"coordinates":[53.53333000000001,23.06667],"type":"Point"}
+}

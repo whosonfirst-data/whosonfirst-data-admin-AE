@@ -1,0 +1,70 @@
+{
+  "id": 1293783151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.80772,25.7091,55.80772,25.7091",
+    "geom:latitude":25.7091,
+    "geom:longitude":55.80772,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Jazirah al Hamra'",
+    "gn:country_code":"AE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291794,
+    "gn:latitude":25.7091,
+    "gn:longitude":55.80772,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Al Jaz\u012brah al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamra",
+        "Al \u1e28amr\u0101\u2019",
+        "Al Jaz\u012brah al \u1e28amr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291794,
+        "wk:page":"Al_Jazirah_Al_Hamra"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"7c22aa145c7abb0983da612d9addf2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1293783151,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293783151,
+    "wof:lastmodified":1537579942,
+    "wof:name":"Al Jazirah al Hamra'",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.80772,
+    25.7091,
+    55.80772,
+    25.7091
+],
+  "geometry": {"coordinates":[55.80772,25.7091],"type":"Point"}
+}

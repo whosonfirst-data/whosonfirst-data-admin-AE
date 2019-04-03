@@ -1,0 +1,78 @@
+{
+  "id": 421169197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4413,25.41335,55.4413,25.41335",
+    "geom:latitude":25.41335,
+    "geom:longitude":55.4413,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":6691212,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0639\u0648\u0627\u0646",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0639\u062c\u0645\u0627\u0646",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1199205,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":55872421,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1126024975,
+        1376833607,
+        85667969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691212,
+        "gp:id":55872421,
+        "qs:id":1199205
+    },
+    "wof:country":"AE",
+    "wof:created":1459008799,
+    "wof:geomhash":"0069cb9c0a24e30351fe264add3be092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833607,
+            "locality_id":1126024975,
+            "neighbourhood_id":421169197,
+            "region_id":85667969
+        }
+    ],
+    "wof:id":421169197,
+    "wof:lastmodified":1548974129,
+    "wof:name":"\u0627\u0644\u0639\u0648\u0627\u0646",
+    "wof:parent_id":1126024975,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4413,
+    25.41335,
+    55.4413,
+    25.41335
+],
+  "geometry": {"coordinates":[55.4413,25.41335],"type":"Point"}
+}

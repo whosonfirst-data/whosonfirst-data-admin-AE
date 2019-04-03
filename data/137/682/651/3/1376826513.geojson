@@ -1,0 +1,72 @@
+{
+  "id": 1376826513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.95,25.68333,55.95,25.68333",
+    "geom:latitude":25.68333,
+    "geom:longitude":55.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Masafirah",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412497,
+    "gn:latitude":25.68333,
+    "gn:longitude":55.95,
+    "gn:modification_date":"1998-04-17",
+    "gn:name":"Al Mas\u0101firah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412497,
+        "wk:page":"Al_Masafirah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"e01e505090119ccc6e6774c98d552d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1376826513,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1376826513,
+    "wof:lastmodified":1548974126,
+    "wof:name":"Al Masafirah",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293906271
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.95,
+    25.68333,
+    55.95,
+    25.68333
+],
+  "geometry": {"coordinates":[55.95,25.68333],"type":"Point"}
+}

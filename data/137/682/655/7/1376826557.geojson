@@ -1,0 +1,75 @@
+{
+  "id": 1376826557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.96389,25.68611,55.96389,25.68611",
+    "geom:latitude":25.68611,
+    "geom:longitude":55.96389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ham Ham",
+    "gn:country_code":"AE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412513,
+    "gn:latitude":25.68611,
+    "gn:longitude":55.96389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28\u0101m \u1e28\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101m \u1e28\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412513,
+        "wk:page":"Ham_Ham"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"2aa526bf71466e701464558e82962e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1376826557,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1376826557,
+    "wof:lastmodified":1548974127,
+    "wof:name":"Ham Ham",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343857259
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.96389,
+    25.68611,
+    55.96389,
+    25.68611
+],
+  "geometry": {"coordinates":[55.96389,25.68611],"type":"Point"}
+}

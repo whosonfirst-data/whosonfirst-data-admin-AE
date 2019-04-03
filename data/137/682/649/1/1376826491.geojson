@@ -1,0 +1,76 @@
+{
+  "id": 1376826491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.01862,25.87658,56.01862,25.87658",
+    "geom:latitude":25.87658,
+    "geom:longitude":56.01862,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ar Rams",
+    "gn:country_code":"AE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292692,
+    "gn:latitude":25.87658,
+    "gn:longitude":56.01862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ar Rams",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Rams",
+        "Ar Rams"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292692,
+        "wk:page":"Ar-Rams"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"fa45a43f9fe88b782a44fe40fcda320c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1376826491,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1376826491,
+    "wof:lastmodified":1548974126,
+    "wof:name":"Ar Rams",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260002399
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.01862,
+    25.87658,
+    56.01862,
+    25.87658
+],
+  "geometry": {"coordinates":[56.01862,25.87658],"type":"Point"}
+}

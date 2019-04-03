@@ -1,0 +1,67 @@
+{
+  "id": 1243381243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.81,23.8425,52.81,23.8425",
+    "geom:latitude":23.8425,
+    "geom:longitude":52.81,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ghayathi",
+    "gn:country_code":"AE",
+    "gn:dem":75,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048854,
+    "gn:latitude":23.8425,
+    "gn:longitude":52.81,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Ghayathi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048854,
+        "wk:page":"Ghayathi"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"69919502b97654200f33e3fb9269b8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1243381243,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1243381243,
+    "wof:lastmodified":1537485217,
+    "wof:name":"Ghayathi",
+    "wof:parent_id":85667981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.81,
+    23.8425,
+    52.81,
+    23.8425
+],
+  "geometry": {"coordinates":[52.81,23.8425],"type":"Point"}
+}

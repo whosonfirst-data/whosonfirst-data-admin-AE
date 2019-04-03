@@ -1,0 +1,80 @@
+{
+  "id": 1376826535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.74582,24.24914,55.74582,24.24914",
+    "geom:latitude":24.24914,
+    "geom:longitude":55.74582,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Qimi",
+    "gn:country_code":"AE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292766,
+    "gn:latitude":24.24914,
+    "gn:longitude":55.74582,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Q\u012bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al Q\u012bm\u012b"
+    ],
+    "name:und_x_variant":[
+        "Jimi",
+        "Al Qima",
+        "Al J\u012bm\u012b",
+        "Al J\u012bma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292766
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"e495a44fcd7a45896c46cae3ac75dd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1376826535,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1376826535,
+    "wof:lastmodified":1548974183,
+    "wof:name":"Al Qimi",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310409735
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.74582,
+    24.24914,
+    55.74582,
+    24.24914
+],
+  "geometry": {"coordinates":[55.74582,24.24914],"type":"Point"}
+}

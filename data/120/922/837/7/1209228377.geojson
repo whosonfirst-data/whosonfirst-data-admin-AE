@@ -1,0 +1,67 @@
+{
+  "id": 1209228377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.75606,24.51926,55.75606,24.51926",
+    "geom:latitude":24.51926,
+    "geom:longitude":55.75606,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Qaia",
+    "gn:country_code":"AE",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292770,
+    "gn:latitude":24.51926,
+    "gn:longitude":55.75606,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Qaia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        421200931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292770
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"7f2597820b41512eb5146fa19d5a5e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":1209228377,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1209228377,
+    "wof:lastmodified":1548974181,
+    "wof:name":"Al Qaia",
+    "wof:parent_id":421200931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.75606,
+    24.51926,
+    55.75606,
+    24.51926
+],
+  "geometry": {"coordinates":[55.75606,24.51926],"type":"Point"}
+}

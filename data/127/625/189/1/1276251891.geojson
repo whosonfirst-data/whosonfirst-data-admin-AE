@@ -1,0 +1,66 @@
+{
+  "id": 1276251891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.11457,25.42871,56.11457,25.42871",
+    "geom:latitude":25.42871,
+    "geom:longitude":56.11457,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mawrid",
+    "gn:country_code":"AE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389992,
+    "gn:latitude":25.42871,
+    "gn:longitude":56.11457,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mawrid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389992,
+        "wk:page":"Mawrid"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"1cc7224b41582f1f02ad6c3c1e228b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1276251891,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1276251891,
+    "wof:lastmodified":1537485215,
+    "wof:name":"Mawrid",
+    "wof:parent_id":85667959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.11456999999999,
+    25.42871,
+    56.11456999999999,
+    25.42871
+],
+  "geometry": {"coordinates":[56.11456999999999,25.42871],"type":"Point"}
+}

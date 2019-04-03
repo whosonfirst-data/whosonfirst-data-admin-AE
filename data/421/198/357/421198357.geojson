@@ -1,0 +1,87 @@
+{
+  "id": 421198357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.30323,25.27139,55.30323,25.27139",
+    "geom:latitude":25.27139,
+    "geom:longitude":55.30323,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "N\u0101yf"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0627\u064a\u0641"
+    ],
+    "name:unk_x_variant":[
+        "Naif"
+    ],
+    "qs:gn_country":"AE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":8226485,
+    "qs:gn_pop":0,
+    "qs:name":"\u0646\u0627\u064a\u0641",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u062f\u0628\u064a",
+    "qs:photos":672,
+    "qs:photos_1k":136,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":672,
+    "qs:photos_sr":8,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1199255,
+    "qs:woe_adm0":23424738,
+    "qs:woe_id":55872640,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226485,
+        "gp:id":55872640,
+        "qs:id":1199255
+    },
+    "wof:country":"AE",
+    "wof:created":1459009945,
+    "wof:geomhash":"85c6252cdc227760f429a0d7b3a46bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":421198357,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":421198357,
+    "wof:lastmodified":1548974104,
+    "wof:name":"\u0646\u0627\u064a\u0641",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.30323,
+    25.27139,
+    55.30323,
+    25.27139
+],
+  "geometry": {"coordinates":[55.30323,25.27139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243176811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.01256,25.46012,56.01256,25.46012",
+    "geom:latitude":25.46012,
+    "geom:longitude":56.01256,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Adhan",
+    "gn:country_code":"AE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":291840,
+    "gn:latitude":25.46012,
+    "gn:longitude":56.01256,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Adhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idhn",
+        "Adhin",
+        "Adhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":291840,
+        "wk:page":"Adhan,_Ras_al-Khaimah"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"4a29de5d701c0483bec3f08b743a511d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "locality_id":1243176811,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1243176811,
+    "wof:lastmodified":1537579942,
+    "wof:name":"Adhan",
+    "wof:parent_id":85667951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.01256,
+    25.46012,
+    56.01256,
+    25.46012
+],
+  "geometry": {"coordinates":[56.01256,25.46012],"type":"Point"}
+}

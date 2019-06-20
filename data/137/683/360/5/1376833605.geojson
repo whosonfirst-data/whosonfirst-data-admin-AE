@@ -10,6 +10,13 @@
     "geom:latitude":25.455723,
     "geom:longitude":56.033426,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0631\u0627\u0633 \u0627\u0644\u062e\u064a\u0645\u0629",
+        "\u0631\u0623\u0633 \u0627\u0644\u062e\u064a\u0645\u0629"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Ras al Khaimah"
+    ],
     "lbl:latitude":25.694165,
     "lbl:longitude":55.977945,
     "mps:latitude":25.694165,
@@ -392,7 +399,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974127,
+    "wof:lastmodified":1561067881,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85667951,
     "wof:placetype":"county",

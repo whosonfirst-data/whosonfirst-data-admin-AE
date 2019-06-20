@@ -10,6 +10,12 @@
     "geom:latitude":25.089107,
     "geom:longitude":55.890176,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0645\u0644\u064a\u062d\u0629\n"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Mleeha"
+    ],
     "lbl:latitude":25.089853,
     "lbl:longitude":55.88322,
     "mps:latitude":25.089853,
@@ -47,7 +53,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974034,
+    "wof:lastmodified":1561067878,
     "wof:name":"Mleeha",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

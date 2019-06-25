@@ -10,6 +10,12 @@
     "geom:latitude":24.98632,
     "geom:longitude":56.268982,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0643\u0644\u0628\u0627\u0621\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Kalba"
+    ],
     "lbl:latitude":24.939939,
     "lbl:longitude":56.22558,
     "mps:latitude":24.939939,
@@ -47,7 +53,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974035,
+    "wof:lastmodified":1561067879,
     "wof:name":"Kalba",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

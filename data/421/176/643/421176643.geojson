@@ -10,13 +10,52 @@
     "geom:latitude":25.253523,
     "geom:longitude":55.915569,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0630\u064a\u062f"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Dhaid"
+    ],
     "lbl:latitude":25.234748,
     "lbl:longitude":55.909484,
     "mps:latitude":25.234748,
     "mps:longitude":55.909484,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0630\u064a\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Dhaid"
+    ],
+    "name:chi_x_preferred":[
+        "\u9054\u4f0a\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Dhaid"
+    ],
+    "name:eng_x_preferred":[
+        "Dhaid"
+    ],
+    "name:nno_x_preferred":[
+        "Dhaid"
+    ],
+    "name:per_x_preferred":[
+        "\u0630\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zajd"
+    ],
+    "name:swe_x_preferred":[
+        "Adh Dhayd"
+    ],
+    "name:unk_x_variant":[
+        "Dhaid"
+    ],
+    "name:urd_x_preferred":[
+        "\u0630\u06cc\u062f"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -63,8 +102,8 @@
         }
     ],
     "wof:id":421176643,
-    "wof:lastmodified":1548974162,
-    "wof:name":"\u0627\u0644\u0630\u064a\u062f",
+    "wof:lastmodified":1561067885,
+    "wof:name":"Dhaid",
     "wof:parent_id":85667977,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ae",

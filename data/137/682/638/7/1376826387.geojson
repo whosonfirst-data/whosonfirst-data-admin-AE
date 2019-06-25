@@ -10,6 +10,12 @@
     "geom:latitude":25.61713,
     "geom:longitude":56.269276,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646\n"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Dibba Al-Hisn"
+    ],
     "lbl:latitude":25.616672,
     "lbl:longitude":56.268101,
     "mps:latitude":25.616672,
@@ -47,7 +53,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974954,
+    "wof:lastmodified":1561067877,
     "wof:name":"Dibba Al-Hisn",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

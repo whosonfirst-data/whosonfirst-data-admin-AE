@@ -11,6 +11,12 @@
     "geom:longitude":55.371022,
     "gn:population":1141963,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u062f\u0628\u064a"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Dubai"
+    ],
     "lbl:latitude":24.891256,
     "lbl:longitude":55.348249,
     "mps:latitude":24.891256,
@@ -591,7 +597,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974120,
+    "wof:lastmodified":1561067881,
     "wof:name":"Dubai",
     "wof:parent_id":85667983,
     "wof:placetype":"county",

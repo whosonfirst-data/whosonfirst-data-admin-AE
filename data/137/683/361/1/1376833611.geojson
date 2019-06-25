@@ -11,6 +11,12 @@
     "geom:longitude":56.197444,
     "gn:population":113316,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Fujairah"
+    ],
     "lbl:latitude":25.488009,
     "lbl:longitude":56.237778,
     "mps:latitude":25.488009,
@@ -346,7 +352,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974137,
+    "wof:lastmodified":1561067883,
     "wof:name":"Fujairah",
     "wof:parent_id":85667959,
     "wof:placetype":"county",

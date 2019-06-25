@@ -10,6 +10,12 @@
     "geom:latitude":25.461758,
     "geom:longitude":55.55464,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0627\ufedf\ufea4\ufee4\ufeae\ufef3\ufe94\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Hamriya"
+    ],
     "lbl:latitude":25.462064,
     "lbl:longitude":55.55464,
     "mps:latitude":25.462064,
@@ -47,7 +53,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974036,
+    "wof:lastmodified":1561067880,
     "wof:name":"Al Hamriya",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

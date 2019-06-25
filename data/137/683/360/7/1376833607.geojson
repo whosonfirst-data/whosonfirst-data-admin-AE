@@ -11,6 +11,12 @@
     "geom:longitude":55.60629,
     "gn:population":234905,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0639\u062c\u0645\u0627\u0646"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Ajman"
+    ],
     "lbl:latitude":25.40703,
     "lbl:longitude":55.514075,
     "mps:latitude":25.40703,
@@ -361,7 +367,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974130,
+    "wof:lastmodified":1561067882,
     "wof:name":"Ajman",
     "wof:parent_id":85667969,
     "wof:placetype":"county",

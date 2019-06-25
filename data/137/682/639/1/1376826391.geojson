@@ -10,6 +10,12 @@
     "geom:latitude":25.194389,
     "geom:longitude":55.738141,
     "iso:country":"AE",
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0628\u0637\u0627\u0626\u062d\n"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Bataeh"
+    ],
     "lbl:latitude":25.191472,
     "lbl:longitude":55.735575,
     "mps:latitude":25.191472,
@@ -47,7 +53,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974033,
+    "wof:lastmodified":1561067878,
     "wof:name":"Al Bataeh",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

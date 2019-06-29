@@ -34,14 +34,14 @@
         "Al Twar 1",
         "Al Twar"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u0631"
+    ],
     "name:ind_x_preferred":[
         "Al Twar"
     ],
     "name:ita_x_preferred":[
         "Al Twar"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0637\u0648\u0627\u0631"
     ],
     "name:unk_x_variant":[
         "\u0627\u0644\u0637\u0648\u0627\u0631 1"
@@ -54,11 +54,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974106,
+    "wof:lastmodified":1561775384,
     "wof:name":"\u0627\u0644\u0637\u0648\u0627\u0631 1",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

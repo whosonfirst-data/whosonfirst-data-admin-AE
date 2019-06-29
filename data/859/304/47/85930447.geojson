@@ -34,14 +34,14 @@
         "Community 114",
         "Al Buteen"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u06cc\u0646"
+    ],
     "name:ind_x_preferred":[
         "Al Buteen"
     ],
     "name:ita_x_preferred":[
         "Al Buteen"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0628\u0637\u06cc\u0646"
     ],
     "name:unk_x_variant":[
         "\u0627\u0644\u0628\u0637\u064a\u0646"
@@ -54,11 +54,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974113,
+    "wof:lastmodified":1561775385,
     "wof:name":"\u0627\u0644\u0628\u0637\u064a\u0646",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

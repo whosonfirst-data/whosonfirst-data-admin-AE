@@ -27,16 +27,16 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0637\u0648\u0629"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Al Satwa"
     ],
     "name:eng_x_preferred":[
         "Al Satwa"
     ],
-    "name:fre_x_preferred":[
-        "Al Satwa"
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0637\u0648\u0629"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Al Satwa"
     ],
     "name:ind_x_preferred":[
@@ -48,8 +48,8 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30fb\u30b5\u30c8\u30ef"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0633\u0637\u0648\u0629"
+    "name:nld_x_preferred":[
+        "Al Satwa"
     ],
     "name:swe_x_preferred":[
         "Satwa"
@@ -62,11 +62,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974106,
+    "wof:lastmodified":1561775385,
     "wof:name":"\u0627\u0644\u0633\u0637\u0648\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

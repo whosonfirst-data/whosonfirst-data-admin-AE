@@ -34,12 +34,6 @@
     "name:ara_x_variant":[
         "\u2018Ajm\u0101n"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u057b\u0574\u0561\u0576\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Ajman"
-    ],
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u0410\u0434\u0436\u043c\u0430\u043d"
     ],
@@ -55,17 +49,17 @@
     "name:cat_x_preferred":[
         "Ajman"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5409\u66fc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ad\u017em\u00e1n"
     ],
     "name:dan_x_preferred":[
         "Ajman"
     ],
-    "name:dut_x_preferred":[
-        "Ajman"
+    "name:deu_x_preferred":[
+        "Adschman"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ajman"
@@ -80,29 +74,23 @@
     "name:est_x_preferred":[
         "\u2018Ajm\u0101ni emiraat"
     ],
+    "name:eus_x_preferred":[
+        "Ajman"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u062c\u0645\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Ajm\u0101n"
     ],
     "name:fra_x_preferred":[
         "Ajman"
     ],
-    "name:fre_x_preferred":[
-        "Ajman"
-    ],
     "name:frp_x_preferred":[
         "Adj\u00b7man"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ef\u10db\u10d0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Adschman"
-    ],
     "name:glg_x_preferred":[
         "Emirato de Ajman - \u0639\u062c\u0645\u0627\u0646"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03bc\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9c\u0aae\u0abe\u0aa8 \u0a85\u0aae\u0ac0\u0ab0\u0abe\u0aa4"
@@ -116,11 +104,14 @@
     "name:hrv_x_preferred":[
         "Ajman"
     ],
-    "name:ice_x_preferred":[
-        "Adsman"
+    "name:hye_x_preferred":[
+        "\u0531\u057b\u0574\u0561\u0576\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Ajman"
+    ],
+    "name:isl_x_preferred":[
+        "Adsman"
     ],
     "name:ita_x_preferred":[
         "Ajman"
@@ -130,6 +121,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0c9c\u0ccd\u0cae\u0cbe\u0ca8\u0ccd \u0c8e\u0cae\u0cbf\u0cb0\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ef\u10db\u10d0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0434\u0436\u043c\u0430\u043d"
@@ -155,11 +149,14 @@
     "name:mar_x_preferred":[
         "\u0905\u091c\u092e\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Ajman"
-    ],
     "name:mon_x_preferred":[
         "\u042d\u043c\u0438\u0440\u0442 \u0410\u0436\u043c\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Ajman"
+    ],
+    "name:nld_x_preferred":[
+        "Ajman"
     ],
     "name:nno_x_preferred":[
         "Emiratet Ajman"
@@ -169,9 +166,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a1c\u0a2e\u0a3e\u0a28"
-    ],
-    "name:per_x_preferred":[
-        "\u0639\u062c\u0645\u0627\u0646"
     ],
     "name:pms_x_preferred":[
         "Ajman"
@@ -185,7 +179,7 @@
     "name:por_x_preferred":[
         "Ajman"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ajman"
     ],
     "name:rus_x_preferred":[
@@ -197,7 +191,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0da2\u0dca\u0db8\u0db1\u0dca \u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ad\u017em\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -241,6 +235,9 @@
     ],
     "name:yor_x_preferred":[
         "Ajman"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5409\u66fc"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -367,7 +364,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561067882,
+    "wof:lastmodified":1561775390,
     "wof:name":"Ajman",
     "wof:parent_id":85667969,
     "wof:placetype":"county",

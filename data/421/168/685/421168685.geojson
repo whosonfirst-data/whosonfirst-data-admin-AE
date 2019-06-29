@@ -24,23 +24,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0582\u057b\u0565\u0575\u0580\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0424\u0443\u0434\u0436\u0435\u0439\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Fujairah"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fud\u017eajra"
     ],
     "name:deu_x_preferred":[
         "Fudschaira"
-    ],
-    "name:dut_x_preferred":[
-        "Fujairah"
     ],
     "name:eng_x_preferred":[
         "Fujairah"
@@ -54,14 +48,14 @@
     "name:fra_x_preferred":[
         "Fujairah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Fuja\u00efrah"
-    ],
-    "name:ger_x_preferred":[
-        "Fudschaira"
     ],
     "name:hun_x_preferred":[
         "Fudzsejra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u057b\u0565\u0575\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Fujairah"
@@ -84,7 +78,7 @@
     "name:pol_x_preferred":[
         "Fud\u017cajra"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fujairah"
     ],
     "name:rus_x_preferred":[
@@ -256,7 +250,7 @@
         }
     ],
     "wof:id":421168685,
-    "wof:lastmodified":1548974142,
+    "wof:lastmodified":1561775391,
     "wof:name":"Fujairah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

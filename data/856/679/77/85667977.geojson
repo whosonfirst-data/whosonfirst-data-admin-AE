@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":0.236073,
-    "geom:area_square_m":2642771287.045653,
+    "geom:area_square_m":2642771287.045531,
     "geom:bbox":"55.332451874,24.6908446311,56.381248474,25.6293072972",
     "geom:latitude":25.130196,
     "geom:longitude":55.800239,
@@ -39,14 +39,8 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0631\u0642\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0580\u056a\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
-    ],
     "name:aze_x_preferred":[
         "\u015earja"
-    ],
-    "name:baq_x_preferred":[
-        "Xarja"
     ],
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u0428\u0430\u0440\u0434\u0436\u0430"
@@ -63,17 +57,17 @@
     "name:cat_x_preferred":[
         "Xarjah"
     ],
-    "name:chi_x_preferred":[
-        "\u590f\u5c14\u8fe6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160ard\u017e\u00e1"
     ],
     "name:dan_x_preferred":[
         "Sharjah"
     ],
-    "name:dut_x_preferred":[
-        "Sharjah"
+    "name:deu_x_preferred":[
+        "Schardscha"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03c4\u03b6\u03ac\u03c7 \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b5 \u03bf\u03c6 \u03a3\u03b1\u03c1\u03c4\u03b6\u03ac\u03c7"
     ],
     "name:eng_x_preferred":[
         "Sharjah"
@@ -89,29 +83,23 @@
     "name:est_x_preferred":[
         "Ash-Sh\u0101riqah' emiraat"
     ],
+    "name:eus_x_preferred":[
+        "Xarja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0647"
+    ],
     "name:fin_x_preferred":[
         "\u0160ard\u017ea"
     ],
     "name:fra_x_preferred":[
         "Charjah"
     ],
-    "name:fre_x_preferred":[
-        "Charjah"
-    ],
     "name:frp_x_preferred":[
         "Ch\u00b7ardj\u00b7a"
     ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10e0\u10ef\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Schardscha"
-    ],
     "name:glg_x_preferred":[
         "Emirato de Sharjah"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03c4\u03b6\u03ac\u03c7 \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b5 \u03bf\u03c6 \u03a3\u03b1\u03c1\u03c4\u03b6\u03ac\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0ab0\u0a9c\u0abe\u0ab9 \u0a85\u0aae\u0ac0\u0ab0\u0abe\u0aa4"
@@ -125,6 +113,9 @@
     "name:hrv_x_preferred":[
         "Sharjah"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0580\u056a\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
     "name:ind_x_preferred":[
         "Sharjah"
     ],
@@ -136,6 +127,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb6\u0cbe\u0cb0\u0ccd\u0c9c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10ef\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ub974\uc790"
@@ -158,7 +152,10 @@
     "name:mar_x_preferred":[
         "\u0936\u093e\u0930\u091c\u093e \u0905\u092e\u0940\u0930\u093e\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sharjah"
+    ],
+    "name:nld_x_preferred":[
         "Sharjah"
     ],
     "name:nno_x_preferred":[
@@ -169,9 +166,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3e\u0a30\u0a1c\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0631\u062c\u0647"
     ],
     "name:pms_x_preferred":[
         "Sharjah"
@@ -185,7 +179,7 @@
     "name:por_x_preferred":[
         "Sharjah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sharjah"
     ],
     "name:rus_x_preferred":[
@@ -197,7 +191,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dcf\u0da2\u0dcf \u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160ard\u017e\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -241,6 +235,9 @@
     ],
     "name:yor_x_preferred":[
         "Sharjah"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u5c14\u8fe6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -362,7 +359,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814706,
+    "wof:lastmodified":1561775387,
     "wof:name":"Sharjah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

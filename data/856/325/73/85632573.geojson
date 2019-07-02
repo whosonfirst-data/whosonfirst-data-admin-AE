@@ -40,9 +40,6 @@
     "name:aka_x_preferred":[
         "United Arab Emirates"
     ],
-    "name:alb_x_preferred":[
-        "Emiratet e Bashkuara Arabe"
-    ],
     "name:als_x_preferred":[
         "Vereinigte Arabische Emirate"
     ],
@@ -70,9 +67,6 @@
     "name:arg_x_preferred":[
         "Emiratos Arabes Unitos"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0561\u0562\u0561\u056f\u0561\u0576 \u0544\u056b\u0561\u0581\u0575\u0561\u056c \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a"
     ],
@@ -99,9 +93,6 @@
     ],
     "name:bam_x_preferred":[
         "Arabu mara kafoli"
-    ],
-    "name:baq_x_preferred":[
-        "Arabiar Emirerri Batuak"
     ],
     "name:bar_x_preferred":[
         "Vaeinigte Arabische Emirate"
@@ -155,9 +146,6 @@
     "name:bul_x_variant":[
         "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u0438 \u0410\u0440\u0430\u0431\u0441\u043a\u0438 \u0415\u043c\u0438\u0440\u0441\u0442\u0432\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u102c\u101b\u1015\u103a\u1005\u1031\u102c\u103a\u1018\u103d\u102c\u1038\u1019\u103b\u102c\u1038\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f"
-    ],
     "name:bxr_x_preferred":[
         "\u0410\u0440\u0430\u0431\u0430\u0439 \u041d\u044d\u0433\u044d\u0434\u044d\u04bb\u044d\u043d \u042d\u043c\u0438\u0440\u0442\u044d \u0423\u043b\u0430\u0441"
     ],
@@ -179,11 +167,11 @@
     "name:ces_x_preferred":[
         "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"
     ],
+    "name:ces_x_variant":[
+        "Spojen\u00e9 Arabsk\u00e9 Emir\u00e1ty"
+    ],
     "name:che_x_preferred":[
         "\u04c0\u0430\u044c\u0440\u0431\u0438\u0439\u043d \u0426\u0445\u044c\u0430\u043d\u0430\u0442\u043e\u044c\u0445\u043d\u0430 \u042d\u043c\u0438\u0440\u0430\u0442\u0430\u0448"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06cc\u0631\u0646\u0634\u06cc\u0646\u06d5 \u06cc\u06d5\u06a9\u06af\u0631\u062a\u0648\u0648\u06d5 \u0639\u06d5\u0631\u06d5\u0628\u06cc\u06cc\u06d5\u06a9\u0627\u0646"
@@ -199,9 +187,6 @@
     ],
     "name:cym_x_variant":[
         "Emiraethau Arabaidd Unedig"
-    ],
-    "name:cze_x_preferred":[
-        "Spojen\u00e9 Arabsk\u00e9 Emir\u00e1ty"
     ],
     "name:dan_x_preferred":[
         "Forenede Arabiske Emirater"
@@ -220,9 +205,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0905\u0930\u092c \u0907\u092e\u093f\u0930\u0947\u091f\u094d\u0938"
-    ],
-    "name:dut_x_preferred":[
-        "Verenigde Arabische Emiraten"
     ],
     "name:dzo_x_preferred":[
         "\u0f61\u0f74\u0f0b\u0f53\u0f60\u0f72\u0f0b\u0f4a\u0f7a\u0f4a\u0f0b\u0f68\u0f0b\u0f62\u0f56\u0f0b\u0f68\u0f7a\u0f0b\u0f58\u0f72\u0f0b\u0f62\u0f7a\u0f4a\u0f66\u0f72\u0f0b"
@@ -296,9 +278,6 @@
         "EAU",
         "\u00c9mirats Arabes Unis"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9mirats arabes unis"
-    ],
     "name:frp_x_preferred":[
         "\u00c8mirats arabos unis"
     ],
@@ -317,12 +296,6 @@
     "name:gag_x_preferred":[
         "Birle\u015fik Arab Emirlikleri"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d0\u10d1\u10d7\u10d0 \u10d2\u10d0\u10d4\u10e0\u10d7\u10d8\u10d0\u10dc\u10d4\u10d1\u10e3\u10da\u10d8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vereinigte Arabische Emirate"
-    ],
     "name:gla_x_preferred":[
         "Na h-Iomaratan Arabach Aonaichte"
     ],
@@ -340,9 +313,6 @@
     ],
     "name:gom_x_preferred":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0905\u0930\u092c \u0905\u092e\u0940\u0930\u093e\u0924"
-    ],
-    "name:gre_x_preferred":[
-        "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b1 \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ac \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b1"
     ],
     "name:grn_x_preferred":[
         "Aravia Emiryvy Joaju"
@@ -401,9 +371,6 @@
     ],
     "name:hye_x_variant":[
         "\u0544\u056b\u0561\u0581\u0575\u0561\u056c \u0531\u0580\u0561\u0562\u0561\u056f\u0561\u0576 \u0537\u0574\u056b\u0580\u0561\u0569\u0576\u0565\u0580"
-    ],
-    "name:ice_x_preferred":[
-        "Sameinu\u00f0u arab\u00edsku furstad\u00e6min"
     ],
     "name:ido_x_preferred":[
         "Unionita Araba Emirati"
@@ -560,9 +527,6 @@
     "name:lzh_x_preferred":[
         "\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u0442\u0438 \u0410\u0440\u0430\u043f\u0441\u043a\u0438 \u0415\u043c\u0438\u0440\u0430\u0442\u0438"
-    ],
     "name:mai_x_preferred":[
         "\u092f\u0941\u0928\u093e\u0907\u091f\u0947\u0921 \u0905\u0930\u092c \u0907\u092e\u093f\u0930\u0947\u091f\u094d\u0938"
     ],
@@ -577,9 +541,6 @@
     ],
     "name:mar_x_variant":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0905\u0930\u092c \u0905\u092e\u0940\u0930\u093e\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Emiriah Arab Bersatu"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u0442\u0438 \u0410\u0440\u0430\u043f\u0441\u043a\u0438 \u0415\u043c\u0438\u0440\u0430\u0442\u0438"
@@ -603,7 +564,8 @@
         "\u1021\u102c\u101b\u1015\u103a\u1005\u1031\u102c\u103a\u1018\u103d\u102c\u1038\u1019\u103b\u102c\u1038\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:mya_x_variant":[
-        "\u101a\u1030\u1021\u1031\u1021\u102e\u1038"
+        "\u101a\u1030\u1021\u1031\u1021\u102e\u1038",
+        "\u1021\u102c\u101b\u1015\u103a\u1005\u1031\u102c\u103a\u1018\u103d\u102c\u1038\u1019\u103b\u102c\u1038\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc \u0627\u0645\u0627\u0631\u0627\u062a"
@@ -682,9 +644,6 @@
     "name:pap_x_preferred":[
         "Emiratean Arabe Unit"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc"
-    ],
     "name:pih_x_preferred":[
         "Yunitid Arab Emiraets"
     ],
@@ -721,9 +680,6 @@
     "name:rue_x_preferred":[
         "\u0421\u043f\u043e\u0454\u043d\u044b \u0410\u0440\u0430\u0431\u0441\u043a\u044b \u0415\u043c\u0456\u0440\u0430\u0442\u044b"
     ],
-    "name:rum_x_preferred":[
-        "Emiratele Arabe Unite"
-    ],
     "name:run_x_preferred":[
         "Leta Zunze Ubumwe z'Abarabu"
     ],
@@ -756,9 +712,6 @@
         "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d91\u0db8\u0dd2\u0dbb\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"
-    ],
-    "name:slo_x_preferred":[
         "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"
     ],
     "name:slv_x_preferred":[
@@ -853,9 +806,6 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e2d\u0e32\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e2d\u0e21\u0e34\u0e40\u0e23\u0e15\u0e2a\u0e4c"
     ],
-    "name:tib_x_preferred":[
-        "\u0f61\u0f72\u0f0b\u0f53\u0f7a\u0f0b\u0f41\u0fb2\u0f7a\u0f0b\u0f40\u0fb2\u0f72\u0f0b\u0f68\u0f0b\u0f62\u0f56\u0f0b\u0f68\u0f7a\u0f0b\u0f58\u0f7a\u0f0b\u0f62\u0f7a\u0f0b\u0f41\u0fb2\u0f72\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u12e8\u1270\u1263\u1260\u1229\u1275 \u12a0\u1228\u1265 \u12a4\u121d\u122c\u1275\u1235"
     ],
@@ -919,9 +869,6 @@
     ],
     "name:war_x_preferred":[
         "Emiratos Arabes Unidos"
-    ],
-    "name:wel_x_preferred":[
-        "Yr Emiradau Arabaidd Unedig"
     ],
     "name:wol_x_preferred":[
         "Imaaraat yu Araab yu Bennoo yi"
@@ -1116,7 +1063,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974940,
+    "wof:lastmodified":1561775386,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -31,8 +31,8 @@
     "name:cat_x_preferred":[
         "Deira"
     ],
-    "name:dut_x_preferred":[
-        "Deira"
+    "name:deu_x_preferred":[
+        "Dubai/Deira"
     ],
     "name:eng_x_colloquial":[
         "Dirah"
@@ -52,12 +52,6 @@
     "name:fra_x_preferred":[
         "Deira"
     ],
-    "name:fre_x_preferred":[
-        "Deira"
-    ],
-    "name:ger_x_preferred":[
-        "Dubai/Deira"
-    ],
     "name:ind_x_preferred":[
         "Deira"
     ],
@@ -70,8 +64,8 @@
     "name:mal_x_preferred":[
         "\u0d26\u0d48\u0d31"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0631\u0647"
+    "name:nld_x_preferred":[
+        "Deira"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0439\u0440\u0430"
@@ -120,11 +114,11 @@
     "wd:longitude":55.316667,
     "wd:wordcount":165,
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974106,
+    "wof:lastmodified":1561775385,
     "wof:name":"Dayrah",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

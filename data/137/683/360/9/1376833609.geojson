@@ -31,12 +31,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0642\u064a\u0648\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0574\u0574 \u0561\u056c-\u0554\u0578\u0582\u057e\u0565\u0575\u0576\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Umm al-Qaiwain"
-    ],
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u0423\u043c-\u044d\u043b\u044c-\u041a\u0430\u0439\u0432\u0430\u0439\u043d"
     ],
@@ -58,20 +52,14 @@
     "name:ces_x_preferred":[
         "Umm al-Kuvajn"
     ],
-    "name:chi_x_preferred":[
-        "\u6b27\u59c6\u53e4\u6e29"
-    ],
-    "name:cze_x_preferred":[
-        "Umm al-Kuvajn"
-    ],
     "name:dan_x_preferred":[
         "Umm Al Quwain"
     ],
     "name:deu_x_preferred":[
         "Umm al-Qaiwain"
     ],
-    "name:dut_x_preferred":[
-        "Umm al-Qaiwain"
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03bc \u0391\u03bb \u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Umm Al Quwain"
@@ -98,20 +86,8 @@
     "name:fra_x_preferred":[
         "Oumm al Qa\u00efwa\u00efn"
     ],
-    "name:fre_x_preferred":[
-        "Oumm al Qa\u00efwa\u00efn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10db-\u10d4\u10da-\u10d9\u10d0\u10d8\u10d5\u10d0\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Umm al-Qaiwain"
-    ],
     "name:glg_x_preferred":[
         "Emirato de Umm al Qaywayn"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03cd\u03bc \u0391\u03bb \u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aae \u0a85\u0ab2-\u0a95\u0ac1\u0ab5\u0ac8\u0aa8"
@@ -130,6 +106,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0574\u0574 \u0561\u056c-\u053f\u0578\u0582\u057e\u0565\u0575\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0582\u0574\u0574 \u0561\u056c-\u0554\u0578\u0582\u057e\u0565\u0575\u0576\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Umm al-Qaiwain"
@@ -167,9 +146,6 @@
     "name:mar_x_preferred":[
         "\u0909\u092e \u0905\u0932-\u0915\u0941\u0935\u0948\u0928"
     ],
-    "name:may_x_preferred":[
-        "Umm al-Qaiwain"
-    ],
     "name:msa_x_preferred":[
         "Umm al-Qaiwain"
     ],
@@ -188,9 +164,6 @@
     "name:pan_x_preferred":[
         "\u0a09\u0a2e \u0a05\u0a32-\u0a15\u0a3f\u0a35\u0a47\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u200c\u0627\u0644\u0642\u0648\u06cc\u0646"
-    ],
     "name:pms_x_preferred":[
         "Umm al-Quwain"
     ],
@@ -206,7 +179,7 @@
     "name:ron_x_preferred":[
         "Emiratul Umm Al-Qaiwain"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Umm Al-Qaiwain"
     ],
     "name:rus_x_preferred":[
@@ -219,9 +192,6 @@
         "\u0d8b\u0db8\u0dca \u0d85\u0dbd\u0dca-\u0d9a\u0dca\u0dc0\u0dda\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Umm al-Kuvajn"
-    ],
-    "name:slo_x_preferred":[
         "Umm al-Kuvajn"
     ],
     "name:spa_x_preferred":[
@@ -271,6 +241,9 @@
     ],
     "name:zho_x_preferred":[
         "\u70cf\u59c6\u84cb\u842c"
+    ],
+    "name:zho_x_variant":[
+        "\u6b27\u59c6\u53e4\u6e29"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -403,7 +376,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561067882,
+    "wof:lastmodified":1561775390,
     "wof:name":"Umm Al Quwain",
     "wof:parent_id":85667955,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ghalilah"
+    ],
     "name:und_x_variant":[
         "Ghal\u012blah"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1344079607,
-    "wof:lastmodified":1537578733,
+    "wof:lastmodified":1562625041,
     "wof:name":"Ghalilah",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

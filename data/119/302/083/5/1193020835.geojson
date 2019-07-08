@@ -25,6 +25,21 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0627\u0641\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Masafi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u0627\u0641\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Masafi"
+    ],
+    "name:nor_x_preferred":[
+        "Masafi"
+    ],
     "name:und_x_variant":[
         "Musafi",
         "Musaifi",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1193020835,
-    "wof:lastmodified":1548974122,
+    "wof:lastmodified":1562625187,
     "wof:name":"Masafi",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

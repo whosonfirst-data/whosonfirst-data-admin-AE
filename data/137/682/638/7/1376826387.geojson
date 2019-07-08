@@ -25,8 +25,38 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646\n"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646 \u0627\u06cc\u0633\u062a\u0627\u062f\u06cc\u0648\u0645\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Emirat de Diba"
+    ],
+    "name:ceb_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
     "name:eng_x_preferred":[
         "Dibba Al-Hisn"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Dib\u0101"
+    ],
+    "name:nno_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
+    "name:por_x_preferred":[
+        "Doba"
+    ],
+    "name:swe_x_preferred":[
+        "Dibba al-Hisn"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
@@ -53,7 +83,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561067877,
+    "wof:lastmodified":1562625247,
     "wof:name":"Dibba Al-Hisn",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

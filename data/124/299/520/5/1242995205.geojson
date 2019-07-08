@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "W\u0101d\u012b Sh\u012b"
     ],
+    "name:nno_x_preferred":[
+        "Landsyen Wadi Shi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242995205,
-    "wof:lastmodified":1548974166,
+    "wof:lastmodified":1562625376,
     "wof:name":"Wadi Shi",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

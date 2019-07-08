@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u1e10\u0101hir"
     ],
+    "name:deu_x_preferred":[
+        "Dahir"
+    ],
+    "name:ita_x_preferred":[
+        "Dahir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0445\u0438\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1210040735,
-    "wof:lastmodified":1548974133,
+    "wof:lastmodified":1562625184,
     "wof:name":"Dahir",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

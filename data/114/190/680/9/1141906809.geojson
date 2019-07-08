@@ -32,11 +32,86 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0639\u0644\u064a\u200e"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0628\u0644 \u0639\u0644\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u012bn\u0101' Jabal \u2018Al\u012b"
+    ],
+    "name:deu_x_preferred":[
+        "Dschabal Ali"
+    ],
     "name:eng_x_preferred":[
         "Jebel Ali"
     ],
     "name:eng_x_variant":[
         "Jabal Ali"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0644 \u0639\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:hun_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:ind_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:ita_x_preferred":[
+        "Gebel Ali"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30d9\u30eb\u30fb\u30a2\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ubca8 \uc54c\ub9ac"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d2c\u0d7d \u0d05\u0d32\u0d3f"
+    ],
+    "name:nld_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:nno_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0646\u0627 \u062c\u0628\u0644 \u0639\u0644\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0431\u0430\u043b\u044c-\u0410\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u0431\u0435\u043b \u0410\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Jebel Ali"
+    ],
+    "name:tgl_x_preferred":[
+        "Mina' Jabal 'Ali"
+    ],
+    "name:tur_x_preferred":[
+        "Cebel Ali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0431\u0435\u043b\u044c-\u0410\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0644 \u0639\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Jebel Ali"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"United Arab Emirates",
@@ -162,7 +237,7 @@
         }
     ],
     "wof:id":1141906809,
-    "wof:lastmodified":1548974104,
+    "wof:lastmodified":1562625404,
     "wof:name":"Jebel Ali",
     "wof:parent_id":1376833603,
     "wof:placetype":"locality",

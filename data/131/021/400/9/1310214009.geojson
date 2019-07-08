@@ -25,6 +25,33 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0641\u0648\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Masfut"
+    ],
+    "name:ceb_x_preferred":[
+        "Ma\u015ff\u016b\u0163"
+    ],
+    "name:deu_x_preferred":[
+        "Masfut"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u0641\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Masfout"
+    ],
+    "name:nno_x_preferred":[
+        "Masfut"
+    ],
+    "name:sco_x_preferred":[
+        "Masfut"
+    ],
+    "name:swe_x_preferred":[
+        "Ma\u015ff\u016b\u0163"
+    ],
     "name:und_x_variant":[
         "Ma\u015ff\u016b\u0163"
     ],
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1310214009,
-    "wof:lastmodified":1537578731,
+    "wof:lastmodified":1562625199,
     "wof:name":"Masfut",
     "wof:parent_id":85667983,
     "wof:placetype":"locality",

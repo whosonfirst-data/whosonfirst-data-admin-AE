@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Rim\u00e1"
     ],
+    "name:por_x_preferred":[
+        "Rima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209520257,
-    "wof:lastmodified":1548974123,
+    "wof:lastmodified":1562625176,
     "wof:name":"Rima",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "K\u016bb"
     ],
+    "name:ceb_x_preferred":[
+        "Kub"
+    ],
+    "name:deu_x_preferred":[
+        "KUB"
+    ],
+    "name:ita_x_preferred":[
+        "KUB"
+    ],
+    "name:jpn_x_preferred":[
+        "KUB"
+    ],
+    "name:nld_x_preferred":[
+        "KUB"
+    ],
+    "name:slk_x_preferred":[
+        "Kub"
+    ],
+    "name:swe_x_preferred":[
+        "Kub"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1343363927,
-    "wof:lastmodified":1537578731,
+    "wof:lastmodified":1562625039,
     "wof:name":"Kub",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

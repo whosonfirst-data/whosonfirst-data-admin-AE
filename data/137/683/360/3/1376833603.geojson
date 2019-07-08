@@ -55,6 +55,12 @@
     "name:ast_x_preferred":[
         "Dubai"
     ],
+    "name:ast_x_variant":[
+        "Dub\u00e1i"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0628\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Dubay"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09ac\u09be\u0987"
+    ],
+    "name:bih_x_preferred":[
+        "\u0926\u0941\u092c\u0908"
     ],
     "name:bos_x_preferred":[
         "Dubai"
@@ -115,6 +124,9 @@
     ],
     "name:diq_x_preferred":[
         "Dubai"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u0941\u092c\u0908"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03ac\u03b9"
@@ -217,6 +229,9 @@
     "name:ita_x_preferred":[
         "Dubai"
     ],
+    "name:jav_x_preferred":[
+        "Dubai"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30d0\u30a4"
     ],
@@ -250,11 +265,17 @@
     "name:kur_x_preferred":[
         "Dubai"
     ],
+    "name:lao_x_preferred":[
+        "\u0e94\u0eb9\u0ec4\u0e9a"
+    ],
     "name:lat_x_preferred":[
         "Dubai"
     ],
     "name:lav_x_preferred":[
         "Dubaija"
+    ],
+    "name:lez_x_preferred":[
+        "\u0414\u0443\u0431\u0430\u0439"
     ],
     "name:lit_x_preferred":[
         "Dubajus"
@@ -264,6 +285,9 @@
     ],
     "name:ltz_x_preferred":[
         "Dubai"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0941\u092c\u0908"
     ],
     "name:mal_x_preferred":[
         "\u0d26\u0d41\u0d2c\u0d3e\u0d2f\u0d4d"
@@ -282,6 +306,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1012\u1030\u1018\u102d\u102f\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0648\u0628\u06cc"
     ],
     "name:nep_x_preferred":[
         "\u0926\u0941\u092c\u0908"
@@ -313,6 +340,9 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a41\u0a2c\u0a08"
     ],
+    "name:pap_x_preferred":[
+        "Dubai"
+    ],
     "name:pms_x_preferred":[
         "Dubai"
     ],
@@ -343,6 +373,9 @@
     "name:sah_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6b\u1c69\u1c75\u1c5f\u1c6d"
+    ],
     "name:scn_x_preferred":[
         "Dubai"
     ],
@@ -364,6 +397,9 @@
     "name:sme_x_preferred":[
         "Dubai"
     ],
+    "name:snd_x_preferred":[
+        "\u062f\u0628\u0626\u064a"
+    ],
     "name:som_x_preferred":[
         "Dubay"
     ],
@@ -384,6 +420,9 @@
     ],
     "name:swe_x_preferred":[
         "Dubai"
+    ],
+    "name:szl_x_preferred":[
+        "Dubaj"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0baa\u0bbe\u0baf\u0bcd"
@@ -432,6 +471,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u8fea\u62dc"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10e3\u10d1\u10d0\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05d5\u05d1\u05d9\u05d9"
@@ -579,7 +621,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775390,
+    "wof:lastmodified":1562625267,
     "wof:name":"Dubai",
     "wof:parent_id":85667983,
     "wof:placetype":"county",

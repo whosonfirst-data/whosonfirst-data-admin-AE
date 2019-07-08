@@ -28,16 +28,28 @@
     "name:ara_x_preferred":[
         "Al Kh\u0101n"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0646"
+    ],
+    "name:nno_x_preferred":[
+        "Al Khan"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Chan"
+    ],
     "name:und_x_variant":[
         "Kh\u0101n"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1376826451,
-    "wof:lastmodified":1548974149,
+    "wof:lastmodified":1562625212,
     "wof:name":"Al Khan",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

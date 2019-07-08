@@ -25,6 +25,33 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u064a\u0627\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0647\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Layyah"
+    ],
+    "name:lit_x_preferred":[
+        "Lejahas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u06cc\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Lajjah"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u044f\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Layyah"
+    ],
+    "name:swe_x_preferred":[
+        "Layyah"
+    ],
     "name:und_x_variant":[
         "Aliya",
         "Laiya",
@@ -33,13 +60,19 @@
         "Laiyya",
         "Layyah"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +92,7 @@
         }
     ],
     "wof:id":1376826499,
-    "wof:lastmodified":1548974149,
+    "wof:lastmodified":1562625222,
     "wof:name":"Layyah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

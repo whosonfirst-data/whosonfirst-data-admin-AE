@@ -28,13 +28,52 @@
     "name:ara_x_preferred":[
         "Bid\u00e1"
     ],
+    "name:cat_x_preferred":[
+        "Bida"
+    ],
+    "name:ceb_x_preferred":[
+        "Bida"
+    ],
+    "name:epo_x_preferred":[
+        "Bida"
+    ],
+    "name:fra_x_preferred":[
+        "Bida"
+    ],
+    "name:hau_x_preferred":[
+        "Bida"
+    ],
+    "name:ita_x_preferred":[
+        "Bida"
+    ],
+    "name:pol_x_preferred":[
+        "Bida"
+    ],
+    "name:por_x_preferred":[
+        "Bida"
+    ],
+    "name:ron_x_preferred":[
+        "Bida"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bida"
+    ],
+    "name:swe_x_preferred":[
+        "Bida"
+    ],
+    "name:yor_x_preferred":[
+        "Bida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667951,
         102191569,
         85632573,
         890455647,
-        1376833605,
-        85667951
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1376826547,
-    "wof:lastmodified":1548974127,
+    "wof:lastmodified":1562625244,
     "wof:name":"Bida",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

@@ -25,13 +25,61 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0630\u064a\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Theeb"
+    ],
+    "name:deu_x_preferred":[
+        "Theeb"
+    ],
+    "name:fas_x_preferred":[
+        "\u0630\u06cc\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Theeb"
+    ],
+    "name:ind_x_preferred":[
+        "Theeb"
+    ],
+    "name:ita_x_preferred":[
+        "Theeb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\ube0c"
+    ],
+    "name:nld_x_preferred":[
+        "Theeb"
+    ],
+    "name:por_x_preferred":[
+        "Theeb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0434\u043e\u0441\u0442\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Theeb"
+    ],
+    "name:tur_x_preferred":[
+        "Theeb"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0431"
+    ],
+    "name:vie_x_preferred":[
+        "Theeb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5e03"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667959,
         102191569,
         85632573,
         421168685,
-        1376833611,
-        85667959
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +98,7 @@
         }
     ],
     "wof:id":1376826505,
-    "wof:lastmodified":1548974136,
+    "wof:lastmodified":1562625221,
     "wof:name":"Theeb",
     "wof:parent_id":421168685,
     "wof:placetype":"neighbourhood",

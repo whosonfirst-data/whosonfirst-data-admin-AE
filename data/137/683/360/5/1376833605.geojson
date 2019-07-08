@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u0420\u0430\u0441-\u044d\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0441-\u044d\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09b8 \u0986\u09b2-\u0996\u09be\u0987\u09ae\u09be\u09b9"
     ],
@@ -110,13 +113,17 @@
         "\u054c\u0561\u057d \u0561\u056c-\u053d\u0561\u0575\u0574\u0561\u0575\u056b \u0567\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:hye_x_variant":[
-        "\u054c\u0561\u057d-\u0561\u056c-\u053d\u0561\u0575\u0574\u0561\u0575\u056b \u0567\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+        "\u054c\u0561\u057d-\u0561\u056c-\u053d\u0561\u0575\u0574\u0561\u0575\u056b \u0567\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
+        "\u054c\u0561\u057d \u0561\u056c-\u053d\u0561\u0575\u0574\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Ras al-Khaimah"
     ],
     "name:ita_x_preferred":[
         "Ras al-Khaima"
+    ],
+    "name:ita_x_variant":[
+        "Emirato di Ras al-Khaima"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30a2\u30b9\u30fb\u30a2\u30eb\uff1d\u30cf\u30a4\u30de"
@@ -126,6 +133,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\uc2a4\uc54c\uce74\uc774\ub9c8"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\uc2a4\uc54c\uce74\uc774\ub9c8 \ud1a0\ud6c4\uad6d"
     ],
     "name:lav_x_preferred":[
         "R\u0101selhaima"
@@ -199,8 +209,14 @@
     "name:spa_x_preferred":[
         "Ras al-Jaima"
     ],
+    "name:spa_x_variant":[
+        "Ras al-Khaimah"
+    ],
     "name:sqi_x_preferred":[
         "Ras el-Haime"
+    ],
+    "name:sqi_x_variant":[
+        "Ras el-Haima"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0441 \u0435\u043b \u0425\u0430\u0458\u043c\u0430"
@@ -240,6 +256,15 @@
     ],
     "name:vie_x_preferred":[
         "Ras al-Khaimah"
+    ],
+    "name:vie_x_variant":[
+        "Ras Al Khaimah"
+    ],
+    "name:war_x_preferred":[
+        "Ras al-Kaimah"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d0\u10e1-\u10d4\u10da-\u10ee\u10d0\u10d8\u10db\u10d0\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
     "name:yor_x_preferred":[
         "Ras al Khaimah"
@@ -372,7 +397,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775390,
+    "wof:lastmodified":1562625270,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85667951,
     "wof:placetype":"county",

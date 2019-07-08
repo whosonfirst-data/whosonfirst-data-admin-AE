@@ -58,7 +58,6 @@
     ],
     "name:ara_x_variant":[
         "Al-Imarat Al-'Arabiya El-Muttahida",
-        "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
         "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
     ],
     "name:arc_x_preferred":[
@@ -72,6 +71,9 @@
     ],
     "name:asm_x_preferred":[
         "\u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u0986\u09f0\u09ac \u0986\u09ae\u09bf\u09f0\u09be\u09a4"
+    ],
+    "name:asm_x_variant":[
+        "\u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u0986\u09f0\u09f1 \u0986\u09ae\u09bf\u09f0\u09be\u09a4"
     ],
     "name:ast_x_preferred":[
         "Emiratos \u00c1rabes Xun\u00edos"
@@ -96,6 +98,9 @@
     ],
     "name:bar_x_preferred":[
         "Vaeinigte Arabische Emirate"
+    ],
+    "name:bar_x_variant":[
+        "Vaoanigte Arabische Emirate"
     ],
     "name:bcl_x_preferred":[
         "Emiratong Arabe Unidos"
@@ -172,6 +177,9 @@
     ],
     "name:che_x_preferred":[
         "\u04c0\u0430\u044c\u0440\u0431\u0438\u0439\u043d \u0426\u0445\u044c\u0430\u043d\u0430\u0442\u043e\u044c\u0445\u043d\u0430 \u042d\u043c\u0438\u0440\u0430\u0442\u0430\u0448"
+    ],
+    "name:che_x_variant":[
+        "\u04c0\u0430\u044c\u0440\u0431\u0438\u0439\u043d \u0426\u0445\u044c\u0430\u044c\u043d\u0430\u0442\u043e\u044c\u0445\u043d\u0430 \u042d\u043c\u0438\u0440\u0430\u0442\u0430\u0448"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06cc\u0631\u0646\u0634\u06cc\u0646\u06d5 \u06cc\u06d5\u06a9\u06af\u0631\u062a\u0648\u0648\u06d5 \u0639\u06d5\u0631\u06d5\u0628\u06cc\u06cc\u06d5\u06a9\u0627\u0646"
@@ -317,6 +325,9 @@
     "name:grn_x_preferred":[
         "Aravia Emiryvy Joaju"
     ],
+    "name:grn_x_variant":[
+        "Emiryvy Araviagua Joapyku\u00e9ra"
+    ],
     "name:gsw_x_preferred":[
         "Vereinigte Arabische Emirate"
     ],
@@ -372,8 +383,14 @@
     "name:hye_x_variant":[
         "\u0544\u056b\u0561\u0581\u0575\u0561\u056c \u0531\u0580\u0561\u0562\u0561\u056f\u0561\u0576 \u0537\u0574\u056b\u0580\u0561\u0569\u0576\u0565\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0561\u0562\u0561\u056f\u0561\u0576 \u0544\u056b\u0561\u0581\u0565\u0561\u056c \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u056b\u0582\u0576\u0576\u0565\u0580"
+    ],
     "name:ido_x_preferred":[
         "Unionita Araba Emirati"
+    ],
+    "name:ido_x_variant":[
+        "Unionita Araba Emirii"
     ],
     "name:ile_x_preferred":[
         "Unit Arabic Emiratus"
@@ -473,7 +490,8 @@
         "M\u00eerni\u015f\u00een\u00ean Ereb\u00ee y\u00ean Yekb\u00fby\u00ee"
     ],
     "name:kur_x_variant":[
-        "\u0645\u06cc\u0631\u0646\u0634\u06cc\u0646\u06d5 \u06cc\u06d5\u06a9\u06af\u0631\u062a\u0648\u0648\u06d5 \u0639\u06d5\u0631\u06d5\u0628\u06cc\u06cc\u06d5\u06a9\u0627\u0646"
+        "\u0645\u06cc\u0631\u0646\u0634\u06cc\u0646\u06d5 \u06cc\u06d5\u06a9\u06af\u0631\u062a\u0648\u0648\u06d5 \u0639\u06d5\u0631\u06d5\u0628\u06cc\u06cc\u06d5\u06a9\u0627\u0646",
+        "Em\u00eertiy\u00ean Ereb\u00ee y\u00ean Yekb\u00fby\u00ee"
     ],
     "name:lad_x_preferred":[
         "Emiratos Arabos Unidos"
@@ -492,6 +510,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0410\u0440\u0430\u0431\u0440\u0438\u043d \u0421\u0430\u0434\u0445\u044c\u0430\u043d\u0432\u0430\u0439 \u042d\u043c\u0438\u0440\u0430\u0442\u0430\u0440"
+    ],
+    "name:lfn_x_preferred":[
+        "Amirias Arabi Unida"
     ],
     "name:lij_x_preferred":[
         "Emirati \u00c0rabi Un\u00efi"
@@ -515,6 +536,9 @@
     "name:lrc_x_preferred":[
         "\u0626\u0645\u0627\u0631\u0623\u062a\u06cc\u0627 \u06cc\u0623\u06a9\u0627\u06af\u0626\u0631\u0626\u062a\u06d5 \u0639\u0623\u0631\u0623\u06a4\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u0625\u0645\u0627\u0631\u062a\u064a\u0627 \u06cc\u0623\u06a9\u0627\u06af\u0631\u062a\u0623 \u0639\u0631\u06a4\u064a"
+    ],
     "name:ltz_x_preferred":[
         "Vereenegt Arabesch Emiraten"
     ],
@@ -529,6 +553,9 @@
     ],
     "name:mai_x_preferred":[
         "\u092f\u0941\u0928\u093e\u0907\u091f\u0947\u0921 \u0905\u0930\u092c \u0907\u092e\u093f\u0930\u0947\u091f\u094d\u0938"
+    ],
+    "name:mai_x_variant":[
+        "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0905\u0930\u092c \u0907\u092e\u093f\u0930\u0947\u091f\u094d\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d10\u0d15\u0d4d\u0d2f \u0d05\u0d31\u0d2c\u0d4d \u0d0e\u0d2e\u0d3f\u0d31\u0d47\u0d31\u0d4d\u0d31\u0d41\u0d15\u0d7e"
@@ -581,6 +608,9 @@
     ],
     "name:nav_x_preferred":[
         "\u00c1s\u00e1\u00ed Bik\u00e9yah Y\u00e1zh\u00ed A\u0142hidadiidzoo\u00edg\u00ed\u00ed"
+    ],
+    "name:nav_x_variant":[
+        "\u00c1s\u00e1\u00ed Dine\u02bc\u00e9 Bik\u00e9yah Y\u00e1zh\u00ed A\u0142hidadiidzoo\u00edg\u00ed\u00ed"
     ],
     "name:nde_x_preferred":[
         "United Arab Emirates"
@@ -641,11 +671,17 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a70\u0a2f\u0a41\u0a15\u0a24 \u0a05\u0a30\u0a2c \u0a07\u0a2e\u0a30\u0a3e\u0a24"
     ],
+    "name:pan_x_variant":[
+        "\u0a38\u0a70\u0a2f\u0a41\u0a15\u0a24 \u0a05\u0a30\u0a2c \u0a05\u0a2e\u0a40\u0a30\u0a3e\u0a24"
+    ],
     "name:pap_x_preferred":[
         "Emiratean Arabe Unit"
     ],
     "name:pih_x_preferred":[
         "Yunitid Arab Emiraets"
+    ],
+    "name:pih_x_variant":[
+        "Yunitid Erab Emiraiits"
     ],
     "name:pms_x_preferred":[
         "Emir\u00e0 \u00c0rabo Un\u00ec"
@@ -696,6 +732,9 @@
     "name:sah_x_preferred":[
         "\u0425\u043e\u043b\u0431\u043eh\u0443\u043a\u0442\u0430\u0430\u0445 \u0410\u0440\u0430\u0431 \u042d\u043c\u0438\u0440\u0430\u0442\u0442\u0430\u0440\u0430"
     ],
+    "name:sah_x_variant":[
+        "\u0425\u043e\u043b\u0431\u043eh\u0443\u043a\u0442\u0430\u0430\u0445 \u0410\u0440\u0430\u0430\u0431 \u042d\u043c\u0438\u0440\u0430\u0442\u0442\u0430\u0440\u0430"
+    ],
     "name:scn_x_preferred":[
         "Emirati \u00c0rabbi Uniti"
     ],
@@ -723,11 +762,17 @@
     "name:sme_x_variant":[
         "Ovttastuvvan Ar\u00e1baemir\u00e1htat"
     ],
+    "name:smo_x_preferred":[
+        "Malo Alapi Lotogatasi"
+    ],
     "name:sna_x_preferred":[
         "United Arab Emirates"
     ],
     "name:snd_x_preferred":[
         "\u06af\u068f\u064a\u0644 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"
+    ],
+    "name:snd_x_variant":[
+        "\u06af\u068f\u064a\u0644 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u062a\u0648\u0646"
     ],
     "name:som_x_preferred":[
         "Imaaraatka Carabta"
@@ -795,6 +840,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0410\u043c\u043e\u0440\u0430\u0442\u0438 \u041c\u0443\u0442\u0442\u0430\u04b3\u0438\u0434\u0430\u0438 \u0410\u0440\u0430\u0431"
+    ],
+    "name:tgk_x_variant":[
+        "\u0418\u043c\u043e\u0440\u043e\u0442\u0438 \u041c\u0443\u0442\u0442\u0430\u04b3\u0438\u0434\u0430\u0438 \u0410\u0440\u0430\u0431\u04e3"
     ],
     "name:tgl_x_preferred":[
         "United Arab Emirates"
@@ -1063,7 +1111,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775386,
+    "wof:lastmodified":1562625107,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

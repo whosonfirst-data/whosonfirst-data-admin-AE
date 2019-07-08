@@ -28,16 +28,22 @@
     "name:ara_x_preferred":[
         "Hill\u012b"
     ],
+    "name:deu_x_preferred":[
+        "Hilli"
+    ],
+    "name:fin_x_preferred":[
+        "Hilli"
+    ],
     "name:und_x_variant":[
         "Hili"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421168687,
-        421200931,
-        85667981
+        421200931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1376826539,
-    "wof:lastmodified":1548974183,
+    "wof:lastmodified":1562625241,
     "wof:name":"Hilli",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Murrah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1259707837,
-    "wof:lastmodified":1537485207,
+    "wof:lastmodified":1562625385,
     "wof:name":"Murrah",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",

@@ -28,13 +28,16 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0645\u0644\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Ar Ramlah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667955,
         102191569,
         85632573,
         890455645,
-        1376833609,
-        85667955
+        1376833609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1376826537,
-    "wof:lastmodified":1548974132,
+    "wof:lastmodified":1562625242,
     "wof:name":"Ar Ramlah",
     "wof:parent_id":890455645,
     "wof:placetype":"neighbourhood",

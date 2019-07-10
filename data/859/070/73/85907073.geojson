@@ -32,14 +32,22 @@
         "Al Sabkha"
     ],
     "name:eng_x_variant":[
-        "Community 115",
-        "Al Sabkha"
+        "Community 115"
+    ],
+    "name:epo_x_preferred":[
+        "Alsab\u0125a"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u0628\u062e\u0629"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u0633\u0628\u062e\u0647"
+    ],
     "name:ind_x_preferred":[
         "Al Sabkha"
+    ],
+    "name:ind_x_variant":[
+        "Al Sabkhah"
     ],
     "name:ita_x_preferred":[
         "Al Sabkha"
@@ -111,7 +119,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1561775384,
+    "wof:lastmodified":1562795514,
     "wof:name":"\u0627\u0644\u0633\u0628\u062e\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

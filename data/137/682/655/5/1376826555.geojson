@@ -25,16 +25,22 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u06cc\u0631\u0647"
+    ],
     "name:und_x_variant":[
         "Al Jaz\u012brah"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u06cc\u0631\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1376826555,
-    "wof:lastmodified":1548974151,
+    "wof:lastmodified":1562795594,
     "wof:name":"Al Jazirah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,15 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Al Hamra Aux Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Al Hamra Aux"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Al Hamra Aux"
+    ],
     "oa:elevation_ft":"50",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":102558457,
-    "wof:lastmodified":1543846096,
+    "wof:lastmodified":1562795505,
     "wof:name":"Al Hamra aux Airport",
     "wof:parent_id":85667981,
     "wof:placetype":"campus",

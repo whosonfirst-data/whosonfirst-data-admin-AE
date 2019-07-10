@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Dhaid"
     ],
+    "name:ceb_x_preferred":[
+        "Adh Dhayd"
+    ],
     "name:eng_x_preferred":[
         "Dhaid"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421192959,
-    "wof:lastmodified":1561775391,
+    "wof:lastmodified":1562795613,
     "wof:name":"\u0627\u0644\u0630\u064a\u062f",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

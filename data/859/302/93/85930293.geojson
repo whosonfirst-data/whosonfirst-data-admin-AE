@@ -24,11 +24,24 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0633\u0642\u064a\u0645"
+    ],
     "name:eng_x_preferred":[
         "Umm Suqeim 2"
     ],
     "name:eng_x_variant":[
-        "Community 362"
+        "Community 362",
+        "Umm Suqeim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0623\u0645 \u0633\u0642\u06cc\u0645"
+    ],
+    "name:ind_x_preferred":[
+        "Umm Suqeim"
+    ],
+    "name:swe_x_preferred":[
+        "Umm Suqeim"
     ],
     "name:unk_x_variant":[
         "Umm Suqeim 2"
@@ -67,11 +80,11 @@
     "wd:wordcount":220,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974112,
+    "wof:lastmodified":1562795540,
     "wof:name":"Umm Suqeim 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

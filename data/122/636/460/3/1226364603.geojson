@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Sh\u012bs"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0635"
+    ],
+    "name:nno_x_preferred":[
+        "Shis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226364603,
-    "wof:lastmodified":1548974166,
+    "wof:lastmodified":1562795675,
     "wof:name":"Shis",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

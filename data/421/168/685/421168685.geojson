@@ -18,11 +18,26 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ang_x_preferred":[
+        "Fujairah"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u062c\u064a\u0631\u0629"
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Fuyaira"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-F\u00fcceyr\u0259 \u0259mirliyi"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043b\u044c-\u0424\u0443\u0434\u0436\u0430\u0439\u0440\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Fujayrah"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0443\u0434\u0436\u0435\u0439\u0440\u0430"
@@ -30,11 +45,20 @@
     "name:cat_x_preferred":[
         "Fujairah"
     ],
+    "name:ceb_x_preferred":[
+        "Al Fujayrah"
+    ],
     "name:ces_x_preferred":[
         "Fud\u017eajra"
     ],
+    "name:dan_x_preferred":[
+        "Fujairah"
+    ],
     "name:deu_x_preferred":[
         "Fudschaira"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03ad\u03b9\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fujairah"
@@ -45,17 +69,41 @@
     "name:est_x_preferred":[
         "Al-Fujayrah' emiraat"
     ],
+    "name:eus_x_preferred":[
+        "Fujaira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u062c\u06cc\u0631\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Fujaira"
+    ],
     "name:fra_x_preferred":[
         "Fujairah"
     ],
     "name:fra_x_variant":[
         "Fuja\u00efrah"
     ],
+    "name:frr_x_preferred":[
+        "Fudschaira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d2'\u05d9\u05d9\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u0941\u091c\u0948\u0930\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Fujairah"
+    ],
     "name:hun_x_preferred":[
         "Fudzsejra"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0578\u0582\u057b\u0565\u0575\u0580\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0556\u0578\u0582\u057b\u0565\u0575\u0580\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Fujairah"
@@ -66,32 +114,110 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30b8\u30e3\u30a4\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30d5\u30b8\u30e3\u30a4\u30e9\u5e02"
+    ],
     "name:kor_x_preferred":[
         "\ud478\uc790\uc774\ub77c"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\uc790\uc774\ub77c \ud1a0\ud6c4\uad6d"
+    ],
+    "name:lav_x_preferred":[
+        "Fud\u017eeiras emir\u0101ts"
+    ],
+    "name:lit_x_preferred":[
+        "Fud\u017eeira"
+    ],
+    "name:lmo_x_preferred":[
+        "Fujairah"
     ],
     "name:ltz_x_preferred":[
         "Fudschaira"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2b\u0d41\u0d1c\u0d48\u0d31"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0941\u091c\u0948\u0930\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Fujairah"
+    ],
     "name:nld_x_preferred":[
         "Fujairah"
+    ],
+    "name:nno_x_preferred":[
+        "Fujairah"
+    ],
+    "name:nor_x_preferred":[
+        "Fujairah"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2b\u0a3c\u0a41\u0a1c\u0a48\u0a30\u0a3e"
+    ],
+    "name:pms_x_preferred":[
+        "Fujairah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0641\u062c\u06cc\u0631\u06c1"
     ],
     "name:pol_x_preferred":[
         "Fud\u017cajra"
     ],
+    "name:por_x_preferred":[
+        "Fujeira"
+    ],
     "name:ron_x_preferred":[
         "Fujairah"
+    ],
+    "name:ron_x_variant":[
+        "Emiratul Fujairah"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0443\u0434\u0436\u0435\u0439\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c-\u0424\u0443\u0434\u0436\u0430\u0439\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Fujairah"
+    ],
+    "name:slk_x_preferred":[
+        "Fud\u017eajra"
+    ],
     "name:spa_x_preferred":[
+        "Fujairah"
+    ],
+    "name:spa_x_variant":[
+        "Fuyaira"
+    ],
+    "name:sqi_x_preferred":[
+        "Fuxheira"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0443\u045f\u0435\u0458\u0440\u0430"
+    ],
+    "name:swa_x_preferred":[
         "Fujairah"
     ],
     "name:swe_x_preferred":[
         "Fujairah"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0b9c\u0bc8\u0bb0\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0424\u04e9\u0497\u04d9\u0439\u0440\u04d9"
+    ],
+    "name:tgl_x_preferred":[
+        "Fujairah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e1f\u0e39\u0e44\u0e08\u0e23\u0e32\u0e2b\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "F\u00fcceyre"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0424\u0443\u0434\u0436\u0430\u0439\u0440\u0430"
@@ -99,11 +225,26 @@
     "name:unk_x_variant":[
         "Fujaira"
     ],
+    "name:urd_x_preferred":[
+        "\u0641\u062c\u06cc\u0631\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Fujayra"
     ],
+    "name:vie_x_preferred":[
+        "Fujairah"
+    ],
     "name:xmf_x_preferred":[
         "\u10d4\u10da-\u10e4\u10e3\u10ef\u10d0\u10d8\u10e0\u10d0"
+    ],
+    "name:xmf_x_variant":[
+        "\u10d4\u10da-\u10e4\u10e3\u10ef\u10d0\u10d8\u10e0\u10d0\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
+    ],
+    "name:yor_x_preferred":[
+        "Fujairah"
+    ],
+    "name:yue_x_preferred":[
+        "\u5bcc\u67e5\u4f0a\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u5bcc\u5409\u62c9"
@@ -250,7 +391,7 @@
         }
     ],
     "wof:id":421168685,
-    "wof:lastmodified":1561775391,
+    "wof:lastmodified":1562795610,
     "wof:name":"Fujairah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

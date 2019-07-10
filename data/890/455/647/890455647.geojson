@@ -20,11 +20,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ang_x_preferred":[
+        "Ras al-Khaimah"
+    ],
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0627\u0644\u062e\u064a\u0645\u0629"
     ],
+    "name:bel_x_preferred":[
+        "\u042d\u043c\u0456\u0440\u0430\u0442 \u0420\u0430\u0441-\u044d\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0441-\u044d\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09b8 \u0986\u09b2-\u0996\u09be\u0987\u09ae\u09be\u09b9"
+    ],
+    "name:bre_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0441 \u0430\u043b-\u0425\u0430\u0439\u043c"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u0430\u0441 \u0430\u043b-\u0425\u0430\u0439\u043c\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:ceb_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:ces_x_preferred":[
+        "R\u00e1s al-Chajma"
+    ],
+    "name:dan_x_preferred":[
+        "Ras al-Khaimah"
+    ],
     "name:deu_x_preferred":[
         "Ra\u2019s al-Chaima"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c2 \u03b1\u03bb-\u039a\u03b1\u03ca\u03bc\u03ac"
     ],
     "name:eng_x_preferred":[
         "Ras al-Khaimah"
@@ -32,17 +68,207 @@
     "name:eng_x_variant":[
         "Ras el-Kheima"
     ],
+    "name:epo_x_preferred":[
+        "Ras-al-\u0124ajmo"
+    ],
+    "name:est_x_preferred":[
+        "Ra's al-Khaymah' emiraat"
+    ],
+    "name:eus_x_preferred":[
+        "Ras al-Khaima"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0623\u0633\u200c\u0627\u0644\u062e\u06cc\u0645\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Ra\u2019s al-Khaima"
+    ],
     "name:fra_x_preferred":[
         "Ras el Kha\u00efmah"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0ab8 \u0a85\u0ab2-\u0a96\u0ac8\u0aae\u0abe\u0ab9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e1 \u05d0\u05dc-\u05d7'\u05d9\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0938 \u0905\u0932 \u0916\u0948\u092e\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1sz el-Haima"
+    ],
+    "name:hun_x_variant":[
+        "R\u00e1sz el-Haima-i Em\u00edrs\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u057d-\u0561\u056c-\u053d\u0561\u0575\u0574\u0561\u0575\u056b \u0567\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u054c\u0561\u057d \u0561\u056c-\u053d\u0561\u0575\u0574\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:ita_x_preferred":[
+        "Ras al-Khaima"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a2\u30b9\u30fb\u30a2\u30eb\uff1d\u30cf\u30a4\u30de"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0cb8\u0ccd \u0c85\u0cb2\u0ccd \u0c96\u0cc8\u0cae\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4\uc54c\uce74\uc774\ub9c8 \ud1a0\ud6c4\uad6d"
+    ],
+    "name:lav_x_preferred":[
+        "R\u0101selhaima"
+    ],
+    "name:lit_x_preferred":[
+        "Ras al Chaima"
+    ],
+    "name:lmo_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:ltz_x_preferred":[
+        "Ras al Chaima"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d31\u0d3e\u0d38\u0d4d \u0d05\u0d7d \u0d16\u0d48\u0d2e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093e\u0938 \u0905\u0932-\u0916\u0948\u092e\u093e\u0939"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0441 \u0435\u043b-\u0425\u0430\u0458\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:nan_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:nld_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:nno_x_preferred":[
+        "Emiratet Ras al-Khaimah"
+    ],
+    "name:nno_x_variant":[
+        "Ras al-Khaimah"
+    ],
+    "name:nob_x_preferred":[
+        "Emiratet Ras al-Khaimah"
+    ],
+    "name:nor_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a3e\u0a38 \u0a05\u0a32-\u0a16\u0a3c\u0a48\u0a2e\u0a3e"
+    ],
+    "name:pms_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u062e\u06cc\u0645\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Ras al-Chajma"
+    ],
+    "name:por_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:ron_x_preferred":[
+        "Ras Al-Khaimah"
+    ],
+    "name:ron_x_variant":[
+        "Emiratul Ras al-Khaimah"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0441-\u044d\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dc3\u0dca  \u0d85\u0dbd\u0dca \u0d9a\u0dba\u0dd2\u0db8\u0dcf\u0dc4\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "R\u00e1s al-Chajm\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Ras al-Jaima"
+    ],
+    "name:spa_x_variant":[
+        "Ras al-Khaimah"
+    ],
+    "name:sqi_x_preferred":[
+        "Ras el-Haime"
+    ],
+    "name:sqi_x_variant":[
+        "Ras el-Haima"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0441 \u0435\u043b \u0425\u0430\u0458\u043c\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Ras al-Khaimah"
+    ],
     "name:swe_x_preferred":[
         "Ras al Khaimah"
     ],
+    "name:swe_x_variant":[
+        "Emiratet Ras al-Khaimah",
+        "Ras al-Khaimah"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0b83\u0bb8\u0bcd \u0b85\u0bb2\u0bcd-\u0b95\u0bc8\u0bae\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u04d9\u044d\u0441\u0435\u043b-\u0425\u04d9\u0439\u043c\u04d9"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c38\u0c4d \u0c05\u0c32\u0c4d-\u0c16\u0c48\u0c2e\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e23\u0e32\u0e2a\u0e2d\u0e31\u0e25\u0e44\u0e04\u0e21\u0e32\u0e2b\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Res\u00fc'l-Hayme"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0441-\u0435\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
+    ],
     "name:unk_x_variant":[
         "Julfa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u062e\u06cc\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ras al-Khaimah"
+    ],
+    "name:war_x_preferred":[
+        "Ras al-Kaimah"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d0\u10e1-\u10d4\u10da-\u10ee\u10d0\u10d8\u10db\u10d0\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
+    ],
+    "name:yor_x_preferred":[
+        "Ras al Khaimah"
+    ],
+    "name:yue_x_preferred":[
+        "\u62c9\u65af\u6d77\u746a\u914b\u9577\u570b"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u6d77\u739b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"United Arab Emirates",
@@ -192,7 +418,7 @@
         }
     ],
     "wof:id":890455647,
-    "wof:lastmodified":1548975028,
+    "wof:lastmodified":1562795655,
     "wof:name":"Ra\u2019s al Khaymah",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

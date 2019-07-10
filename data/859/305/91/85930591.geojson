@@ -31,9 +31,6 @@
     "name:eng_x_preferred":[
         "Al Mushrif"
     ],
-    "name:eng_x_variant":[
-        "Al Mushrif"
-    ],
     "name:unk_x_variant":[
         "Al Mushrif",
         "\u0627\u0644\u0645\u0634\u0631\u0641"
@@ -70,11 +67,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974156,
+    "wof:lastmodified":1562795537,
     "wof:name":"\u0627\u0644\u0645\u0634\u0631\u0641",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

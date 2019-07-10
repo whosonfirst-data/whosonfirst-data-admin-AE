@@ -25,6 +25,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Qusaydat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1309808373,
-    "wof:lastmodified":1537485215,
+    "wof:lastmodified":1562795608,
     "wof:name":"Qusaydat",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

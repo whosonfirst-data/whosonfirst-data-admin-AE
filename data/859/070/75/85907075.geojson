@@ -28,12 +28,93 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0645\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0634\u0645\u0627\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u0627\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Asch-Schamal"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03b9\u03bd\u03ac\u03c4 \u03b1\u03c2-\u03a3\u03b1\u03bc\u03ac\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Al Shamal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u0627\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Al-\u0160amal"
+    ],
+    "name:fra_x_preferred":[
+        "Ash Shamal"
+    ],
+    "name:ind_x_preferred":[
+        "Madinat ash-Shamal"
+    ],
+    "name:ita_x_preferred":[
+        "Madinat ash Shamal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\uff1d\u30b7\u30e3\u30de\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc2dc\uc0e4\ub9d0"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160amalas"
+    ],
+    "name:lmo_x_preferred":[
+        "Ash Shamal"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Ash Shamal"
+    ],
+    "name:nno_x_preferred":[
+        "Madinat ash-Shamal"
+    ],
+    "name:nor_x_preferred":[
+        "Ash Shamal"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szamal"
+    ],
+    "name:por_x_preferred":[
+        "Madinat ash Shamal"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0448-\u0428\u0430\u043c\u0430\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Madinat ash Shamal"
+    ],
+    "name:tur_x_preferred":[
+        "Medinet e\u015f \u015eemal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0448-\u0428\u0430\u043c\u0430\u043b\u044c"
     ],
     "name:unk_x_variant":[
         "Ash Sham\u0101l",
         "Al Shamal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0634\u0645\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Madinat ash Shamal"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10e8-\u10e8\u10d0\u10db\u10d0\u10da\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u90e8\u533a"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -66,11 +147,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974108,
+    "wof:lastmodified":1562795515,
     "wof:name":"Al Shamal",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

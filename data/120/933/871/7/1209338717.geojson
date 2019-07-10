@@ -25,6 +25,15 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0430\u0434\u044b\u043b\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "'Abadilah"
+    ],
+    "name:spa_x_preferred":[
+        "'Abadilah"
+    ],
     "name:und_x_variant":[
         "\u2018Ab\u0101dilah",
         "Al Abadilah"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209338717,
-    "wof:lastmodified":1548974134,
+    "wof:lastmodified":1562795574,
     "wof:name":"`Abadilah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

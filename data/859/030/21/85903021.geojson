@@ -46,6 +46,9 @@
         "Deira",
         "D\u012brah"
     ],
+    "name:epo_x_preferred":[
+        "Dejra"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0631\u0647"
     ],
@@ -73,12 +76,24 @@
     "name:swe_x_preferred":[
         "Deira"
     ],
+    "name:swe_x_variant":[
+        "Corniche Deira"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc7\u0baf\u0bcd\u0bb0\u0bbe"
+    ],
     "name:tur_x_preferred":[
         "Deyra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0439\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "D\u012brah",
         "Dayrah"
+    ],
+    "name:vie_x_preferred":[
+        "Deira"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -145,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561775385,
+    "wof:lastmodified":1562795519,
     "wof:name":"Dayrah",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

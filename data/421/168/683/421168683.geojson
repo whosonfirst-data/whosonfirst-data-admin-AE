@@ -18,17 +18,29 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Sharjah"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u0645\u0627\u0631\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629"
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0634\u0627\u0631\u0642\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u0631\u0642\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0647"
+    ],
     "name:aze_x_preferred":[
         "\u015earja"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0430\u0440\u0434\u0436\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0430\u0440\u0434\u0436\u0430"
     ],
     "name:bre_x_preferred":[
         "Charjah"
@@ -48,6 +60,9 @@
     "name:deu_x_preferred":[
         "Schardscha"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c1\u03c4\u03b6\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Sharjah"
     ],
@@ -66,6 +81,9 @@
     "name:fin_x_preferred":[
         "Sharja"
     ],
+    "name:fin_x_variant":[
+        "\u0160ard\u017ea"
+    ],
     "name:fra_x_preferred":[
         "Charjah"
     ],
@@ -78,6 +96,9 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05e8\u05d2\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d0\u05e8\u05d2'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u093e\u0930\u091c\u093e\u0939"
     ],
@@ -87,6 +108,12 @@
     "name:hye_x_preferred":[
         "\u0547\u0561\u0580\u056a\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u0547\u0561\u0580\u057b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0561\u0580\u0573\u0561"
+    ],
     "name:ind_x_preferred":[
         "Sharjah"
     ],
@@ -95,6 +122,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30fc\u30eb\u30b8\u30e3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b7\u30e3\u30fc\u30eb\u30b8\u30e3\u5e02"
     ],
     "name:kal_x_preferred":[
         "Sharjah"
@@ -108,6 +138,9 @@
     "name:kor_x_preferred":[
         "\uc0e4\ub974\uc790"
     ],
+    "name:lav_x_preferred":[
+        "\u0160\u0101rd\u017ea"
+    ],
     "name:lit_x_preferred":[
         "\u0160ard\u017ea"
     ],
@@ -120,6 +153,9 @@
     "name:mar_x_preferred":[
         "\u0936\u093e\u0930\u091c\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0440\u045f\u0430"
+    ],
     "name:nld_x_preferred":[
         "Sharjah"
     ],
@@ -127,6 +163,9 @@
         "Sharjah"
     ],
     "name:nob_x_preferred":[
+        "Sharjah"
+    ],
+    "name:nor_x_preferred":[
         "Sharjah"
     ],
     "name:pan_x_preferred":[
@@ -140,6 +179,9 @@
     ],
     "name:por_x_preferred":[
         "Sharjah"
+    ],
+    "name:por_x_variant":[
+        "Xarja"
     ],
     "name:ron_x_preferred":[
         "Sharjah"
@@ -155,6 +197,9 @@
     ],
     "name:spa_x_preferred":[
         "Sarja"
+    ],
+    "name:spa_x_variant":[
+        "Sharjah"
     ],
     "name:sqi_x_preferred":[
         "Sharxha"
@@ -192,11 +237,17 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u0631\u062c\u06c1"
     ],
+    "name:vie_x_preferred":[
+        "Sharjah"
+    ],
     "name:war_x_preferred":[
         "Sharjah"
     ],
     "name:xmf_x_preferred":[
         "\u10e8\u10d0\u10e0\u10ef\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c99\u8fe6"
     ],
     "name:zho_x_preferred":[
         "\u590f\u5c14\u8fe6"
@@ -346,7 +397,7 @@
         }
     ],
     "wof:id":421168683,
-    "wof:lastmodified":1561775391,
+    "wof:lastmodified":1562795612,
     "wof:name":"Sharjah",
     "wof:parent_id":421171391,
     "wof:placetype":"locality",

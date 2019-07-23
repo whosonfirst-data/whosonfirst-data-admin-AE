@@ -26,6 +26,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Shawkah"
+    ],
     "name:und_x_variant":[
         "Shauka",
         "Shokah",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1242676963,
-    "wof:lastmodified":1537579939,
+    "wof:lastmodified":1562795659,
     "wof:name":"Shawkah",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

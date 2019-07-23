@@ -28,16 +28,19 @@
     "name:ara_x_preferred":[
         "Shim\u0101l"
     ],
+    "name:nno_x_preferred":[
+        "Shimal"
+    ],
     "name:und_x_variant":[
         "Shimil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667951,
         102191569,
         85632573,
         890455647,
-        1376833605,
-        85667951
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1376826477,
-    "wof:lastmodified":1548974126,
+    "wof:lastmodified":1562795589,
     "wof:name":"Shimal",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "Al Kh\u0101r\u012b"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0631\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Al Khari"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293691775,
-    "wof:lastmodified":1537579249,
+    "wof:lastmodified":1562795558,
     "wof:name":"Al Khari",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u062c \u0627\u0644\u0645\u0639\u0644\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Falaj al-Mualla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u062c \u0627\u0644\u0645\u0639\u0644\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Falaj Al-Mu'alla"
+    ],
     "name:und_x_variant":[
         "Falaj Ibn Mu\u2019all\u00e1",
         "Falj \u0100l \u2018Al\u012b",
@@ -36,6 +45,9 @@
         "Falaj al Ali",
         "Falaj al Mu\u2018all\u0101",
         "Falaj al Mu\u2018all\u00e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u0627\u062c \u0627\u0644-\u0645\u0648'\u0627\u0644\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1225866049,
-    "wof:lastmodified":1548974131,
+    "wof:lastmodified":1562795671,
     "wof:name":"Falaj al Mu`alla",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

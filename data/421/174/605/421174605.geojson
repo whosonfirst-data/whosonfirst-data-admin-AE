@@ -19,6 +19,12 @@
     "name:eng_x_preferred":[
         "Muhaisnah"
     ],
+    "name:epo_x_preferred":[
+        "Muhajsna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u06cc\u0635\u0646\u0647"
+    ],
     "name:ind_x_preferred":[
         "Muhaisnah"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421174605,
-    "wof:lastmodified":1561775391,
+    "wof:lastmodified":1562795616,
     "wof:name":"Muhaisnah",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

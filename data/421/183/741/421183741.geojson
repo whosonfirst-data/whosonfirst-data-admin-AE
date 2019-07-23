@@ -20,11 +20,20 @@
         "Dib\u0101",
         "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646 \u0627\u06cc\u0633\u062a\u0627\u062f\u06cc\u0648\u0645\u0648"
+    ],
     "name:cat_x_preferred":[
         "Emirat de Diba"
     ],
+    "name:ceb_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
     "name:deu_x_preferred":[
         "Dibba"
+    ],
+    "name:deu_x_variant":[
+        "Dibba al-Hisn"
     ],
     "name:eng_x_preferred":[
         "Dibba Al-Hisn"
@@ -35,11 +44,20 @@
     "name:ita_x_preferred":[
         "Dib\u0101"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30d0\u30fb\u30a2\u30eb\u30fb\u30d2\u30b9\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Dibba Al-Hisn"
     ],
     "name:nno_x_preferred":[
         "Dibba Al-Hisn"
+    ],
+    "name:por_x_preferred":[
+        "Dibba Al-Hisn"
+    ],
+    "name:por_x_variant":[
+        "Doba"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u0431\u0431\u0430 \u0410\u043b\u044c-\u0425\u0438\u0441\u043d"
@@ -52,6 +70,9 @@
     ],
     "name:unk_x_variant":[
         "Dibah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
     ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPL",
@@ -100,7 +121,7 @@
         }
     ],
     "wof:id":421183741,
-    "wof:lastmodified":1561775393,
+    "wof:lastmodified":1562795639,
     "wof:name":"\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0647",
     "wof:parent_id":1376826387,
     "wof:placetype":"locality",

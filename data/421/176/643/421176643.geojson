@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Dhaid"
     ],
+    "name:ceb_x_preferred":[
+        "Adh Dhayd"
+    ],
     "name:eng_x_preferred":[
         "Dhaid"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421176643,
-    "wof:lastmodified":1561775393,
+    "wof:lastmodified":1562795646,
     "wof:name":"Dhaid",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

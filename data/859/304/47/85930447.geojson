@@ -31,8 +31,7 @@
         "Al Buteen"
     ],
     "name:eng_x_variant":[
-        "Community 114",
-        "Al Buteen"
+        "Community 114"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u0637\u06cc\u0646"
@@ -45,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "\u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u06cc\u0646"
     ],
     "qs:gn_id":0,
     "src:geom":"mz",
@@ -83,7 +85,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1561775385,
+    "wof:lastmodified":1562795535,
     "wof:name":"\u0627\u0644\u0628\u0637\u064a\u0646",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

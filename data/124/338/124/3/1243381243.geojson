@@ -26,6 +26,12 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0627\u062b\u064a"
+    ],
+    "name:nno_x_preferred":[
+        "Ghayathi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243381243,
-    "wof:lastmodified":1537485217,
+    "wof:lastmodified":1562795657,
     "wof:name":"Ghayathi",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

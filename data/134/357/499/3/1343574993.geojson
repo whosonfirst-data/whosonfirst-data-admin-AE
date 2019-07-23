@@ -25,6 +25,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Badiyah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1343574993,
-    "wof:lastmodified":1537075319,
+    "wof:lastmodified":1562795507,
     "wof:name":"Badiyah",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

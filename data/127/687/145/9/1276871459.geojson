@@ -25,6 +25,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ghayl"
+    ],
     "name:und_x_variant":[
         "Al-Gh\u012bl",
         "Ghail",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276871459,
-    "wof:lastmodified":1537579942,
+    "wof:lastmodified":1562795567,
     "wof:name":"Ghayl",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

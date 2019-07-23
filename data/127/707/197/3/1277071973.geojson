@@ -25,6 +25,9 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Lulayyah"
+    ],
     "name:und_x_variant":[
         "L\u016blaiyah",
         "Lu\u2019lu\u2019\u012byah",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1277071973,
-    "wof:lastmodified":1537579941,
+    "wof:lastmodified":1562795562,
     "wof:name":"Lulayyah",
     "wof:parent_id":85667977,
     "wof:placetype":"locality",

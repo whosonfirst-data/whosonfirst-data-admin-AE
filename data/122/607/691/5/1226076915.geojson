@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "M\u0101g\u0101m"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0917\u093e\u092e"
+    ],
     "name:ita_x_preferred":[
         "Magam"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226076915,
-    "wof:lastmodified":1562795674,
+    "wof:lastmodified":1564104946,
     "wof:name":"Magam",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

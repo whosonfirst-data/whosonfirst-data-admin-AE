@@ -25,6 +25,9 @@
     "label:eng_x_preferred_placetype":[
         "emirate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AJ"
+    ],
     "lbl:latitude":25.40703,
     "lbl:longitude":55.514075,
     "mps:latitude":25.40703,
@@ -415,7 +418,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1562795547,
+    "wof:lastmodified":1565634329,
     "wof:name":"Ajman",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

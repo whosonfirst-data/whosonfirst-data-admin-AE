@@ -20,6 +20,9 @@
     "itu:country_code":[
         "971"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UAE"
+    ],
     "lbl:latitude":23.755128,
     "lbl:longitude":54.705518,
     "mps:latitude":23.755128,
@@ -1149,7 +1152,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1562795544,
+    "wof:lastmodified":1565634328,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

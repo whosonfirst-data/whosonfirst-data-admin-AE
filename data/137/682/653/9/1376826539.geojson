@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.7583,24.27973,55.7683,24.28973",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Hill\u012b"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1376826539,
-    "wof:lastmodified":1562795596,
+    "wof:lastmodified":1566581597,
     "wof:name":"Hilli",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

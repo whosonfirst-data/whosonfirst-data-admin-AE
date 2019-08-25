@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.29391,25.25538,55.30391,25.26538",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0631 \u062f\u0628\u064a"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1376826559,
-    "wof:lastmodified":1562795593,
+    "wof:lastmodified":1566581597,
     "wof:name":"Bur Dubai",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

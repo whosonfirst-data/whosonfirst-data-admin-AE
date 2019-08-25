@@ -11,8 +11,10 @@
     "geom:longitude":55.31421,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.30921,25.2551,55.31921,25.2651",
     "lbl:latitude":25.2601,
     "lbl:longitude":55.31421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.258509,
     "mps:longitude":55.315635,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Community 125"
-    ],
-    "name:unk_x_variant":[
-        "Riggat Al Buteen"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872877,
-        "qs:id":383256,
         "qs_pg:id":383256
     },
     "wof:country":"AE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974117,
+    "wof:lastmodified":1566581582,
     "wof:name":"Riggat Al Buteen",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

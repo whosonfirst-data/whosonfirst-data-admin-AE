@@ -10,13 +10,16 @@
     "geom:latitude":25.27519,
     "geom:longitude":55.31794,
     "iso:country":"AE",
+    "lbl:bbox":"55.31294,25.27019,55.32294,25.28019",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c \u0646\u0647\u0627\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burj Nah\u0101r"
     ],
     "qs:gn_country":"AE",
@@ -39,17 +42,17 @@
     "qs:woe_id":22724587,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8225860,
         "gp:id":22724587,
-        "qs:id":1318996
+        "qs_pg:id":1318996
     },
     "wof:country":"AE",
     "wof:created":1459009904,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421197149,
-    "wof:lastmodified":1548974111,
+    "wof:lastmodified":1566581603,
     "wof:name":"Burj Nahar",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

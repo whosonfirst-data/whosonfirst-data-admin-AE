@@ -11,8 +11,10 @@
     "geom:longitude":55.17256,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.16756,25.093271,55.17756,25.103271",
     "lbl:latitude":25.098271,
     "lbl:longitude":55.17256,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.091359,
     "mps:longitude":55.175968,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:swe_x_preferred":[
         "De gr\u00f6na"
     ],
-    "name:unk_x_variant":[
-        "The Greens"
-    ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
     "qs:gn_local":292223,
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":148,
     "wof:belongsto":[
         85667983,
@@ -85,7 +84,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872913,
-        "qs:id":1338024,
         "qs_pg:id":1338024
     },
     "wof:country":"AE",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562795538,
+    "wof:lastmodified":1566581583,
     "wof:name":"The Greens",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

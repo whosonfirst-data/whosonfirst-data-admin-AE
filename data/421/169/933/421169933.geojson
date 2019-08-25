@@ -10,8 +10,11 @@
     "geom:latitude":25.28226,
     "geom:longitude":55.31109,
     "iso:country":"AE",
+    "lbl:bbox":"55.30609,25.27726,55.31609,25.28726",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0646\u064a\u0634"
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0439\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Corniche Deira"
-    ],
     "name:vie_x_preferred":[
         "Deira"
     ],
@@ -123,7 +123,7 @@
     "wof:concordances":{
         "gn:id":8225823,
         "gp:id":22724588,
-        "qs:id":502227,
+        "qs_pg:id":502227,
         "wd:id":"Q3021334"
     },
     "wof:country":"AE",
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421169933,
-    "wof:lastmodified":1562795615,
+    "wof:lastmodified":1566581600,
     "wof:name":"Corniche",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

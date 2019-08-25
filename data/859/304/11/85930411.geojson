@@ -11,8 +11,10 @@
     "geom:longitude":55.20048,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.19548,25.112702,55.20548,25.122702",
     "lbl:latitude":25.117702,
     "lbl:longitude":55.20048,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.115934,
     "mps:longitude":55.203205,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:eng_x_variant":[
         "Community 367",
         "Umm Al Sheif"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0645 \u0627\u0644\u0634\u064a\u0641"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -69,18 +68,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872623,
-        "qs:id":1091804,
         "qs_pg:id":1091804
     },
     "wof:country":"AE",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974112,
+    "wof:lastmodified":1566581580,
     "wof:name":"\u0627\u0645 \u0627\u0644\u0634\u064a\u0641",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

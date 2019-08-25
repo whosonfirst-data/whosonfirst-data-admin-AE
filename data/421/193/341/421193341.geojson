@@ -10,8 +10,11 @@
     "geom:latitude":25.24423,
     "geom:longitude":55.43298,
     "iso:country":"AE",
+    "lbl:bbox":"55.42798,25.23923,55.43798,25.24923",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0632\u0647\u0631"
@@ -29,9 +32,6 @@
         "Al Mizhar"
     ],
     "name:ita_x_preferred":[
-        "Al Mizhar"
-    ],
-    "name:unk_x_variant":[
         "Al Mizhar"
     ],
     "qs:gn_country":"AE",
@@ -67,7 +67,7 @@
     "wof:concordances":{
         "gn:id":8200820,
         "gp:id":22724547,
-        "qs:id":888240,
+        "qs_pg:id":888240,
         "wd:id":"Q4117476",
         "wk:page":"Al Mizhar"
     },
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421193341,
-    "wof:lastmodified":1562795613,
+    "wof:lastmodified":1566581599,
     "wof:name":"Al Mezhar",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,11 @@
     "geom:latitude":25.35985,
     "geom:longitude":55.39191,
     "iso:country":"AE",
+    "lbl:bbox":"55.38691,25.35485,55.39691,25.36485",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
@@ -33,17 +36,17 @@
     "qs:woe_id":55872940,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6691135,
         "gp:id":55872940,
-        "qs:id":1104191
+        "qs_pg:id":1104191
     },
     "wof:country":"AE",
     "wof:created":1459009579,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":421188811,
-    "wof:lastmodified":1548974150,
+    "wof:lastmodified":1566581601,
     "wof:name":"\u0627\u0644\u063a\u0648\u064a\u0631",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

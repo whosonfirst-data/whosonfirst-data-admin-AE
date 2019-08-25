@@ -12,8 +12,10 @@
     "gn:latitude":25.24004,
     "gn:longitude":55.30106,
     "iso:country":"AE",
+    "lbl:bbox":"55.29704,25.237434,55.30704,25.247434",
     "lbl:latitude":25.242434,
     "lbl:longitude":55.30204,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.240946,
     "mps:longitude":55.300138,
     "mz:hierarchy_label":0,
@@ -57,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -69,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6691091,
         "gp:id":22724557,
-        "qs:id":1191396,
         "qs_pg:id":1191396,
         "wd:id":"Q3781299",
         "wk:page":"Al Karama, Dubai"
@@ -90,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1562795517,
+    "wof:lastmodified":1566581578,
     "wof:name":"\u0627\u0644\u0643\u0631\u0627\u0645\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

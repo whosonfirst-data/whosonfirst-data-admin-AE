@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.36167,25.345,55.37167,25.355",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:fas_x_preferred":[
         "\u0627\u0644\u062c\u0632\u06cc\u0631\u0647"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1376826555,
-    "wof:lastmodified":1562795594,
+    "wof:lastmodified":1566581597,
     "wof:name":"Al Jazirah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

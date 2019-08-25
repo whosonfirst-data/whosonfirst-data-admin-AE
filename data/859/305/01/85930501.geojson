@@ -11,8 +11,10 @@
     "geom:longitude":54.372874,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"54.367874,24.506301,54.377874,24.516301",
     "lbl:latitude":24.511301,
     "lbl:longitude":54.372874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.516818,
     "mps:longitude":54.372447,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Corniche"
-    ],
-    "name:unk_x_variant":[
-        "\u0643\u0648\u0631\u0646\u064a\u0634"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,19 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872775,
-        "qs:id":218236,
         "qs_pg:id":218236
     },
     "wof:country":"AE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974156,
+    "wof:lastmodified":1566581583,
     "wof:name":"\u0643\u0648\u0631\u0646\u064a\u0634",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

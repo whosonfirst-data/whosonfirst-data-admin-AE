@@ -12,8 +12,10 @@
     "gn:latitude":24.47537,
     "gn:longitude":54.35621,
     "iso:country":"AE",
+    "lbl:bbox":"54.34609,24.469243,54.35609,24.479243",
     "lbl:latitude":24.474243,
     "lbl:longitude":54.35109,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.472121,
     "mps:longitude":54.352477,
     "mz:hierarchy_label":0,
@@ -33,10 +35,6 @@
     ],
     "name:eng_x_variant":[
         "Al Manhal"
-    ],
-    "name:unk_x_variant":[
-        "Al Manhal",
-        "\u0627\u0644\u0645\u0646\u0647\u0644"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8052731,
         "gp:id":55873081,
-        "qs:id":1199256,
         "qs_pg:id":1199256
     },
     "wof:country":"AE",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974156,
+    "wof:lastmodified":1566581577,
     "wof:name":"\u0627\u0644\u0645\u0646\u0647\u0644",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

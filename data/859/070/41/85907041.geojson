@@ -12,8 +12,10 @@
     "gn:latitude":25.22584,
     "gn:longitude":55.30491,
     "iso:country":"AE",
+    "lbl:bbox":"55.28498,25.22109,55.29498,25.23109",
     "lbl:latitude":25.22609,
     "lbl:longitude":55.28998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.225969,
     "mps:longitude":55.290016,
     "mz:hierarchy_label":0,
@@ -37,9 +39,8 @@
     "name:ind_x_preferred":[
         "Zabeel"
     ],
-    "name:unk_x_variant":[
-        "Raml Sabil",
-        "Za'abeel"
+    "name:und_x_variant":[
+        "Raml Sabil"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0639\u0628\u06cc\u0644\u060c \u062f\u0628\u0626\u06cc"
@@ -55,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":25.223581,
     "wd:longitude":55.306031,
     "wd:wordcount":132,
@@ -70,7 +71,6 @@
     "wof:concordances":{
         "gn:id":291083,
         "gp:id":22724552,
-        "qs:id":1191394,
         "qs_pg:id":1191394,
         "wd:id":"Q4117398"
     },
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562795517,
+    "wof:lastmodified":1566581578,
     "wof:name":"Za'abeel",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

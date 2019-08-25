@@ -11,8 +11,10 @@
     "geom:longitude":55.296233,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.291233,25.261333,55.301233,25.271333",
     "lbl:latitude":25.266333,
     "lbl:longitude":55.296233,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.266941,
     "mps:longitude":55.296144,
     "mz:hierarchy_label":0,
@@ -42,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -53,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724562,
-        "qs:id":215941,
         "qs_pg:id":215941,
         "wd:id":"Q4117365"
     },
@@ -73,7 +74,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1562795511,
+    "wof:lastmodified":1566581577,
     "wof:name":"\u0627\u0644\u0631\u0627\u0633",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

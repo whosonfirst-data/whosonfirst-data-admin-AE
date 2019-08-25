@@ -13,8 +13,10 @@
     "gn:latitude":25.26887,
     "gn:longitude":55.29036,
     "iso:country":"AE",
+    "lbl:bbox":"55.284094,25.263307,55.294094,25.273307",
     "lbl:latitude":25.268307,
     "lbl:longitude":55.289094,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.27819,
     "mps:longitude":55.282287,
     "mz:hierarchy_label":0,
@@ -35,9 +37,8 @@
     "name:eng_x_variant":[
         "Al Shindagha"
     ],
-    "name:unk_x_variant":[
-        "Shandaghah",
-        "\u0627\u0644\u0634\u0646\u062f\u063a\u0629"
+    "name:und_x_variant":[
+        "Shandaghah"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -69,21 +70,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"030d1d62-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":290845,
         "gp:id":55873080,
-        "qs:id":243486,
         "qs_pg:id":243486
     },
     "wof:country":"AE",
@@ -102,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974116,
+    "wof:lastmodified":1566581577,
     "wof:name":"\u0627\u0644\u0634\u0646\u062f\u063a\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

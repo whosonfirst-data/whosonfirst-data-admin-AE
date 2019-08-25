@@ -11,8 +11,10 @@
     "geom:longitude":54.353105,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"54.348105,24.480712,54.358105,24.490712",
     "lbl:latitude":24.485712,
     "lbl:longitude":54.353105,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.492904,
     "mps:longitude":54.342666,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Markaziyah West"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u063a\u0631\u0628"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,19 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872764,
-        "qs:id":218234,
         "qs_pg:id":218234
     },
     "wof:country":"AE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974156,
+    "wof:lastmodified":1566581581,
     "wof:name":"\u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u063a\u0631\u0628",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

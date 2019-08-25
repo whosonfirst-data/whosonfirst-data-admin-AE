@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":23.755128,
     "lbl:longitude":54.705518,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":23.755128,
     "mps:longitude":54.705518,
     "mz:hierarchy_label":1,
@@ -924,9 +926,7 @@
         "\u041e\u0431\u0454\u0434\u043d\u0430\u043d\u0456 \u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0456 \u0415\u043c\u0456\u0440\u0430\u0442\u0438"
     ],
     "name:und_x_variant":[
-        "Samein Arabafurstad"
-    ],
-    "name:unk_x_variant":[
+        "Samein Arabafurstad",
         "Al Im\u0101r\u0101t al \u2018Arab\u012byah al Mutta\u1e29idah"
     ],
     "name:urd_x_preferred":[
@@ -1084,7 +1084,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "src:population_date":"2018",
@@ -1131,7 +1130,7 @@
         "mzb:id":"united-arab-emirates",
         "ne:adm0_a3":"ARE",
         "nyt:id":"N85174146580592895821",
-        "qs:id":79979,
+        "qs_pg:id":79979,
         "wd:id":"Q878",
         "wk:page":"United Arab Emirates",
         "wmo:id":"ER"
@@ -1152,7 +1151,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565634328,
+    "wof:lastmodified":1566581583,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

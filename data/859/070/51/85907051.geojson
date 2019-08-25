@@ -12,8 +12,10 @@
     "gn:latitude":25.261,
     "gn:longitude":55.33016,
     "iso:country":"AE",
+    "lbl:bbox":"55.325289,25.251796,55.335289,25.261796",
     "lbl:latitude":25.256796,
     "lbl:longitude":55.330289,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.260878,
     "mps:longitude":55.33777,
     "mz:hierarchy_label":0,
@@ -45,9 +47,8 @@
     "name:ita_x_preferred":[
         "Port Saeed"
     ],
-    "name:unk_x_variant":[
-        "B\u016br Sa\u2018\u012bd",
-        "Port Saeed"
+    "name:und_x_variant":[
+        "B\u016br Sa\u2018\u012bd"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -78,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":25.253056,
     "wd:longitude":55.329167,
     "wd:wordcount":222,
@@ -93,7 +94,6 @@
     "wof:concordances":{
         "gn:id":8225949,
         "gp:id":22724559,
-        "qs:id":902655,
         "qs_pg:id":902655,
         "wd:id":"Q4118633",
         "wk:page":"Port Saeed"
@@ -114,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562795512,
+    "wof:lastmodified":1566581577,
     "wof:name":"Port Saeed",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

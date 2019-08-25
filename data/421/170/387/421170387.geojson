@@ -10,13 +10,16 @@
     "geom:latitude":25.24054,
     "geom:longitude":55.27812,
     "iso:country":"AE",
+    "lbl:bbox":"55.27312,25.23554,55.28312,25.24554",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0636\u064a\u0628\u0647"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u1e28u\u1e11aybah"
     ],
     "qs:gn_country":"AE",
@@ -39,17 +42,17 @@
     "qs:woe_id":22724555,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8225410,
         "gp:id":22724555,
-        "qs:id":555031
+        "qs_pg:id":555031
     },
     "wof:country":"AE",
     "wof:created":1459008851,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421170387,
-    "wof:lastmodified":1548974105,
+    "wof:lastmodified":1566581604,
     "wof:name":"Al Hudheiba",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

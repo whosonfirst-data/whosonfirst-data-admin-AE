@@ -10,13 +10,16 @@
     "geom:latitude":25.23785,
     "geom:longitude":55.41328,
     "iso:country":"AE",
+    "lbl:bbox":"55.40828,25.23285,55.41828,25.24285",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0628\u062f\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mad\u012bnat Badr"
     ],
     "qs:gn_country":"AE",
@@ -39,17 +42,17 @@
     "qs:woe_id":22724590,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8201184,
         "gp:id":22724590,
-        "qs:id":483265
+        "qs_pg:id":483265
     },
     "wof:country":"AE",
     "wof:created":1459008852,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421170431,
-    "wof:lastmodified":1548974105,
+    "wof:lastmodified":1566581604,
     "wof:name":"Madinat Badr",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"52.622,24.1451,52.662,24.1851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293497313,
-    "wof:lastmodified":1536773441,
+    "wof:lastmodified":1566581586,
     "wof:name":"Jebel Dhanna",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

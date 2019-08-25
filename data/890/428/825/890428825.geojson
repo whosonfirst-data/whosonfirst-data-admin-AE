@@ -11,17 +11,21 @@
     "geom:longitude":53.7881,
     "gn:country":"AE",
     "gn:fcode":"PPL",
-    "gn:pop":10000,
+    "gn:population":10000,
     "iso:country":"AE",
+    "lbl:bbox":"53.7681,23.12355,53.8081,23.16355",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Mezaira\u2019a"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0437\u0430\u0438\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mozayri\u2018"
     ],
     "qs:name":"Muzayri\u2018",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":291279,
         "gp:id":55872912,
-        "qs:id":79981
+        "qs_pg:id":79981
     },
     "wof:country":"AE",
     "wof:created":1469051774,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890428825,
-    "wof:lastmodified":1548974037,
+    "wof:lastmodified":1566581606,
     "wof:name":"Muzayri\u2018",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

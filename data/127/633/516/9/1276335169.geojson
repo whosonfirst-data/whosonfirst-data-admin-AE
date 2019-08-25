@@ -23,8 +23,12 @@
     "gn:population":30000,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"56.24176,25.57246,56.28176,25.61246",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0628\u0627 \u0627\u0644\u0641\u062c\u064a\u0631\u0629"
     ],
@@ -59,8 +63,7 @@
         "Dibba Al-Fujairah"
     ],
     "name:und_x_variant":[
-        "Al-Fujairah",
-        "Dibba Al-Fujairah"
+        "Al-Fujairah"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1276335169,
-    "wof:lastmodified":1562795568,
+    "wof:lastmodified":1566581589,
     "wof:name":"Dibba Al-Fujairah",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",

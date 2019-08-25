@@ -11,8 +11,10 @@
     "geom:longitude":55.279146,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.274146,25.26301,55.284146,25.27301",
     "lbl:latitude":25.26801,
     "lbl:longitude":55.279146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.268739,
     "mps:longitude":55.272581,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Community 311"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062a\u062c\u0645\u0639 311"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,19 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872525,
-        "qs:id":1337959,
         "qs_pg:id":1337959
     },
     "wof:country":"AE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974114,
+    "wof:lastmodified":1566581579,
     "wof:name":"\u0627\u0644\u062a\u062c\u0645\u0639 311",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

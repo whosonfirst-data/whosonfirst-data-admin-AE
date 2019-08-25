@@ -11,8 +11,10 @@
     "geom:longitude":55.298965,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.293965,25.263708,55.303965,25.273708",
     "lbl:latitude":25.268708,
     "lbl:longitude":55.298965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.269132,
     "mps:longitude":55.298978,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:ita_x_preferred":[
         "Al Buteen"
     ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0628\u0637\u064a\u0646"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0637\u06cc\u0646"
     ],
@@ -54,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872655,
-        "qs:id":1090127,
         "qs_pg:id":1090127,
         "wd:id":"Q4117392"
     },
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1562795535,
+    "wof:lastmodified":1566581582,
     "wof:name":"\u0627\u0644\u0628\u0637\u064a\u0646",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

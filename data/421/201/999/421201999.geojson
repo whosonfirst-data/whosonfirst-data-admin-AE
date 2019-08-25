@@ -10,10 +10,14 @@
     "geom:latitude":25.07462,
     "geom:longitude":56.35545,
     "iso:country":"AE",
+    "lbl:bbox":"56.33545,25.05462,56.37545,25.09462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gh\u0101lla"
     ],
     "qs:gn_country":"AE",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":291763,
         "gp:id":1940358,
-        "qs:id":1353405
+        "qs_pg:id":1353405
     },
     "wof:country":"AE",
     "wof:created":1459010100,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421201999,
-    "wof:lastmodified":1548974134,
+    "wof:lastmodified":1566581603,
     "wof:name":"\u0643\u0644\u0628\u0627\u0621",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"53.18,23.26333,53.22,23.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Duwaihir",
         "Dhawaihir",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226544107,
-    "wof:lastmodified":1548974039,
+    "wof:lastmodified":1566581611,
     "wof:name":"Zuwayhir",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

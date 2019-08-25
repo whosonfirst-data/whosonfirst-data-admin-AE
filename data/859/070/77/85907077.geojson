@@ -11,8 +11,10 @@
     "geom:longitude":55.299449,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.294449,25.258675,55.304449,25.268675",
     "lbl:latitude":25.263675,
     "lbl:longitude":55.299449,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.26364,
     "mps:longitude":55.299561,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Bastakia"
-    ],
-    "name:unk_x_variant":[
         "Bastakia"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724586,
-        "qs:id":1118666,
         "qs_pg:id":1118666
     },
     "wof:country":"AE",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974104,
+    "wof:lastmodified":1566581578,
     "wof:name":"Bastakia",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

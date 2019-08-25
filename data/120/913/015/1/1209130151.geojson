@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"56.02452,25.33979,56.06452,25.37979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Raml\u0101",
         "Ramlah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209130151,
-    "wof:lastmodified":1548974123,
+    "wof:lastmodified":1566581591,
     "wof:name":"Ramlah",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

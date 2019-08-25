@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":25.290081,
     "lbl:longitude":55.597165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.290081,
     "mps:longitude":55.597165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Sharjah"
@@ -227,7 +230,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ash Sh\u0101riqah"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55922644,
-        "qs:id":1247421
+        "qs_pg:id":1247421
     },
     "wof:country":"AE",
     "wof:created":1459008892,
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421171391,
-    "wof:lastmodified":1562795648,
+    "wof:lastmodified":1566581605,
     "wof:name":"Sharjah",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

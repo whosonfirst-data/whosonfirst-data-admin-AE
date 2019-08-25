@@ -11,8 +11,10 @@
     "geom:longitude":55.324141,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.319141,25.238897,55.329141,25.248897",
     "lbl:latitude":25.243897,
     "lbl:longitude":55.324141,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.24452,
     "mps:longitude":55.322082,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:eng_x_variant":[
         "Umm Hurair 2"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0645 \u0647\u0631\u064a\u0631 2"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -68,18 +67,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872456,
-        "qs:id":216212,
         "qs_pg:id":216212
     },
     "wof:country":"AE",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974113,
+    "wof:lastmodified":1566581579,
     "wof:name":"\u0627\u0645 \u0647\u0631\u064a\u0631 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

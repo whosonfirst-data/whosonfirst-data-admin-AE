@@ -23,18 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.5858,25.48742,55.5958,25.49742",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0644\u0645\u0629"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667955,
         102191569,
         85632573,
         890455645,
-        1376833609,
-        85667955
+        1376833609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1376826551,
-    "wof:lastmodified":1548974132,
+    "wof:lastmodified":1566581597,
     "wof:name":"As Salamah",
     "wof:parent_id":890455645,
     "wof:placetype":"neighbourhood",

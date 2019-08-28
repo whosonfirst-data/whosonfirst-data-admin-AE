@@ -11,8 +11,10 @@
     "geom:longitude":55.383918,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.378918,25.340851,55.388918,25.350851",
     "lbl:latitude":25.345851,
     "lbl:longitude":55.383918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.346115,
     "mps:longitude":55.385965,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Soor"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0633\u0648\u0631"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55873003,
-        "qs:id":962296,
         "qs_pg:id":962296
     },
     "wof:country":"AE",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974151,
+    "wof:lastmodified":1566581583,
     "wof:name":"\u0627\u0644\u0633\u0648\u0631",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":24.40618,
     "gn:longitude":54.48137,
     "iso:country":"AE",
+    "lbl:bbox":"54.46999,24.408126,54.47999,24.418126",
     "lbl:latitude":24.413126,
     "lbl:longitude":54.47499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.409893,
     "mps:longitude":54.476341,
     "mz:hierarchy_label":0,
@@ -34,9 +36,8 @@
     "name:eng_x_variant":[
         "Al Maqtaa"
     ],
-    "name:unk_x_variant":[
-        "Al Maq\u0163a\u2018",
-        "\u0627\u0644\u0645\u0642\u0637\u0639"
+    "name:und_x_variant":[
+        "Al Maq\u0163a\u2018"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -68,19 +69,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":389393,
         "gp:id":55872599,
-        "qs:id":1311295,
         "qs_pg:id":1311295
     },
     "wof:country":"AE",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974155,
+    "wof:lastmodified":1566581579,
     "wof:name":"\u0627\u0644\u0645\u0642\u0637\u0639",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

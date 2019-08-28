@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.73489,24.214,55.74489,24.224",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Mutarad",
         "Al Mu\u2018taridh",
@@ -36,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421168687,
-        421200931,
-        85667981
+        421200931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1376826531,
-    "wof:lastmodified":1548974182,
+    "wof:lastmodified":1566581597,
     "wof:name":"Al Mu`tarad",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

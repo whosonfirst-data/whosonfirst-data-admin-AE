@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"53.90836,23.09904,53.94836,23.13904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e24iwei\u1e6dein",
         "Huwaitin",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293700481,
-    "wof:lastmodified":1537579942,
+    "wof:lastmodified":1566581586,
     "wof:name":"Huwaytayn",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

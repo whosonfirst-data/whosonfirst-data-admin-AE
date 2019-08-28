@@ -12,6 +12,8 @@
     "iso:country":"AE",
     "lbl:latitude":25.297908,
     "lbl:longitude":55.570011,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":25.297908,
     "mps:longitude":55.570011,
     "mz:hierarchy_label":1,
@@ -231,7 +233,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ash Sh\u0101riqah"
     ],
     "name:urd_x_preferred":[
@@ -381,7 +383,7 @@
     "wof:concordances":{
         "gn:id":292672,
         "gp:id":1940119,
-        "qs:id":493085,
+        "qs_pg:id":493085,
         "wd:id":"Q289693"
     },
     "wof:country":"AE",
@@ -397,7 +399,7 @@
         }
     ],
     "wof:id":421168683,
-    "wof:lastmodified":1562795612,
+    "wof:lastmodified":1566581599,
     "wof:name":"Sharjah",
     "wof:parent_id":421171391,
     "wof:placetype":"locality",

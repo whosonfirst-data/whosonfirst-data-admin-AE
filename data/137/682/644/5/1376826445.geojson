@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"56.05324,25.88284,56.06324,25.89284",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Z\u0327\u0101yah",
         "Dhaiah",
@@ -33,11 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667951,
         102191569,
         85632573,
         890455647,
-        1376833605,
-        85667951
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1376826445,
-    "wof:lastmodified":1548974125,
+    "wof:lastmodified":1566581594,
     "wof:name":"Dayah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

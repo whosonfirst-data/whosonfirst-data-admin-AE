@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":25.694165,
     "lbl:longitude":55.977945,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.694165,
     "mps:longitude":55.977945,
     "mz:hierarchy_label":1,
@@ -220,7 +221,7 @@
         "Ras al-Khaimah"
     ],
     "name:sin_x_preferred":[
-        "\u0dbb\u0dc3\u0dca  \u0d85\u0dbd\u0dca \u0d9a\u0dba\u0dd2\u0db8\u0dcf\u0dc4\u0dca"
+        "\u0dbb\u0dc3\u0dca \u0d85\u0dbd\u0dca \u0d9a\u0dba\u0dd2\u0db8\u0dcf\u0dc4\u0dca"
     ],
     "name:slk_x_preferred":[
         "R\u00e1s al-Chajm\u00e1"
@@ -270,7 +271,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0441-\u0435\u043b\u044c-\u0425\u0430\u0439\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jasimi Shaikhdom of Ras al-Khaimah"
     ],
     "name:urd_x_preferred":[
@@ -370,7 +371,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "src:population_date":"2015",
@@ -398,7 +398,7 @@
         "gp:id":2347113,
         "hasc:id":"AE.RK",
         "iso:id":"AE-RK",
-        "qs:id":1135358,
+        "qs_pg:id":1135358,
         "wd:id":"Q170024"
     },
     "wof:coterminous":[
@@ -420,7 +420,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565634329,
+    "wof:lastmodified":1566581584,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

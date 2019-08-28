@@ -12,8 +12,10 @@
     "gn:latitude":25.22499,
     "gn:longitude":55.38947,
     "iso:country":"AE",
+    "lbl:bbox":"55.39249,25.222116,55.40249,25.232116",
     "lbl:latitude":25.227116,
     "lbl:longitude":55.39749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.225954,
     "mps:longitude":55.396603,
     "mz:hierarchy_label":0,
@@ -43,9 +45,8 @@
     "name:ita_x_preferred":[
         "Al Rashidiya"
     ],
-    "name:unk_x_variant":[
-        "Rash\u012bd\u012byah",
-        "\u0627\u0644\u0631\u0627\u0634\u062f\u064a\u0629"
+    "name:und_x_variant":[
+        "Rash\u012bd\u012byah"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -77,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -89,7 +90,6 @@
     "wof:concordances":{
         "gn:id":291061,
         "gp:id":22724548,
-        "qs:id":888248,
         "qs_pg:id":888248,
         "wd:id":"Q4119925",
         "wk:page":"Al Rashidiya"
@@ -110,7 +110,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1562795515,
+    "wof:lastmodified":1566581578,
     "wof:name":"\u0627\u0644\u0631\u0627\u0634\u062f\u064a\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

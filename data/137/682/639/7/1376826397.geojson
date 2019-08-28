@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":24.939939,
     "lbl:longitude":56.22558,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.939939,
     "mps:longitude":56.22558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0628\u0627\u0621\u200e"
     ],
@@ -101,7 +104,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1562795595,
+    "wof:lastmodified":1566581597,
     "wof:name":"Kalba",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

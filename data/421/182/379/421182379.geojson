@@ -10,8 +10,11 @@
     "geom:latitude":24.48023,
     "geom:longitude":54.35301,
     "iso:country":"AE",
+    "lbl:bbox":"54.34801,24.47523,54.35801,24.48523",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "Al \u1e28i\u015fn"
@@ -39,17 +42,17 @@
     "qs:woe_id":55872830,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8052445,
         "gp:id":55872830,
-        "qs:id":907649
+        "qs_pg:id":907649
     },
     "wof:country":"AE",
     "wof:created":1459009328,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421182379,
-    "wof:lastmodified":1548974154,
+    "wof:lastmodified":1566581605,
     "wof:name":"\u0627\u0644\u062d\u0635\u0646",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

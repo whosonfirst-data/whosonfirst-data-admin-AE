@@ -11,8 +11,10 @@
     "geom:longitude":55.370058,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.365058,25.30718,55.375058,25.31718",
     "lbl:latitude":25.31218,
     "lbl:longitude":55.370058,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.305527,
     "mps:longitude":55.373506,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Nahda"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0646\u0647\u062f\u0629"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872463,
-        "qs:id":1294392,
         "qs_pg:id":1294392
     },
     "wof:country":"AE",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974149,
+    "wof:lastmodified":1566581579,
     "wof:name":"\u0627\u0644\u0646\u0647\u062f\u0629",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

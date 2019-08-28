@@ -11,8 +11,10 @@
     "geom:longitude":55.204336,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.199336,25.098188,55.209336,25.108188",
     "lbl:latitude":25.103188,
     "lbl:longitude":55.204336,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.097883,
     "mps:longitude":55.210705,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Community 376"
-    ],
-    "name:unk_x_variant":[
-        "Al Barshaa 2"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872835,
-        "qs:id":1155225,
         "qs_pg:id":1155225
     },
     "wof:country":"AE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974115,
+    "wof:lastmodified":1566581582,
     "wof:name":"Al Barshaa 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

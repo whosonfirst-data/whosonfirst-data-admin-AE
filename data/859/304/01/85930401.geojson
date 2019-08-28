@@ -11,8 +11,10 @@
     "geom:longitude":55.135887,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.130887,25.065784,55.140887,25.075784",
     "lbl:latitude":25.070784,
     "lbl:longitude":55.135887,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.05628,
     "mps:longitude":55.139048,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Jumeirah Islands"
-    ],
-    "name:unk_x_variant":[
-        "\u062c\u0632\u0631 \u062c\u0645\u064a\u0631\u0627"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872618,
-        "qs:id":1337978,
         "qs_pg:id":1337978
     },
     "wof:country":"AE",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974111,
+    "wof:lastmodified":1566581581,
     "wof:name":"\u062c\u0632\u0631 \u062c\u0645\u064a\u0631\u0627",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

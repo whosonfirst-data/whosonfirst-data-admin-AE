@@ -11,8 +11,10 @@
     "geom:longitude":55.370519,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.365519,25.258355,55.375519,25.268355",
     "lbl:latitude":25.263355,
     "lbl:longitude":55.370519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.26789,
     "mps:longitude":55.372296,
     "mz:hierarchy_label":0,
@@ -45,16 +47,13 @@
     "name:ita_x_preferred":[
         "Al Twar"
     ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0637\u0648\u0627\u0631 1"
-    ],
     "qs:gn_id":0,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724545,
-        "qs:id":8168,
         "qs_pg:id":8168,
         "wd:id":"Q4117471"
     },
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1562795512,
+    "wof:lastmodified":1566581577,
     "wof:name":"\u0627\u0644\u0637\u0648\u0627\u0631 1",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

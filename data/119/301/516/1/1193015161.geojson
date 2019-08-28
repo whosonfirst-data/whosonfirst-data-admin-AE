@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"56.07376,25.432,56.11376,25.472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khubakhib",
         "Khab\u0101khib"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193015161,
-    "wof:lastmodified":1548974122,
+    "wof:lastmodified":1566581591,
     "wof:name":"Khabakhib",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

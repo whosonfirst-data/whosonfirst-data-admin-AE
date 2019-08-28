@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"56.17449,24.78388,56.21449,24.82388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suheila",
         "Suhaylah"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326941711,
-    "wof:lastmodified":1537579938,
+    "wof:lastmodified":1566581574,
     "wof:name":"Suhaylah",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

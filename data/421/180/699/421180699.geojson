@@ -10,13 +10,16 @@
     "geom:latitude":25.25634,
     "geom:longitude":55.28923,
     "iso:country":"AE",
+    "lbl:bbox":"55.28423,25.25134,55.29423,25.26134",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0639\u0634\u0631\u0629 \u0627\u0644\u0628\u062d\u0627\u0631\u0646\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma\u2018sharat al Ba\u1e29\u0101rnah"
     ],
     "qs:gn_country":"AE",
@@ -39,17 +42,17 @@
     "qs:woe_id":22724558,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8227001,
         "gp:id":22724558,
-        "qs:id":502226
+        "qs_pg:id":502226
     },
     "wof:country":"AE",
     "wof:created":1459009267,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421180699,
-    "wof:lastmodified":1548974109,
+    "wof:lastmodified":1566581600,
     "wof:name":"Ma'ashrat Al Baharna",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

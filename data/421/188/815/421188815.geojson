@@ -10,13 +10,16 @@
     "geom:latitude":24.47214,
     "geom:longitude":54.3999,
     "iso:country":"AE",
+    "lbl:bbox":"54.3949,24.46714,54.4049,24.47714",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631 \u0627\u0644\u0628\u062d\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qa\u015fr al Ba\u1e29r"
     ],
     "qs:gn_country":"AE",
@@ -39,17 +42,17 @@
     "qs:woe_id":55873052,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421179641,
-        421172075,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8052378,
         "gp:id":55873052,
-        "qs:id":1104192
+        "qs_pg:id":1104192
     },
     "wof:country":"AE",
     "wof:created":1459009579,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421188815,
-    "wof:lastmodified":1548974154,
+    "wof:lastmodified":1566581601,
     "wof:name":"\u0642\u0635\u0631 \u0627\u0644\u0628\u062d\u0631",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,11 @@
     "geom:latitude":25.233011,
     "geom:longitude":55.282087,
     "iso:country":"AE",
+    "lbl:bbox":"55.277087,25.228011,55.287087,25.238011",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,16 +36,16 @@
     "qs:woe_id":22724550,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724550,
-        "qs:id":52595
+        "qs_pg:id":52595
     },
     "wof:country":"AE",
     "wof:created":1459009177,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421178277,
-    "wof:lastmodified":1548974109,
+    "wof:lastmodified":1566581605,
     "wof:name":"Al Satwa East",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

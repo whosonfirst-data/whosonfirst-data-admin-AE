@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"56.18221,25.20388,56.22221,25.24388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bilaidah",
         "Bilaida",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326536231,
-    "wof:lastmodified":1537579943,
+    "wof:lastmodified":1566581575,
     "wof:name":"Bulaydah",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",

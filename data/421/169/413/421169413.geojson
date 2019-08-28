@@ -10,13 +10,16 @@
     "geom:latitude":25.22912,
     "geom:longitude":55.49009,
     "iso:country":"AE",
+    "lbl:bbox":"55.48509,25.22412,55.49509,25.23412",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0648\u0627\u0646\u064a\u062c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Khaw\u0101n\u012bj"
     ],
     "qs:gn_country":"AE",
@@ -39,17 +42,17 @@
     "qs:woe_id":55872572,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8310107,
         "gp:id":55872572,
-        "qs:id":1198283
+        "qs_pg:id":1198283
     },
     "wof:country":"AE",
     "wof:created":1459008809,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421169413,
-    "wof:lastmodified":1548974105,
+    "wof:lastmodified":1566581600,
     "wof:name":"\u0627\u0644\u062e\u0648\u0627\u0646\u064a\u062c",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

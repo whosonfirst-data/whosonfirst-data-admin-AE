@@ -12,8 +12,10 @@
     "gn:latitude":25.26797,
     "gn:longitude":55.31272,
     "iso:country":"AE",
+    "lbl:bbox":"55.313238,25.267312,55.323238,25.277312",
     "lbl:latitude":25.272312,
     "lbl:longitude":55.318238,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.272867,
     "mps:longitude":55.317974,
     "mz:hierarchy_label":0,
@@ -46,9 +48,8 @@
     "name:ita_x_preferred":[
         "Al Rigga"
     ],
-    "name:unk_x_variant":[
-        "Ar Riqqah",
-        "\u0627\u0644\u0631\u0642\u0629"
+    "name:und_x_variant":[
+        "Ar Riqqah"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -80,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -92,7 +93,6 @@
     "wof:concordances":{
         "gn:id":8226648,
         "gp:id":22724563,
-        "qs:id":1086004,
         "qs_pg:id":1086004,
         "wd:id":"Q4115318",
         "wk:page":"Al Rigga"
@@ -113,7 +113,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1562795511,
+    "wof:lastmodified":1566581577,
     "wof:name":"\u0627\u0644\u0631\u0642\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

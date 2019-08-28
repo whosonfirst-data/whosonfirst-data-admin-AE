@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":24.891256,
     "lbl:longitude":55.348249,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.891256,
     "mps:longitude":55.348249,
     "mz:hierarchy_label":0,
@@ -478,7 +480,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Debai"
     ],
     "name:urd_x_preferred":[
@@ -602,7 +604,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "src:population_date":"2011",
@@ -632,7 +633,7 @@
         "gp:id":2347111,
         "hasc:id":"AE.DU",
         "iso:id":"AE-DU",
-        "qs:id":1278641,
+        "qs_pg:id":1278641,
         "unlc:id":"AE-DU",
         "wd:id":"Q613",
         "wk:page":"Emirate of Dubai"
@@ -657,7 +658,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1562795604,
+    "wof:lastmodified":1566581598,
     "wof:name":"Dubai",
     "wof:parent_id":85667983,
     "wof:placetype":"county",

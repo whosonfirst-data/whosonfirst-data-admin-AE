@@ -11,8 +11,10 @@
     "geom:longitude":55.385389,
     "gn:id":"",
     "iso:country":"AE",
+    "lbl:bbox":"55.380389,25.354356,55.390389,25.364356",
     "lbl:latitude":25.359356,
     "lbl:longitude":55.385389,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.363371,
     "mps:longitude":55.386114,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Shuwaiheyen"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0634\u0648\u064a\u062d\u064a\u064a\u0646"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872653,
-        "qs:id":986690,
         "qs_pg:id":986690
     },
     "wof:country":"AE",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974149,
+    "wof:lastmodified":1566581581,
     "wof:name":"\u0627\u0644\u0634\u0648\u064a\u062d\u064a\u064a\u0646",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

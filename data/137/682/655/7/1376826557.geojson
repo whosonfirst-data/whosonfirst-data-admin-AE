@@ -23,18 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.95889,25.68111,55.96889,25.69111",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u1e28\u0101m \u1e28\u0101m"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667951,
         102191569,
         85632573,
         890455647,
-        1376833605,
-        85667951
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1376826557,
-    "wof:lastmodified":1548974127,
+    "wof:lastmodified":1566581597,
     "wof:name":"Ham Ham",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

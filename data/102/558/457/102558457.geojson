@@ -12,6 +12,7 @@
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Al Hamra Aux Airport"
     ],
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":102558457,
-    "wof:lastmodified":1562795505,
+    "wof:lastmodified":1566581575,
     "wof:name":"Al Hamra aux Airport",
     "wof:parent_id":85667981,
     "wof:placetype":"campus",

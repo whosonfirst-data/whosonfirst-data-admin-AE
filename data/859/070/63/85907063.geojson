@@ -12,8 +12,10 @@
     "gn:latitude":25.26674,
     "gn:longitude":55.32099,
     "iso:country":"AE",
+    "lbl:bbox":"55.32241,25.265175,55.33241,25.275175",
     "lbl:latitude":25.270175,
     "lbl:longitude":55.32741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.268396,
     "mps:longitude":55.328294,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
     "name:eng_x_preferred":[
         "Rigga East"
     ],
-    "name:unk_x_variant":[
-        "Ar Riqqah Sharq",
-        "Rigga East"
+    "name:und_x_variant":[
+        "Ar Riqqah Sharq"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -64,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8225914,
         "gp:id":22724567,
-        "qs:id":483257,
         "qs_pg:id":483257
     },
     "wof:country":"AE",
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1548974108,
+    "wof:lastmodified":1566581578,
     "wof:name":"Rigga East",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

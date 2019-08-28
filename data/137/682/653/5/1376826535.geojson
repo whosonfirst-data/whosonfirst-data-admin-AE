@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.74082,24.24414,55.75082,24.25414",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al Q\u012bm\u012b"
     ],
@@ -36,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421168687,
-        421200931,
-        85667981
+        421200931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1376826535,
-    "wof:lastmodified":1548974183,
+    "wof:lastmodified":1566581597,
     "wof:name":"Al Qimi",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

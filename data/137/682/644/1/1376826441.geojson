@@ -23,19 +23,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
+    "lbl:bbox":"55.45033,25.01125,55.46033,25.02125",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Ud al Beida",
         "\u2018\u016ad al Bay\u1e11\u0101\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1376826441,
-    "wof:lastmodified":1548974119,
+    "wof:lastmodified":1566581594,
     "wof:name":"`Ud al Bayda'",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

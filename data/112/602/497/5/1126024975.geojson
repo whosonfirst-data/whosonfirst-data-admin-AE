@@ -51,10 +51,11 @@
         "\u0391\u03b6\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Ujman"
+        "Ajman"
     ],
     "name:eng_x_variant":[
-        "Ajman"
+        "Ujman",
+        "`Ajm\u0101n"
     ],
     "name:epo_x_preferred":[
         "A\u011dman"
@@ -260,8 +261,8 @@
         }
     ],
     "wof:id":1126024975,
-    "wof:lastmodified":1566581606,
-    "wof:name":"`Ajm\u0101n",
+    "wof:lastmodified":1568145836,
+    "wof:name":"Ajman",
     "wof:parent_id":1376833607,
     "wof:placetype":"locality",
     "wof:population":226172,

@@ -78,6 +78,10 @@
         "qs_pg:id":238038
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a7904c871a8ebf7e2e20fe3a0e88422",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581582,
+    "wof:lastmodified":1582313357,
     "wof:name":"\u0627\u0644\u062a\u062c\u0645\u0639 372",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

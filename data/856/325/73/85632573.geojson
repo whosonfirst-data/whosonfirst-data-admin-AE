@@ -1137,6 +1137,11 @@
     },
     "wof:country":"AE",
     "wof:country_alpha3":"ARE",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"5388a2365dd8e70807dbf569a2b20e54",
     "wof:hierarchy":[
         {
@@ -1151,7 +1156,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566581583,
+    "wof:lastmodified":1582313358,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

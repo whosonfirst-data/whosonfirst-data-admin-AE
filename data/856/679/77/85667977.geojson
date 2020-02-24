@@ -401,6 +401,9 @@
         "wk:page":"Emirate of Sharjah"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d371c1e5251d4d41f8bf43900f1d8bad",
     "wof:hierarchy":[
         {
@@ -416,7 +419,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566581586,
+    "wof:lastmodified":1582313359,
     "wof:name":"Sharjah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

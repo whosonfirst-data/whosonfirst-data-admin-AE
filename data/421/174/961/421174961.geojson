@@ -634,6 +634,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459009050,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"94b0985f982bcf6f48b3c2d16b848beb",
     "wof:hierarchy":[
         {
@@ -645,7 +648,7 @@
         }
     ],
     "wof:id":421174961,
-    "wof:lastmodified":1566581600,
+    "wof:lastmodified":1582313360,
     "wof:name":"Dubai",
     "wof:parent_id":1376833603,
     "wof:placetype":"locality",

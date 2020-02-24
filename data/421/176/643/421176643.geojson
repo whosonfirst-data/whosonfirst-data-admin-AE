@@ -95,6 +95,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459009115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3819fec37f7fce4fbe2492afa3094618",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421176643,
-    "wof:lastmodified":1566581605,
+    "wof:lastmodified":1582313360,
     "wof:name":"Dhaid",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

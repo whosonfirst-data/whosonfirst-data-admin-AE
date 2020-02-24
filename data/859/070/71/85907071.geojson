@@ -97,6 +97,10 @@
         "wd:id":"Q4117058"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6ec5f6a652e1c21d9dfc6e966174de8",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581578,
+    "wof:lastmodified":1582313356,
     "wof:name":"Al Rifa'a",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

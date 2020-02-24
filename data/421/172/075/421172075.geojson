@@ -549,6 +549,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459008919,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1830e6ccbe1c5aac96fe02686b9714f",
     "wof:hierarchy":[
         {
@@ -559,7 +562,7 @@
         }
     ],
     "wof:id":421172075,
-    "wof:lastmodified":1566581601,
+    "wof:lastmodified":1582313360,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85667981,
     "wof:placetype":"county",

@@ -105,6 +105,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459009418,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c593c3b7e945cf9db655b866a39b12dd",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421184661,
-    "wof:lastmodified":1566581603,
+    "wof:lastmodified":1582313360,
     "wof:name":"Al Manamah",
     "wof:parent_id":1376833607,
     "wof:placetype":"locality",

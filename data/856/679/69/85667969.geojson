@@ -403,6 +403,9 @@
         1376833607
     ],
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"848f83a87fae8843162e03f35ba11334",
     "wof:hierarchy":[
         {
@@ -418,7 +421,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566581584,
+    "wof:lastmodified":1582313359,
     "wof:name":"Ajman",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

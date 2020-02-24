@@ -250,6 +250,9 @@
     },
     "wof:country":"AE",
     "wof:created":1497301079,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"49ca966de38e0ba73fc13ab6136c7582",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":1126024975,
-    "wof:lastmodified":1568145836,
+    "wof:lastmodified":1582313360,
     "wof:name":"Ajman",
     "wof:parent_id":1376833607,
     "wof:placetype":"locality",

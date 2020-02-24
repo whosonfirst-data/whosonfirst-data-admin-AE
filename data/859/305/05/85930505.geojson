@@ -71,6 +71,10 @@
         "qs_pg:id":1338008
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"92f98c7be182fdbc7aa878bb514d696b",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581582,
+    "wof:lastmodified":1582313357,
     "wof:name":"Community 358",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

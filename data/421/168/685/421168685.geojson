@@ -379,6 +379,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459008774,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f04018458b8bce22d3b6a5de74a415c0",
     "wof:hierarchy":[
         {
@@ -390,7 +393,7 @@
         }
     ],
     "wof:id":421168685,
-    "wof:lastmodified":1566581599,
+    "wof:lastmodified":1582313360,
     "wof:name":"Fujairah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

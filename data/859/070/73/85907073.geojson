@@ -104,6 +104,10 @@
         "wk:page":"Al Sabkha"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf28c261dd98f0065ee6d33fdfc6520e",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581578,
+    "wof:lastmodified":1582313356,
     "wof:name":"\u0627\u0644\u0633\u0628\u062e\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

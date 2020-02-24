@@ -98,6 +98,10 @@
         "wk:page":"Al Rigga"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb871cf58fbb1416c045ea153ecb1dfb",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1582313356,
     "wof:name":"\u0627\u0644\u0631\u0642\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

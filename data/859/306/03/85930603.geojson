@@ -91,6 +91,10 @@
         "wd:id":"Q4117126"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"91dac9e3034915bf5455367935262f11",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1582313355,
     "wof:name":"Umm Ramool",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

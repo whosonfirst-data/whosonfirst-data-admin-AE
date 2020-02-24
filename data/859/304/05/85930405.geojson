@@ -91,6 +91,10 @@
         "wd:id":"Q4117490"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f620fa2f52dbfbdfba0f20649cbd2635",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581580,
+    "wof:lastmodified":1582313357,
     "wof:name":"Umm Suqeim 1",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

@@ -76,6 +76,10 @@
         "wk:page":"Al Karama, Dubai"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"746f3899501e27c8d5eb0e9ae45b46e6",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581578,
+    "wof:lastmodified":1582313356,
     "wof:name":"\u0627\u0644\u0643\u0631\u0627\u0645\u0629",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

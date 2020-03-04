@@ -70,6 +70,10 @@
         "wk:page":"Al Wasl, Dubai"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea8640bc5a9b2ae363176719dffa89b0",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1582313356,
     "wof:name":"\u0627\u0644\u0648\u0635\u0644",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

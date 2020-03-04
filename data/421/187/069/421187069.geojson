@@ -154,6 +154,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459009501,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb410412af5f9a39f539e85be371f4ac",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421187069,
-    "wof:lastmodified":1566581601,
+    "wof:lastmodified":1582313360,
     "wof:name":"Khor Fakkan",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

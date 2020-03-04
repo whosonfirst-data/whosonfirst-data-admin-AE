@@ -97,6 +97,10 @@
         "wk:page":"Nad Al Sheba"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da151190a430359ceaed61770084490e",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1582313356,
     "wof:name":"Nadd Al Shiba",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

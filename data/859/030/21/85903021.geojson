@@ -142,6 +142,10 @@
         "wk:page":"Deira, Dubai"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d66ce1dde01a1b31142dde17ac55c937",
     "wof:hierarchy":[
         {
@@ -157,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581578,
+    "wof:lastmodified":1582313356,
     "wof:name":"Dayrah",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

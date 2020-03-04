@@ -101,6 +101,10 @@
         "wk:page":"Mirdif"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20a5449a585f843a979b9dc5b741bb53",
     "wof:hierarchy":[
         {
@@ -116,7 +120,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1582313356,
     "wof:name":"\u0645\u0631\u062f\u0641",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

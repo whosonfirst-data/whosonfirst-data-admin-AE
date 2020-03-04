@@ -74,6 +74,10 @@
         "qs_pg:id":383256
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b48b25ce7047831cd27babc0dee7018",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581582,
+    "wof:lastmodified":1582313358,
     "wof:name":"Riggat Al Buteen",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

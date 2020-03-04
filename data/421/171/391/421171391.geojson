@@ -287,6 +287,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459008892,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c51cee7f859810e8f827d9a5dee0806",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421171391,
-    "wof:lastmodified":1566581605,
+    "wof:lastmodified":1582313360,
     "wof:name":"Sharjah",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

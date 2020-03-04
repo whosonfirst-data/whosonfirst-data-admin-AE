@@ -80,6 +80,10 @@
         "wk:page":"Al Mushrif"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a341c748e721756d3afc2e1a9ee78d54",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566581583,
+    "wof:lastmodified":1582313358,
     "wof:name":"\u0627\u0644\u0645\u0634\u0631\u0641",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

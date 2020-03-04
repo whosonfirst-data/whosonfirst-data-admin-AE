@@ -381,6 +381,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459008775,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a41a75fbc5c7a083f8f75b9e5f60a059",
     "wof:hierarchy":[
         {
@@ -392,7 +395,7 @@
         }
     ],
     "wof:id":421168687,
-    "wof:lastmodified":1566581599,
+    "wof:lastmodified":1582313360,
     "wof:name":"Al Ain",
     "wof:parent_id":421200931,
     "wof:placetype":"locality",

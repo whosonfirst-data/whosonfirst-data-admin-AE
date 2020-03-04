@@ -99,6 +99,10 @@
         "wk:page":"Port Saeed"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2687492790f4353bf9388c71fa986482",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1582313356,
     "wof:name":"Port Saeed",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

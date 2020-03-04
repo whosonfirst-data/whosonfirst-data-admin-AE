@@ -377,6 +377,9 @@
     },
     "wof:country":"AE",
     "wof:created":1469052965,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"10ca0e96d4eb78ffb9e35e661e686cf2",
     "wof:hierarchy":[
         {
@@ -388,7 +391,7 @@
         }
     ],
     "wof:id":890455645,
-    "wof:lastmodified":1566581605,
+    "wof:lastmodified":1582313360,
     "wof:name":"Umm al Qaywayn",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

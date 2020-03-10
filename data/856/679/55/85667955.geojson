@@ -387,9 +387,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "dbp:id":"Umm_al-Quwain",
-        "digitalenvoy:region_code":[
-            25157
-        ],
+        "digitalenvoy:region_code":25157,
         "fb:id":"en.umm_al-quwain",
         "fips:code":"AE07",
         "gn:id":290595,
@@ -424,7 +422,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538177,
+    "wof:lastmodified":1583882640,
     "wof:name":"Umm Al Quwain",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

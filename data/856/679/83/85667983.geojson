@@ -637,9 +637,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25153
-        ],
+        "digitalenvoy:region_code":25153,
         "fips:code":"AE03",
         "gn:id":292224,
         "gp:id":2347111,
@@ -672,7 +670,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538177,
+    "wof:lastmodified":1583882639,
     "wof:name":"Dubai",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

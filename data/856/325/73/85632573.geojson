@@ -1114,9 +1114,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"United_Arab_Emirates",
-        "digitalenvoy:country_code":[
-            784
-        ],
+        "digitalenvoy:country_code":784,
         "fb:id":"en.united_arab_emirates",
         "fifa:id":"UAE",
         "fips:code":"AE",
@@ -1159,7 +1157,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529069,
+    "wof:lastmodified":1583797272,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

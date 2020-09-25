@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bateen"
+    ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":6691214,
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":421198239,
-    "wof:lastmodified":1566581602,
-    "wof:name":"\u0627\u0644\u0628\u0637\u064a\u0646",
+    "wof:lastmodified":1601068389,
+    "wof:name":"Al Bateen",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",

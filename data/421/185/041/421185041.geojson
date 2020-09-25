@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rifaah"
+    ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":6691209,
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":421185041,
-    "wof:lastmodified":1566581605,
-    "wof:name":"\u0627\u0644\u0631\u0641\u0627\u062d",
+    "wof:lastmodified":1601068390,
+    "wof:name":"Al Rifaah",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",

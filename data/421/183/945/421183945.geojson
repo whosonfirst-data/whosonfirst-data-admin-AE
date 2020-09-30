@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.2194655,25.1401665,55.2194655,25.1401665",
+    "geom:bbox":"55.219465,25.140166,55.219465,25.140166",
     "geom:latitude":25.140166,
     "geom:longitude":55.219465,
     "iso:country":"AE",
@@ -42,11 +42,11 @@
     "qs:woe_id":55872610,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
+        1376833603,
         421174961,
-        1376833603
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009395,
-    "wof:geomhash":"7be76a5f9f86a471cf9c59aff543f5c8",
+    "wof:geomhash":"3af3d2335168085f5d990d9e2cab7896",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":421183945,
-    "wof:lastmodified":1601068400,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Quoz Industrail Area 3",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -77,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.2194655,
-    25.1401665,
-    55.2194655,
-    25.1401665
+    55.219465,
+    25.140166,
+    55.219465,
+    25.140166
 ],
-  "geometry": {"coordinates":[55.2194655,25.1401665],"type":"Point"}
+  "geometry": {"coordinates":[55.219465,25.140166],"type":"Point"}
 }

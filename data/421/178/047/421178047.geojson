@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667951,
-        1376833605
+        1376833605,
+        85667951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421178047,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423092,
     "wof:name":"Sha'am",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

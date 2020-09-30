@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0639\u0648\u062f \u0645\u064a\u062b\u0627\u0621"
     ],
-    "name:ara_x_variant":[
-        "\u0639\u0648\u062f \u0645\u064a\u062b\u0627\u0621"
-    ],
     "name:eng_x_preferred":[
         "Oud Metha"
     ],
@@ -45,11 +42,11 @@
     "qs:woe_id":55872621,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
+        1376833603,
         421174961,
-        1376833603
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":421169195,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423091,
     "wof:name":"Oud Metha",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

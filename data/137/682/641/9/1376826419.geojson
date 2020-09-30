@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.0228645,25.8773725,56.0228645,25.8773725",
+    "geom:bbox":"56.022864,25.877372,56.022864,25.877372",
     "geom:latitude":25.877372,
     "geom:longitude":56.022864,
     "iso:country":"AE",
@@ -42,11 +42,11 @@
     "qs:woe_id":1940109,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667951,
         102191569,
         85632573,
+        1376833605,
         890455647,
-        1376833605
+        85667951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009418,
-    "wof:geomhash":"a1740ba0e41db7fd9c88bc2b9b397a66",
+    "wof:geomhash":"ad9453c90df99fc958d0aae33d170b50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1376826419,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Rams",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",
@@ -79,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.0228645,
-    25.8773725,
-    56.0228645,
-    25.8773725
+    56.022864,
+    25.877372,
+    56.022864,
+    25.877372
 ],
-  "geometry": {"coordinates":[56.0228645,25.8773725],"type":"Point"}
+  "geometry": {"coordinates":[56.022864,25.877372],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.9193665,24.892763,54.9193665,24.892763",
+    "geom:bbox":"54.919367,24.892763,54.919367,24.892763",
     "geom:latitude":24.892763,
     "geom:longitude":54.919367,
     "iso:country":"AE",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981,
-        421172075
+        421172075,
+        85667981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009709,
-    "wof:geomhash":"4a7595a88e0e8d17abe2e66fe6d0cee2",
+    "wof:geomhash":"01d8c72679d1cf24b34d44bcfc426086",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191767,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423092,
     "wof:name":"Sieh Shuaib",
     "wof:parent_id":421172075,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.9193665,
+    54.919367,
     24.892763,
-    54.9193665,
+    54.919367,
     24.892763
 ],
-  "geometry": {"coordinates":[54.9193665,24.892763],"type":"Point"}
+  "geometry": {"coordinates":[54.919367,24.892763],"type":"Point"}
 }

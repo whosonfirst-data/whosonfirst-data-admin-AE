@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.2911985,25.157715,56.2911985,25.157715",
+    "geom:bbox":"56.291199,25.157715,56.291199,25.157715",
     "geom:latitude":25.157715,
     "geom:longitude":56.291199,
     "iso:country":"AE",
@@ -51,7 +51,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009864,
-    "wof:geomhash":"65da90e875698ccdacf01d3376b0bc99",
+    "wof:geomhash":"1bcb33e9785e687b6802c74e6f155fda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":421195935,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Fujaira",
     "wof:parent_id":85667959,
     "wof:placetype":"county",
@@ -71,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.2911985,
+    56.291199,
     25.157715,
-    56.2911985,
+    56.291199,
     25.157715
 ],
-  "geometry": {"coordinates":[56.2911985,25.157715],"type":"Point"}
+  "geometry": {"coordinates":[56.291199,25.157715],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.3426185,25.241969,55.3426185,25.241969",
+    "geom:bbox":"55.342619,25.241969,55.342619,25.241969",
     "geom:latitude":25.241969,
     "geom:longitude":55.342619,
     "iso:country":"AE",
@@ -42,11 +42,11 @@
     "qs:woe_id":22724549,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
+        1376833603,
         421174961,
-        1376833603
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009777,
-    "wof:geomhash":"c715b7d870b3f885ba14e5243d266e19",
+    "wof:geomhash":"4d4ec3a11f30da5692bab152e96b0ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":421193605,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Garhoud",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -77,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.3426185,
+    55.342619,
     25.241969,
-    55.3426185,
+    55.342619,
     25.241969
 ],
-  "geometry": {"coordinates":[55.3426185,25.241969],"type":"Point"}
+  "geometry": {"coordinates":[55.342619,25.241969],"type":"Point"}
 }

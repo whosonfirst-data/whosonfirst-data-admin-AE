@@ -14,6 +14,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0642\u064a\u0648\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Al Quwain"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":421171393,
-    "wof:lastmodified":1548974152,
-    "wof:name":"\u0623\u0645 \u0627\u0644\u0642\u064a\u0648\u064a\u0646",
+    "wof:lastmodified":1601423094,
+    "wof:name":"Umm Al Quwain",
     "wof:parent_id":85667955,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ae",

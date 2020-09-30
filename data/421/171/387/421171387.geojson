@@ -7,13 +7,19 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.92041,25.7134525,55.92041,25.7134525",
+    "geom:bbox":"55.92041,25.713452,55.92041,25.713452",
     "geom:latitude":25.713452,
     "geom:longitude":55.92041,
     "iso:country":"AE",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u062e\u064a\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Al Khaimah"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -45,7 +51,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459008892,
-    "wof:geomhash":"2fc939c825ae8eb4e638ec793f6bebe1",
+    "wof:geomhash":"6f9e788ce9c919410f753c23b53ca598",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":421171387,
-    "wof:lastmodified":1548974148,
-    "wof:name":"\u0631\u0627\u0633 \u0627\u0644\u062e\u064a\u0645\u0629",
+    "wof:lastmodified":1601423091,
+    "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85667951,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     55.92041,
-    25.7134525,
+    25.713452,
     55.92041,
-    25.7134525
+    25.713452
 ],
-  "geometry": {"coordinates":[55.92041,25.7134525],"type":"Point"}
+  "geometry": {"coordinates":[55.92041,25.713452],"type":"Point"}
 }

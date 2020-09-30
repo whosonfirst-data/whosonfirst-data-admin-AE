@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u064a\u0631\u0627 3"
+    ],
+    "name:eng_x_preferred":[
+        "Jumeirah 3"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -36,11 +42,11 @@
     "qs:woe_id":55872554,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
+        1376833603,
         421174961,
-        1376833603
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421184697,
-    "wof:lastmodified":1566581604,
-    "wof:name":"\u062c\u0645\u064a\u0631\u0627 3",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Jumeirah 3",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",

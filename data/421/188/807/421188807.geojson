@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Al Yarmouk"
+    ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":6691122,
@@ -36,11 +42,11 @@
     "qs:woe_id":55872767,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667977,
         102191569,
         85632573,
+        421171391,
         421168683,
-        421171391
+        85667977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":421188807,
-    "wof:lastmodified":1566581601,
-    "wof:name":"\u0627\u0644\u064a\u0631\u0645\u0648\u0643",
+    "wof:lastmodified":1601423086,
+    "wof:name":"Al Yarmouk",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",

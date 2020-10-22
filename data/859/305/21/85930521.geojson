@@ -9,7 +9,6 @@
     "geom:bbox":"55.204336,25.103188,55.204336,25.103188",
     "geom:latitude":25.103188,
     "geom:longitude":55.204336,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.199336,25.098188,55.209336,25.108188",
     "lbl:latitude":25.103188,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85930521,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1603243873,
     "wof:name":"Al Barshaa 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

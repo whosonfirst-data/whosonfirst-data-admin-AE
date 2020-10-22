@@ -9,7 +9,6 @@
     "geom:bbox":"55.235302,25.160758,55.235302,25.160758",
     "geom:latitude":25.160758,
     "geom:longitude":55.235302,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.230302,25.155758,55.240302,25.165758",
     "lbl:latitude":25.160758,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85930505,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313357,
+    "wof:lastmodified":1603243873,
     "wof:name":"Community 358",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

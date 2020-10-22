@@ -14,7 +14,6 @@
     "geom:bbox":"51.497112,22.631514,56.381248,26.069654",
     "geom:latitude":23.927394,
     "geom:longitude":54.331748,
-    "gn:id":"",
     "gn:population":4975593,
     "iso:country":"AE",
     "itu:country_code":[
@@ -1202,7 +1201,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1587427380,
+    "wof:lastmodified":1603243874,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

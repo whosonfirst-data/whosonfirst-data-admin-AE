@@ -9,7 +9,6 @@
     "geom:bbox":"55.223693,25.116876,55.223693,25.116876",
     "geom:latitude":25.116876,
     "geom:longitude":55.223693,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.218693,25.111876,55.228693,25.121876",
     "lbl:latitude":25.116876,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85930565,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1603243873,
     "wof:name":"Al Quoz Industrial Area 4",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

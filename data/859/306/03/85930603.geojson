@@ -9,7 +9,6 @@
     "geom:bbox":"55.37857,25.240511,55.37857,25.240511",
     "geom:latitude":25.240511,
     "geom:longitude":55.37857,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.37357,25.235511,55.38357,25.245511",
     "lbl:latitude":25.240511,
@@ -107,10 +106,7 @@
         }
     ],
     "wof:id":85930603,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313355,
+    "wof:lastmodified":1603243870,
     "wof:name":"Umm Ramool",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

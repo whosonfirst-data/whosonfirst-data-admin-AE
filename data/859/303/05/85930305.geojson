@@ -9,7 +9,6 @@
     "geom:bbox":"54.437215,24.436214,54.437215,24.436214",
     "geom:latitude":24.436214,
     "geom:longitude":54.437215,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"54.432215,24.431214,54.442215,24.441214",
     "lbl:latitude":24.436214,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85930305,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582313356,
+    "wof:lastmodified":1603243871,
     "wof:name":"\u0627\u0644\u0645\u0637\u0631",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

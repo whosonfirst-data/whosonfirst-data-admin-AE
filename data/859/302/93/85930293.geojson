@@ -9,7 +9,6 @@
     "geom:bbox":"55.194682,25.147621,55.194682,25.147621",
     "geom:latitude":25.147621,
     "geom:longitude":55.194682,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.189682,25.142621,55.199682,25.152621",
     "lbl:latitude":25.147621,
@@ -107,10 +106,7 @@
         }
     ],
     "wof:id":85930293,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1603243873,
     "wof:name":"Umm Suqeim 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

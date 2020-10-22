@@ -9,7 +9,6 @@
     "geom:bbox":"55.31421,25.2601,55.31421,25.2601",
     "geom:latitude":25.2601,
     "geom:longitude":55.31421,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.30921,25.2551,55.31921,25.2651",
     "lbl:latitude":25.2601,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85930543,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1603243873,
     "wof:name":"Riggat Al Buteen",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

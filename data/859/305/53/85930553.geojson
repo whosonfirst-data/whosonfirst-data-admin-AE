@@ -9,7 +9,6 @@
     "geom:bbox":"55.17256,25.098271,55.17256,25.098271",
     "geom:latitude":25.098271,
     "geom:longitude":55.17256,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.16756,25.093271,55.17756,25.103271",
     "lbl:latitude":25.098271,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85930553,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1603243873,
     "wof:name":"The Greens",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

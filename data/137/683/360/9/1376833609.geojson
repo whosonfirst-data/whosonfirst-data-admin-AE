@@ -394,6 +394,9 @@
         85667955
     ],
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf68913c184871ba2eb2ecc4984b6d59",
     "wof:hierarchy":[
         {
@@ -410,7 +413,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566581598,
+    "wof:lastmodified":1603243875,
     "wof:name":"Umm Al Quwain",
     "wof:parent_id":85667955,
     "wof:placetype":"county",

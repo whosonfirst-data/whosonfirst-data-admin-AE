@@ -9,7 +9,6 @@
     "geom:bbox":"55.299449,25.263675,55.299449,25.263675",
     "geom:latitude":25.263675,
     "geom:longitude":55.299449,
-    "gn:id":"",
     "iso:country":"AE",
     "lbl:bbox":"55.294449,25.258675,55.304449,25.268675",
     "lbl:latitude":25.263675,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85907077,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582313356,
+    "wof:lastmodified":1603243871,
     "wof:name":"Bastakia",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

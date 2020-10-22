@@ -642,6 +642,9 @@
         85667983
     ],
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1238aaccf8e610fc54d00d3a52238c72",
     "wof:hierarchy":[
         {
@@ -658,7 +661,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566581598,
+    "wof:lastmodified":1603243875,
     "wof:name":"Dubai",
     "wof:parent_id":85667983,
     "wof:placetype":"county",

@@ -397,6 +397,9 @@
         85667951
     ],
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"561b6540722d5bcdeffc2abbb41b66e0",
     "wof:hierarchy":[
         {
@@ -413,7 +416,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566581598,
+    "wof:lastmodified":1603243875,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85667951,
     "wof:placetype":"county",

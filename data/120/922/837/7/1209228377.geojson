@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209228377,
-    "wof:lastmodified":1566581591,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751599,
     "wof:name":"Al Qaia",
     "wof:parent_id":421200931,
     "wof:placetype":"locality",

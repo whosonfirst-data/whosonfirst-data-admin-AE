@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        1376833611,
-        85667959
+        85667959,
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,13 @@
         }
     ],
     "wof:id":421190351,
-    "wof:lastmodified":1601423088,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751605,
     "wof:name":"Dhadna",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

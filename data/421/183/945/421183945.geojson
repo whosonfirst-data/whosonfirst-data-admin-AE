@@ -42,11 +42,11 @@
     "qs:woe_id":55872610,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
-        1376833603,
         421174961,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":421183945,
-    "wof:lastmodified":1601423085,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751606,
     "wof:name":"Al Quoz Industrail Area 3",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

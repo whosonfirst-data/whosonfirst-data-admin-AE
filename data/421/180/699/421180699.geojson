@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":421180699,
-    "wof:lastmodified":1566581600,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751604,
     "wof:name":"Ma'ashrat Al Baharna",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

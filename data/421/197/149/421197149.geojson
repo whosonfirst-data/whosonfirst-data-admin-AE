@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":421197149,
-    "wof:lastmodified":1566581603,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751605,
     "wof:name":"Burj Nahar",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

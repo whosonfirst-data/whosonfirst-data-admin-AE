@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1376826553,
-    "wof:lastmodified":1566581597,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751602,
     "wof:name":"Warisan",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

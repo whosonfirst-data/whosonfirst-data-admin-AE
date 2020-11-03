@@ -423,7 +423,13 @@
         }
     ],
     "wof:id":890455647,
-    "wof:lastmodified":1582313360,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751606,
     "wof:name":"Ra\u2019s al Khaymah",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1209432417,
-    "wof:lastmodified":1566581591,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751600,
     "wof:name":"Al Mughayra'",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

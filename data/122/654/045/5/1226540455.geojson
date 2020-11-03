@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226540455,
-    "wof:lastmodified":1566581611,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751607,
     "wof:name":"Sa'if",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

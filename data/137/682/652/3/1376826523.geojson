@@ -60,7 +60,13 @@
         }
     ],
     "wof:id":1376826523,
-    "wof:lastmodified":1566581597,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751602,
     "wof:name":"Qarat ad Dum",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

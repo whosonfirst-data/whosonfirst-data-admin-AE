@@ -218,7 +218,13 @@
         }
     ],
     "wof:id":1242569409,
-    "wof:lastmodified":1566581607,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751606,
     "wof:name":"Kabir",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

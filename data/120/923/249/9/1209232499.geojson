@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209232499,
-    "wof:lastmodified":1566581591,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751599,
     "wof:name":"Qu`aysah",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

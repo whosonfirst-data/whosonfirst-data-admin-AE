@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":421170515,
-    "wof:lastmodified":1566581604,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751605,
     "wof:name":"\u0645\u0646\u062e\u0648\u0644",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

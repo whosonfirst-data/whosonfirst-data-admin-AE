@@ -393,7 +393,13 @@
         }
     ],
     "wof:id":421168685,
-    "wof:lastmodified":1582313360,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751603,
     "wof:name":"Fujairah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

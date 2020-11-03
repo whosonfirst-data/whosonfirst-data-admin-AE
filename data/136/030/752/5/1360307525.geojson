@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360307525,
-    "wof:lastmodified":1566581594,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751600,
     "wof:name":"Girath",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

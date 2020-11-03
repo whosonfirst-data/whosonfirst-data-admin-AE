@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1376826481,
-    "wof:lastmodified":1566581596,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751602,
     "wof:name":"Al Qurayyah",
     "wof:parent_id":421168685,
     "wof:placetype":"neighbourhood",

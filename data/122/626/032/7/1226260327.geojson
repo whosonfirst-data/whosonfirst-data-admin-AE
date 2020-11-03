@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226260327,
-    "wof:lastmodified":1566581610,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751607,
     "wof:name":"Al Hadhi",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

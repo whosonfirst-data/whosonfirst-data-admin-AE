@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1226364603,
-    "wof:lastmodified":1566581611,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751608,
     "wof:name":"Shis",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

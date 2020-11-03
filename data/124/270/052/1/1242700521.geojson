@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242700521,
-    "wof:lastmodified":1566581607,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751607,
     "wof:name":"Faqi",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1376826439,
-    "wof:lastmodified":1566581594,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751600,
     "wof:name":"Diqdaqah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

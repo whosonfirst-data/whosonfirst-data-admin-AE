@@ -42,11 +42,11 @@
     "qs:woe_id":55872587,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667969,
         102191569,
         85632573,
-        1376833607,
         1126024975,
-        85667969
+        1376833607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":421198239,
-    "wof:lastmodified":1601423083,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751605,
     "wof:name":"Al Bateen",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",

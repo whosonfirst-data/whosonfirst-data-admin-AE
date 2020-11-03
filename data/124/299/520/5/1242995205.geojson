@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1242995205,
-    "wof:lastmodified":1566581608,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751607,
     "wof:name":"Wadi Shi",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

@@ -108,7 +108,13 @@
         }
     ],
     "wof:id":421176643,
-    "wof:lastmodified":1582313360,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751606,
     "wof:name":"Dhaid",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

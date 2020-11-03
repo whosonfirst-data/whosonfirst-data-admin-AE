@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1376826503,
-    "wof:lastmodified":1566581595,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751601,
     "wof:name":"Hasat al Bidiyah",
     "wof:parent_id":421184661,
     "wof:placetype":"neighbourhood",

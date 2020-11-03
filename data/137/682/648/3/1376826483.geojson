@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1376826483,
-    "wof:lastmodified":1566581596,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751602,
     "wof:name":"Al Fulayyah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

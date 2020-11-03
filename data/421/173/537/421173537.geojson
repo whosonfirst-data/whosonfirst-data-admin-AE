@@ -42,11 +42,11 @@
     "qs:woe_id":55873078,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
-        421171391,
         421168683,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":421173537,
-    "wof:lastmodified":1601423085,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751604,
     "wof:name":"Al Mrayjeh",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

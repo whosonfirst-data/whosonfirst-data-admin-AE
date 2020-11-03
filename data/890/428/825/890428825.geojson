@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":890428825,
-    "wof:lastmodified":1566581606,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751606,
     "wof:name":"Muzayri\u2018",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        1376833609,
-        85667955
+        85667955,
+        1376833609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,13 @@
         }
     ],
     "wof:id":421175777,
-    "wof:lastmodified":1601423094,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751604,
     "wof:name":"Umm Al Thuoob Industrial Area",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

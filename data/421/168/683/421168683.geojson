@@ -402,7 +402,13 @@
         }
     ],
     "wof:id":421168683,
-    "wof:lastmodified":1582313360,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751603,
     "wof:name":"Sharjah",
     "wof:parent_id":421171391,
     "wof:placetype":"locality",

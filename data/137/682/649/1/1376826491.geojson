@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1376826491,
-    "wof:lastmodified":1566581595,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751601,
     "wof:name":"Ar Rams",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

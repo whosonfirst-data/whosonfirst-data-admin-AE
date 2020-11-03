@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226544643,
-    "wof:lastmodified":1566581611,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751607,
     "wof:name":"Athabat",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

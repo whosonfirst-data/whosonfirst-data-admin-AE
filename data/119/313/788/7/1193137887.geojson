@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1193137887,
-    "wof:lastmodified":1566581592,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751600,
     "wof:name":"Zanhah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

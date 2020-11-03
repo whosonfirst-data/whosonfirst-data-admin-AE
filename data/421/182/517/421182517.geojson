@@ -109,7 +109,13 @@
         }
     ],
     "wof:id":421182517,
-    "wof:lastmodified":1566581605,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751606,
     "wof:name":"Ar Ruways",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

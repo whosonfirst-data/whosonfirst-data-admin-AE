@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226544107,
-    "wof:lastmodified":1566581611,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603751607,
     "wof:name":"Zuwayhir",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

@@ -652,7 +652,9 @@
         85667981
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632573,
+    "wof:capital_of":[
+        85632573
+    ],
     "wof:concordances":{
         "gn:id":292968,
         "gp:id":1940330,

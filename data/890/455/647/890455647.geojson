@@ -396,7 +396,9 @@
         85667951
     ],
     "wof:breaches":[],
-    "wof:capital_of":85667951,
+    "wof:capital_of":[
+        85667951
+    ],
     "wof:concordances":{
         "gn:id":291074,
         "gp:id":55872961,
@@ -424,7 +426,7 @@
         }
     ],
     "wof:id":890455647,
-    "wof:lastmodified":1607124715,
+    "wof:lastmodified":1607462602,
     "wof:name":"Ra\u2019s al Khaymah",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

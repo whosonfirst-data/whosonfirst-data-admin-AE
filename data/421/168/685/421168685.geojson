@@ -371,7 +371,9 @@
         85667959
     ],
     "wof:breaches":[],
-    "wof:capital_of":85667959,
+    "wof:capital_of":[
+        85667959
+    ],
     "wof:concordances":{
         "gn:id":292878,
         "gp:id":1940056,
@@ -394,7 +396,7 @@
         }
     ],
     "wof:id":421168685,
-    "wof:lastmodified":1607124715,
+    "wof:lastmodified":1607462603,
     "wof:name":"Fujairah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

@@ -243,7 +243,9 @@
         85667969
     ],
     "wof:breaches":[],
-    "wof:capital_of":85667969,
+    "wof:capital_of":[
+        85667969
+    ],
     "wof:concordances":{
         "gn:id":292932,
         "qs_pg:id":547135,
@@ -265,7 +267,7 @@
         }
     ],
     "wof:id":1126024975,
-    "wof:lastmodified":1607124715,
+    "wof:lastmodified":1607462603,
     "wof:name":"Ajman",
     "wof:parent_id":1376833607,
     "wof:placetype":"locality",

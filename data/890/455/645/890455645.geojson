@@ -369,7 +369,9 @@
         85667955
     ],
     "wof:breaches":[],
-    "wof:capital_of":85667955,
+    "wof:capital_of":[
+        85667955
+    ],
     "wof:concordances":{
         "gn:id":290594,
         "qs_pg:id":547110,
@@ -392,7 +394,7 @@
         }
     ],
     "wof:id":890455645,
-    "wof:lastmodified":1607124715,
+    "wof:lastmodified":1607462602,
     "wof:name":"Umm al Qaywayn",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

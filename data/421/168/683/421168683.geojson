@@ -380,7 +380,9 @@
         85667977
     ],
     "wof:breaches":[],
-    "wof:capital_of":85667977,
+    "wof:capital_of":[
+        85667977
+    ],
     "wof:concordances":{
         "gn:id":292672,
         "gp:id":1940119,
@@ -403,7 +405,7 @@
         }
     ],
     "wof:id":421168683,
-    "wof:lastmodified":1607124715,
+    "wof:lastmodified":1607462603,
     "wof:name":"Sharjah",
     "wof:parent_id":421171391,
     "wof:placetype":"locality",

@@ -428,6 +428,9 @@
         85632573
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        421179641
+    ],
     "wof:concordances":{
         "digitalenvoy:region_code":25152,
         "fips:code":"AE01",
@@ -459,7 +462,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1607124716,
+    "wof:lastmodified":1607460574,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

@@ -390,6 +390,9 @@
         85632573
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        421168683
+    ],
     "wof:concordances":{
         "digitalenvoy:region_code":25156,
         "fips:code":"AE06",
@@ -420,7 +423,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1587587483,
+    "wof:lastmodified":1607462603,
     "wof:name":"Sharjah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

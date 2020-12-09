@@ -653,7 +653,8 @@
     ],
     "wof:breaches":[],
     "wof:capital_of":[
-        85632573
+        85632573,
+        85667981
     ],
     "wof:concordances":{
         "gn:id":292968,
@@ -679,7 +680,7 @@
         }
     ],
     "wof:id":421179641,
-    "wof:lastmodified":1607390897,
+    "wof:lastmodified":1607462603,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":421172075,
     "wof:placetype":"locality",

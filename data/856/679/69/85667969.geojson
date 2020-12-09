@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":0.017326,
-    "geom:area_square_m":193540760.542725,
+    "geom:area_square_m":193540648.101557,
     "geom:bbox":"55.417719,25.282049,56.033211,25.472448",
     "geom:latitude":25.38934,
     "geom:longitude":55.606289,
@@ -389,6 +389,9 @@
         85632573
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        1126024975
+    ],
     "wof:concordances":{
         "digitalenvoy:region_code":25151,
         "fips:code":"AE02",
@@ -422,7 +425,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882639,
+    "wof:lastmodified":1607462603,
     "wof:name":"Ajman",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

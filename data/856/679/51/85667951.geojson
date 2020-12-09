@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1972-02-10",
     "geom:area":0.223385,
-    "geom:area_square_m":2493995968.558377,
+    "geom:area_square_m":2493994525.105408,
     "geom:bbox":"55.729594,24.820372,56.274683,26.069654",
     "geom:latitude":25.455723,
     "geom:longitude":56.033426,
@@ -392,6 +392,9 @@
         85632573
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        890455647
+    ],
     "wof:concordances":{
         "digitalenvoy:region_code":25155,
         "fips:code":"AE05",
@@ -424,7 +427,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882639,
+    "wof:lastmodified":1607462602,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

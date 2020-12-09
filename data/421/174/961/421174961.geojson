@@ -647,6 +647,9 @@
         85667983
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85667983
+    ],
     "wof:concordances":{
         "gn:id":292223,
         "gp:id":1940345,
@@ -669,7 +672,7 @@
         }
     ],
     "wof:id":421174961,
-    "wof:lastmodified":1587427381,
+    "wof:lastmodified":1607462603,
     "wof:name":"Dubai",
     "wof:parent_id":1376833603,
     "wof:placetype":"locality",

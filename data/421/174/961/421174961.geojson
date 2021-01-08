@@ -653,6 +653,7 @@
     "wof:concordances":{
         "gn:id":292223,
         "gp:id":1940345,
+        "ne:id":1159151497,
         "qs_pg:id":911265,
         "wd:id":"Q612"
     },
@@ -672,7 +673,8 @@
         }
     ],
     "wof:id":421174961,
-    "wof:lastmodified":1607462603,
+    "wof:lastmodified":1608688189,
+    "wof:megacity":1,
     "wof:name":"Dubai",
     "wof:parent_id":1376833603,
     "wof:placetype":"locality",

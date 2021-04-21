@@ -1,95 +1,45 @@
 {
-  "id": 1376826387,
+  "id": 1730008697,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":4773757.18116,
     "geom:bbox":"56.254571,25.605047,56.283601,25.629307",
     "geom:latitude":25.61713,
     "geom:longitude":56.269276,
     "iso:country":"AE",
-    "label:ara_x_preferred_longname":[
-        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
-    ],
-    "label:eng_x_preferred_longname":[
-        "Dibba Al-Hisn"
-    ],
-    "lbl:latitude":25.616672,
+    "lbl:latitude":25.616671,
     "lbl:longitude":56.268101,
-    "lbl:max_zoom":10.0,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":25.616672,
+    "mps:latitude":25.616671,
     "mps:longitude":56.268101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":6.0,
-    "name:ara_x_preferred":[
-        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
-    ],
-    "name:ara_x_variant":[
-        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
-    ],
-    "name:azb_x_preferred":[
-        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646 \u0627\u06cc\u0633\u062a\u0627\u062f\u06cc\u0648\u0645\u0648"
-    ],
-    "name:ceb_x_preferred":[
-        "Dibba Al-Hisn"
-    ],
     "name:eng_x_preferred":[
         "Dibba Al-Hisn"
     ],
-    "name:fas_x_preferred":[
-        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
-    ],
-    "name:ita_x_preferred":[
-        "Dib\u0101"
-    ],
-    "name:nno_x_preferred":[
-        "Dibba Al-Hisn"
-    ],
-    "name:por_x_preferred":[
-        "Doba"
-    ],
-    "name:swe_x_preferred":[
-        "Dibba al-Hisn"
-    ],
-    "name:urd_x_preferred":[
-        "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[
-        102191569,
-        85632573,
-        85667977
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:coterminous":[
-        1730008661
+        1376826387
     ],
     "wof:country":"AE",
+    "wof:created":1619046147,
     "wof:geomhash":"0d25bf6889f6bff62527aaaa3f57524d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632573,
-            "county_id":1376826387,
-            "region_id":85667977
-        }
-    ],
-    "wof:id":1376826387,
+    "wof:hierarchy":[],
+    "wof:id":1730008697,
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1619046148,
+    "wof:lastmodified":1619046147,
     "wof:name":"Dibba Al-Hisn",
-    "wof:parent_id":85667977,
-    "wof:placetype":"county",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
     "wof:supersedes":[],

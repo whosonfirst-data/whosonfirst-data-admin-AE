@@ -28,6 +28,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062d\u0648\u0629"
@@ -120,7 +121,7 @@
         "wk:page":"Nahwa"
     },
     "wof:country":"AE",
-    "wof:geomhash":"b58991d2d3cd1b23e75a73222a7d354d",
+    "wof:geomhash":"016201ede895037ec49176f5c473b883",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1310127279,
-    "wof:lastmodified":1566581593,
+    "wof:lastmodified":1619047871,
     "wof:name":"Nahwah",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
@@ -146,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.28013000000001,
+    56.28013,
     25.26822,
-    56.28013000000001,
+    56.28013,
     25.26822
 ],
-  "geometry": {"coordinates":[56.28013000000001,25.26822],"type":"Point"}
+  "geometry": {"coordinates":[56.28013,25.26822],"type":"Point"}
 }

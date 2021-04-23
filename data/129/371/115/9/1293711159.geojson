@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.007058,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.53377,25.47819,55.53377,25.47819",
-    "geom:latitude":25.47819,
-    "geom:longitude":55.53377,
+    "geom:bbox":"55.47279,25.41801,55.647704,25.513089",
+    "geom:latitude":25.461758,
+    "geom:longitude":55.55464,
     "gn:admin1_code":"06",
     "gn:asciiname":"Al Hamriyah",
     "gn:country_code":"AE",
@@ -23,9 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.51377,25.45819,55.55377,25.49819",
+    "lbl:latitude":25.462064,
+    "lbl:longitude":55.55464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.462064,
+    "mps:longitude":55.55464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
@@ -48,31 +51,43 @@
         "Hamriya",
         "Al \u1e28amr\u012byah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632573,
-        85667977
+        85667977,
+        1376826401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":292856,
         "wk:page":"Al_Hamriyah"
     },
+    "wof:coterminous":[
+        1376826401
+    ],
     "wof:country":"AE",
-    "wof:geomhash":"910a6069ffcd2eb799f52df01fb5f466",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e6086ec40856741c894e730e60568194",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826401,
             "locality_id":1293711159,
             "region_id":85667977
         }
     ],
     "wof:id":1293711159,
-    "wof:lastmodified":1566581586,
+    "wof:lastmodified":1619191304,
     "wof:name":"Al Hamriyah",
-    "wof:parent_id":85667977,
+    "wof:parent_id":1376826401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -80,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.53377,
-    25.47819,
-    55.53377,
-    25.47819
+    55.47279,
+    25.41801,
+    55.647704,
+    25.513089
 ],
-  "geometry": {"coordinates":[55.53377,25.47819],"type":"Point"}
+  "geometry": {"coordinates":[[[55.647704,25.436357],[55.627902,25.41801],[55.617515,25.421782],[55.557312,25.431652],[55.545995,25.435735],[55.530905,25.444649],[55.520828,25.449041],[55.50486,25.452116],[55.492104,25.460159],[55.47279,25.472448],[55.476399,25.477902],[55.489683,25.483681],[55.495677,25.481585],[55.504922,25.495682],[55.503809,25.497073],[55.500273,25.50149],[55.501239,25.50598],[55.506475,25.509936],[55.513882,25.512097],[55.515562,25.513089],[55.518193,25.512009],[55.583667,25.47519],[55.613639,25.451806],[55.625887,25.444416],[55.647704,25.436357]]],"type":"Polygon"}
 }

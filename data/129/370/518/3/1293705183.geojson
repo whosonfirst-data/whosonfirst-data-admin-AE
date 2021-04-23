@@ -41,7 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667977
+        85667977,
+        1376826397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826397,
             "locality_id":1293705183,
             "region_id":85667977
         }
     ],
     "wof:id":1293705183,
-    "wof:lastmodified":1619047871,
+    "wof:lastmodified":1619191310,
     "wof:name":"Al `Ayn al Ghumur",
-    "wof:parent_id":85667977,
+    "wof:parent_id":1376826397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

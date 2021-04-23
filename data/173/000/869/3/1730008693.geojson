@@ -20,7 +20,12 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977,
+        1376826389
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         1376826389
@@ -28,7 +33,15 @@
     "wof:country":"AE",
     "wof:created":1619046145,
     "wof:geomhash":"d010818ff090afc0ace523f6e51d5b3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826389,
+            "locality_id":1730008693,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1730008693,
     "wof:lang_x_official":[
         "ara"
@@ -36,9 +49,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1619046145,
+    "wof:lastmodified":1619191312,
     "wof:name":"Al Madam",
-    "wof:parent_id":-1,
+    "wof:parent_id":1376826389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

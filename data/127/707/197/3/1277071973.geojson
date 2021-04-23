@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667977
+        85667977,
+        421182269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":421182269,
             "locality_id":1277071973,
             "region_id":85667977
         }
     ],
     "wof:id":1277071973,
-    "wof:lastmodified":1619047871,
+    "wof:lastmodified":1619191318,
     "wof:name":"Lulayyah",
-    "wof:parent_id":85667977,
+    "wof:parent_id":421182269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

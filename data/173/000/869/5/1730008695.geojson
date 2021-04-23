@@ -20,7 +20,12 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667977,
+        1376826391
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         1376826391
@@ -28,7 +33,15 @@
     "wof:country":"AE",
     "wof:created":1619046146,
     "wof:geomhash":"579213b84b73459be5559b9275a4550b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826391,
+            "locality_id":1730008695,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1730008695,
     "wof:lang_x_official":[
         "ara"
@@ -36,9 +49,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1619046146,
+    "wof:lastmodified":1619191313,
     "wof:name":"Al Bataeh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1376826391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

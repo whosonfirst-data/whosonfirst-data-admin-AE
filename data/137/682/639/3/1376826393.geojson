@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Mleeha"
     ],
+    "name:fra_x_preferred":[
+        "Mliha"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1619191308,
+    "wof:lastmodified":1627507725,
     "wof:name":"Mleeha",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

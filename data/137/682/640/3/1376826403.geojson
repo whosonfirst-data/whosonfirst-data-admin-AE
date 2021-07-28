@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Al Dhafra"
     ],
+    "name:fra_x_preferred":[
+        "Al Gharbia"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0434-\u0414\u0430\u0444\u0440\u0430"
     ],
@@ -78,7 +81,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1616475290,
+    "wof:lastmodified":1627507725,
     "wof:name":"Al Dhafra",
     "wof:parent_id":85667981,
     "wof:placetype":"county",

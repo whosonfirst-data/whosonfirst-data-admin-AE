@@ -43,6 +43,9 @@
     "name:fas_x_preferred":[
         "\u062f\u0628\u0627 \u0627\u0644\u062d\u0635\u0646"
     ],
+    "name:fra_x_preferred":[
+        "Dibba Al Hisn"
+    ],
     "name:ita_x_preferred":[
         "Dib\u0101"
     ],
@@ -86,7 +89,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1619191305,
+    "wof:lastmodified":1627507725,
     "wof:name":"Dibba Al-Hisn",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

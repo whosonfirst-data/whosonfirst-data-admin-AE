@@ -41,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u0630\u06cc\u062f"
     ],
+    "name:fra_x_preferred":[
+        "Al Dhaid"
+    ],
     "name:nld_x_preferred":[
         "Dhaid"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421176643,
-    "wof:lastmodified":1619191316,
+    "wof:lastmodified":1627507725,
     "wof:name":"Dhaid",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

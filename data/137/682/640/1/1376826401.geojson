@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Al Hamriya"
     ],
+    "name:fra_x_preferred":[
+        "Al Hamriya"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1619191311,
+    "wof:lastmodified":1627507725,
     "wof:name":"Al Hamriya",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Neutral Zone"
     ],
+    "name:fra_x_preferred":[
+        "Neutral Zone"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u094d\u092f\u0942\u091f\u094d\u0930\u0932 \u091c\u093c\u094b\u0928 "
     ],
@@ -132,7 +135,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614896289,
+    "wof:lastmodified":1627507725,
     "wof:name":"Neutral Zone",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

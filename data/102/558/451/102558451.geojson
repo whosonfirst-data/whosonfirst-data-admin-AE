@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.4,25.03333333,55.4,25.03333333",
+    "geom:bbox":"55.4,25.033333,55.4,25.033333",
     "geom:latitude":25.033333,
     "geom:longitude":55.4,
     "iso:country":"AE",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Al Minhad Air Base"
+    ],
+    "name:eng_x_variant":[
+        "NHD",
+        "OMDM"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0644 \u0645\u06cc\u200c\u0646\u0647\u0627\u062f"
@@ -76,7 +80,7 @@
         "wd:id":"Q1934988"
     },
     "wof:country":"AE",
-    "wof:geomhash":"718d81cf48e4ac2a4070085f76929a15",
+    "wof:geomhash":"970348abaf9d50872d03185b780e952d",
     "wof:hierarchy":[
         {
             "campus_id":102558451,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102558451,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1631743682,
     "wof:name":"Minhad Air Base",
     "wof:parent_id":85667983,
     "wof:placetype":"campus",
@@ -98,9 +102,9 @@
 },
   "bbox": [
     55.4,
-    25.03333333,
+    25.033333,
     55.4,
-    25.03333333
+    25.033333
 ],
-  "geometry": {"coordinates":[55.4,25.03333333],"type":"Point"}
+  "geometry": {"coordinates":[55.4,25.033333],"type":"Point"}
 }

@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Al Hamra Aux Airport"
     ],
+    "name:eng_x_variant":[
+        "OMAH"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Al Hamra Aux"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":102558457,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1631743682,
     "wof:name":"Al Hamra aux Airport",
     "wof:parent_id":85667981,
     "wof:placetype":"campus",

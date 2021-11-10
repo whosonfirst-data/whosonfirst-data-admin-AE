@@ -149,6 +149,9 @@
     "name:hrv_x_preferred":[
         "Abu Dhabi"
     ],
+    "name:hun_x_preferred":[
+        "Abu-Dzabi"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0562\u0578\u0582 \u0534\u0561\u0562\u056b\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
@@ -462,7 +465,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1607462603,
+    "wof:lastmodified":1636494749,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

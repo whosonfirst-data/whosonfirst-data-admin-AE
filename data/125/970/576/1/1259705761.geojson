@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u015e\u016br"
     ],
+    "name:hun_x_preferred":[
+        "Sur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,7 +46,7 @@
         "gn:id":290710
     },
     "wof:country":"AE",
-    "wof:geomhash":"c2128ca9c12b56fc1b2ca41abd3a8bf2",
+    "wof:geomhash":"60e8da443801aa71c76e8b8b6a61ffa0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259705761,
-    "wof:lastmodified":1566581609,
+    "wof:lastmodified":1636494751,
     "wof:name":"Sur",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",
@@ -63,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.34826999999999,
+    56.34827,
     25.09407,
-    56.34826999999999,
+    56.34827,
     25.09407
 ],
-  "geometry": {"coordinates":[56.34826999999999,25.09407],"type":"Point"}
+  "geometry": {"coordinates":[56.34827,25.09407],"type":"Point"}
 }

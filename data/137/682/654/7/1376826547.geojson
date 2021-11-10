@@ -31,6 +31,18 @@
     "name:ara_x_preferred":[
         "Bid\u00e1"
     ],
+    "name:deu_x_preferred":[
+        "Bida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85667951,
@@ -45,7 +57,7 @@
         "wk:page":"Bida,_Ras_al-Khaimah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"553b894283c05739c4e02e1f749a551f",
+    "wof:geomhash":"cb30bcad4c89761781b58fba72772d01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1376826547,
-    "wof:lastmodified":1566581597,
+    "wof:lastmodified":1636494750,
     "wof:name":"Bida",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",
@@ -69,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.97711999999999,
+    55.97712,
     25.76453,
-    55.97711999999999,
+    55.97712,
     25.76453
 ],
-  "geometry": {"coordinates":[55.97711999999999,25.76453],"type":"Point"}
+  "geometry": {"coordinates":[55.97712,25.76453],"type":"Point"}
 }

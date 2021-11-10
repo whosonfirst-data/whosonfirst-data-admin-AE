@@ -242,6 +242,9 @@
         "\u0627\u0645 \u0627\u0644\u0642\u0648\u06cc\u0646"
     ],
     "name:vie_x_preferred":[
+        "Umm al Qaywayn"
+    ],
+    "name:vie_x_variant":[
         "Umm al-Quwain"
     ],
     "name:xmf_x_preferred":[
@@ -252,6 +255,12 @@
     ],
     "name:yue_x_preferred":[
         "\u6b50\u59c6\u53e4\u6eab\u914b\u9577\u570b"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u59c6\u76d6\u4e07"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u59c6\u84cb\u842c"
     ],
     "name:zho_x_preferred":[
         "\u6b27\u59c6\u53e4\u6e29"
@@ -365,8 +374,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        1376833609,
-        85667955
+        85667955,
+        1376833609
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -394,7 +403,7 @@
         }
     ],
     "wof:id":890455645,
-    "wof:lastmodified":1607462602,
+    "wof:lastmodified":1636494751,
     "wof:name":"Umm al Qaywayn",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000088,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.426813,25.40092,55.426813,25.40092",
-    "geom:latitude":25.40092,
-    "geom:longitude":55.426813,
+    "geom:bbox":"55.423316,25.393669,55.437886,25.407597",
+    "geom:latitude":25.400757,
+    "geom:longitude":55.430276,
     "gn:latitude":25.39948,
     "gn:longitude":55.42946,
     "iso:country":"AE",
-    "lbl:bbox":"55.421813,25.39592,55.431813,25.40592",
-    "lbl:latitude":25.40092,
-    "lbl:longitude":55.426813,
+    "lbl:latitude":25.401063,
+    "lbl:longitude":55.430279,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.406458,
     "mps:longitude":55.427824,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Rumailah"
-    ],
-    "name:eng_x_variant":[
         "Al Rumailah"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940332,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.401063,
+    "reversegeo:longitude":55.430279,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667969,
         102191569,
@@ -80,10 +79,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"7e7df4b3b69dd635301187158bfd839b",
+    "wof:geomhash":"d726d0cc3999b227ce9baa37f040f54b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,8 +96,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313358,
-    "wof:name":"\u0627\u0644\u0631\u0645\u064a\u0644\u0629",
+    "wof:lastmodified":1663623595,
+    "wof:name":"Al Rumailah",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -108,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.426813,
-    25.40092,
-    55.426813,
-    25.40092
+    55.423316,
+    25.393669,
+    55.437886,
+    25.407597
 ],
-  "geometry": {"coordinates":[55.426813,25.40092],"type":"Point"}
+  "geometry": {"coordinates":[[[55.423316,25.398784],[55.424016,25.398797],[55.424285,25.399198],[55.424506,25.399236],[55.425494,25.40021],[55.42559,25.400505],[55.425808,25.400691],[55.427058,25.402307],[55.426978,25.402367],[55.427904,25.403672],[55.42801,25.40372],[55.428093,25.403746],[55.42884,25.404682],[55.430269,25.406906],[55.430513,25.40715],[55.430779,25.407597],[55.432695,25.406185],[55.434489,25.40482],[55.437886,25.402107],[55.437221,25.401519],[55.436579,25.401032],[55.435682,25.400458],[55.434544,25.399778],[55.432856,25.39877],[55.432094,25.398273],[55.431414,25.397651],[55.430387,25.396643],[55.428012,25.394275],[55.427352,25.393669],[55.425893,25.39543],[55.42489,25.396725],[55.423316,25.398784]]],"type":"Polygon"}
 }

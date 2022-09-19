@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000164,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.20048,25.117702,55.20048,25.117702",
-    "geom:latitude":25.117702,
-    "geom:longitude":55.20048,
+    "geom:bbox":"55.195015,25.123086,55.214245,25.140065",
+    "geom:latitude":25.131357,
+    "geom:longitude":55.204457,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.19548,25.112702,55.20548,25.122702",
-    "lbl:latitude":25.117702,
-    "lbl:longitude":55.20048,
+    "lbl:latitude":25.131596,
+    "lbl:longitude":55.204601,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.115934,
     "mps:longitude":55.203205,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -36,8 +35,7 @@
         "Umm Al Sheif"
     ],
     "name:eng_x_variant":[
-        "Community 367",
-        "Umm Al Sheif"
+        "Community 367"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -63,12 +61,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.131596,
+    "reversegeo:longitude":55.204601,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -83,10 +84,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"c1d0f642f453a09c20863bc511bee815",
+    "wof:geomhash":"6987f7ee1e9465b98ae20320072285a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,8 +101,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0645 \u0627\u0644\u0634\u064a\u0641",
+    "wof:lastmodified":1663623597,
+    "wof:name":"Umm Al Sheif",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -111,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.20048,
-    25.117702,
-    55.20048,
-    25.117702
+    55.195015,
+    25.123086,
+    55.214245,
+    25.140065
 ],
-  "geometry": {"coordinates":[55.20048,25.117702],"type":"Point"}
+  "geometry": {"coordinates":[[[55.204433,25.140065],[55.213491,25.134231],[55.214245,25.133789],[55.214164,25.133656],[55.212361,25.131206],[55.210242,25.129058],[55.207643,25.127134],[55.201919,25.123086],[55.199887,25.124535],[55.195015,25.127919],[55.204348,25.139954],[55.204433,25.140065]]],"type":"Polygon"}
 }

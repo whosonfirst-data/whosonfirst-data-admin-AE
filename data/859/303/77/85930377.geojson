@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000433,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.223872,25.150587,55.223872,25.150587",
-    "geom:latitude":25.150587,
-    "geom:longitude":55.223872,
+    "geom:bbox":"55.217854,25.130025,55.246876,25.159085",
+    "geom:latitude":25.144403,
+    "geom:longitude":55.23197,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.218872,25.145587,55.228872,25.155587",
-    "lbl:latitude":25.150587,
-    "lbl:longitude":55.223872,
+    "lbl:latitude":25.144629,
+    "lbl:longitude":55.23219,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.143976,
     "mps:longitude":55.228983,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -55,12 +54,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.144629,
+    "reversegeo:longitude":55.23219,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -75,10 +77,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"3318ac0553a69c4af4d4a125e7ab3b5c",
+    "wof:geomhash":"40a87c80e6b99923727e75fc8d815996",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582313357,
+    "wof:lastmodified":1663623597,
     "wof:name":"Al Quoz Industrial Area 1",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -103,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.223872,
-    25.150587,
-    55.223872,
-    25.150587
+    55.217854,
+    25.130025,
+    55.246876,
+    25.159085
 ],
-  "geometry": {"coordinates":[55.223872,25.150587],"type":"Point"}
+  "geometry": {"coordinates":[[[55.232533,25.130025],[55.219299,25.138658],[55.217854,25.139616],[55.218447,25.140553],[55.223105,25.148081],[55.22392,25.149384],[55.227402,25.154948],[55.22889,25.157307],[55.230164,25.159085],[55.23218,25.157696],[55.23789,25.153917],[55.239859,25.152647],[55.242008,25.151152],[55.246876,25.147914],[55.240047,25.139387],[55.232533,25.130025]]],"type":"Polygon"}
 }

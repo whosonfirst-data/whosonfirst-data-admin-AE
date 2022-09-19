@@ -4,20 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000107,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.37136,24.46488,54.37136,24.46488",
-    "geom:latitude":24.46488,
-    "geom:longitude":54.37136,
+    "geom:bbox":"54.365938,24.453842,54.382374,24.470152",
+    "geom:latitude":24.461952,
+    "geom:longitude":54.374109,
     "iso:country":"AE",
-    "lbl:bbox":"54.36636,24.45988,54.37636,24.46988",
+    "lbl:latitude":24.461923,
+    "lbl:longitude":54.374109,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0627\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Karamah"
     ],
     "name:und_x_variant":[
         "Al Kar\u0101mah"
@@ -40,7 +44,13 @@
     "qs:qs_id":1198285,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872805,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.461923,
+    "reversegeo:longitude":54.374109,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -56,7 +66,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459008809,
-    "wof:geomhash":"5ba32611a6a9bf9b9cf1fb3005035391",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b805034af36352f4bb0bdc05b7eecec8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,8 +81,8 @@
         }
     ],
     "wof:id":421169415,
-    "wof:lastmodified":1566581600,
-    "wof:name":"\u0627\u0644\u0643\u0631\u0627\u0645\u0629",
+    "wof:lastmodified":1663623591,
+    "wof:name":"Al Karamah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -78,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.37136,
-    24.46488,
-    54.37136,
-    24.46488
+    54.365938,
+    24.453842,
+    54.382374,
+    24.470152
 ],
-  "geometry": {"coordinates":[54.37136,24.46488],"type":"Point"}
+  "geometry": {"coordinates":[[[54.377379,24.453842],[54.376349,24.454941],[54.372468,24.459034],[54.370951,24.460666],[54.365938,24.465955],[54.368028,24.467856],[54.369396,24.469138],[54.370701,24.470152],[54.3715,24.46923],[54.372565,24.468165],[54.374374,24.466265],[54.375817,24.464765],[54.3775,24.462979],[54.381707,24.458553],[54.382374,24.45776],[54.380874,24.456624],[54.379881,24.455805],[54.37776,24.45414],[54.377379,24.453842]]],"type":"Polygon"}
 }

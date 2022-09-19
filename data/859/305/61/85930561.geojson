@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002524,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.388927,25.1091,55.388927,25.1091",
-    "geom:latitude":25.1091,
-    "geom:longitude":55.388927,
+    "geom:bbox":"55.378554,25.088245,55.493866,25.168106",
+    "geom:latitude":25.130043,
+    "geom:longitude":55.433323,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.383927,25.1041,55.393927,25.1141",
-    "lbl:latitude":25.1091,
-    "lbl:longitude":55.388927,
+    "lbl:latitude":25.130105,
+    "lbl:longitude":55.433323,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.112864,
     "mps:longitude":55.394555,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062c\u0627\u0645\u0639\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Academic City"
-    ],
-    "name:eng_x_variant":[
         "Academic City"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.130105,
+    "reversegeo:longitude":55.433323,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -79,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"434edb11b14eb7d7737d7d527fddf03f",
+    "wof:geomhash":"b0573464088b882b2105bbdc2c1540e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062c\u0627\u0645\u0639\u064a\u0629",
+    "wof:lastmodified":1663623595,
+    "wof:name":"Academic City",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.388927,
-    25.1091,
-    55.388927,
-    25.1091
+    55.378554,
+    25.088245,
+    55.493866,
+    25.168106
 ],
-  "geometry": {"coordinates":[55.388927,25.1091],"type":"Point"}
+  "geometry": {"coordinates":[[[55.378554,25.103846],[55.383032,25.106501],[55.386606,25.10903],[55.39299,25.113741],[55.398317,25.117703],[55.406173,25.123592],[55.408301,25.125158],[55.412945,25.128517],[55.420695,25.134272],[55.426958,25.13889],[55.433208,25.143494],[55.43879,25.147603],[55.446285,25.15321],[55.452053,25.157453],[55.455867,25.160291],[55.457219,25.161495],[55.458116,25.162579],[55.458758,25.163703],[55.459254,25.164962],[55.459628,25.166353],[55.46,25.168106],[55.468911,25.1664],[55.472059,25.165792],[55.474313,25.165461],[55.476116,25.165296],[55.478625,25.165191],[55.482727,25.165025],[55.487416,25.16483],[55.493866,25.164535],[55.462495,25.137536],[55.393707,25.088245],[55.393601,25.0883],[55.389771,25.090271],[55.388022,25.092412],[55.386437,25.094352],[55.384953,25.096183],[55.382639,25.098961],[55.380749,25.101256],[55.378554,25.103846]]],"type":"Polygon"}
 }

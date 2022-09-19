@@ -4,22 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.384687,25.357861,55.384687,25.357861",
-    "geom:latitude":25.357861,
-    "geom:longitude":55.384687,
+    "geom:bbox":"55.378468,25.352457,55.388268,25.360784",
+    "geom:latitude":25.357047,
+    "geom:longitude":55.383554,
     "iso:country":"AE",
-    "lbl:bbox":"55.379687,25.352861,55.389687,25.362861",
+    "lbl:latitude":25.357029,
+    "lbl:longitude":55.383554,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u064a\u062c\u0647"
     ],
     "name:eng_x_preferred":[
+        "Al Marijah"
+    ],
+    "name:eng_x_variant":[
         "Al Mrayjeh"
     ],
     "qs:gn_country":null,
@@ -40,13 +44,19 @@
     "qs:qs_id":290161,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55873078,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.357029,
+    "reversegeo:longitude":55.383554,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
-        421171391,
         421168683,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +65,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459008989,
-    "wof:geomhash":"2bf89ceddf76eefcc0d7a2d82f609e94",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"87007ccde548cd12f0a1612f1d0c1a94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,8 +80,8 @@
         }
     ],
     "wof:id":421173537,
-    "wof:lastmodified":1601423085,
-    "wof:name":"Al Mrayjeh",
+    "wof:lastmodified":1663623594,
+    "wof:name":"Al Marijah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -77,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.384687,
-    25.357861,
-    55.384687,
-    25.357861
+    55.378468,
+    25.352457,
+    55.388268,
+    25.360784
 ],
-  "geometry": {"coordinates":[55.384687,25.357861],"type":"Point"}
+  "geometry": {"coordinates":[[[55.3826,25.360784],[55.387005,25.358308],[55.388268,25.357544],[55.388014,25.357159],[55.387602,25.356534],[55.387016,25.355676],[55.384768,25.352457],[55.38442,25.353049],[55.384239,25.353258],[55.383993,25.353489],[55.382311,25.354717],[55.380021,25.356429],[55.379234,25.357014],[55.378468,25.357881],[55.379898,25.358921],[55.3826,25.360784]]],"type":"Polygon"}
 }

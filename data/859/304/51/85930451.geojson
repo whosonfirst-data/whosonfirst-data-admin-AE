@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001932,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.493942,24.412984,54.493942,24.412984",
-    "geom:latitude":24.412984,
-    "geom:longitude":54.493942,
+    "geom:bbox":"54.47465,24.42484,54.542318,24.468274",
+    "geom:latitude":24.443924,
+    "geom:longitude":54.505317,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"54.488942,24.407984,54.498942,24.417984",
-    "lbl:latitude":24.412984,
-    "lbl:longitude":54.493942,
+    "lbl:latitude":24.443447,
+    "lbl:longitude":54.504672,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.412847,
     "mps:longitude":54.502338,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -37,8 +36,7 @@
         "Umm Al Nar"
     ],
     "name:eng_x_variant":[
-        "Sas Al Nakhl",
-        "Umm Al Nar"
+        "Sas Al Nakhl"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -64,12 +62,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.443447,
+    "reversegeo:longitude":54.504672,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -84,10 +85,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"b61c95216c35fdb035925394b506d17c",
+    "wof:geomhash":"37e7478a2ee9097cb0191d956ae9bf32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,8 +102,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0623\u0645 \u0627\u0644\u0646\u0627\u0631",
+    "wof:lastmodified":1663623596,
+    "wof:name":"Umm Al Nar",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -112,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.493942,
-    24.412984,
-    54.493942,
-    24.412984
+    54.47465,
+    24.42484,
+    54.542318,
+    24.468274
 ],
-  "geometry": {"coordinates":[54.493942,24.412984],"type":"Point"}
+  "geometry": {"coordinates":[[[54.542318,24.437068],[54.528762,24.432626],[54.522121,24.429924],[54.518824,24.42887],[54.517541,24.427268],[54.516122,24.425756],[54.513923,24.42484],[54.495696,24.42539],[54.484797,24.427907],[54.480761,24.430329],[54.478109,24.43275],[54.476034,24.436094],[54.47465,24.441283],[54.475342,24.445665],[54.479378,24.453736],[54.48595,24.464806],[54.48756,24.468274],[54.510397,24.459601],[54.519648,24.456074],[54.524457,24.454884],[54.530548,24.453785],[54.534716,24.452685],[54.537693,24.451082],[54.539982,24.448518],[54.54099,24.445175],[54.542318,24.437068]]],"type":"Polygon"}
 }

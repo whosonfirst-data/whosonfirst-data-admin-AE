@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00013,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.357073,25.32812,55.357073,25.32812",
-    "geom:latitude":25.32812,
-    "geom:longitude":55.357073,
+    "geom:bbox":"55.358897,25.330607,55.375664,25.345109",
+    "geom:latitude":25.337813,
+    "geom:longitude":55.367274,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.352073,25.32312,55.362073,25.33312",
-    "lbl:latitude":25.32812,
-    "lbl:longitude":55.357073,
+    "lbl:latitude":25.337831,
+    "lbl:longitude":55.367275,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.336683,
     "mps:longitude":55.357106,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -33,7 +32,7 @@
         "Al Khaledia"
     ],
     "name:eng_x_variant":[
-        "Al Khaledia"
+        "Al Khalidiyah"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -59,12 +58,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940119,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.337831,
+    "reversegeo:longitude":55.367275,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -79,10 +81,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"8c7e75b2d7bb07fe3d803269e712667f",
+    "wof:geomhash":"b1c95d3048be7fd0097f86618f1397a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +98,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629",
+    "wof:lastmodified":1663623597,
+    "wof:name":"Al Khaledia",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.357073,
-    25.32812,
-    55.357073,
-    25.32812
+    55.358897,
+    25.330607,
+    55.375664,
+    25.345109
 ],
-  "geometry": {"coordinates":[55.357073,25.32812],"type":"Point"}
+  "geometry": {"coordinates":[[[55.365191,25.345109],[55.366496,25.344425],[55.374748,25.34002],[55.375664,25.339522],[55.374796,25.338285],[55.373286,25.336143],[55.372159,25.33454],[55.371129,25.333075],[55.370383,25.332013],[55.370195,25.331752],[55.370076,25.33156],[55.369989,25.331381],[55.369655,25.330607],[55.368453,25.331059],[55.364546,25.333029],[55.360896,25.334871],[55.359085,25.335834],[55.358965,25.335898],[55.358897,25.335934],[55.359147,25.336145],[55.359846,25.337132],[55.361442,25.339536],[55.36166,25.340145],[55.362294,25.341081],[55.362775,25.341677],[55.363269,25.342466],[55.365191,25.345109]]],"type":"Polygon"}
 }

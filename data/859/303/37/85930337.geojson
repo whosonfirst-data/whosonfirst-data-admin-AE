@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000056,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.375188,24.468769,54.375188,24.468769",
-    "geom:latitude":24.468769,
-    "geom:longitude":54.375188,
+    "geom:bbox":"54.370701,24.462979,54.382011,24.473592",
+    "geom:latitude":24.468336,
+    "geom:longitude":54.37639,
     "gn:latitude":24.46876,
     "gn:longitude":54.37632,
     "iso:country":"AE",
-    "lbl:bbox":"54.370188,24.463769,54.380188,24.473769",
-    "lbl:latitude":24.468769,
-    "lbl:longitude":54.375188,
+    "lbl:latitude":24.468372,
+    "lbl:longitude":54.37639,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.467047,
     "mps:longitude":54.375748,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0627\u0644\u0648\u062d\u062f\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Wahdah"
-    ],
-    "name:eng_x_variant":[
         "Al Wahdah"
     ],
     "name:und_x_variant":[
@@ -64,12 +60,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.468372,
+    "reversegeo:longitude":54.37639,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -85,10 +84,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"78dadacaa7a002c0212fdc9798422609",
+    "wof:geomhash":"6a56561bd02f66013f03f2b4db80950b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,8 +101,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0648\u062d\u062f\u0629",
+    "wof:lastmodified":1663623592,
+    "wof:name":"Al Wahdah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -113,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.375188,
-    24.468769,
-    54.375188,
-    24.468769
+    54.370701,
+    24.462979,
+    54.382011,
+    24.473592
 ],
-  "geometry": {"coordinates":[54.375188,24.468769],"type":"Point"}
+  "geometry": {"coordinates":[[[54.3775,24.462979],[54.375817,24.464765],[54.374374,24.466265],[54.372565,24.468165],[54.3715,24.46923],[54.370701,24.470152],[54.37089,24.470283],[54.372356,24.471354],[54.375453,24.473592],[54.376916,24.472024],[54.378559,24.470289],[54.382011,24.466677],[54.3775,24.462979]]],"type":"Polygon"}
 }

@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000511,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.17404,25.110043,55.17404,25.110043",
-    "geom:latitude":25.110043,
-    "geom:longitude":55.17404,
+    "geom:bbox":"55.164177,25.105364,55.201919,25.132649",
+    "geom:latitude":25.119651,
+    "geom:longitude":55.182298,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.16904,25.105043,55.17904,25.115043",
-    "lbl:latitude":25.110043,
-    "lbl:longitude":55.17404,
+    "lbl:latitude":25.119527,
+    "lbl:longitude":55.181012,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.119088,
     "mps:longitude":55.172827,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0635\u0641\u0648\u062d 1"
     ],
     "name:eng_x_preferred":[
-        "Al Sufouh 1"
-    ],
-    "name:eng_x_variant":[
         "Al Sufouh 1"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.119527,
+    "reversegeo:longitude":55.181012,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -79,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"a9acd4d1f50d92cacc802471468ba0c9",
+    "wof:geomhash":"5dbc262c16fa1a2ddbd622c98663a349",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313358,
-    "wof:name":"\u0627\u0644\u0635\u0641\u0648\u062d 1",
+    "wof:lastmodified":1663623596,
+    "wof:name":"Al Sufouh 1",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.17404,
-    25.110043,
-    55.17404,
-    25.110043
+    55.164177,
+    25.105364,
+    55.201919,
+    25.132649
 ],
-  "geometry": {"coordinates":[55.17404,25.110043],"type":"Point"}
+  "geometry": {"coordinates":[[[55.195015,25.127919],[55.199887,25.124535],[55.201919,25.123086],[55.193195,25.116918],[55.18472,25.110923],[55.17907,25.106971],[55.177342,25.105724],[55.17691,25.105364],[55.176192,25.105925],[55.175685,25.106338],[55.175042,25.106871],[55.16863,25.112089],[55.16435,25.115254],[55.164317,25.115346],[55.16418,25.115492],[55.164177,25.115971],[55.164315,25.115968],[55.164757,25.115994],[55.165424,25.116369],[55.166637,25.117255],[55.168593,25.119093],[55.169423,25.120101],[55.169086,25.120415],[55.170768,25.122007],[55.171956,25.123442],[55.174242,25.125885],[55.176159,25.127958],[55.178602,25.130514],[55.179051,25.131523],[55.179805,25.131734],[55.184169,25.128088],[55.186401,25.130327],[55.187791,25.13177],[55.188181,25.132251],[55.188347,25.132649],[55.189973,25.131548],[55.191667,25.130364],[55.192671,25.129663],[55.195015,25.127919]]],"type":"Polygon"}
 }

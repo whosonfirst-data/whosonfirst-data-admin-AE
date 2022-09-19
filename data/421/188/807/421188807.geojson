@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000089,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.40371,25.34977,55.40371,25.34977",
-    "geom:latitude":25.34977,
-    "geom:longitude":55.40371,
+    "geom:bbox":"55.398368,25.343553,55.411391,25.356689",
+    "geom:latitude":25.350164,
+    "geom:longitude":55.404666,
     "iso:country":"AE",
-    "lbl:bbox":"55.39871,25.34477,55.40871,25.35477",
+    "lbl:latitude":25.350297,
+    "lbl:longitude":55.404765,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -21,6 +22,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Yarmouk"
+    ],
+    "name:eng_x_variant":[
+        "Al Yarmook"
     ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
@@ -40,13 +44,19 @@
     "qs:qs_id":1104189,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872767,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.350297,
+    "reversegeo:longitude":55.404765,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
-        421171391,
         421168683,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +66,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459009579,
-    "wof:geomhash":"993b4961ddf7bedce079ba23fb1f0d87",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"6a1846cd863a40e99592e0e0a3fc31ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":421188807,
-    "wof:lastmodified":1601423086,
+    "wof:lastmodified":1663623589,
     "wof:name":"Al Yarmouk",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
@@ -78,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.40371,
-    25.34977,
-    55.40371,
-    25.34977
+    55.398368,
+    25.343553,
+    55.411391,
+    25.356689
 ],
-  "geometry": {"coordinates":[55.40371,25.34977],"type":"Point"}
+  "geometry": {"coordinates":[[[55.403933,25.356689],[55.405277,25.355986],[55.407725,25.354743],[55.40883,25.354186],[55.411391,25.352894],[55.411106,25.352581],[55.410738,25.352025],[55.409221,25.349797],[55.405111,25.343553],[55.398647,25.347211],[55.398368,25.348359],[55.399621,25.349921],[55.400644,25.351238],[55.401319,25.352304],[55.402385,25.354122],[55.403933,25.356689]]],"type":"Polygon"}
 }

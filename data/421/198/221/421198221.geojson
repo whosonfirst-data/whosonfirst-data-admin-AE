@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000116,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.42221,25.3386,55.42221,25.3386",
-    "geom:latitude":25.3386,
-    "geom:longitude":55.42221,
+    "geom:bbox":"55.421075,25.340728,55.435995,25.355809",
+    "geom:latitude":25.348148,
+    "geom:longitude":55.428428,
     "iso:country":"AE",
-    "lbl:bbox":"55.41721,25.3336,55.42721,25.3436",
+    "lbl:latitude":25.348218,
+    "lbl:longitude":55.428541,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -43,7 +44,13 @@
     "qs:qs_id":401670,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872903,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.348218,
+    "reversegeo:longitude":55.428541,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -59,7 +66,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459009940,
-    "wof:geomhash":"3287ddd91b4219aab1fe03fa27e883e9",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"76cc6a16798aab565b6a2121b99e1746",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":421198221,
-    "wof:lastmodified":1636494750,
+    "wof:lastmodified":1663623589,
     "wof:name":"Semnan",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
@@ -81,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.42221,
-    25.3386,
-    55.42221,
-    25.3386
+    55.421075,
+    25.340728,
+    55.435995,
+    25.355809
 ],
-  "geometry": {"coordinates":[55.42221,25.3386],"type":"Point"}
+  "geometry": {"coordinates":[[[55.427957,25.355809],[55.429876,25.354435],[55.431518,25.353225],[55.433678,25.351668],[55.434359,25.351232],[55.435995,25.350384],[55.433243,25.346566],[55.430631,25.34286],[55.429101,25.340728],[55.426947,25.341945],[55.425641,25.342726],[55.424312,25.343597],[55.422459,25.344959],[55.421075,25.346142],[55.427957,25.355809]]],"type":"Polygon"}
 }

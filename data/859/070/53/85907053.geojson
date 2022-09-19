@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000156,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.338821,25.280092,55.338821,25.280092",
-    "geom:latitude":25.280092,
-    "geom:longitude":55.338821,
+    "geom:bbox":"55.327154,25.270565,55.348284,25.28374",
+    "geom:latitude":25.276923,
+    "geom:longitude":55.336809,
     "gn:latitude":25.27744,
     "gn:longitude":55.33675,
     "iso:country":"AE",
-    "lbl:bbox":"55.333821,25.275092,55.343821,25.285092",
-    "lbl:latitude":25.280092,
-    "lbl:longitude":55.338821,
+    "lbl:latitude":25.277374,
+    "lbl:longitude":55.336809,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.27947,
     "mps:longitude":55.340979,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0647\u0648\u0631 \u0627\u0644\u0639\u0646\u0632"
     ],
     "name:eng_x_preferred":[
-        "Hor Al Anz"
-    ],
-    "name:eng_x_variant":[
         "Hor Al Anz"
     ],
     "name:und_x_variant":[
@@ -64,12 +60,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.277374,
+    "reversegeo:longitude":55.336809,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -85,10 +84,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"5dd8b0df4fd8384d045d5c26160bfeb0",
+    "wof:geomhash":"1e4bcbed07618e5c05d1009eb0582ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,8 +101,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0647\u0648\u0631 \u0627\u0644\u0639\u0646\u0632",
+    "wof:lastmodified":1663623594,
+    "wof:name":"Hor Al Anz",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -113,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.338821,
-    25.280092,
-    55.338821,
-    25.280092
+    55.327154,
+    25.270565,
+    55.348284,
+    25.28374
 ],
-  "geometry": {"coordinates":[55.338821,25.280092],"type":"Point"}
+  "geometry": {"coordinates":[[[55.330361,25.270565],[55.33026,25.271102],[55.32978,25.273002],[55.329412,25.274269],[55.329013,25.275434],[55.328625,25.276292],[55.328022,25.277242],[55.327154,25.278652],[55.328697,25.279326],[55.330607,25.280246],[55.333171,25.281359],[55.335787,25.282493],[55.338591,25.28374],[55.340696,25.282084],[55.343301,25.280113],[55.345283,25.278539],[55.34657,25.277497],[55.347898,25.276374],[55.348284,25.2758],[55.346953,25.275485],[55.344848,25.274647],[55.341457,25.27338],[55.338279,25.272246],[55.335715,25.27147],[55.333079,25.270939],[55.330361,25.270565]]],"type":"Polygon"}
 }

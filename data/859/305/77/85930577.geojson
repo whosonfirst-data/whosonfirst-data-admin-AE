@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000058,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.383918,25.345851,55.383918,25.345851",
-    "geom:latitude":25.345851,
-    "geom:longitude":55.383918,
+    "geom:bbox":"55.380965,25.344537,55.391279,25.355676",
+    "geom:latitude":25.349836,
+    "geom:longitude":55.386234,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.378918,25.340851,55.388918,25.350851",
-    "lbl:latitude":25.345851,
-    "lbl:longitude":55.383918,
+    "lbl:latitude":25.349925,
+    "lbl:longitude":55.386312,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.346115,
     "mps:longitude":55.385965,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0633\u0648\u0631"
     ],
     "name:eng_x_preferred":[
-        "Al Soor"
-    ],
-    "name:eng_x_variant":[
         "Al Soor"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940119,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.349925,
+    "reversegeo:longitude":55.386312,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -79,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"c05f94ed9faf9ffca0e8f6ae5bb01dec",
+    "wof:geomhash":"e862c208e29cec55811c31c0fa94761c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313358,
-    "wof:name":"\u0627\u0644\u0633\u0648\u0631",
+    "wof:lastmodified":1663623596,
+    "wof:name":"Al Soor",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.383918,
-    25.345851,
-    55.383918,
-    25.345851
+    55.380965,
+    25.344537,
+    55.391279,
+    25.355676
 ],
-  "geometry": {"coordinates":[55.383918,25.345851],"type":"Point"}
+  "geometry": {"coordinates":[[[55.382635,25.344537],[55.38247,25.345361],[55.382067,25.346167],[55.381573,25.346698],[55.380965,25.347077],[55.382484,25.34923],[55.384581,25.352188],[55.384768,25.352457],[55.387016,25.355676],[55.387289,25.355363],[55.388083,25.35482],[55.388358,25.354623],[55.388692,25.354433],[55.38899,25.354308],[55.389427,25.354143],[55.389947,25.353928],[55.390235,25.353765],[55.390874,25.353383],[55.391096,25.352765],[55.391279,25.352133],[55.390693,25.35118],[55.389264,25.349111],[55.388367,25.347911],[55.387644,25.346968],[55.387442,25.346749],[55.387167,25.346465],[55.386573,25.345897],[55.386339,25.345673],[55.385547,25.345032],[55.382635,25.344537]]],"type":"Polygon"}
 }

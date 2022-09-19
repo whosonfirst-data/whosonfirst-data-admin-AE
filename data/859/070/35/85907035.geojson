@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000229,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.370519,25.263355,55.370519,25.263355",
-    "geom:latitude":25.263355,
-    "geom:longitude":55.370519,
+    "geom:bbox":"55.348964,25.26215,55.378035,25.28098",
+    "geom:latitude":25.271577,
+    "geom:longitude":55.362898,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.365519,25.258355,55.375519,25.268355",
-    "lbl:latitude":25.263355,
-    "lbl:longitude":55.370519,
+    "lbl:latitude":25.272772,
+    "lbl:longitude":55.359044,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.26789,
     "mps:longitude":55.372296,
@@ -48,12 +47,15 @@
         "Al Twar"
     ],
     "qs:gn_id":0,
-    "src:geom":"mz",
+    "reversegeo:latitude":25.272772,
+    "reversegeo:longitude":55.359044,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -69,10 +71,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"162cd04cd97fae8ad187f79a97104565",
+    "wof:geomhash":"c7325b9b03dc6b744c8acbccb42083da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,8 +88,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0637\u0648\u0627\u0631 1",
+    "wof:lastmodified":1663623594,
+    "wof:name":"Al Twar",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -97,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.370519,
-    25.263355,
-    55.370519,
-    25.263355
+    55.348964,
+    25.26215,
+    55.378035,
+    25.28098
 ],
-  "geometry": {"coordinates":[55.370519,25.263355],"type":"Point"}
+  "geometry": {"coordinates":[[[55.378035,25.267865],[55.376566,25.265877],[55.375495,25.264352],[55.373854,25.26215],[55.368552,25.265244],[55.367575,25.265813],[55.366745,25.266305],[55.365764,25.26681],[55.364925,25.267144],[55.364011,25.267446],[55.363158,25.267636],[55.362171,25.26777],[55.361077,25.267814],[55.359805,25.267867],[55.358761,25.267921],[55.357604,25.267974],[55.356834,25.268115],[55.355998,25.268356],[55.355355,25.268677],[55.35476,25.269058],[55.354171,25.269587],[55.353287,25.270477],[55.352109,25.271722],[55.350276,25.273482],[55.348964,25.274787],[55.354471,25.279829],[55.355769,25.28098],[55.357763,25.279695],[55.359624,25.278624],[55.363211,25.27653],[55.365098,25.275459],[55.367219,25.274221],[55.369608,25.272829],[55.372171,25.271303],[55.374219,25.270126],[55.375537,25.269349],[55.378035,25.267865]]],"type":"Polygon"}
 }

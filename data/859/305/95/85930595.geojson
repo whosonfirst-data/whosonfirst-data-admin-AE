@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000085,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.32765,24.470666,54.32765,24.470666",
-    "geom:latitude":24.470666,
-    "geom:longitude":54.32765,
+    "geom:bbox":"54.32174,24.45872,54.33641,24.469211",
+    "geom:latitude":24.463441,
+    "geom:longitude":54.329509,
     "gn:latitude":24.46345,
     "gn:longitude":54.33107,
     "iso:country":"AE",
-    "lbl:bbox":"54.32265,24.465666,54.33265,24.475666",
-    "lbl:latitude":24.470666,
-    "lbl:longitude":54.32765,
+    "lbl:latitude":24.463192,
+    "lbl:longitude":54.330008,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.476913,
     "mps:longitude":54.324225,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0627\u0644\u062e\u0628\u064a\u0631\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Khubeirah"
-    ],
-    "name:eng_x_variant":[
         "Al Khubeirah"
     ],
     "name:und_x_variant":[
@@ -64,12 +60,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.463192,
+    "reversegeo:longitude":54.330008,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -85,10 +84,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"d55d6a1243f9711256738f0abe3c5d0a",
+    "wof:geomhash":"101ee995b089f66f61c1f00ae6b9de4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,8 +101,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u062e\u0628\u064a\u0631\u0629",
+    "wof:lastmodified":1663623595,
+    "wof:name":"Al Khubeirah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -113,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.32765,
-    24.470666,
-    54.32765,
-    24.470666
+    54.32174,
+    24.45872,
+    54.33641,
+    24.469211
 ],
-  "geometry": {"coordinates":[54.32765,24.470666],"type":"Point"}
+  "geometry": {"coordinates":[[[54.32174,24.460849],[54.322906,24.461848],[54.324222,24.462924],[54.324257,24.462948],[54.323618,24.463686],[54.323332,24.464149],[54.323172,24.464521],[54.323057,24.46514],[54.324447,24.465278],[54.325489,24.465438],[54.32621,24.46577],[54.326931,24.466285],[54.327882,24.466869],[54.329508,24.467774],[54.331949,24.469211],[54.332742,24.468096],[54.333342,24.467289],[54.334017,24.466511],[54.335145,24.46524],[54.33641,24.463837],[54.335998,24.463465],[54.335769,24.463239],[54.335489,24.462827],[54.335325,24.462609],[54.335053,24.462309],[54.334034,24.461376],[54.332114,24.459595],[54.331162,24.45872],[54.329061,24.459198],[54.326273,24.459776],[54.32174,24.460849]]],"type":"Polygon"}
 }

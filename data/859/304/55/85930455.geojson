@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000118,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.420596,25.394758,55.420596,25.394758",
-    "geom:latitude":25.394758,
-    "geom:longitude":55.420596,
+    "geom:bbox":"55.449256,25.326068,55.465209,25.340293",
+    "geom:latitude":25.33288,
+    "geom:longitude":55.457373,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.415596,25.389758,55.425596,25.399758",
-    "lbl:latitude":25.394758,
-    "lbl:longitude":55.420596,
+    "lbl:latitude":25.332821,
+    "lbl:longitude":55.457494,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.390272,
     "mps:longitude":55.421549,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0631\u0641\u0627\u0639\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Rifa'a"
-    ],
-    "name:eng_x_variant":[
         "Al Rifa'a"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940119,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.332821,
+    "reversegeo:longitude":55.457494,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667969,
         102191569,
@@ -79,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"7f9c4e707e136a73bf631f0f9208592b",
+    "wof:geomhash":"b5217e523113f2fa38a0a60d6fe6ce45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0631\u0641\u0627\u0639\u0629",
+    "wof:lastmodified":1663623597,
+    "wof:name":"Al Rifa'a",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.420596,
-    25.394758,
-    55.420596,
-    25.394758
+    55.449256,
+    25.326068,
+    55.465209,
+    25.340293
 ],
-  "geometry": {"coordinates":[55.420596,25.394758],"type":"Point"}
+  "geometry": {"coordinates":[[[55.449256,25.330552],[55.456457,25.340293],[55.465209,25.33432],[55.459074,25.326068],[55.457669,25.326703],[55.449256,25.330552]]],"type":"Polygon"}
 }

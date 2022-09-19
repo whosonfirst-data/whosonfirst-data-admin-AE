@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000233,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.739043,24.179862,55.739043,24.179862",
-    "geom:latitude":24.179862,
-    "geom:longitude":55.739043,
+    "geom:bbox":"55.730082,24.180794,55.754936,24.197471",
+    "geom:latitude":24.189382,
+    "geom:longitude":55.741925,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.734043,24.174862,55.744043,24.184862",
-    "lbl:latitude":24.179862,
-    "lbl:longitude":55.739043,
+    "lbl:latitude":24.189,
+    "lbl:longitude":55.741737,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.183201,
     "mps:longitude":55.736711,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0639\u0648\u064a\u0646\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Owainah"
-    ],
-    "name:eng_x_variant":[
         "Al Owainah"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940048,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.189,
+    "reversegeo:longitude":55.741737,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -79,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"fddb5a72abed43ed8fb621cfe255de50",
+    "wof:geomhash":"10b302835109098d1205383f118129b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313355,
-    "wof:name":"\u0627\u0644\u0639\u0648\u064a\u0646\u0629",
+    "wof:lastmodified":1663623593,
+    "wof:name":"Al Owainah",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.739043,
-    24.179862,
-    55.739043,
-    24.179862
+    55.730082,
+    24.180794,
+    55.754936,
+    24.197471
 ],
-  "geometry": {"coordinates":[55.739043,24.179862],"type":"Point"}
+  "geometry": {"coordinates":[[[55.730082,24.192346],[55.731386,24.192626],[55.733984,24.193173],[55.735604,24.19353],[55.737061,24.193746],[55.737972,24.193773],[55.742243,24.193746],[55.742169,24.194738],[55.743283,24.19573],[55.744632,24.195717],[55.744632,24.197471],[55.748951,24.197457],[55.749477,24.196364],[55.750961,24.193881],[55.752567,24.191196],[55.75447,24.18797],[55.754936,24.186951],[55.753732,24.18655],[55.752133,24.186064],[55.750891,24.185835],[55.749218,24.185625],[55.747429,24.18541],[55.745877,24.185214],[55.744616,24.185018],[55.7433,24.184728],[55.742261,24.184424],[55.740871,24.183966],[55.739494,24.183378],[55.737814,24.182596],[55.733894,24.180794],[55.7328,24.182808],[55.732476,24.183551],[55.732126,24.184536],[55.731653,24.18625],[55.73141,24.187248],[55.730082,24.192346]]],"type":"Polygon"}
 }

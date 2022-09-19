@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000393,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.35109,24.474243,54.35109,24.474243",
-    "geom:latitude":24.474243,
-    "geom:longitude":54.35109,
+    "geom:bbox":"54.351952,24.445129,54.377379,24.479428",
+    "geom:latitude":24.461821,
+    "geom:longitude":54.364259,
     "gn:latitude":24.47537,
     "gn:longitude":54.35621,
     "iso:country":"AE",
-    "lbl:bbox":"54.34609,24.469243,54.35609,24.479243",
-    "lbl:latitude":24.474243,
-    "lbl:longitude":54.35109,
+    "lbl:latitude":24.456197,
+    "lbl:longitude":54.365511,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.472121,
     "mps:longitude":54.352477,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0627\u0644\u0645\u0646\u0647\u0644"
     ],
     "name:eng_x_preferred":[
-        "Al Manhal"
-    ],
-    "name:eng_x_variant":[
         "Al Manhal"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -61,12 +57,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.456197,
+    "reversegeo:longitude":54.365511,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -82,10 +81,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"e3a9fb6041322f89b50f832b496a7b42",
+    "wof:geomhash":"c704e5894d6c461d974fe7de0dd89751",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,8 +98,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313355,
-    "wof:name":"\u0627\u0644\u0645\u0646\u0647\u0644",
+    "wof:lastmodified":1663623593,
+    "wof:name":"Al Manhal",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -110,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.35109,
-    24.474243,
-    54.35109,
-    24.474243
+    54.351952,
+    24.445129,
+    54.377379,
+    24.479428
 ],
-  "geometry": {"coordinates":[54.35109,24.474243],"type":"Point"}
+  "geometry": {"coordinates":[[[54.355473,24.456494],[54.355614,24.456615],[54.357125,24.458058],[54.358276,24.459077],[54.361264,24.461751],[54.361294,24.461777],[54.358874,24.464194],[54.357248,24.4659],[54.355475,24.467797],[54.353889,24.469451],[54.352292,24.471106],[54.351952,24.471455],[54.353476,24.472647],[54.354472,24.473466],[54.355322,24.474155],[54.356103,24.474751],[54.356304,24.474871],[54.356558,24.475057],[54.356948,24.475363],[54.357675,24.475942],[54.358949,24.476969],[54.360062,24.477851],[54.361007,24.478604],[54.362026,24.479428],[54.365397,24.475721],[54.366554,24.474473],[54.367939,24.473093],[54.369147,24.471823],[54.370701,24.470152],[54.369396,24.469138],[54.368028,24.467856],[54.365938,24.465955],[54.370951,24.460666],[54.372468,24.459034],[54.376349,24.454941],[54.377379,24.453842],[54.372559,24.450006],[54.369428,24.44755],[54.366394,24.445129],[54.363314,24.448312],[54.361465,24.450258],[54.360205,24.451558],[54.358591,24.453258],[54.355473,24.456494]]],"type":"Polygon"}
 }

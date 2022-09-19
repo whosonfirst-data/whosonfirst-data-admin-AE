@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000111,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.35014,25.34701,56.35014,25.34701",
-    "geom:latitude":25.34701,
-    "geom:longitude":56.35014,
+    "geom:bbox":"56.348321,25.341561,56.36198,25.354803",
+    "geom:latitude":25.347418,
+    "geom:longitude":56.35398,
     "gn:admin1_code":"06",
     "gn:asciiname":"Rafa`",
     "gn:country_code":"AE",
@@ -23,15 +23,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"56.34514,25.34201,56.35514,25.35201",
+    "lbl:latitude":25.347395,
+    "lbl:longitude":56.35385,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rifa`a"
+    ],
+    "name:eng_x_variant":[
+        "Rafa",
+        "Rafa`"
+    ],
     "name:und_x_variant":[
         "Raf\u0101\u2018"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.347395,
+    "reversegeo:longitude":56.35385,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -45,7 +59,10 @@
         "wk:page":"Rafa%27"
     },
     "wof:country":"AE",
-    "wof:geomhash":"cd17e0470dbfa3ab6a3c69cbf9633505",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d4cbd1f086dc50202a494636c9682f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +74,8 @@
         }
     ],
     "wof:id":1376826459,
-    "wof:lastmodified":1566581594,
-    "wof:name":"Rafa`",
+    "wof:lastmodified":1663623587,
+    "wof:name":"Rifa`a",
     "wof:parent_id":421187069,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -69,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.35014,
-    25.34701,
-    56.35014,
-    25.34701
+    56.348321,
+    25.341561,
+    56.36198,
+    25.354803
 ],
-  "geometry": {"coordinates":[56.35014,25.34701],"type":"Point"}
+  "geometry": {"coordinates":[[[56.348321,25.34902],[56.349344,25.350009],[56.350181,25.3508],[56.350592,25.351265],[56.350911,25.351922],[56.353016,25.354803],[56.354223,25.353647],[56.356047,25.352055],[56.357819,25.35095],[56.359386,25.351053],[56.361261,25.35131],[56.36198,25.34946],[56.359515,25.347482],[56.359141,25.347027],[56.358291,25.345513],[56.356692,25.341777],[56.355924,25.342174],[56.355719,25.342237],[56.355597,25.342257],[56.354651,25.342303],[56.354641,25.342112],[56.354608,25.341825],[56.354526,25.341561],[56.354087,25.341564],[56.351838,25.341584],[56.349576,25.341637],[56.34866,25.341673],[56.348321,25.347685],[56.348321,25.34902]]],"type":"Polygon"}
 }

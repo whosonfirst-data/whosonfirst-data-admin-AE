@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001756,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.607114,24.483301,54.607114,24.483301",
-    "geom:latitude":24.483301,
-    "geom:longitude":54.607114,
+    "geom:bbox":"54.599294,24.484936,54.663448,24.5499",
+    "geom:latitude":24.518441,
+    "geom:longitude":54.630638,
     "iso:country":"AE",
-    "lbl:bbox":"54.602114,24.478301,54.612114,24.488301",
+    "lbl:latitude":24.530013,
+    "lbl:longitude":54.616786,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -40,13 +41,19 @@
     "qs:qs_id":242163,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872474,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.530013,
+    "reversegeo:longitude":54.616786,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
-        421172075,
         421179641,
-        85667981
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459010191,
-    "wof:geomhash":"23665c7a95de5d2672e0d3eee8675b47",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3b09fa823badda89aa30cc079b9b780b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +77,7 @@
         }
     ],
     "wof:id":1376826433,
-    "wof:lastmodified":1601423083,
+    "wof:lastmodified":1663623587,
     "wof:name":"Al Bahyah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
@@ -79,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.607114,
-    24.483301,
-    54.607114,
-    24.483301
+    54.599294,
+    24.484936,
+    54.663448,
+    24.5499
 ],
-  "geometry": {"coordinates":[54.607114,24.483301],"type":"Point"}
+  "geometry": {"coordinates":[[[54.633797,24.487455],[54.634416,24.489679],[54.634517,24.491903],[54.63391,24.497428],[54.632293,24.507805],[54.631215,24.509759],[54.629733,24.511242],[54.627307,24.51259],[54.606283,24.516093],[54.604329,24.517576],[54.603318,24.5198],[54.599294,24.532935],[54.61529,24.5499],[54.63254,24.534895],[54.663448,24.510323],[54.654947,24.499334],[54.648061,24.490326],[54.643941,24.484936],[54.633797,24.487455]]],"type":"Polygon"}
 }

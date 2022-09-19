@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000138,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.37189,25.35397,55.37189,25.35397",
-    "geom:latitude":25.35397,
-    "geom:longitude":55.37189,
+    "geom:bbox":"55.365191,25.338922,55.382635,25.351761",
+    "geom:latitude":25.345142,
+    "geom:longitude":55.374616,
     "gn:admin1_code":"06",
     "gn:asciiname":"Layyah",
     "gn:country_code":"AE",
@@ -23,11 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.36689,25.34897,55.37689,25.35897",
+    "lbl:latitude":25.345139,
+    "lbl:longitude":55.374616,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Al Layyah"
+    ],
+    "name:eng_x_variant":[
+        "Layyah"
+    ],
     "name:und_x_variant":[
         "Aliya",
         "Laiya",
@@ -36,7 +43,13 @@
         "Laiyya",
         "Layyah"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.345139,
+    "reversegeo:longitude":55.374616,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -50,7 +63,10 @@
         "wk:page":"Layyah,_Sharjah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"335769ce903647f0033b9f6699631aae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9e700ae27f0343637d383c62c466df86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +78,8 @@
         }
     ],
     "wof:id":1376826499,
-    "wof:lastmodified":1566581595,
-    "wof:name":"Layyah",
+    "wof:lastmodified":1663623585,
+    "wof:name":"Al Layyah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -74,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.37189,
-    25.35397,
-    55.37189,
-    25.35397
+    55.365191,
+    25.338922,
+    55.382635,
+    25.351761
 ],
-  "geometry": {"coordinates":[55.37189,25.35397],"type":"Point"}
+  "geometry": {"coordinates":[[[55.365191,25.345109],[55.367461,25.348575],[55.367666,25.349344],[55.369218,25.351357],[55.369221,25.351453],[55.369157,25.351539],[55.369012,25.351623],[55.368884,25.351616],[55.368698,25.351562],[55.368602,25.351594],[55.368561,25.351658],[55.368596,25.351719],[55.368703,25.351761],[55.371094,25.351331],[55.376946,25.34943],[55.380965,25.347077],[55.381573,25.346698],[55.382067,25.346167],[55.38247,25.345361],[55.382635,25.344537],[55.382008,25.340424],[55.381315,25.339095],[55.380044,25.338922],[55.375664,25.339522],[55.374748,25.34002],[55.366496,25.344425],[55.365191,25.345109]]],"type":"Polygon"}
 }

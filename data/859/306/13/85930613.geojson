@@ -4,23 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.289094,25.268307,55.289094,25.268307",
-    "geom:latitude":25.268307,
-    "geom:longitude":55.289094,
+    "geom:bbox":"55.283516,25.260622,55.294912,25.272577",
+    "geom:latitude":25.267107,
+    "geom:longitude":55.289339,
     "gn:id":"",
     "gn:latitude":25.26887,
     "gn:longitude":55.29036,
     "iso:country":"AE",
-    "lbl:bbox":"55.284094,25.263307,55.294094,25.273307",
-    "lbl:latitude":25.268307,
-    "lbl:longitude":55.289094,
+    "lbl:latitude":25.266853,
+    "lbl:longitude":55.289425,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.27819,
     "mps:longitude":55.282287,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -32,9 +31,6 @@
         "\u0627\u0644\u0634\u0646\u062f\u063a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Shindagha"
-    ],
-    "name:eng_x_variant":[
         "Al Shindagha"
     ],
     "name:und_x_variant":[
@@ -65,12 +61,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.266853,
+    "reversegeo:longitude":55.289425,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -87,10 +86,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"da4d2735907e53c4694626641a6b97a3",
+    "wof:geomhash":"7864d94cf38d15c1d9f1e4aedbf58a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,8 +103,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0634\u0646\u062f\u063a\u0629",
+    "wof:lastmodified":1663623593,
+    "wof:name":"Al Shindagha",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -115,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.289094,
-    25.268307,
-    55.289094,
-    25.268307
+    55.283516,
+    25.260622,
+    55.294912,
+    25.272577
 ],
-  "geometry": {"coordinates":[55.289094,25.268307],"type":"Point"}
+  "geometry": {"coordinates":[[[55.291569,25.26563],[55.290965,25.265562],[55.289834,25.264949],[55.288689,25.264005],[55.286528,25.262449],[55.284118,25.260622],[55.283516,25.261124],[55.285601,25.264575],[55.287128,25.267022],[55.28934,25.270037],[55.290084,25.270849],[55.291689,25.271847],[55.292962,25.272141],[55.294912,25.272577],[55.294852,25.271194],[55.294011,25.270233],[55.292748,25.269481],[55.291727,25.26849],[55.291276,25.267498],[55.291306,25.266476],[55.291569,25.26563]]],"type":"Polygon"}
 }

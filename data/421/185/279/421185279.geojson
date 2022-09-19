@@ -4,22 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000084,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.296249,25.260532,55.296249,25.260532",
-    "geom:latitude":25.260532,
-    "geom:longitude":55.296249,
+    "geom:bbox":"55.284118,25.258199,55.301493,25.266356",
+    "geom:latitude":25.262408,
+    "geom:longitude":55.29387,
     "iso:country":"AE",
-    "lbl:bbox":"55.291249,25.255532,55.301249,25.265532",
+    "lbl:latitude":25.262441,
+    "lbl:longitude":55.29387,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0643\u0628\u064a\u0631"
     ],
     "name:eng_x_preferred":[
+        "Al Souq Al Kabeer"
+    ],
+    "name:eng_x_variant":[
         "Al souq Al Kabeer"
     ],
     "qs:gn_country":null,
@@ -40,13 +44,19 @@
     "qs:qs_id":888397,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872943,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.262441,
+    "reversegeo:longitude":55.29387,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
-        1376833603,
         421174961,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +65,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459009437,
-    "wof:geomhash":"3d208699ec16b293ecd49d65d601b9fd",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"82fdb4702996e27006e62b6e5de8ed6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,8 +80,8 @@
         }
     ],
     "wof:id":421185279,
-    "wof:lastmodified":1601423086,
-    "wof:name":"Al souq Al Kabeer",
+    "wof:lastmodified":1663623585,
+    "wof:name":"Al Souq Al Kabeer",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -77,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.296249,
-    25.260532,
-    55.296249,
-    25.260532
+    55.284118,
+    25.258199,
+    55.301493,
+    25.266356
 ],
-  "geometry": {"coordinates":[55.296249,25.260532],"type":"Point"}
+  "geometry": {"coordinates":[[[55.284118,25.260622],[55.286528,25.262449],[55.288689,25.264005],[55.289834,25.264949],[55.290965,25.265562],[55.291569,25.26563],[55.293053,25.265141],[55.295213,25.265424],[55.297707,25.266116],[55.298165,25.266157],[55.300352,25.266356],[55.301018,25.266316],[55.300971,25.264953],[55.301292,25.264596],[55.301493,25.264353],[55.300852,25.263374],[55.30044,25.26292],[55.300362,25.262508],[55.300303,25.262128],[55.300101,25.261776],[55.299689,25.261181],[55.298938,25.260132],[55.298238,25.259152],[55.2975,25.258199],[55.295765,25.259047],[55.29495,25.259482],[55.294534,25.259601],[55.294085,25.259638],[55.29344,25.259624],[55.292734,25.259573],[55.291979,25.259477],[55.29072,25.259381],[55.28985,25.259294],[55.288495,25.259326],[55.287803,25.259473],[55.287002,25.259734],[55.286027,25.260127],[55.285235,25.260439],[55.284887,25.260526],[55.284509,25.260594],[55.284118,25.260622]]],"type":"Polygon"}
 }

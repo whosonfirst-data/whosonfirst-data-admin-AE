@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000061,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.17256,25.098271,55.17256,25.098271",
-    "geom:latitude":25.098271,
-    "geom:longitude":55.17256,
+    "geom:bbox":"55.16466,25.086637,55.176307,25.098478",
+    "geom:latitude":25.092699,
+    "geom:longitude":55.170749,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.16756,25.093271,55.17756,25.103271",
-    "lbl:latitude":25.098271,
-    "lbl:longitude":55.17256,
+    "lbl:latitude":25.092774,
+    "lbl:longitude":55.170749,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.091359,
     "mps:longitude":55.175968,
@@ -67,12 +66,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.092774,
+    "reversegeo:longitude":55.170749,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":148,
     "wof:belongsto":[
         85667983,
@@ -88,10 +90,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"916ac41feee198a7d521ca9e4786a933",
+    "wof:geomhash":"134aa3c5c90102fb472489509af7c265",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1663623596,
     "wof:name":"The Greens",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -116,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.17256,
-    25.098271,
-    55.17256,
-    25.098271
+    55.16466,
+    25.086637,
+    55.176307,
+    25.098478
 ],
-  "geometry": {"coordinates":[55.17256,25.098271],"type":"Point"}
+  "geometry": {"coordinates":[[[55.168727,25.098478],[55.176307,25.091082],[55.175966,25.090407],[55.175669,25.089948],[55.175269,25.089266],[55.174209,25.08766],[55.173437,25.086637],[55.172748,25.087082],[55.16466,25.09502],[55.168727,25.098478]]],"type":"Polygon"}
 }

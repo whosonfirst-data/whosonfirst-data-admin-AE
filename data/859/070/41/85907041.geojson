@@ -4,17 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000359,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.28998,25.22609,55.28998,25.22609",
-    "geom:latitude":25.22609,
-    "geom:longitude":55.28998,
+    "geom:bbox":"55.289397,25.208001,55.315708,25.232466",
+    "geom:latitude":25.223232,
+    "geom:longitude":55.305407,
     "gn:latitude":25.22584,
     "gn:longitude":55.30491,
     "iso:country":"AE",
-    "lbl:bbox":"55.28498,25.22109,55.29498,25.23109",
-    "lbl:latitude":25.22609,
-    "lbl:longitude":55.28998,
+    "lbl:latitude":25.223773,
+    "lbl:longitude":55.306703,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.225969,
     "mps:longitude":55.290016,
@@ -51,12 +50,15 @@
     "name:vie_x_preferred":[
         "Za'abeel"
     ],
-    "src:geom":"mz",
+    "reversegeo:latitude":25.223773,
+    "reversegeo:longitude":55.306703,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":25.223581,
     "wd:longitude":55.306031,
     "wd:wordcount":132,
@@ -76,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"49e2ed2949a24021067f890bb30fbeff",
+    "wof:geomhash":"97481bd7e41029c8ee5746c827ecfb1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582313356,
+    "wof:lastmodified":1663623592,
     "wof:name":"Za'abeel",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -104,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.28998,
-    25.22609,
-    55.28998,
-    25.22609
+    55.289397,
+    25.208001,
+    55.315708,
+    25.232466
 ],
-  "geometry": {"coordinates":[55.28998,25.22609],"type":"Point"}
+  "geometry": {"coordinates":[[[55.313256,25.208001],[55.309733,25.210557],[55.307158,25.212463],[55.30618,25.213287],[55.304707,25.214599],[55.30288,25.216196],[55.299278,25.219415],[55.294908,25.223284],[55.292524,25.225413],[55.291596,25.226268],[55.290469,25.227258],[55.290123,25.227753],[55.289875,25.228397],[55.289397,25.229712],[55.291356,25.230153],[55.293847,25.230672],[55.297599,25.231495],[55.300239,25.232021],[55.30382,25.232466],[55.306096,25.232392],[55.308892,25.232003],[55.311909,25.231176],[55.314922,25.229631],[55.315708,25.227019],[55.315572,25.224058],[55.314979,25.220188],[55.314401,25.216154],[55.313511,25.209896],[55.313256,25.208001]]],"type":"Polygon"}
 }

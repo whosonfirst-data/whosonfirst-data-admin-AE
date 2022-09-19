@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000292,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.370058,25.31218,55.370058,25.31218",
-    "geom:latitude":25.31218,
-    "geom:longitude":55.370058,
+    "geom:bbox":"55.360021,25.281361,55.388427,25.29951",
+    "geom:latitude":25.291789,
+    "geom:longitude":55.374257,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.365058,25.30718,55.375058,25.31718",
-    "lbl:latitude":25.31218,
-    "lbl:longitude":55.370058,
+    "lbl:latitude":25.290864,
+    "lbl:longitude":55.375656,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.305527,
     "mps:longitude":55.373506,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0646\u0647\u062f\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Nahda"
-    ],
-    "name:eng_x_variant":[
         "Al Nahda"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940119,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.290864,
+    "reversegeo:longitude":55.375656,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -79,10 +78,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"2af81274e80b7b7a3252f0f433cf0dcf",
+    "wof:geomhash":"340d0e374e782153b3e97f50fd89f4a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0646\u0647\u062f\u0629",
+    "wof:lastmodified":1663623593,
+    "wof:name":"Al Nahda",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.370058,
-    25.31218,
-    55.370058,
-    25.31218
+    55.360021,
+    25.281361,
+    55.388427,
+    25.29951
 ],
-  "geometry": {"coordinates":[55.370058,25.31218],"type":"Point"}
+  "geometry": {"coordinates":[[[55.360021,25.290019],[55.360545,25.293149],[55.361099,25.295856],[55.361681,25.297778],[55.361985,25.29825],[55.362312,25.298104],[55.372503,25.296832],[55.377271,25.297762],[55.380623,25.29951],[55.380848,25.299033],[55.381183,25.298323],[55.382294,25.298284],[55.383524,25.298081],[55.384492,25.297813],[55.385342,25.297486],[55.386173,25.297041],[55.387384,25.29638],[55.388427,25.295752],[55.387305,25.294113],[55.384112,25.289546],[55.380606,25.284548],[55.37842,25.281361],[55.376693,25.282402],[55.372126,25.284986],[55.370105,25.286157],[55.368005,25.287387],[55.365983,25.288532],[55.365211,25.288872],[55.364328,25.289147],[55.363379,25.289376],[55.362378,25.289559],[55.360021,25.290019]]],"type":"Polygon"}
 }

@@ -4,23 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000101,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.35301,24.48023,54.35301,24.48023",
-    "geom:latitude":24.48023,
-    "geom:longitude":54.35301,
+    "geom:bbox":"54.347273,24.471455,54.362026,24.48535",
+    "geom:latitude":24.478396,
+    "geom:longitude":54.354468,
     "iso:country":"AE",
-    "lbl:bbox":"54.34801,24.47523,54.35801,24.48523",
+    "lbl:latitude":24.478502,
+    "lbl:longitude":54.354468,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:ara_x_preferred":[
-        "Al \u1e28i\u015fn"
-    ],
     "name:ara_x_variant":[
+        "Al \u1e28i\u015fn",
         "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hisn"
     ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +42,13 @@
     "qs:qs_id":907649,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872830,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.478502,
+    "reversegeo:longitude":54.354468,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -56,7 +64,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459009328,
-    "wof:geomhash":"38cd922ad58d7c0ddbfc6d5d323f4c40",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"d1e8b6d0a733b20117afcd5561cd22e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,8 +79,8 @@
         }
     ],
     "wof:id":421182379,
-    "wof:lastmodified":1566581605,
-    "wof:name":"\u0627\u0644\u062d\u0635\u0646",
+    "wof:lastmodified":1663623584,
+    "wof:name":"Al Hisn",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -78,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.35301,
-    24.48023,
-    54.35301,
-    24.48023
+    54.347273,
+    24.471455,
+    54.362026,
+    24.48535
 ],
-  "geometry": {"coordinates":[54.35301,24.48023],"type":"Point"}
+  "geometry": {"coordinates":[[[54.347273,24.476312],[54.347994,24.477298],[54.348681,24.478266],[54.349122,24.478804],[54.350507,24.480315],[54.351315,24.48118],[54.351864,24.481655],[54.353393,24.482771],[54.35574,24.484454],[54.357016,24.48535],[54.358482,24.48353],[54.359135,24.482763],[54.359907,24.481824],[54.360154,24.481503],[54.362026,24.479428],[54.361007,24.478604],[54.360062,24.477851],[54.358949,24.476969],[54.357675,24.475942],[54.356948,24.475363],[54.356558,24.475057],[54.356304,24.474871],[54.356103,24.474751],[54.355322,24.474155],[54.354472,24.473466],[54.353476,24.472647],[54.351952,24.471455],[54.350827,24.472611],[54.34943,24.474042],[54.34801,24.475542],[54.347273,24.476312]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.011091,
+    "geom:area":0.007476,
     "geom:area_square_m":124478326.37116,
-    "geom:bbox":"55.957649,24.729972,56.105702,24.886105",
-    "geom:latitude":24.817533,
-    "geom:longitude":56.038296,
+    "geom:bbox":"55.978509,24.743313,56.105702,24.895031",
+    "geom:latitude":24.827183,
+    "geom:longitude":56.048304,
     "iso:country":"AE",
     "label:ara_x_preferred_placetype":[
         "\u0625\u0645\u0627\u0631\u0629"
@@ -19,8 +19,8 @@
     "label:eng_x_preferred_placetype":[
         "emirate"
     ],
-    "lbl:latitude":24.820207,
-    "lbl:longitude":56.045581,
+    "lbl:latitude":24.830411,
+    "lbl:longitude":56.05264,
     "lbl:min_zoom":8.0,
     "mps:latitude":24.820207,
     "mps:longitude":56.045581,
@@ -157,8 +157,13 @@
     "qs:source":"Natural Earth",
     "qs:type":"Emirate",
     "qs:woeid":2347110,
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "reversegeo:latitude":24.830411,
+    "reversegeo:longitude":56.05264,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":209,
     "wof:belongsto":[
@@ -168,7 +173,10 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"AE",
-    "wof:geomhash":"bb00e5c6bc3b7ea02ad51a91ae658d8f",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"74677f8f83793312d3b9cf2a9e480947",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +191,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494749,
+    "wof:lastmodified":1663614200,
     "wof:name":"Neutral Zone",
     "wof:parent_id":85632573,
     "wof:placetype":"region",
@@ -193,10 +201,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.957649,
-    24.729972,
+    55.978509,
+    24.743313,
     56.105702,
-    24.886105
+    24.895031
 ],
-  "geometry": {"coordinates":[[[56.029272,24.861171],[56.025252,24.882562],[56.050925,24.866209],[56.105702,24.820372],[56.082396,24.771589],[56.075885,24.751668],[56.077125,24.738129],[56.076298,24.730248],[56.07627,24.729972],[56.062138,24.731773],[56.031546,24.754149],[56.00209,24.823008],[55.96478,24.853859],[55.957649,24.868664],[55.960852,24.881247],[55.978422,24.886105],[55.992375,24.883004],[56.005294,24.876984],[56.029272,24.861171]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[56.105702,24.820372],[56.082396,24.771589],[56.075885,24.751668],[56.081299,24.743313],[56.072665,24.744422],[56.065193,24.747371],[56.058631,24.753171],[56.055092,24.769294],[56.045261,24.783844],[56.03661,24.810387],[55.999449,24.855609],[55.978509,24.877434],[55.979886,24.895031],[56.025252,24.882562],[56.050925,24.866209],[56.105702,24.820372]]],"type":"Polygon"}
 }

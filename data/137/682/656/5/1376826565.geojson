@@ -27,8 +27,7 @@
     "lbl:bbox":"56.04722,25.88056,56.05722,25.89056",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_currrent":0,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Al \u1e28ulaylah"
@@ -59,7 +58,7 @@
         }
     ],
     "wof:id":1376826565,
-    "wof:lastmodified":1663694152,
+    "wof:lastmodified":1663694349,
     "wof:name":"Al Hulaylah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

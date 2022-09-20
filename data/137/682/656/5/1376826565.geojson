@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-09-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,6 +28,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_currrent":0,
     "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Al \u1e28ulaylah"
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1376826565,
-    "wof:lastmodified":1566581595,
+    "wof:lastmodified":1663694152,
     "wof:name":"Al Hulaylah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

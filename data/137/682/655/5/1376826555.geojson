@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-09-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,6 +28,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_currrent":0,
     "mz:min_zoom":15.0,
     "name:fas_x_preferred":[
         "\u0627\u0644\u062c\u0632\u06cc\u0631\u0647"
@@ -51,7 +53,7 @@
         "wk:page":"Al_Jazirah,_Sharjah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"89931412bc5a1b2635183b5a90edd88d",
+    "wof:geomhash":"c6af465f1711372b6f34ea53fd21537e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1376826555,
-    "wof:lastmodified":1566581597,
+    "wof:lastmodified":1663694152,
     "wof:name":"Al Jazirah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
@@ -75,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.36666999999999,
+    55.36667,
     25.35,
-    55.36666999999999,
+    55.36667,
     25.35
 ],
-  "geometry": {"coordinates":[55.36666999999999,25.35],"type":"Point"}
+  "geometry": {"coordinates":[55.36667,25.35],"type":"Point"}
 }

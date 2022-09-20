@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-09-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.2859275,25.2412795,55.2859275,25.2412795",
+    "geom:bbox":"55.285927,25.24128,55.285927,25.24128",
     "geom:latitude":25.24128,
     "geom:longitude":55.285927,
     "iso:country":"AE",
@@ -14,6 +15,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_currrent":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -49,7 +51,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009078,
-    "wof:geomhash":"d253537a7ba479f5e17e69ac8df12f17",
+    "wof:geomhash":"ab562d00f8588bab2e5464151e1fb7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":421175775,
-    "wof:lastmodified":1566581602,
+    "wof:lastmodified":1663694153,
     "wof:name":"\u0627\u0644\u062a\u062c\u0645\u0639 323",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -71,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.2859275,
-    25.2412795,
-    55.2859275,
-    25.2412795
+    55.285927,
+    25.24128,
+    55.285927,
+    25.24128
 ],
-  "geometry": {"coordinates":[55.2859275,25.2412795],"type":"Point"}
+  "geometry": {"coordinates":[55.285927,25.24128],"type":"Point"}
 }

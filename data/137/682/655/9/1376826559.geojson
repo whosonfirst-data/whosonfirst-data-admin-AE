@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.29891,25.26038,55.29891,25.26038",
-    "geom:latitude":25.26038,
-    "geom:longitude":55.29891,
+    "geom:bbox":"55.296249,25.262499,55.296249,25.262499",
+    "geom:latitude":25.262499,
+    "geom:longitude":55.296249,
     "gn:admin1_code":"03",
     "gn:asciiname":"Bur Dubai",
     "gn:country_code":"AE",
@@ -23,7 +23,8 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.29391,25.25538,55.30391,25.26538",
+    "lbl:latitude":25.262499,
+    "lbl:longitude":55.296249,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -35,6 +36,9 @@
         "\u092c\u0930 \u0926\u0941\u092c\u0908"
     ],
     "name:cat_x_preferred":[
+        "Bur Dubai"
+    ],
+    "name:eng_x_preferred":[
         "Bur Dubai"
     ],
     "name:epo_x_preferred":[
@@ -64,7 +68,13 @@
     "name:vie_x_preferred":[
         "Bur Dubai"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.262499,
+    "reversegeo:longitude":55.296249,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -78,7 +88,10 @@
         "wk:page":"Bur_Dubai"
     },
     "wof:country":"AE",
-    "wof:geomhash":"e589e18a4e8ea84a03daf69dcf46f51e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2fedc9ebdba2c77ec6c4891282b72534",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +103,7 @@
         }
     ],
     "wof:id":1376826559,
-    "wof:lastmodified":1566581597,
+    "wof:lastmodified":1663694933,
     "wof:name":"Bur Dubai",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -102,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.29891,
-    25.26038,
-    55.29891,
-    25.26038
+    55.296249,
+    25.262499,
+    55.296249,
+    25.262499
 ],
-  "geometry": {"coordinates":[55.29891,25.26038],"type":"Point"}
+  "geometry": {"coordinates":[55.296249,25.262499],"type":"Point"}
 }

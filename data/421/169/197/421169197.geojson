@@ -10,10 +10,11 @@
     "geom:latitude":25.41335,
     "geom:longitude":55.4413,
     "iso:country":"AE",
-    "lbl:bbox":"55.4363,25.40835,55.4463,25.41835",
+    "lbl:latitude":25.41335,
+    "lbl:longitude":55.4413,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -21,6 +22,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Awan"
+    ],
+    "name:eng_x_variant":[
+        "Al Owan"
     ],
     "qs:gn_country":"AE",
     "qs:gn_fcode":"PPLX",
@@ -40,13 +44,19 @@
     "qs:qs_id":1199205,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872421,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.41335,
+    "reversegeo:longitude":55.4413,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667969,
         102191569,
         85632573,
-        1376833607,
         1126024975,
-        85667969
+        1376833607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,6 +66,9 @@
     },
     "wof:country":"AE",
     "wof:created":1459008799,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0069cb9c0a24e30351fe264add3be092",
     "wof:hierarchy":[
         {
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":421169197,
-    "wof:lastmodified":1601423083,
+    "wof:lastmodified":1663694933,
     "wof:name":"Al Awan",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",

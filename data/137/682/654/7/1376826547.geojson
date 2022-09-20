@@ -23,15 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.97212,25.75953,55.98212,25.76953",
+    "lbl:latitude":25.76453,
+    "lbl:longitude":55.97712,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
-    "name:ara_x_preferred":[
+    "name:ara_x_variant":[
         "Bid\u00e1"
     ],
     "name:deu_x_preferred":[
+        "Bida"
+    ],
+    "name:eng_x_preferred":[
         "Bida"
     ],
     "name:fas_x_preferred":[
@@ -43,7 +47,13 @@
     "name:hun_x_preferred":[
         "Bida"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.76453,
+    "reversegeo:longitude":55.97712,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667951,
         102191569,
@@ -57,6 +67,9 @@
         "wk:page":"Bida,_Ras_al-Khaimah"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"cb30bcad4c89761781b58fba72772d01",
     "wof:hierarchy":[
         {
@@ -69,7 +82,7 @@
         }
     ],
     "wof:id":1376826547,
-    "wof:lastmodified":1636494750,
+    "wof:lastmodified":1663694933,
     "wof:name":"Bida",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

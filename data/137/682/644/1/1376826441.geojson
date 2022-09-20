@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.45533,25.01625,55.45533,25.01625",
-    "geom:latitude":25.01625,
-    "geom:longitude":55.45533,
+    "geom:bbox":"55.475779,24.976332,55.475779,24.976332",
+    "geom:latitude":24.976332,
+    "geom:longitude":55.475779,
     "gn:admin1_code":"03",
     "gn:asciiname":"`Ud al Bayda'",
     "gn:country_code":"AE",
@@ -23,16 +23,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.45033,25.01125,55.46033,25.02125",
+    "lbl:latitude":24.976332,
+    "lbl:longitude":55.475779,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ud al Bayda"
+    ],
+    "name:eng_x_variant":[
+        "`Ud al Bayda'"
+    ],
     "name:und_x_variant":[
         "Ud al Beida",
         "\u2018\u016ad al Bay\u1e11\u0101\u2019"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":24.976332,
+    "reversegeo:longitude":55.475779,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -45,7 +58,10 @@
         "gn:id":290624
     },
     "wof:country":"AE",
-    "wof:geomhash":"e3322b552995e096fe7115efce7b3175",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"03a108265351707b6cd1d160672f6005",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1376826441,
-    "wof:lastmodified":1566581594,
-    "wof:name":"`Ud al Bayda'",
+    "wof:lastmodified":1663694932,
+    "wof:name":"Ud al Bayda",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.45533,
-    25.01625,
-    55.45533,
-    25.01625
+    55.475779,
+    24.976332,
+    55.475779,
+    24.976332
 ],
-  "geometry": {"coordinates":[55.45533,25.01625],"type":"Point"}
+  "geometry": {"coordinates":[55.475779,24.976332],"type":"Point"}
 }

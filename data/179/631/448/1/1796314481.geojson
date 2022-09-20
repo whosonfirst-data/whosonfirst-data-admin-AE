@@ -1,0 +1,43 @@
+{
+  "id": 1796314481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:bbox":"55.950769,25.792965,55.961489,25.806107",
+    "geom:latitude":25.800186,
+    "geom:longitude":55.955845,
+    "iso:country":"AE",
+    "lbl:latitude":25.800347,
+    "lbl:longitude":55.955743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Mahatah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"69f4585041328cf3ca987e2b42b2656d",
+    "wof:hierarchy":[],
+    "wof:id":1796314481,
+    "wof:lastmodified":1663693028,
+    "wof:name":"Al Mahatah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.950769,
+    25.792965,
+    55.961489,
+    25.806107
+],
+  "geometry": {"coordinates":[[[55.961489,25.805212],[55.960632,25.802797],[55.960128,25.801325],[55.959062,25.79834],[55.958822,25.79782],[55.958479,25.796572],[55.957248,25.792965],[55.953171,25.794068],[55.952018,25.795724],[55.950937,25.797477],[55.950769,25.79851],[55.951105,25.799662],[55.952279,25.801824],[55.953095,25.804525],[55.952514,25.80562],[55.953751,25.805909],[55.955841,25.806107],[55.958348,25.806107],[55.961489,25.805212]]],"type":"Polygon"}
+}

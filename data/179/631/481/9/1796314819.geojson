@@ -1,0 +1,43 @@
+{
+  "id": 1796314819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:bbox":"55.535518,25.54422,55.547671,25.559069",
+    "geom:latitude":25.551497,
+    "geom:longitude":55.541055,
+    "iso:country":"AE",
+    "lbl:latitude":25.551553,
+    "lbl:longitude":55.541975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Maidan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8015458b9bb7990fdd105b677f19110d",
+    "wof:hierarchy":[],
+    "wof:id":1796314819,
+    "wof:lastmodified":1663693035,
+    "wof:name":"Al Maidan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.535518,
+    25.54422,
+    55.547671,
+    25.559069
+],
+  "geometry": {"coordinates":[[[55.541736,25.556677],[55.542938,25.556109],[55.54323,25.556563],[55.545996,25.554565],[55.547671,25.553428],[55.545681,25.550259],[55.544682,25.548661],[55.543637,25.546924],[55.542285,25.54422],[55.537783,25.545849],[55.53769,25.545664],[55.53614,25.546369],[55.535899,25.546462],[55.538762,25.553543],[55.535749,25.555966],[55.535518,25.556453],[55.535608,25.556953],[55.53607,25.55753],[55.537403,25.559069],[55.539416,25.557658],[55.540813,25.556697],[55.540813,25.556511],[55.540685,25.556319],[55.540852,25.556235],[55.54109,25.556222],[55.541461,25.556312],[55.541672,25.556434],[55.541736,25.556677]]],"type":"Polygon"}
+}

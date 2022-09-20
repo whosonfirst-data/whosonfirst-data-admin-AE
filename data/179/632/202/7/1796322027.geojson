@@ -1,0 +1,43 @@
+{
+  "id": 1796322027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:bbox":"55.411595,25.309066,55.433896,25.332859",
+    "geom:latitude":25.321194,
+    "geom:longitude":55.422554,
+    "iso:country":"AE",
+    "lbl:latitude":25.321174,
+    "lbl:longitude":55.422385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 6"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"cea68c1121969be7db3f0cf12e4486d4",
+    "wof:hierarchy":[],
+    "wof:id":1796322027,
+    "wof:lastmodified":1663693196,
+    "wof:name":"Industrial Area 6",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.411595,
+    25.309066,
+    55.433896,
+    25.332859
+],
+  "geometry": {"coordinates":[[[55.420918,25.309066],[55.411595,25.31609],[55.413535,25.318784],[55.416358,25.32283],[55.419796,25.327803],[55.423508,25.332859],[55.425207,25.331821],[55.426931,25.330808],[55.433896,25.326703],[55.430649,25.322287],[55.42237,25.310997],[55.420918,25.309066]]],"type":"Polygon"}
+}

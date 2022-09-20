@@ -1,0 +1,43 @@
+{
+  "id": 1796322029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000232,
+    "geom:bbox":"55.420918,25.302649,55.442531,25.326703",
+    "geom:latitude":25.314885,
+    "geom:longitude":55.431662,
+    "iso:country":"AE",
+    "lbl:latitude":25.314862,
+    "lbl:longitude":55.431662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 12"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a871b6dd7d30f8a171fbfb111ce85ed0",
+    "wof:hierarchy":[],
+    "wof:id":1796322029,
+    "wof:lastmodified":1663693196,
+    "wof:name":"Industrial Area 12",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.420918,
+    25.302649,
+    55.442531,
+    25.326703
+],
+  "geometry": {"coordinates":[[[55.42916,25.302649],[55.420918,25.309066],[55.42237,25.310997],[55.430649,25.322287],[55.433896,25.326703],[55.442531,25.321593],[55.439411,25.317028],[55.437287,25.313856],[55.434814,25.310501],[55.432323,25.306979],[55.430493,25.304433],[55.42916,25.302649]]],"type":"Polygon"}
+}

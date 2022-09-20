@@ -1,0 +1,43 @@
+{
+  "id": 1796321973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:bbox":"55.395972,25.263476,55.415165,25.280796",
+    "geom:latitude":25.271744,
+    "geom:longitude":55.404289,
+    "iso:country":"AE",
+    "lbl:latitude":25.271654,
+    "lbl:longitude":55.404143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Muhaisnah 3"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"7488246dc4a0a1b470ae4058a652dc1b",
+    "wof:hierarchy":[],
+    "wof:id":1796321973,
+    "wof:lastmodified":1663693041,
+    "wof:name":"Muhaisnah 3",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.395972,
+    25.263476,
+    55.415165,
+    25.280796
+],
+  "geometry": {"coordinates":[[[55.396677,25.280796],[55.401071,25.278278],[55.405873,25.275509],[55.410111,25.273052],[55.413988,25.270769],[55.415165,25.270076],[55.411187,25.265652],[55.410135,25.264254],[55.409713,25.263476],[55.40688,25.265465],[55.405394,25.266348],[55.404484,25.266736],[55.403855,25.266857],[55.403092,25.267071],[55.402289,25.267459],[55.400991,25.268195],[55.395972,25.271099],[55.396159,25.271876],[55.396253,25.272652],[55.396226,25.273508],[55.396186,25.274807],[55.396199,25.27664],[55.396253,25.278233],[55.396414,25.279719],[55.396677,25.280796]]],"type":"Polygon"}
+}

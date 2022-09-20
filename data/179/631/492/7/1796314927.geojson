@@ -1,0 +1,43 @@
+{
+  "id": 1796314927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:bbox":"55.395994,25.365941,55.407876,25.376716",
+    "geom:latitude":25.37123,
+    "geom:longitude":55.401876,
+    "iso:country":"AE",
+    "lbl:latitude":25.371824,
+    "lbl:longitude":55.402371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Abu Tina"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"26f4511ad3756b0413a465d8b9983082",
+    "wof:hierarchy":[],
+    "wof:id":1796314927,
+    "wof:lastmodified":1663693038,
+    "wof:name":"Abu Tina",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.395994,
+    25.365941,
+    55.407876,
+    25.376716
+],
+  "geometry": {"coordinates":[[[55.395994,25.368599],[55.396832,25.369683],[55.398443,25.371857],[55.402094,25.376716],[55.402569,25.376433],[55.407876,25.373281],[55.405543,25.370651],[55.401339,25.365941],[55.396442,25.368361],[55.395994,25.368599]]],"type":"Polygon"}
+}

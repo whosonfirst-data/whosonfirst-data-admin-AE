@@ -1,0 +1,43 @@
+{
+  "id": 1796321883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:bbox":"55.40883,25.352894,55.427957,25.364693",
+    "geom:latitude":25.358037,
+    "geom:longitude":55.418056,
+    "iso:country":"AE",
+    "lbl:latitude":25.35886,
+    "lbl:longitude":55.41872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Ramla"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"affd9dfbd750ac0371154a6c75ebf0ff",
+    "wof:hierarchy":[],
+    "wof:id":1796321883,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Ramla",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.40883,
+    25.352894,
+    55.427957,
+    25.364693
+],
+  "geometry": {"coordinates":[[[55.413675,25.360709],[55.416232,25.362348],[55.418507,25.363785],[55.418739,25.363988],[55.419516,25.364693],[55.427957,25.355809],[55.422251,25.355088],[55.413663,25.353947],[55.412934,25.353802],[55.412334,25.353585],[55.411872,25.353304],[55.411475,25.352986],[55.411391,25.352894],[55.40883,25.354186],[55.409114,25.354688],[55.411245,25.35752],[55.412505,25.359181],[55.413675,25.360709]]],"type":"Polygon"}
+}

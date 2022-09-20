@@ -1,0 +1,43 @@
+{
+  "id": 1796322037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:bbox":"55.390397,25.301987,55.411595,25.322305",
+    "geom:latitude":25.312134,
+    "geom:longitude":55.400999,
+    "iso:country":"AE",
+    "lbl:latitude":25.312159,
+    "lbl:longitude":55.400999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"9c22fc3141bffb13e6154f1247e33567",
+    "wof:hierarchy":[],
+    "wof:id":1796322037,
+    "wof:lastmodified":1663693196,
+    "wof:name":"Industrial Area 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.390397,
+    25.301987,
+    55.411595,
+    25.322305
+],
+  "geometry": {"coordinates":[[[55.398379,25.301987],[55.390397,25.308127],[55.399997,25.318518],[55.403555,25.322305],[55.411595,25.31609],[55.408111,25.312316],[55.402728,25.306547],[55.398379,25.301987]]],"type":"Polygon"}
+}

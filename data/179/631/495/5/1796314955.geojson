@@ -1,0 +1,43 @@
+{
+  "id": 1796314955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:bbox":"55.435995,25.34516,55.453181,25.358405",
+    "geom:latitude":25.35171,
+    "geom:longitude":55.444514,
+    "iso:country":"AE",
+    "lbl:latitude":25.351688,
+    "lbl:longitude":55.444514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Goaz"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"6a7ce99494ed65a2b7ffc36713e72c74",
+    "wof:hierarchy":[],
+    "wof:id":1796314955,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Goaz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.435995,
+    25.34516,
+    55.453181,
+    25.358405
+],
+  "geometry": {"coordinates":[[[55.453181,25.352907],[55.447471,25.34516],[55.435995,25.350384],[55.437139,25.35212],[55.438412,25.353934],[55.43955,25.355631],[55.440778,25.357361],[55.441582,25.358405],[55.442168,25.35802],[55.442888,25.357612],[55.444468,25.356892],[55.453181,25.352907]]],"type":"Polygon"}
+}

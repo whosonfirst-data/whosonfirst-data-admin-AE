@@ -1,0 +1,43 @@
+{
+  "id": 1796321901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:bbox":"55.204433,25.133789,55.22392,25.154725",
+    "geom:latitude":25.144239,
+    "geom:longitude":55.214463,
+    "iso:country":"AE",
+    "lbl:latitude":25.144144,
+    "lbl:longitude":55.214315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Manara"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"10a17542693a6ebc356878a1de8f5e61",
+    "wof:hierarchy":[],
+    "wof:id":1796321901,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Manara",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.204433,
+    25.133789,
+    55.22392,
+    25.154725
+],
+  "geometry": {"coordinates":[[[55.215888,25.154725],[55.22392,25.149384],[55.223105,25.148081],[55.218447,25.140553],[55.217854,25.139616],[55.215817,25.136391],[55.214245,25.133789],[55.213491,25.134231],[55.204433,25.140065],[55.204517,25.140175],[55.205137,25.14087],[55.206125,25.142166],[55.207519,25.143932],[55.209047,25.145897],[55.21037,25.14758],[55.211752,25.149334],[55.213191,25.151137],[55.214416,25.152741],[55.215888,25.154725]]],"type":"Polygon"}
+}

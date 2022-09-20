@@ -1,0 +1,43 @@
+{
+  "id": 1796314957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:bbox":"55.447471,25.340293,55.462574,25.352907",
+    "geom:latitude":25.346805,
+    "geom:longitude":55.45503,
+    "iso:country":"AE",
+    "lbl:latitude":25.346755,
+    "lbl:longitude":55.454915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Sweihat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"450735cd88fbbebd4270281e747dafb8",
+    "wof:hierarchy":[],
+    "wof:id":1796314957,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Sweihat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.447471,
+    25.340293,
+    55.462574,
+    25.352907
+],
+  "geometry": {"coordinates":[[[55.447471,25.34516],[55.453181,25.352907],[55.462574,25.348638],[55.460961,25.346418],[55.456457,25.340293],[55.454593,25.341621],[55.453722,25.342157],[55.453086,25.342547],[55.447471,25.34516]]],"type":"Polygon"}
+}

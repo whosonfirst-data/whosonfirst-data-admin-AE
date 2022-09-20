@@ -1,0 +1,43 @@
+{
+  "id": 1796314693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002599,
+    "geom:bbox":"55.590932,24.229806,55.639635,24.301148",
+    "geom:latitude":24.267051,
+    "geom:longitude":55.615471,
+    "iso:country":"AE",
+    "lbl:latitude":24.267846,
+    "lbl:longitude":55.615007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Ain International Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"f156dd96317b5be8a38307806c5442f4",
+    "wof:hierarchy":[],
+    "wof:id":1796314693,
+    "wof:lastmodified":1663693033,
+    "wof:name":"Al Ain International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.590932,
+    24.229806,
+    55.639635,
+    24.301148
+],
+  "geometry": {"coordinates":[[[55.634329,24.25949],[55.634334,24.257978],[55.629719,24.257249],[55.630987,24.251635],[55.631446,24.248558],[55.631338,24.246372],[55.631014,24.244212],[55.630366,24.242242],[55.629503,24.240245],[55.626992,24.235845],[55.623513,24.229806],[55.62266,24.230899],[55.59818,24.233733],[55.590932,24.233244],[55.601929,24.301148],[55.639635,24.30108],[55.634329,24.25949]]],"type":"Polygon"}
+}

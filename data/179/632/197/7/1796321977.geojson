@@ -1,0 +1,43 @@
+{
+  "id": 1796321977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000159,
+    "geom:bbox":"55.378035,25.261049,55.395972,25.277607",
+    "geom:latitude":25.269328,
+    "geom:longitude":55.387205,
+    "iso:country":"AE",
+    "lbl:latitude":25.269362,
+    "lbl:longitude":55.387214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Quasis 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"f8b8558a1425cdff974fb27501e38f89",
+    "wof:hierarchy":[],
+    "wof:id":1796321977,
+    "wof:lastmodified":1663693041,
+    "wof:name":"Al Quasis 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.378035,
+    25.261049,
+    55.395972,
+    25.277607
+],
+  "geometry": {"coordinates":[[[55.395972,25.271099],[55.395578,25.269842],[55.395219,25.269087],[55.394743,25.268376],[55.393599,25.266698],[55.392566,25.265202],[55.389694,25.261049],[55.386351,25.263026],[55.380851,25.266184],[55.37816,25.26779],[55.378035,25.267865],[55.379322,25.269805],[55.380795,25.271946],[55.382256,25.273853],[55.384814,25.277607],[55.395972,25.271099]]],"type":"Polygon"}
+}

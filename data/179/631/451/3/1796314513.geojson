@@ -1,0 +1,43 @@
+{
+  "id": 1796314513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003633,
+    "geom:bbox":"55.088051,24.853716,55.197705,24.925414",
+    "geom:latitude":24.890319,
+    "geom:longitude":55.142435,
+    "iso:country":"AE",
+    "lbl:latitude":24.890351,
+    "lbl:longitude":55.142434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Maktoum International Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"df1c6513d9e4172683d6f919a3fdcb6c",
+    "wof:hierarchy":[],
+    "wof:id":1796314513,
+    "wof:lastmodified":1663693029,
+    "wof:name":"Al Maktoum International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.088051,
+    24.853716,
+    55.197705,
+    24.925414
+],
+  "geometry": {"coordinates":[[[55.168336,24.853716],[55.155709,24.860647],[55.148093,24.864878],[55.140798,24.868955],[55.135119,24.872083],[55.126862,24.87666],[55.119593,24.880698],[55.114016,24.883775],[55.109144,24.886467],[55.106696,24.888006],[55.103926,24.890108],[55.102106,24.891698],[55.101221,24.892544],[55.099234,24.894685],[55.096939,24.897609],[55.088051,24.909417],[55.091918,24.911892],[55.100301,24.917162],[55.103792,24.919728],[55.104733,24.920419],[55.11121,24.925414],[55.130313,24.915095],[55.135472,24.91649],[55.197704,24.882281],[55.197705,24.882279],[55.190602,24.87391],[55.168336,24.853716]]],"type":"Polygon"}
+}

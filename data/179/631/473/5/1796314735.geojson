@@ -1,0 +1,43 @@
+{
+  "id": 1796314735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:bbox":"55.390874,25.352765,55.403933,25.360977",
+    "geom:latitude":25.356852,
+    "geom:longitude":55.396868,
+    "iso:country":"AE",
+    "lbl:latitude":25.357307,
+    "lbl:longitude":55.396769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Musalla"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a838a139eb29ca5f12e67ea8e7376ad2",
+    "wof:hierarchy":[],
+    "wof:id":1796314735,
+    "wof:lastmodified":1663693034,
+    "wof:name":"Al Musalla",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.390874,
+    25.352765,
+    55.403933,
+    25.360977
+],
+  "geometry": {"coordinates":[[[55.403933,25.356689],[55.401975,25.355834],[55.401203,25.355525],[55.39993,25.355178],[55.391096,25.352765],[55.390874,25.353383],[55.391111,25.353946],[55.391208,25.354174],[55.3913,25.354343],[55.391615,25.354799],[55.39287,25.356602],[55.393645,25.357842],[55.394256,25.358826],[55.39491,25.359892],[55.395138,25.360348],[55.397021,25.360977],[55.398068,25.360601],[55.398718,25.360283],[55.399325,25.359835],[55.40181,25.357921],[55.402944,25.357206],[55.403933,25.356689]]],"type":"Polygon"}
+}

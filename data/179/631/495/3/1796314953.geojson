@@ -1,0 +1,43 @@
+{
+  "id": 1796314953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:bbox":"55.419516,25.355809,55.434571,25.371876",
+    "geom:latitude":25.364188,
+    "geom:longitude":55.427309,
+    "iso:country":"AE",
+    "lbl:latitude":25.364338,
+    "lbl:longitude":55.427423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Jazzat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8142880d7f12f96b9034c1224f53e1f7",
+    "wof:hierarchy":[],
+    "wof:id":1796314953,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Jazzat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.419516,
+    25.355809,
+    55.434571,
+    25.371876
+],
+  "geometry": {"coordinates":[[[55.427714,25.371876],[55.434571,25.365097],[55.434281,25.364734],[55.433271,25.363294],[55.427957,25.355809],[55.419516,25.364693],[55.427714,25.371876]]],"type":"Polygon"}
+}

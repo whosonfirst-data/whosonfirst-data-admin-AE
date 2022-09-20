@@ -1,0 +1,43 @@
+{
+  "id": 1796314915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"55.392542,25.368599,55.402094,25.378731",
+    "geom:latitude":25.37373,
+    "geom:longitude":55.397273,
+    "iso:country":"AE",
+    "lbl:latitude":25.373748,
+    "lbl:longitude":55.397201,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Gulayaa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"e52005eb47fc0274f6e7acea49489552",
+    "wof:hierarchy":[],
+    "wof:id":1796314915,
+    "wof:lastmodified":1663693038,
+    "wof:name":"Al Gulayaa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.392542,
+    25.368599,
+    55.402094,
+    25.378731
+],
+  "geometry": {"coordinates":[[[55.392542,25.370275],[55.395507,25.374909],[55.397977,25.378419],[55.398682,25.378731],[55.399981,25.377975],[55.402094,25.376716],[55.398443,25.371857],[55.396832,25.369683],[55.395994,25.368599],[55.393127,25.369993],[55.392542,25.370275]]],"type":"Polygon"}
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1796314945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001464,
+    "geom:bbox":"55.479631,25.322634,55.555086,25.364527",
+    "geom:latitude":25.347914,
+    "geom:longitude":55.526279,
+    "iso:country":"AE",
+    "lbl:latitude":25.346678,
+    "lbl:longitude":55.533139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Um Fannain"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"83dc3a642d248fb71dfdb8c339b15423",
+    "wof:hierarchy":[],
+    "wof:id":1796314945,
+    "wof:lastmodified":1663693038,
+    "wof:name":"Um Fannain",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.479631,
+    25.322634,
+    55.555086,
+    25.364527
+],
+  "geometry": {"coordinates":[[[55.497577,25.35764],[55.501299,25.357256],[55.5147,25.358798],[55.538976,25.363105],[55.555086,25.364527],[55.555052,25.364461],[55.554748,25.363405],[55.548706,25.342397],[55.542454,25.322634],[55.513187,25.339044],[55.507236,25.344995],[55.494292,25.352623],[55.490768,25.348116],[55.479631,25.354575],[55.480698,25.356077],[55.481457,25.356915],[55.482551,25.357707],[55.483913,25.358422],[55.485241,25.358812],[55.486715,25.359002],[55.488144,25.358957],[55.491481,25.358522],[55.497577,25.35764]]],"type":"Polygon"}
+}

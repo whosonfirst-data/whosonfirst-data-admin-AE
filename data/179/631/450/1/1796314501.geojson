@@ -1,0 +1,43 @@
+{
+  "id": 1796314501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:bbox":"56.316868,25.122317,56.32668,25.134184",
+    "geom:latitude":25.128571,
+    "geom:longitude":56.320779,
+    "iso:country":"AE",
+    "lbl:latitude":25.128748,
+    "lbl:longitude":56.320704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Anajaimat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c5fbc46cc9800591435f205b14c746b6",
+    "wof:hierarchy":[],
+    "wof:id":1796314501,
+    "wof:lastmodified":1663693028,
+    "wof:name":"Anajaimat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.316868,
+    25.122317,
+    56.32668,
+    25.134184
+],
+  "geometry": {"coordinates":[[[56.321655,25.134184],[56.32668,25.129496],[56.32394,25.127247],[56.320925,25.124771],[56.320297,25.1243],[56.316868,25.122317],[56.316947,25.129354],[56.317043,25.130077],[56.321655,25.134184]]],"type":"Polygon"}
+}

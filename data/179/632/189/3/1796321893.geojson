@@ -1,0 +1,43 @@
+{
+  "id": 1796321893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:bbox":"55.418711,25.376559,55.436383,25.390805",
+    "geom:latitude":25.383869,
+    "geom:longitude":55.427164,
+    "iso:country":"AE",
+    "lbl:latitude":25.3837,
+    "lbl:longitude":55.427164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Nekhailat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"94939df6922fe07945df18837c1e5a7e",
+    "wof:hierarchy":[],
+    "wof:id":1796321893,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Nekhailat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.418711,
+    25.376559,
+    55.436383,
+    25.390805
+],
+  "geometry": {"coordinates":[[[55.432046,25.390805],[55.436383,25.388276],[55.434631,25.3868],[55.433732,25.385947],[55.422963,25.376559],[55.419794,25.379893],[55.419346,25.380456],[55.418711,25.381424],[55.421214,25.383156],[55.42666,25.386815],[55.430596,25.389649],[55.432046,25.390805]]],"type":"Polygon"}
+}

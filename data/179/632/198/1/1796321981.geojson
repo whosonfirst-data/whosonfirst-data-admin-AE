@@ -1,0 +1,43 @@
+{
+  "id": 1796321981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:bbox":"55.384814,25.271099,55.396677,25.284872",
+    "geom:latitude":25.278249,
+    "geom:longitude":55.391657,
+    "iso:country":"AE",
+    "lbl:latitude":25.278631,
+    "lbl:longitude":55.391747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Quasis Industrial Area 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"2f847d3aa5f107f13dbdeb5b4158741d",
+    "wof:hierarchy":[],
+    "wof:id":1796321981,
+    "wof:lastmodified":1663693041,
+    "wof:name":"Al Quasis Industrial Area 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.384814,
+    25.271099,
+    55.396677,
+    25.284872
+],
+  "geometry": {"coordinates":[[[55.389779,25.284872],[55.392643,25.283164],[55.396677,25.280796],[55.396414,25.279719],[55.396253,25.278233],[55.396199,25.27664],[55.396186,25.274807],[55.396226,25.273508],[55.396253,25.272652],[55.396159,25.271876],[55.395972,25.271099],[55.384814,25.277607],[55.38949,25.284468],[55.389779,25.284872]]],"type":"Polygon"}
+}

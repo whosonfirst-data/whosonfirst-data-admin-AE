@@ -1,0 +1,43 @@
+{
+  "id": 1796322003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000382,
+    "geom:bbox":"55.400924,25.271521,55.444042,25.294189",
+    "geom:latitude":25.283107,
+    "geom:longitude":55.423113,
+    "iso:country":"AE",
+    "lbl:latitude":25.28317,
+    "lbl:longitude":55.423113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Quasis Industrial Area 5"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"3cdfe02883ce53c865796e8a25aa16aa",
+    "wof:hierarchy":[],
+    "wof:id":1796322003,
+    "wof:lastmodified":1663693042,
+    "wof:name":"Al Quasis Industrial Area 5",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.400924,
+    25.271521,
+    55.444042,
+    25.294189
+],
+  "geometry": {"coordinates":[[[55.407021,25.294189],[55.417855,25.290102],[55.427503,25.286463],[55.440629,25.281513],[55.444042,25.280225],[55.441439,25.274586],[55.440435,25.273722],[55.439272,25.271521],[55.433755,25.273796],[55.427692,25.276299],[55.422387,25.278525],[55.421094,25.279049],[55.419554,25.279612],[55.418149,25.279946],[55.416757,25.280174],[55.414977,25.280709],[55.41305,25.281445],[55.411899,25.282088],[55.409061,25.283787],[55.405809,25.285594],[55.402865,25.287334],[55.400924,25.288485],[55.401537,25.289205],[55.402289,25.289936],[55.403284,25.290812],[55.40469,25.292107],[55.406242,25.293506],[55.407021,25.294189]]],"type":"Polygon"}
+}

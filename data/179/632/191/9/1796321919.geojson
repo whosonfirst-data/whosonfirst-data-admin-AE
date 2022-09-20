@@ -1,0 +1,43 @@
+{
+  "id": 1796321919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000482,
+    "geom:bbox":"55.365952,25.160835,55.396592,25.185",
+    "geom:latitude":25.17373,
+    "geom:longitude":55.38163,
+    "iso:country":"AE",
+    "lbl:latitude":25.173755,
+    "lbl:longitude":55.38163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ras Al Khar Industrial Area 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"0635c91bfbba0be4886df76068feb3dc",
+    "wof:hierarchy":[],
+    "wof:id":1796321919,
+    "wof:lastmodified":1663693040,
+    "wof:name":"Ras Al Khar Industrial Area 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.365952,
+    25.160835,
+    55.396592,
+    25.185
+],
+  "geometry": {"coordinates":[[[55.365952,25.168044],[55.3708,25.185],[55.373307,25.184569],[55.378701,25.183517],[55.384487,25.182405],[55.388393,25.181654],[55.38952,25.181459],[55.393097,25.180752],[55.396592,25.180069],[55.396551,25.179415],[55.395484,25.174212],[55.394966,25.172341],[55.394507,25.170643],[55.393749,25.168262],[55.392776,25.165688],[55.391055,25.161135],[55.390934,25.160835],[55.388413,25.162242],[55.385193,25.16344],[55.379844,25.165116],[55.371647,25.167059],[55.365952,25.168044]]],"type":"Polygon"}
+}

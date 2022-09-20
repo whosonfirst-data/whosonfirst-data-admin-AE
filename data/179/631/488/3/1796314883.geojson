@@ -1,0 +1,43 @@
+{
+  "id": 1796314883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002385,
+    "geom:bbox":"54.456637,24.344006,54.525984,24.384836",
+    "geom:latitude":24.363944,
+    "geom:longitude":54.493954,
+    "iso:country":"AE",
+    "lbl:latitude":24.364708,
+    "lbl:longitude":54.493954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Musaffah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"9368c04baf07d5d9635e682292d47fb3",
+    "wof:hierarchy":[],
+    "wof:id":1796314883,
+    "wof:lastmodified":1663693037,
+    "wof:name":"Musaffah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.456637,
+    24.344006,
+    54.525984,
+    24.384836
+],
+  "geometry": {"coordinates":[[[54.52432,24.384836],[54.52455,24.379174],[54.524845,24.372254],[54.525289,24.363826],[54.525592,24.357409],[54.525984,24.346785],[54.512233,24.346223],[54.502385,24.345809],[54.492538,24.345366],[54.482749,24.344981],[54.472872,24.344626],[54.456637,24.344006],[54.459429,24.353648],[54.462543,24.364487],[54.467155,24.364257],[54.466751,24.380746],[54.467847,24.382418],[54.469461,24.383052],[54.471652,24.383225],[54.48317,24.383759],[54.496222,24.384034],[54.506344,24.384126],[54.51216,24.384538],[54.52432,24.384836]]],"type":"Polygon"}
+}

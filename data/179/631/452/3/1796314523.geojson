@@ -1,0 +1,43 @@
+{
+  "id": 1796314523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:bbox":"55.278857,25.038426,55.286178,25.048155",
+    "geom:latitude":25.043029,
+    "geom:longitude":55.282459,
+    "iso:country":"AE",
+    "lbl:latitude":25.043047,
+    "lbl:longitude":55.282162,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dubai Lifestyle City"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"26f7538b69a350428f4cd5af3e7b4ce7",
+    "wof:hierarchy":[],
+    "wof:id":1796314523,
+    "wof:lastmodified":1663693029,
+    "wof:name":"Dubai Lifestyle City",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.278857,
+    25.038426,
+    55.286178,
+    25.048155
+],
+  "geometry": {"coordinates":[[[55.281172,25.038426],[55.278857,25.045702],[55.283393,25.048155],[55.284411,25.046733],[55.284633,25.045815],[55.284466,25.045175],[55.284313,25.044395],[55.284522,25.043519],[55.286178,25.039329],[55.281172,25.038426]]],"type":"Polygon"}
+}

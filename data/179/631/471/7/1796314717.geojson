@@ -1,0 +1,43 @@
+{
+  "id": 1796314717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:bbox":"55.556067,25.579838,55.565588,25.587647",
+    "geom:latitude":25.58378,
+    "geom:longitude":55.560927,
+    "iso:country":"AE",
+    "lbl:latitude":25.583694,
+    "lbl:longitude":55.560999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lamagdar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"1bc9e5c08d82f7c0f1e509d706be6e51",
+    "wof:hierarchy":[],
+    "wof:id":1796314717,
+    "wof:lastmodified":1663693033,
+    "wof:name":"Lamagdar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.556067,
+    25.579838,
+    55.565588,
+    25.587647
+],
+  "geometry": {"coordinates":[[[55.556067,25.582428],[55.556655,25.583486],[55.557514,25.585088],[55.557853,25.585505],[55.558212,25.58578],[55.56043,25.586678],[55.562386,25.587647],[55.562691,25.586884],[55.563106,25.586384],[55.564143,25.585754],[55.565476,25.584963],[55.565588,25.584835],[55.565399,25.584579],[55.562049,25.579838],[55.561938,25.579896],[55.558143,25.582047],[55.557805,25.581525],[55.556836,25.582016],[55.556067,25.582428]]],"type":"Polygon"}
+}

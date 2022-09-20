@@ -1,0 +1,43 @@
+{
+  "id": 1796314529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:bbox":"55.283865,25.025902,55.290232,25.031498",
+    "geom:latitude":25.02952,
+    "geom:longitude":55.286498,
+    "iso:country":"AE",
+    "lbl:latitude":25.029466,
+    "lbl:longitude":55.286233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Waha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"240af293eaed8bde25250f4eb55e3dd8",
+    "wof:hierarchy":[],
+    "wof:id":1796314529,
+    "wof:lastmodified":1663693029,
+    "wof:name":"Al Waha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.283865,
+    25.025902,
+    55.290232,
+    25.031498
+],
+  "geometry": {"coordinates":[[[55.28517,25.025902],[55.284915,25.027096],[55.284546,25.028779],[55.283972,25.030953],[55.283865,25.031136],[55.284247,25.0314],[55.284459,25.03147],[55.284703,25.031498],[55.285204,25.031477],[55.287986,25.031275],[55.288703,25.031233],[55.289454,25.03124],[55.289962,25.031108],[55.290232,25.030894],[55.288971,25.029688],[55.285604,25.026321],[55.28517,25.025902]]],"type":"Polygon"}
+}

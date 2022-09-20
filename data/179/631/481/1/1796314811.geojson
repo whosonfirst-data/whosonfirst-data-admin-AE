@@ -1,0 +1,43 @@
+{
+  "id": 1796314811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000641,
+    "geom:bbox":"55.558373,25.547304,55.594637,25.571952",
+    "geom:latitude":25.557732,
+    "geom:longitude":55.575954,
+    "iso:country":"AE",
+    "lbl:latitude":25.558988,
+    "lbl:longitude":55.575954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Khor"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c3e99c0af6e8f73979c723ff3c2c7856",
+    "wof:hierarchy":[],
+    "wof:id":1796314811,
+    "wof:lastmodified":1663693035,
+    "wof:name":"Al Khor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.558373,
+    25.547304,
+    55.594637,
+    25.571952
+],
+  "geometry": {"coordinates":[[[55.584155,25.569606],[55.585412,25.567534],[55.59196,25.555101],[55.593786,25.550139],[55.594637,25.547429],[55.574568,25.547357],[55.559841,25.547304],[55.558373,25.547919],[55.560232,25.552898],[55.561907,25.557415],[55.563213,25.560965],[55.563936,25.563746],[55.564827,25.567665],[55.5658,25.571952],[55.567704,25.571629],[55.584155,25.569606]]],"type":"Polygon"}
+}

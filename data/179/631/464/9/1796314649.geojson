@@ -1,0 +1,43 @@
+{
+  "id": 1796314649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:bbox":"56.316764,25.114195,56.329446,25.122317",
+    "geom:latitude":25.118605,
+    "geom:longitude":56.32256,
+    "iso:country":"AE",
+    "lbl:latitude":25.118707,
+    "lbl:longitude":56.322681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Seh Al Rahi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"549641e6929feb6a94d3944b5fe0b074",
+    "wof:hierarchy":[],
+    "wof:id":1796314649,
+    "wof:lastmodified":1663693032,
+    "wof:name":"Seh Al Rahi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.316764,
+    25.114195,
+    56.329446,
+    25.122317
+],
+  "geometry": {"coordinates":[[[56.329446,25.117586],[56.329149,25.117089],[56.325853,25.114195],[56.316764,25.117054],[56.31686,25.117734],[56.316847,25.118219],[56.316868,25.122317],[56.324484,25.122191],[56.329446,25.117586]]],"type":"Polygon"}
+}

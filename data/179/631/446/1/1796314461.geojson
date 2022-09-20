@@ -1,0 +1,43 @@
+{
+  "id": 1796314461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008258,
+    "geom:bbox":"55.024083,24.79103,55.168336,24.909417",
+    "geom:latitude":24.852052,
+    "geom:longitude":55.090524,
+    "iso:country":"AE",
+    "lbl:latitude":24.849654,
+    "lbl:longitude":55.089423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dubai Industrial City"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"71ed962c97f81bf88bb0e8614955d843",
+    "wof:hierarchy":[],
+    "wof:id":1796314461,
+    "wof:lastmodified":1663693027,
+    "wof:name":"Dubai Industrial City",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.024083,
+    24.79103,
+    55.168336,
+    24.909417
+],
+  "geometry": {"coordinates":[[[55.088051,24.909417],[55.096939,24.897609],[55.099234,24.894685],[55.101221,24.892544],[55.102106,24.891698],[55.103926,24.890108],[55.106696,24.888006],[55.109144,24.886467],[55.114016,24.883775],[55.119593,24.880698],[55.126862,24.87666],[55.135119,24.872083],[55.140798,24.868955],[55.148093,24.864878],[55.155709,24.860647],[55.168336,24.853716],[55.16635,24.851914],[55.079038,24.79103],[55.079036,24.79103],[55.079036,24.791031],[55.078965,24.791217],[55.024083,24.868428],[55.044498,24.881526],[55.065234,24.894957],[55.084397,24.907078],[55.088051,24.909417]]],"type":"Polygon"}
+}

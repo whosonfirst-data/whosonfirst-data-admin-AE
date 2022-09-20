@@ -1,0 +1,43 @@
+{
+  "id": 1796321937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000754,
+    "geom:bbox":"55.133066,24.946992,55.187877,24.975301",
+    "geom:latitude":24.961017,
+    "geom:longitude":55.155492,
+    "iso:country":"AE",
+    "lbl:latitude":24.959812,
+    "lbl:longitude":55.155492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Expo 2020 Dubai"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c2939363d9ba74bf55f1212e31af3c4d",
+    "wof:hierarchy":[],
+    "wof:id":1796321937,
+    "wof:lastmodified":1663693040,
+    "wof:name":"Expo 2020 Dubai",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.133066,
+    24.946992,
+    55.187877,
+    24.975301
+],
+  "geometry": {"coordinates":[[[55.133066,24.952427],[55.133066,24.952428],[55.13575,24.957208],[55.140073,24.967527],[55.142027,24.975301],[55.181401,24.964172],[55.187876,24.962784],[55.187877,24.962782],[55.185081,24.962401],[55.181665,24.960379],[55.178667,24.958427],[55.176156,24.958357],[55.173576,24.958845],[55.170789,24.954244],[55.165279,24.956196],[55.159702,24.946992],[55.159701,24.946992],[55.155309,24.948178],[55.143804,24.954592],[55.139622,24.948875],[55.139621,24.948875],[55.133066,24.952427]]],"type":"Polygon"}
+}

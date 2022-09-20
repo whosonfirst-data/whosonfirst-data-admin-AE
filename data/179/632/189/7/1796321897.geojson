@@ -1,0 +1,43 @@
+{
+  "id": 1796321897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000452,
+    "geom:bbox":"55.232533,25.119462,55.261202,25.147914",
+    "geom:latitude":25.134059,
+    "geom:longitude":55.247938,
+    "iso:country":"AE",
+    "lbl:latitude":25.13405,
+    "lbl:longitude":55.248155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Quoz Indistrial Area 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"4fe2b46c0f413a1432b1ae4d5c8ac9b3",
+    "wof:hierarchy":[],
+    "wof:id":1796321897,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Quoz Indistrial Area 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.232533,
+    25.119462,
+    55.261202,
+    25.147914
+],
+  "geometry": {"coordinates":[[[55.248527,25.119462],[55.232533,25.130025],[55.240047,25.139387],[55.246876,25.147914],[55.249814,25.146021],[55.250873,25.145307],[55.252128,25.144706],[55.25345,25.144315],[55.25466,25.144105],[55.256012,25.14409],[55.25774,25.144255],[55.259123,25.144368],[55.260197,25.14436],[55.261202,25.144232],[55.261199,25.144016],[55.260973,25.142033],[55.260522,25.139546],[55.260139,25.137878],[55.259643,25.136203],[55.259012,25.134445],[55.258298,25.132784],[55.257277,25.130763],[55.25654,25.129456],[55.25512,25.127232],[55.253678,25.125354],[55.251935,25.123318],[55.248527,25.119462]]],"type":"Polygon"}
+}

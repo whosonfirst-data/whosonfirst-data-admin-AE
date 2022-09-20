@@ -1,0 +1,43 @@
+{
+  "id": 1796314865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:bbox":"55.411391,25.346142,55.427957,25.355809",
+    "geom:latitude":25.351901,
+    "geom:longitude":55.420092,
+    "iso:country":"AE",
+    "lbl:latitude":25.351206,
+    "lbl:longitude":55.420218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dasman"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c4a788f5e3f28ad3ff56132c7cbdb059",
+    "wof:hierarchy":[],
+    "wof:id":1796314865,
+    "wof:lastmodified":1663693037,
+    "wof:name":"Dasman",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.411391,
+    25.346142,
+    55.427957,
+    25.355809
+],
+  "geometry": {"coordinates":[[[55.421075,25.346142],[55.419225,25.347652],[55.416877,25.349602],[55.416303,25.350075],[55.415848,25.350393],[55.415252,25.35074],[55.411391,25.352894],[55.411475,25.352986],[55.411872,25.353304],[55.412334,25.353585],[55.412934,25.353802],[55.413663,25.353947],[55.422251,25.355088],[55.427957,25.355809],[55.421075,25.346142]]],"type":"Polygon"}
+}

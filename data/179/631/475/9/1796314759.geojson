@@ -1,0 +1,43 @@
+{
+  "id": 1796314759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:bbox":"55.449803,25.415627,55.458019,25.424348",
+    "geom:latitude":25.420558,
+    "geom:longitude":55.454443,
+    "iso:country":"AE",
+    "lbl:latitude":25.421253,
+    "lbl:longitude":55.455343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ajman Port"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"515cff04162f3d01d84c19dd69d56556",
+    "wof:hierarchy":[],
+    "wof:id":1796314759,
+    "wof:lastmodified":1663693034,
+    "wof:name":"Ajman Port",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.449803,
+    25.415627,
+    55.458019,
+    25.424348
+],
+  "geometry": {"coordinates":[[[55.457046,25.415627],[55.452944,25.416114],[55.453037,25.416777],[55.453307,25.418719],[55.453462,25.419797],[55.451797,25.420114],[55.45022,25.420431],[55.450636,25.421814],[55.449803,25.42385],[55.451184,25.424307],[55.453098,25.424348],[55.456455,25.423619],[55.458019,25.423404],[55.45737,25.418126],[55.457156,25.416393],[55.457046,25.415627]]],"type":"Polygon"}
+}

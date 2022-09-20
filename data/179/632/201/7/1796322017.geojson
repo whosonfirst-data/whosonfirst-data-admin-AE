@@ -1,0 +1,43 @@
+{
+  "id": 1796322017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:bbox":"55.407127,25.290102,55.42916,25.309066",
+    "geom:latitude":25.299075,
+    "geom:longitude":55.418579,
+    "iso:country":"AE",
+    "lbl:latitude":25.299024,
+    "lbl:longitude":55.418747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 10"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"473fa820b2d27ed43602915bde9d71ad",
+    "wof:hierarchy":[],
+    "wof:id":1796322017,
+    "wof:lastmodified":1663693195,
+    "wof:name":"Industrial Area 10",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.407127,
+    25.290102,
+    55.42916,
+    25.309066
+],
+  "geometry": {"coordinates":[[[55.420918,25.309066],[55.42916,25.302649],[55.426222,25.299422],[55.418477,25.291037],[55.417855,25.290102],[55.407129,25.294148],[55.407127,25.294154],[55.407694,25.294768],[55.420918,25.309066]]],"type":"Polygon"}
+}

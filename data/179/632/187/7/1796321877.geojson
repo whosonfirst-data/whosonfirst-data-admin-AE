@@ -1,0 +1,43 @@
+{
+  "id": 1796321877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:bbox":"55.407876,25.368926,55.422963,25.381424",
+    "geom:latitude":25.375225,
+    "geom:longitude":55.415568,
+    "iso:country":"AE",
+    "lbl:latitude":25.375092,
+    "lbl:longitude":55.415453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Qadsia"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"3414629956c791980143f3e6a717ab2e",
+    "wof:hierarchy":[],
+    "wof:id":1796321877,
+    "wof:lastmodified":1663693039,
+    "wof:name":"Al Qadsia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.407876,
+    25.368926,
+    55.422963,
+    25.381424
+],
+  "geometry": {"coordinates":[[[55.407876,25.373281],[55.408871,25.374405],[55.409864,25.375408],[55.410993,25.376431],[55.41268,25.3778],[55.41406,25.378823],[55.414609,25.37917],[55.415796,25.379836],[55.418711,25.381424],[55.419346,25.380456],[55.419794,25.379893],[55.422963,25.376559],[55.420394,25.374529],[55.419687,25.373937],[55.419183,25.373516],[55.418252,25.37259],[55.416963,25.371374],[55.415412,25.369813],[55.414472,25.368926],[55.413028,25.370109],[55.412383,25.370584],[55.411743,25.370976],[55.410759,25.371568],[55.407876,25.373281]]],"type":"Polygon"}
+}

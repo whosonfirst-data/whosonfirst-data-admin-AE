@@ -1,0 +1,43 @@
+{
+  "id": 1796314857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:bbox":"55.423508,25.326703,55.439744,25.340728",
+    "geom:latitude":25.333734,
+    "geom:longitude":55.431583,
+    "iso:country":"AE",
+    "lbl:latitude":25.333692,
+    "lbl:longitude":55.431583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Shahba"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"d196d09ea8c21f36e44fdb2f662222cc",
+    "wof:hierarchy":[],
+    "wof:id":1796314857,
+    "wof:lastmodified":1663693036,
+    "wof:name":"Al Shahba",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.423508,
+    25.326703,
+    55.439744,
+    25.340728
+],
+  "geometry": {"coordinates":[[[55.439744,25.33467],[55.433896,25.326703],[55.426931,25.330808],[55.425207,25.331821],[55.423508,25.332859],[55.429101,25.340728],[55.434612,25.337598],[55.439744,25.33467]]],"type":"Polygon"}
+}

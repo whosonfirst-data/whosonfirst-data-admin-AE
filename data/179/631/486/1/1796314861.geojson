@@ -1,0 +1,43 @@
+{
+  "id": 1796314861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:bbox":"55.442531,25.316243,55.459074,25.330552",
+    "geom:latitude":25.323574,
+    "geom:longitude":55.450706,
+    "iso:country":"AE",
+    "lbl:latitude":25.323387,
+    "lbl:longitude":55.450581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Tarfa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"de9d389e9ea72ef6cc8c422166d14c2c",
+    "wof:hierarchy":[],
+    "wof:id":1796314861,
+    "wof:lastmodified":1663693036,
+    "wof:name":"Al Tarfa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.442531,
+    25.316243,
+    55.459074,
+    25.330552
+],
+  "geometry": {"coordinates":[[[55.442531,25.321593],[55.449256,25.330552],[55.457669,25.326703],[55.459074,25.326068],[55.458388,25.325144],[55.45494,25.320508],[55.452622,25.317644],[55.451571,25.316243],[55.442531,25.321593]]],"type":"Polygon"}
+}

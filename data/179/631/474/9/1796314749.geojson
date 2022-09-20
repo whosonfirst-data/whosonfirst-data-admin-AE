@@ -1,0 +1,43 @@
+{
+  "id": 1796314749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:bbox":"55.451571,25.309709,55.469879,25.326068",
+    "geom:latitude":25.317894,
+    "geom:longitude":55.460812,
+    "iso:country":"AE",
+    "lbl:latitude":25.317947,
+    "lbl:longitude":55.460812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Zahia"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"e2680897a5780f1275f39ba66da6b6ad",
+    "wof:hierarchy":[],
+    "wof:id":1796314749,
+    "wof:lastmodified":1663693034,
+    "wof:name":"Al Zahia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.451571,
+    25.309709,
+    55.469879,
+    25.326068
+],
+  "geometry": {"coordinates":[[[55.459074,25.326068],[55.469879,25.31961],[55.462734,25.309709],[55.458135,25.312474],[55.451571,25.316243],[55.452622,25.317644],[55.45494,25.320508],[55.458388,25.325144],[55.459074,25.326068]]],"type":"Polygon"}
+}

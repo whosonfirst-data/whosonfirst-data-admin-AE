@@ -1,0 +1,43 @@
+{
+  "id": 1796314459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:bbox":"55.304329,25.247966,55.321126,25.261133",
+    "geom:latitude":25.254246,
+    "geom:longitude":55.312618,
+    "iso:country":"AE",
+    "lbl:latitude":25.255426,
+    "lbl:longitude":55.311218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Umm Hurair"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"514fe74aac5ba7cddd5e92f0ad38acd1",
+    "wof:hierarchy":[],
+    "wof:id":1796314459,
+    "wof:lastmodified":1663693027,
+    "wof:name":"Umm Hurair",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.304329,
+    25.247966,
+    55.321126,
+    25.261133
+],
+  "geometry": {"coordinates":[[[55.321126,25.251896],[55.320888,25.251614],[55.319888,25.25045],[55.319124,25.249803],[55.318395,25.249286],[55.317478,25.248851],[55.316584,25.248592],[55.315632,25.248416],[55.314618,25.247966],[55.312663,25.250003],[55.310776,25.251632],[55.310177,25.252137],[55.309571,25.252478],[55.308789,25.252766],[55.307954,25.253025],[55.307237,25.253331],[55.305885,25.253977],[55.304329,25.254777],[55.305321,25.256403],[55.306268,25.257522],[55.306967,25.258364],[55.307958,25.259175],[55.309108,25.259957],[55.311215,25.261133],[55.312163,25.259985],[55.314417,25.256949],[55.317782,25.254365],[55.321126,25.251896]]],"type":"Polygon"}
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1796314753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:bbox":"55.440023,25.389771,55.45508,25.403368",
+    "geom:latitude":25.395444,
+    "geom:longitude":55.447363,
+    "iso:country":"AE",
+    "lbl:latitude":25.395777,
+    "lbl:longitude":55.446754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Rashidiya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"2e51dc035435ca4a6d1c34c7d2707eb7",
+    "wof:hierarchy":[],
+    "wof:id":1796314753,
+    "wof:lastmodified":1663693034,
+    "wof:name":"Al Rashidiya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.440023,
+    25.389771,
+    55.45508,
+    25.403368
+],
+  "geometry": {"coordinates":[[[55.440023,25.391787],[55.440621,25.39407],[55.441069,25.395845],[55.44159,25.397909],[55.441843,25.398912],[55.44322,25.400166],[55.444245,25.401109],[55.44493,25.401777],[55.445745,25.402515],[55.446658,25.403368],[55.447095,25.402947],[55.447971,25.402104],[55.448706,25.401397],[55.44967,25.40044],[55.450405,25.399402],[55.45147,25.397797],[55.452495,25.396341],[55.453058,25.395508],[55.454568,25.393392],[55.454837,25.392758],[55.455066,25.392111],[55.45508,25.39141],[55.454959,25.390358],[55.454869,25.389771],[55.450849,25.390312],[55.445449,25.391035],[55.440023,25.391787]]],"type":"Polygon"}
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1796314525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:bbox":"55.272609,25.024455,55.284247,25.034718",
+    "geom:latitude":25.029534,
+    "geom:longitude":55.278652,
+    "iso:country":"AE",
+    "lbl:latitude":25.029498,
+    "lbl:longitude":55.278652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "The Sustainable City"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"656514a5a4c986428681e6ac4c173547",
+    "wof:hierarchy":[],
+    "wof:id":1796314525,
+    "wof:lastmodified":1663693029,
+    "wof:name":"The Sustainable City",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.272609,
+    25.024455,
+    55.284247,
+    25.034718
+],
+  "geometry": {"coordinates":[[[55.280331,25.034718],[55.281395,25.034253],[55.282258,25.033682],[55.282953,25.033112],[55.28383,25.031999],[55.284094,25.031651],[55.284247,25.0314],[55.283865,25.031136],[55.28248,25.029766],[55.2796,25.026927],[55.277121,25.024455],[55.275239,25.025493],[55.272609,25.026926],[55.277604,25.031949],[55.280331,25.034718]]],"type":"Polygon"}
+}

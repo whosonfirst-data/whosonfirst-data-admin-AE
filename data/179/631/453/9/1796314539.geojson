@@ -1,0 +1,43 @@
+{
+  "id": 1796314539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:bbox":"55.27791,25.030894,55.296412,25.04018",
+    "geom:latitude":25.035784,
+    "geom:longitude":55.287449,
+    "iso:country":"AE",
+    "lbl:latitude":25.035446,
+    "lbl:longitude":55.287625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Serena"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"e4225fdf39daccd63290ed8f8aed3485",
+    "wof:hierarchy":[],
+    "wof:id":1796314539,
+    "wof:lastmodified":1663693029,
+    "wof:name":"Serena",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.27791,
+    25.030894,
+    55.296412,
+    25.04018
+],
+  "geometry": {"coordinates":[[[55.27791,25.037146],[55.280557,25.038315],[55.281172,25.038426],[55.286178,25.039329],[55.290894,25.04018],[55.296412,25.037],[55.29494,25.035573],[55.291531,25.032137],[55.290232,25.030894],[55.289962,25.031108],[55.289454,25.03124],[55.288703,25.031233],[55.287986,25.031275],[55.285204,25.031477],[55.284703,25.031498],[55.284459,25.03147],[55.284247,25.0314],[55.284094,25.031651],[55.28383,25.031999],[55.282953,25.033112],[55.282258,25.033682],[55.281395,25.034253],[55.280331,25.034718],[55.278439,25.036109],[55.27791,25.037146]]],"type":"Polygon"}
+}

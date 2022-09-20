@@ -1,0 +1,43 @@
+{
+  "id": 1796314925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:bbox":"55.401339,25.362872,55.414472,25.373281",
+    "geom:latitude":25.367901,
+    "geom:longitude":55.408025,
+    "iso:country":"AE",
+    "lbl:latitude":25.368222,
+    "lbl:longitude":55.408473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Nasseria"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"d2fa1003b2187b364943c5d89c27818e",
+    "wof:hierarchy":[],
+    "wof:id":1796314925,
+    "wof:lastmodified":1663693038,
+    "wof:name":"Al Nasseria",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.401339,
+    25.362872,
+    55.414472,
+    25.373281
+],
+  "geometry": {"coordinates":[[[55.401339,25.365941],[55.405543,25.370651],[55.407876,25.373281],[55.410759,25.371568],[55.411743,25.370976],[55.412383,25.370584],[55.413028,25.370109],[55.414472,25.368926],[55.412834,25.367328],[55.410689,25.365219],[55.409389,25.363879],[55.408829,25.363197],[55.408587,25.362872],[55.401339,25.365941]]],"type":"Polygon"}
+}

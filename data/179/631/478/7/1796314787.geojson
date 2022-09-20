@@ -1,0 +1,43 @@
+{
+  "id": 1796314787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"55.952357,25.786339,55.965372,25.794068",
+    "geom:latitude":25.790166,
+    "geom:longitude":55.958898,
+    "iso:country":"AE",
+    "lbl:latitude":25.790148,
+    "lbl:longitude":55.958898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Suhaim"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"b22dce6da2ca72e618cfbc4c0ab5832f",
+    "wof:hierarchy":[],
+    "wof:id":1796314787,
+    "wof:lastmodified":1663693035,
+    "wof:name":"Suhaim",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.952357,
+    25.786339,
+    55.965372,
+    25.794068
+],
+  "geometry": {"coordinates":[[[55.965359,25.790833],[55.965372,25.790077],[55.964185,25.786339],[55.952357,25.789531],[55.953141,25.792351],[55.953171,25.794068],[55.957248,25.792965],[55.965359,25.790833]]],"type":"Polygon"}
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1796314643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:bbox":"56.334518,25.10882,56.34715,25.122083",
+    "geom:latitude":25.116044,
+    "geom:longitude":56.341121,
+    "iso:country":"AE",
+    "lbl:latitude":25.116076,
+    "lbl:longitude":56.341121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Merashid"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"6235c083fe0def1ec6a86e9cff4edc98",
+    "wof:hierarchy":[],
+    "wof:id":1796314643,
+    "wof:lastmodified":1663693032,
+    "wof:name":"Merashid",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.334518,
+    25.10882,
+    56.34715,
+    25.122083
+],
+  "geometry": {"coordinates":[[[56.334518,25.117526],[56.334577,25.122083],[56.337036,25.122048],[56.339957,25.121992],[56.340644,25.121989],[56.34429,25.121974],[56.34715,25.121974],[56.347132,25.120134],[56.347045,25.116298],[56.346958,25.111886],[56.34698,25.108904],[56.34579,25.10893],[56.345,25.108874],[56.34473,25.10882],[56.340552,25.110377],[56.339052,25.109819],[56.337482,25.110342],[56.336855,25.111528],[56.334937,25.112225],[56.33546,25.113376],[56.334518,25.114213],[56.334518,25.117526]]],"type":"Polygon"}
+}

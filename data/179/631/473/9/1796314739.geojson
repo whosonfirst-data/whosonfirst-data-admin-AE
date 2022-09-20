@@ -1,0 +1,43 @@
+{
+  "id": 1796314739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:bbox":"55.390037,25.328149,55.405111,25.347211",
+    "geom:latitude":25.338487,
+    "geom:longitude":55.39745,
+    "iso:country":"AE",
+    "lbl:latitude":25.338528,
+    "lbl:longitude":55.397455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Abu Shagara"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"e151afdc675763a38b1eeef2a34ed790",
+    "wof:hierarchy":[],
+    "wof:id":1796314739,
+    "wof:lastmodified":1663693034,
+    "wof:name":"Abu Shagara",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.390037,
+    25.328149,
+    55.405111,
+    25.347211
+],
+  "geometry": {"coordinates":[[[55.398647,25.347211],[55.405111,25.343553],[55.402598,25.339588],[55.400835,25.336966],[55.398799,25.333701],[55.397592,25.33183],[55.396719,25.330559],[55.39491,25.328149],[55.394717,25.328533],[55.394621,25.328817],[55.394557,25.329119],[55.394534,25.329417],[55.394498,25.329659],[55.394397,25.329916],[55.394024,25.330552],[55.391203,25.334984],[55.390086,25.336669],[55.390037,25.336758],[55.391437,25.337518],[55.392156,25.338043],[55.393034,25.338921],[55.39368,25.339823],[55.394509,25.341086],[55.395479,25.342586],[55.396115,25.34342],[55.396901,25.344597],[55.398647,25.347211]]],"type":"Polygon"}
+}

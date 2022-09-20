@@ -1,0 +1,43 @@
+{
+  "id": 1796322025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000199,
+    "geom:bbox":"55.403555,25.31609,55.423508,25.337878",
+    "geom:latitude":25.327216,
+    "geom:longitude":55.413406,
+    "iso:country":"AE",
+    "lbl:latitude":25.327166,
+    "lbl:longitude":55.413406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 5"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8ff9da106f98ea5b8da22f8cb1537cf4",
+    "wof:hierarchy":[],
+    "wof:id":1796322025,
+    "wof:lastmodified":1663693195,
+    "wof:name":"Industrial Area 5",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.403555,
+    25.31609,
+    55.423508,
+    25.337878
+],
+  "geometry": {"coordinates":[[[55.411595,25.31609],[55.403555,25.322305],[55.405661,25.32516],[55.40749,25.327675],[55.409825,25.330847],[55.412197,25.334138],[55.415042,25.337878],[55.423508,25.332859],[55.419796,25.327803],[55.416358,25.32283],[55.413535,25.318784],[55.411595,25.31609]]],"type":"Polygon"}
+}

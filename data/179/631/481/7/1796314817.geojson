@@ -1,0 +1,43 @@
+{
+  "id": 1796314817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:bbox":"55.552711,25.547919,55.5658,25.572159",
+    "geom:latitude":25.557692,
+    "geom:longitude":55.559504,
+    "iso:country":"AE",
+    "lbl:latitude":25.557402,
+    "lbl:longitude":55.559404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Dar Al Baidah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8470ff4688a692bec515513ac8f7adb2",
+    "wof:hierarchy":[],
+    "wof:id":1796314817,
+    "wof:lastmodified":1663693035,
+    "wof:name":"Al Dar Al Baidah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.552711,
+    25.547919,
+    55.5658,
+    25.572159
+],
+  "geometry": {"coordinates":[[[55.559898,25.562548],[55.562518,25.566835],[55.563348,25.568195],[55.56364,25.568702],[55.563886,25.569217],[55.564085,25.569839],[55.564577,25.572159],[55.5658,25.571952],[55.564827,25.567665],[55.563936,25.563746],[55.563213,25.560965],[55.561907,25.557415],[55.560232,25.552898],[55.558373,25.547919],[55.552711,25.550843],[55.559898,25.562548]]],"type":"Polygon"}
+}

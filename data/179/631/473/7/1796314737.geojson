@@ -1,0 +1,43 @@
+{
+  "id": 1796314737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:bbox":"55.391096,25.348359,55.403933,25.356689",
+    "geom:latitude":25.352388,
+    "geom:longitude":55.397669,
+    "iso:country":"AE",
+    "lbl:latitude":25.351893,
+    "lbl:longitude":55.397766,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Manakh"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"629f5275052013659190856025ea4b3c",
+    "wof:hierarchy":[],
+    "wof:id":1796314737,
+    "wof:lastmodified":1663693034,
+    "wof:name":"Al Manakh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.391096,
+    25.348359,
+    55.403933,
+    25.356689
+],
+  "geometry": {"coordinates":[[[55.391096,25.352765],[55.39993,25.355178],[55.401203,25.355525],[55.401975,25.355834],[55.403933,25.356689],[55.402385,25.354122],[55.401319,25.352304],[55.400644,25.351238],[55.399621,25.349921],[55.398368,25.348359],[55.397712,25.348638],[55.391279,25.352133],[55.391096,25.352765]]],"type":"Polygon"}
+}

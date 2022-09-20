@@ -1,0 +1,43 @@
+{
+  "id": 1796314715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000454,
+    "geom:bbox":"55.493883,25.381429,55.526686,25.398816",
+    "geom:latitude":25.390488,
+    "geom:longitude":55.509492,
+    "iso:country":"AE",
+    "lbl:latitude":25.390928,
+    "lbl:longitude":55.509492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Zahraa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"393586c63c2f82d6d60ee676fd368279",
+    "wof:hierarchy":[],
+    "wof:id":1796314715,
+    "wof:lastmodified":1663693033,
+    "wof:name":"Al Zahraa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.493883,
+    25.381429,
+    55.526686,
+    25.398816
+],
+  "geometry": {"coordinates":[[[55.526686,25.38506],[55.508377,25.382909],[55.506978,25.38266],[55.496088,25.381429],[55.495791,25.382657],[55.495387,25.385337],[55.494166,25.3943],[55.493883,25.39645],[55.494729,25.396631],[55.500248,25.397821],[55.502127,25.398231],[55.504048,25.398593],[55.504626,25.398653],[55.505662,25.39876],[55.507145,25.398816],[55.509803,25.398816],[55.511703,25.398795],[55.51336,25.398677],[55.514473,25.398531],[55.515573,25.398329],[55.516805,25.398037],[55.518252,25.397556],[55.519922,25.396965],[55.521871,25.396255],[55.52407,25.395503],[55.525316,25.395197],[55.526686,25.38506]]],"type":"Polygon"}
+}

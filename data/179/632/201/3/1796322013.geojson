@@ -1,0 +1,43 @@
+{
+  "id": 1796322013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:bbox":"55.396622,25.294148,55.407694,25.301987",
+    "geom:latitude":25.297968,
+    "geom:longitude":55.40124,
+    "iso:country":"AE",
+    "lbl:latitude":25.298061,
+    "lbl:longitude":55.400862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 9"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"7b5c7a4742634365c961caba94fb94c5",
+    "wof:hierarchy":[],
+    "wof:id":1796322013,
+    "wof:lastmodified":1663693195,
+    "wof:name":"Industrial Area 9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.396622,
+    25.294148,
+    55.407694,
+    25.301987
+],
+  "geometry": {"coordinates":[[[55.398379,25.301987],[55.40167,25.299505],[55.407058,25.295267],[55.407694,25.294768],[55.407127,25.294154],[55.407129,25.294148],[55.407021,25.294189],[55.396622,25.298111],[55.397074,25.299937],[55.397772,25.301261],[55.398379,25.301987]]],"type":"Polygon"}
+}

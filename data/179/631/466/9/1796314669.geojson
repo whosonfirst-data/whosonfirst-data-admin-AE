@@ -1,0 +1,43 @@
+{
+  "id": 1796314669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000761,
+    "geom:bbox":"55.650387,24.185025,55.692523,24.216958",
+    "geom:latitude":24.201242,
+    "geom:longitude":55.671062,
+    "iso:country":"AE",
+    "lbl:latitude":24.201414,
+    "lbl:longitude":55.671062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Asharej"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"aff3ef7a33b445779689b450a800a9fa",
+    "wof:hierarchy":[],
+    "wof:id":1796314669,
+    "wof:lastmodified":1663693032,
+    "wof:name":"Asharej",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.650387,
+    24.185025,
+    55.692523,
+    24.216958
+],
+  "geometry": {"coordinates":[[[55.683225,24.216958],[55.685033,24.212478],[55.686234,24.209549],[55.687341,24.206715],[55.687962,24.20569],[55.689892,24.20241],[55.690877,24.200737],[55.692523,24.197957],[55.683633,24.194482],[55.67621,24.191594],[55.659399,24.185025],[55.656045,24.191786],[55.654802,24.194394],[55.654618,24.195912],[55.654037,24.197059],[55.650387,24.204455],[55.656342,24.206984],[55.660134,24.208792],[55.663548,24.210614],[55.665856,24.211815],[55.667846,24.212348],[55.670336,24.213043],[55.67288,24.213751],[55.675883,24.214608],[55.678994,24.215567],[55.680917,24.216181],[55.683225,24.216958]]],"type":"Polygon"}
+}

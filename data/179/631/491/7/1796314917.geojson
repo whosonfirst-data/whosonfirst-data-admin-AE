@@ -1,0 +1,43 @@
+{
+  "id": 1796314917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"55.388818,25.369986,55.398682,25.380251",
+    "geom:latitude":25.3747,
+    "geom:longitude":55.392823,
+    "iso:country":"AE",
+    "lbl:latitude":25.373386,
+    "lbl:longitude":55.391665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Seef"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"2a31a51f541399a0310db52a9764b516",
+    "wof:hierarchy":[],
+    "wof:id":1796314917,
+    "wof:lastmodified":1663693038,
+    "wof:name":"Al Seef",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.388818,
+    25.369986,
+    55.398682,
+    25.380251
+],
+  "geometry": {"coordinates":[[[55.388818,25.37845],[55.391147,25.375601],[55.392032,25.375742],[55.392865,25.376063],[55.393327,25.376409],[55.393288,25.376653],[55.394968,25.378088],[55.395763,25.378742],[55.397211,25.37996],[55.397621,25.380251],[55.398682,25.378731],[55.397977,25.378419],[55.395507,25.374909],[55.392542,25.370275],[55.389537,25.369986],[55.389132,25.374378],[55.388818,25.37845]]],"type":"Polygon"}
+}

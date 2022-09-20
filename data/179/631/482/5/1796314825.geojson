@@ -1,0 +1,43 @@
+{
+  "id": 1796314825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000622,
+    "geom:bbox":"55.569936,25.510828,55.595722,25.547429",
+    "geom:latitude":25.530845,
+    "geom:longitude":55.581715,
+    "iso:country":"AE",
+    "lbl:latitude":25.532461,
+    "lbl:longitude":55.580664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Neefah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"4fab94abd93bbc09c13e4f105855ee28",
+    "wof:hierarchy":[],
+    "wof:id":1796314825,
+    "wof:lastmodified":1663693036,
+    "wof:name":"Al Neefah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.569936,
+    25.510828,
+    55.595722,
+    25.547429
+],
+  "geometry": {"coordinates":[[[55.574568,25.547357],[55.594637,25.547429],[55.595257,25.545456],[55.595722,25.542184],[55.58792,25.529995],[55.586149,25.524573],[55.586385,25.522853],[55.587768,25.519211],[55.590089,25.512988],[55.590164,25.512822],[55.582323,25.510828],[55.571843,25.516022],[55.571402,25.517484],[55.569936,25.521178],[55.570458,25.523683],[55.571596,25.527801],[55.57261,25.531458],[55.574568,25.547357]]],"type":"Polygon"}
+}

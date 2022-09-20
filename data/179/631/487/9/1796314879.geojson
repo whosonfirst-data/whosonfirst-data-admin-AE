@@ -1,0 +1,43 @@
+{
+  "id": 1796314879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002104,
+    "geom:bbox":"54.422927,24.444075,54.488948,24.502076",
+    "geom:latitude":24.473119,
+    "geom:longitude":54.45442,
+    "iso:country":"AE",
+    "lbl:latitude":24.47405,
+    "lbl:longitude":54.453919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Um Yifeenah Island"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"afc576f7a627e150d597ad948dca4074",
+    "wof:hierarchy":[],
+    "wof:id":1796314879,
+    "wof:lastmodified":1663693037,
+    "wof:name":"Um Yifeenah Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.422927,
+    24.444075,
+    54.488948,
+    24.502076
+],
+  "geometry": {"coordinates":[[[54.471049,24.488439],[54.47253,24.476374],[54.488948,24.471263],[54.48756,24.468274],[54.48595,24.464806],[54.479378,24.453736],[54.475342,24.445665],[54.473449,24.444442],[54.471068,24.444075],[54.468137,24.444259],[54.464885,24.445999],[54.44936,24.454151],[54.447601,24.455595],[54.433971,24.466791],[54.428659,24.470089],[54.426216,24.47092],[54.426963,24.479112],[54.426578,24.487279],[54.423984,24.493621],[54.422927,24.49756],[54.423408,24.502076],[54.471049,24.488439]]],"type":"Polygon"}
+}

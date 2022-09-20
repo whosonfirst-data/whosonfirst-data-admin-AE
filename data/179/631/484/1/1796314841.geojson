@@ -1,0 +1,43 @@
+{
+  "id": 1796314841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004558,
+    "geom:bbox":"54.457834,24.483342,54.53727,24.589519",
+    "geom:latitude":24.539982,
+    "geom:longitude":54.492047,
+    "iso:country":"AE",
+    "lbl:latitude":24.544105,
+    "lbl:longitude":54.492047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khor Laffan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"62518f2d03bbde71e61f43705f76eeb2",
+    "wof:hierarchy":[],
+    "wof:id":1796314841,
+    "wof:lastmodified":1663693036,
+    "wof:name":"Khor Laffan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.457834,
+    24.483342,
+    54.53727,
+    24.589519
+],
+  "geometry": {"coordinates":[[[54.471049,24.488439],[54.476119,24.502842],[54.472331,24.514858],[54.46776,24.519299],[54.462405,24.533144],[54.459793,24.541111],[54.457834,24.546466],[54.457834,24.550123],[54.459531,24.555348],[54.462927,24.561487],[54.466585,24.566776],[54.467531,24.569976],[54.469262,24.573666],[54.472266,24.577225],[54.477654,24.583331],[54.482018,24.589519],[54.485818,24.587857],[54.53727,24.551772],[54.488833,24.485907],[54.488853,24.483342],[54.471049,24.488439]]],"type":"Polygon"}
+}

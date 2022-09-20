@@ -1,0 +1,43 @@
+{
+  "id": 1796314829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000473,
+    "geom:bbox":"55.534178,25.492615,55.570739,25.514924",
+    "geom:latitude":25.502917,
+    "geom:longitude":55.554068,
+    "iso:country":"AE",
+    "lbl:latitude":25.50253,
+    "lbl:longitude":55.554344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a0bf0fdba8b455bb7e4ed150a31f3d97",
+    "wof:hierarchy":[],
+    "wof:id":1796314829,
+    "wof:lastmodified":1663693036,
+    "wof:name":"Industrial Area",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.534178,
+    25.492615,
+    55.570739,
+    25.514924
+],
+  "geometry": {"coordinates":[[[55.564258,25.514924],[55.569729,25.501802],[55.570739,25.499292],[55.569413,25.4989],[55.567922,25.498331],[55.56715,25.498037],[55.566632,25.49784],[55.564788,25.496979],[55.564004,25.496595],[55.561146,25.495519],[55.558657,25.49462],[55.556744,25.493967],[55.555814,25.493729],[55.555023,25.493629],[55.554254,25.493576],[55.55324,25.493568],[55.553027,25.493588],[55.552679,25.493622],[55.551442,25.493752],[55.550576,25.493799],[55.549571,25.493783],[55.54848,25.493591],[55.547266,25.493199],[55.545791,25.492615],[55.537538,25.501131],[55.534178,25.504591],[55.547102,25.50896],[55.564258,25.514924]]],"type":"Polygon"}
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1796314631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:bbox":"56.327735,25.122083,56.334577,25.125276",
+    "geom:latitude":25.123166,
+    "geom:longitude":56.331164,
+    "iso:country":"AE",
+    "lbl:latitude":25.123375,
+    "lbl:longitude":56.331163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Town Center"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"9939f8e693bae8daa8d663187452ac72",
+    "wof:hierarchy":[],
+    "wof:id":1796314631,
+    "wof:lastmodified":1663693031,
+    "wof:name":"Town Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.327735,
+    25.122083,
+    56.334577,
+    25.125276
+],
+  "geometry": {"coordinates":[[[56.334577,25.122083],[56.327735,25.122138],[56.328556,25.122886],[56.331179,25.125276],[56.334577,25.122083]]],"type":"Polygon"}
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1796314845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:bbox":"55.440629,25.273148,55.464622,25.288689",
+    "geom:latitude":25.280593,
+    "geom:longitude":55.452197,
+    "iso:country":"AE",
+    "lbl:latitude":25.280561,
+    "lbl:longitude":55.452015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area 17"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"e46202b2db51fbae3b688c75300172b4",
+    "wof:hierarchy":[],
+    "wof:id":1796314845,
+    "wof:lastmodified":1663693195,
+    "wof:name":"Industrial Area 17",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.440629,
+    25.273148,
+    55.464622,
+    25.288689
+],
+  "geometry": {"coordinates":[[[55.440629,25.281513],[55.445387,25.28656],[55.446555,25.287783],[55.447229,25.288689],[55.453901,25.283539],[55.45832,25.280091],[55.460501,25.278625],[55.463092,25.277515],[55.464622,25.276891],[55.462805,25.273148],[55.444042,25.280225],[55.440629,25.281513]]],"type":"Polygon"}
+}

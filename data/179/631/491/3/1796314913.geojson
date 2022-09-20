@@ -1,0 +1,43 @@
+{
+  "id": 1796314913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"55.387265,25.36233,55.395994,25.370275",
+    "geom:latitude":25.366713,
+    "geom:longitude":55.391471,
+    "iso:country":"AE",
+    "lbl:latitude":25.366786,
+    "lbl:longitude":55.391537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Majarrah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"7d07a5299d0ed3fd49bd10d094f4b03b",
+    "wof:hierarchy":[],
+    "wof:id":1796314913,
+    "wof:lastmodified":1663693038,
+    "wof:name":"Al Majarrah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.387265,
+    25.36233,
+    55.395994,
+    25.370275
+],
+  "geometry": {"coordinates":[[[55.391009,25.36233],[55.38832,25.364064],[55.387265,25.364873],[55.388999,25.366895],[55.389374,25.367559],[55.389634,25.368715],[55.389537,25.369986],[55.392542,25.370275],[55.393127,25.369993],[55.395994,25.368599],[55.393379,25.36532],[55.391009,25.36233]]],"type":"Polygon"}
+}

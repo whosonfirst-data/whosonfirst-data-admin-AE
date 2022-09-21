@@ -27,7 +27,8 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Majr\u00e1 al Gh\u0101f"
@@ -43,7 +44,7 @@
         "gn:id":398760
     },
     "wof:country":"AE",
-    "wof:geomhash":"2920ce47fc1567916b022c805ed242d4",
+    "wof:geomhash":"a6d4984cc74974aa44fd47ce4f3eaf81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1243186687,
-    "wof:lastmodified":1566581608,
+    "wof:lastmodified":1663804076,
     "wof:name":"Majra al Ghaf",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.76114000000001,
+    51.76114,
     24.06582,
-    51.76114000000001,
+    51.76114,
     24.06582
 ],
-  "geometry": {"coordinates":[51.76114000000001,24.06582],"type":"Point"}
+  "geometry": {"coordinates":[51.76114,24.06582],"type":"Point"}
 }

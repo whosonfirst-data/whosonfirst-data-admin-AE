@@ -85,11 +85,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +120,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663972908,
+    "wof:lastmodified":1663974528,
     "wof:name":"Al Rigga",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

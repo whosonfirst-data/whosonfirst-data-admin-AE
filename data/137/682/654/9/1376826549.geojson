@@ -49,11 +49,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
         421168687,
-        421200931,
-        85667981
+        421200931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1376826549,
-    "wof:lastmodified":1663972840,
+    "wof:lastmodified":1663974535,
     "wof:name":"As Sulaymat",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

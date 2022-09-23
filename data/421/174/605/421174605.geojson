@@ -73,11 +73,11 @@
     "wd:longitude":55.418469,
     "wd:wordcount":354,
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":421174605,
-    "wof:lastmodified":1663972855,
+    "wof:lastmodified":1663974537,
     "wof:name":"Muhaisnah",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

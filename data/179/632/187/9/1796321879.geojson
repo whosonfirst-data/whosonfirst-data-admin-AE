@@ -13,6 +13,9 @@
     "lbl:longitude":55.410326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0642\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Sharqan"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"fe9de16acf200af81add3bfd54912f32",
     "wof:hierarchy":[],
     "wof:id":1796321879,
-    "wof:lastmodified":1663693039,
+    "wof:lastmodified":1663959544,
     "wof:name":"Sharqan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

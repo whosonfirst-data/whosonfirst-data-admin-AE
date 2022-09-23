@@ -13,6 +13,9 @@
     "lbl:longitude":55.460812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0647\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Zahia"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e2680897a5780f1275f39ba66da6b6ad",
     "wof:hierarchy":[],
     "wof:id":1796314749,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959554,
     "wof:name":"Al Zahia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

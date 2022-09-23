@@ -13,6 +13,9 @@
     "lbl:longitude":55.564436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0647\u062f"
+    ],
     "name:eng_x_preferred":[
         "Al Aahad"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"682768364430b53906fbb374179291fe",
     "wof:hierarchy":[],
     "wof:id":1796314837,
-    "wof:lastmodified":1663693036,
+    "wof:lastmodified":1663959548,
     "wof:name":"Al Aahad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

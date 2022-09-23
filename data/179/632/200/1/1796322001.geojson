@@ -13,6 +13,9 @@
     "lbl:longitude":55.397874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0635 \u0645\u0646\u0637\u0642\u0629 \u0635\u0646\u0627\u0639\u064a\u0629 4"
+    ],
     "name:eng_x_preferred":[
         "Al Quasis Industrial Area 4"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"c6a1e58f9307d32e864d52a87bdf5d80",
     "wof:hierarchy":[],
     "wof:id":1796322001,
-    "wof:lastmodified":1663693042,
+    "wof:lastmodified":1663959546,
     "wof:name":"Al Quasis Industrial Area 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

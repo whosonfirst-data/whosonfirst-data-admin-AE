@@ -13,6 +13,9 @@
     "lbl:longitude":55.533139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0641\u0646\u064a\u0646"
+    ],
     "name:eng_x_preferred":[
         "Um Fannain"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"83dc3a642d248fb71dfdb8c339b15423",
     "wof:hierarchy":[],
     "wof:id":1796314945,
-    "wof:lastmodified":1663693038,
+    "wof:lastmodified":1663959556,
     "wof:name":"Um Fannain",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

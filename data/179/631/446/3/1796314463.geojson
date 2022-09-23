@@ -13,6 +13,9 @@
     "lbl:longitude":54.970034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0627\u0644 \u062c\u0628\u0644 \u0639\u0644\u064a"
+    ],
     "name:eng_x_preferred":[
         "Jebel Ali Hills"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"69de894922d587e2abc0b9bd9f6c1a03",
     "wof:hierarchy":[],
     "wof:id":1796314463,
-    "wof:lastmodified":1663693027,
+    "wof:lastmodified":1663959549,
     "wof:name":"Jebel Ali Hills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

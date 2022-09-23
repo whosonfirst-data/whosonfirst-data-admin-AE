@@ -13,6 +13,9 @@
     "lbl:longitude":54.661398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0627\u0645\u062e"
+    ],
     "name:eng_x_preferred":[
         "Al Shawamekh"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"cfcdf5de87a35fcddd4e0e110e833d7d",
     "wof:hierarchy":[],
     "wof:id":1796314853,
-    "wof:lastmodified":1663693036,
+    "wof:lastmodified":1663959547,
     "wof:name":"Al Shawamekh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

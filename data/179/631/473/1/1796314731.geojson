@@ -13,6 +13,9 @@
     "lbl:longitude":55.598877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u064a\u0648"
+    ],
     "name:eng_x_preferred":[
         "Al Helio"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"2830a2d87e78e653796650accdf72507",
     "wof:hierarchy":[],
     "wof:id":1796314731,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959553,
     "wof:name":"Al Helio",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

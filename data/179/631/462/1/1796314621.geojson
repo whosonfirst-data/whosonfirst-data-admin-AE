@@ -13,6 +13,9 @@
     "lbl:longitude":55.983053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062f\u0648\u062f"
+    ],
     "name:eng_x_preferred":[
         "Al Nudood"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"3faa9bd558658fa55ffd7fee1498619e",
     "wof:hierarchy":[],
     "wof:id":1796314621,
-    "wof:lastmodified":1663693031,
+    "wof:lastmodified":1663959552,
     "wof:name":"Al Nudood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

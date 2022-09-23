@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0639\u0648\u0627\u0641\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u2018Aw\u0101f\u012b"
     ],
     "src:geom":"geonames",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1292912893,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1663959526,
     "wof:name":"`Awafi",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0632\u0648\u062a"
+    ],
     "name:und_x_variant":[
         "\u1e28\u0101rat Zu\u0163\u016b\u0163"
     ],
@@ -44,7 +47,7 @@
         "wk:page":"Harat_Zutut"
     },
     "wof:country":"AE",
-    "wof:geomhash":"822f5f964bb065a9ee718c14b15783a9",
+    "wof:geomhash":"623fef3fceb3e69b4f73fc9eda1160f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310229127,
-    "wof:lastmodified":1566581593,
+    "wof:lastmodified":1663959531,
     "wof:name":"Harat Zutut",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.29573000000001,
+    56.29573,
     25.60713,
-    56.29573000000001,
+    56.29573,
     25.60713
 ],
-  "geometry": {"coordinates":[56.29573000000001,25.60713],"type":"Point"}
+  "geometry": {"coordinates":[56.29573,25.60713],"type":"Point"}
 }

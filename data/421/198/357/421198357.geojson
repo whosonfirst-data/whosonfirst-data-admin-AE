@@ -17,9 +17,11 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:ara_x_variant":[
-        "N\u0101yf",
+    "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0641"
+    ],
+    "name:ara_x_variant":[
+        "N\u0101yf"
     ],
     "name:eng_x_preferred":[
         "Naif"
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":421198357,
-    "wof:lastmodified":1663623589,
+    "wof:lastmodified":1663959539,
     "wof:name":"Naif",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

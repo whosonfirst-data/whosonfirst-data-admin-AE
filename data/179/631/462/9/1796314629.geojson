@@ -13,6 +13,9 @@
     "lbl:longitude":56.320934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0641\u062c\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
     "name:eng_x_preferred":[
         "Fujairah International Airport"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"8fb2cecf5198ec6f9ce3385171a9c2aa",
     "wof:hierarchy":[],
     "wof:id":1796314629,
-    "wof:lastmodified":1663781877,
+    "wof:lastmodified":1663959552,
     "wof:name":"Fujairah International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

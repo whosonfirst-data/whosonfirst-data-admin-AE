@@ -13,6 +13,9 @@
     "lbl:longitude":55.895314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062c\u064a\u0628\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Ragibah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"79056ae9812afacf7918d1014a256407",
     "wof:hierarchy":[],
     "wof:id":1796314769,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959548,
     "wof:name":"Al Ragibah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":56.346645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0631\u0629 \u0641\u064a \u0627\u0644\u0641\u062c\u064a\u0631\u0629"
+    ],
     "name:eng_x_preferred":[
         "Fujairah Free Zone"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"49e85c9805fe670e4726a7084f5a9bc3",
     "wof:hierarchy":[],
     "wof:id":1796314499,
-    "wof:lastmodified":1663693028,
+    "wof:lastmodified":1663959548,
     "wof:name":"Fujairah Free Zone",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

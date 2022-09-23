@@ -13,6 +13,9 @@
     "lbl:longitude":55.699663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u064a\u0635\u064a"
+    ],
     "name:eng_x_preferred":[
         "Al Khabisi"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"2e88d7f6c3b082434029b0c9de21d2b0",
     "wof:hierarchy":[],
     "wof:id":1796314697,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959556,
     "wof:name":"Al Khabisi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

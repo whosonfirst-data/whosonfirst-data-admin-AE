@@ -13,6 +13,9 @@
     "lbl:longitude":55.182416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0627\u0644\u0639\u0627\u0644\u0645"
+    ],
     "name:eng_x_preferred":[
         "The World Islands"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e0d858b2aee7aa38da167ee02fdb2f91",
     "wof:hierarchy":[],
     "wof:id":1796321993,
-    "wof:lastmodified":1663693041,
+    "wof:lastmodified":1663959546,
     "wof:name":"The World Islands",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":55.575954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0631"
+    ],
     "name:eng_x_preferred":[
         "Al Khor"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"c3e99c0af6e8f73979c723ff3c2c7856",
     "wof:hierarchy":[],
     "wof:id":1796314811,
-    "wof:lastmodified":1663693035,
+    "wof:lastmodified":1663959552,
     "wof:name":"Al Khor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

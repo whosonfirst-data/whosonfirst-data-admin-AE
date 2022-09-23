@@ -13,6 +13,9 @@
     "lbl:longitude":55.127233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062c\u0628\u0644 \u0639\u0644\u064a"
+    ],
     "name:eng_x_preferred":[
         "Jebel Ali Village"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"902dc06ad3e3325eff0ad9249b34dd34",
     "wof:hierarchy":[],
     "wof:id":1796314507,
-    "wof:lastmodified":1663693028,
+    "wof:lastmodified":1663959557,
     "wof:name":"Jebel Ali Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

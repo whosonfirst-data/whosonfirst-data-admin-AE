@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0639\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
         "\u2018Ay\u012bm"
     ],
     "src:geom":"geonames",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259387481,
-    "wof:lastmodified":1566581608,
+    "wof:lastmodified":1663959558,
     "wof:name":"`Ayim",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "lbl:longitude":54.5641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u064a\u0627\u0633"
+    ],
     "name:eng_x_preferred":[
         "Yas Island"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"1e25a4ddced5017febe5e7f72e3171a8",
     "wof:hierarchy":[],
     "wof:id":1796314891,
-    "wof:lastmodified":1663693037,
+    "wof:lastmodified":1663959554,
     "wof:name":"Yas Island",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

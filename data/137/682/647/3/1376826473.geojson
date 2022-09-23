@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0645"
+    ],
     "name:eng_x_preferred":[
         "Qurm"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1376826473,
-    "wof:lastmodified":1663694932,
+    "wof:lastmodified":1663959534,
     "wof:name":"Qurm",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0623\u0633"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0627\u0633"
     ],
     "name:eng_x_preferred":[
@@ -79,7 +82,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663623593,
+    "wof:lastmodified":1663959521,
     "wof:name":"Al Ras",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

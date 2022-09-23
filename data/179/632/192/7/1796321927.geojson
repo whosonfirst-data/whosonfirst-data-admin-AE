@@ -13,6 +13,9 @@
     "lbl:longitude":55.266172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u062a\u062c\u0627\u0631\u064a"
+    ],
     "name:eng_x_preferred":[
         "Bussiness Bay"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"ac936fb3e217ae00154991cec793353f",
     "wof:hierarchy":[],
     "wof:id":1796321927,
-    "wof:lastmodified":1663693040,
+    "wof:lastmodified":1663959543,
     "wof:name":"Bussiness Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

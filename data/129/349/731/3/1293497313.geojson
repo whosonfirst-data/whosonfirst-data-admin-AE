@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0638\u0646\u0629"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293497313,
-    "wof:lastmodified":1663804088,
+    "wof:lastmodified":1663959526,
     "wof:name":"Jebel Dhanna",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

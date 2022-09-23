@@ -13,6 +13,9 @@
     "lbl:longitude":55.437064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0648\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Al Sawan"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"906deeb4e98a7a9f74f7c873c8245e52",
     "wof:hierarchy":[],
     "wof:id":1796314755,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959553,
     "wof:name":"Al Sawan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

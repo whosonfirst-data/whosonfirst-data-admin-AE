@@ -13,6 +13,9 @@
     "lbl:longitude":55.479205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
     "name:eng_x_preferred":[
         "New Industrial"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"86f66a6ae1d929624a65197630193068",
     "wof:hierarchy":[],
     "wof:id":1796314711,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959547,
     "wof:name":"New Industrial",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

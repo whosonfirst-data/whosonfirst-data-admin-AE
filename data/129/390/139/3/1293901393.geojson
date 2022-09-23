@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
         "D\u0101hin"
     ],
     "name:und_x_variant":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293901393,
-    "wof:lastmodified":1566581586,
+    "wof:lastmodified":1663959526,
     "wof:name":"Dahin",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

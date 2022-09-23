@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0635"
+    ],
+    "name:ara_x_variant":[
         "Al Kh\u012bs"
     ],
     "src:geom":"geonames",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1260192477,
-    "wof:lastmodified":1566581592,
+    "wof:lastmodified":1663959531,
     "wof:name":"Al Khis",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

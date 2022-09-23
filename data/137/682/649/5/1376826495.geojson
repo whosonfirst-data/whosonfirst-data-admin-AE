@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u064a\u062c\u0639\u064a"
+    ],
     "name:eng_x_preferred":[
         "Al Muwaiji"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1376826495,
-    "wof:lastmodified":1663623585,
+    "wof:lastmodified":1663959534,
     "wof:name":"Al Muwaiji",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

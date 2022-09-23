@@ -13,6 +13,9 @@
     "lbl:longitude":55.397455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0634\u063a\u0627\u0631\u0629"
+    ],
     "name:eng_x_preferred":[
         "Abu Shagara"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e151afdc675763a38b1eeef2a34ed790",
     "wof:hierarchy":[],
     "wof:id":1796314739,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959553,
     "wof:name":"Abu Shagara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

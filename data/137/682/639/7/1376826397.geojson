@@ -26,10 +26,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
-        "\u0643\u0644\u0628\u0627\u0621\u200e"
+        "\u0643\u0644\u0628\u0627\u0621"
     ],
     "name:ara_x_variant":[
-        "\u0643\u0644\u0628\u0627\u0621"
+        "\u0643\u0644\u0628\u0627\u0621\u200e"
     ],
     "name:ces_x_preferred":[
         "Kalba"
@@ -107,7 +107,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1642548967,
+    "wof:lastmodified":1663959535,
     "wof:name":"Kalba",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

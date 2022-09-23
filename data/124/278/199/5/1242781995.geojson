@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0628\u0648 \u0644\u064a\u0641\u064a\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
         "B\u016b L\u012bf\u012by\u0101t"
     ],
     "src:geom":"geonames",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1242781995,
-    "wof:lastmodified":1566581608,
+    "wof:lastmodified":1663959542,
     "wof:name":"Bu Lifiyat",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

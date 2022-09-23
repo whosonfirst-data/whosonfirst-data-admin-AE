@@ -13,6 +13,9 @@
     "lbl:longitude":55.43241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u064a\u062e\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Subaikha"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"345433840ca04ef5c484d6bee0e468ee",
     "wof:hierarchy":[],
     "wof:id":1796321887,
-    "wof:lastmodified":1663693039,
+    "wof:lastmodified":1663959544,
     "wof:name":"Al Subaikha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

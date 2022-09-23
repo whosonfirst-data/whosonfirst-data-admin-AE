@@ -13,6 +13,9 @@
     "lbl:longitude":55.17025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u064a\u0631\u0627\u062a"
+    ],
     "name:eng_x_preferred":[
         "The Lakes"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"29dfd5a9f3415580c77fd5268b9c0213",
     "wof:hierarchy":[],
     "wof:id":1796321971,
-    "wof:lastmodified":1663693041,
+    "wof:lastmodified":1663959546,
     "wof:name":"The Lakes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

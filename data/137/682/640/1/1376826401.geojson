@@ -26,6 +26,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\ufedf\ufea4\ufee4\ufeae\ufef3\ufe94\u200e"
     ],
     "name:eng_x_preferred":[
@@ -64,7 +67,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663614579,
+    "wof:lastmodified":1663959534,
     "wof:name":"Al Hamriya",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

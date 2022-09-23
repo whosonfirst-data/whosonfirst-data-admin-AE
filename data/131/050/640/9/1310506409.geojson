@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0634\u0627\u0647"
+    ],
+    "name:ara_x_variant":[
         "Sh\u0101h"
     ],
     "src:geom":"geonames",
@@ -44,7 +47,7 @@
         "wk:page":"Shah,_Ras_al-Khaimah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"c560564c86b0da2d182083077c97a920",
+    "wof:geomhash":"bff9a0c53f8e6cd35555aa8730d12c91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310506409,
-    "wof:lastmodified":1566581593,
+    "wof:lastmodified":1663959532,
     "wof:name":"Shah",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.12833000000001,
+    56.12833,
     25.89861,
-    56.12833000000001,
+    56.12833,
     25.89861
 ],
-  "geometry": {"coordinates":[56.12833000000001,25.89861],"type":"Point"}
+  "geometry": {"coordinates":[56.12833,25.89861],"type":"Point"}
 }

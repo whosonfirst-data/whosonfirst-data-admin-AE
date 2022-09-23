@@ -31,10 +31,11 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
-        "Sh\u012bs"
+        "\u0634\u064a\u0634"
     ],
     "name:ara_x_variant":[
-        "\u0634\u064a\u0635"
+        "\u0634\u064a\u0635",
+        "Sh\u012bs"
     ],
     "name:nno_x_preferred":[
         "Shis"
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1226364603,
-    "wof:lastmodified":1619047872,
+    "wof:lastmodified":1663959560,
     "wof:name":"Shis",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

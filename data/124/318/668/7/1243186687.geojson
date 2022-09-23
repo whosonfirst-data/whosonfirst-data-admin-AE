@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0631\u0629 \u0627\u0644\u063a\u0627\u0641"
+    ],
     "name:und_x_variant":[
         "Majr\u00e1 al Gh\u0101f"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243186687,
-    "wof:lastmodified":1663804076,
+    "wof:lastmodified":1663959542,
     "wof:name":"Majra al Ghaf",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

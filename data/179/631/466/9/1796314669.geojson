@@ -13,6 +13,9 @@
     "lbl:longitude":55.671062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0634\u0627\u0631\u062c"
+    ],
     "name:eng_x_preferred":[
         "Asharej"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"aff3ef7a33b445779689b450a800a9fa",
     "wof:hierarchy":[],
     "wof:id":1796314669,
-    "wof:lastmodified":1663693032,
+    "wof:lastmodified":1663959558,
     "wof:name":"Asharej",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

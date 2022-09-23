@@ -18,6 +18,9 @@
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u0631 2"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0637\u0648\u0627\u0631"
     ],
     "name:eng_x_preferred":[
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421183109,
-    "wof:lastmodified":1663623583,
+    "wof:lastmodified":1663959540,
     "wof:name":"Al Twar 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":55.556094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0623\u0633"
+    ],
     "name:eng_x_preferred":[
         "Al Raas"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e85dced76b9653a4d7781c9c6b52d5f2",
     "wof:hierarchy":[],
     "wof:id":1796314723,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959553,
     "wof:name":"Al Raas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

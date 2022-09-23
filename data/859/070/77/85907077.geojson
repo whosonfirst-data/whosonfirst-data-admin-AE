@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0633\u062a\u0643\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Bastakia"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663694932,
+    "wof:lastmodified":1663959521,
     "wof:name":"Bastakia",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

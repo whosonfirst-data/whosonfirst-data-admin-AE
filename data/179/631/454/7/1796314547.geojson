@@ -13,6 +13,9 @@
     "lbl:longitude":55.23969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0631\u0627\u0645"
+    ],
     "name:eng_x_preferred":[
         "Remraam"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"75af04eea82eb09fce0af934988a5b23",
     "wof:hierarchy":[],
     "wof:id":1796314547,
-    "wof:lastmodified":1663693029,
+    "wof:lastmodified":1663959551,
     "wof:name":"Remraam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

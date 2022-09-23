@@ -13,6 +13,9 @@
     "lbl:longitude":55.123464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u062c\u0628\u0644 \u0639\u0644\u064a \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Jebel Ali Industrial Area"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"bdc17e188d62920cd632bbf13b8a1eb7",
     "wof:hierarchy":[],
     "wof:id":1796314511,
-    "wof:lastmodified":1663693029,
+    "wof:lastmodified":1663959556,
     "wof:name":"Jebel Ali Industrial Area",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

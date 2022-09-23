@@ -13,6 +13,9 @@
     "lbl:longitude":55.956732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0645"
+    ],
     "name:eng_x_preferred":[
         "Al Qurm"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"41ac3318d6228fc341c4eeca89de5ecd",
     "wof:hierarchy":[],
     "wof:id":1796314801,
-    "wof:lastmodified":1663693035,
+    "wof:lastmodified":1663959554,
     "wof:name":"Al Qurm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

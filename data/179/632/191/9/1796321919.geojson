@@ -13,6 +13,9 @@
     "lbl:longitude":55.38163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0631\u0623\u0633 \u0627\u0644\u062e\u0648\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 2"
+    ],
     "name:eng_x_preferred":[
         "Ras Al Khar Industrial Area 2"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"0635c91bfbba0be4886df76068feb3dc",
     "wof:hierarchy":[],
     "wof:id":1796321919,
-    "wof:lastmodified":1663693040,
+    "wof:lastmodified":1663959545,
     "wof:name":"Ras Al Khar Industrial Area 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

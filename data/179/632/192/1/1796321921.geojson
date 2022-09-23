@@ -13,6 +13,9 @@
     "lbl:longitude":55.225251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627 2"
+    ],
     "name:eng_x_preferred":[
         "Al Safa 2"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"a0eb7de73cc856c62896e74097f2a675",
     "wof:hierarchy":[],
     "wof:id":1796321921,
-    "wof:lastmodified":1663693040,
+    "wof:lastmodified":1663959543,
     "wof:name":"Al Safa 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

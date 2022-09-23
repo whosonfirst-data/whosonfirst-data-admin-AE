@@ -13,6 +13,9 @@
     "lbl:longitude":56.310891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
+    ],
     "name:eng_x_preferred":[
         "Rumaila"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"286dff46093c98961cf9e62f4d9cafd9",
     "wof:hierarchy":[],
     "wof:id":1796314627,
-    "wof:lastmodified":1663693031,
+    "wof:lastmodified":1663959552,
     "wof:name":"Rumaila",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

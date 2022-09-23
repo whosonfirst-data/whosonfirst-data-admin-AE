@@ -13,6 +13,9 @@
     "lbl:longitude":55.459976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0635\u0627\u0641\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Jazirat as Safiyah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"80848a85f88f2dd3c0c428126dd74cc7",
     "wof:hierarchy":[],
     "wof:id":1796314709,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959549,
     "wof:name":"Jazirat as Safiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

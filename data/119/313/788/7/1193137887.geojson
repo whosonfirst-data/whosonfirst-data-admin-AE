@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0646\u0647\u0629"
+    ],
     "name:und_x_variant":[
         "Z\u0327an\u1e29ah",
         "Ghob"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193137887,
-    "wof:lastmodified":1566581592,
+    "wof:lastmodified":1663959530,
     "wof:name":"Zanhah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

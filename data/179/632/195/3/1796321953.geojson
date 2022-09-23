@@ -13,6 +13,9 @@
     "lbl:longitude":55.268273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0632 2"
+    ],
     "name:eng_x_preferred":[
         "Al Qouz 2"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"a1c1309a9b9ba2e08f9a36bdd3eecc4f",
     "wof:hierarchy":[],
     "wof:id":1796321953,
-    "wof:lastmodified":1663693040,
+    "wof:lastmodified":1663959543,
     "wof:name":"Al Qouz 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":55.26044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0645\u0627\u0643 \u0647\u064a\u0644\u0632"
+    ],
     "name:eng_x_preferred":[
         "Damac Hills"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"6dbb67dfa17a028c22919a660cb36ff9",
     "wof:hierarchy":[],
     "wof:id":1796314471,
-    "wof:lastmodified":1663693028,
+    "wof:lastmodified":1663959547,
     "wof:name":"Damac Hills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

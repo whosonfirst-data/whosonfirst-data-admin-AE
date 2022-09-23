@@ -13,6 +13,9 @@
     "lbl:longitude":55.541975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u062f\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Al Maidan"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"8015458b9bb7990fdd105b677f19110d",
     "wof:hierarchy":[],
     "wof:id":1796314819,
-    "wof:lastmodified":1663693035,
+    "wof:lastmodified":1663959552,
     "wof:name":"Al Maidan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

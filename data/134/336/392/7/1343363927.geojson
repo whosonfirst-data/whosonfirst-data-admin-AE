@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0643\u0648\u0628"
+    ],
+    "name:ara_x_variant":[
         "K\u016bb"
     ],
     "src:geom":"geonames",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343363927,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1663959519,
     "wof:name":"Kub",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

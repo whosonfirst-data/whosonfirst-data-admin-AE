@@ -13,6 +13,9 @@
     "lbl:longitude":55.387214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0635 2"
+    ],
     "name:eng_x_preferred":[
         "Al Quasis 2"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"f8b8558a1425cdff974fb27501e38f89",
     "wof:hierarchy":[],
     "wof:id":1796321977,
-    "wof:lastmodified":1663693041,
+    "wof:lastmodified":1663959546,
     "wof:name":"Al Quasis 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

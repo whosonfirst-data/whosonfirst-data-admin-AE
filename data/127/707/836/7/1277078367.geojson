@@ -33,10 +33,10 @@
         "Sjah"
     ],
     "name:ara_x_preferred":[
-        "Sh\u0101h"
+        "\u0634\u0627\u0647"
     ],
     "name:ara_x_variant":[
-        "\u0634\u0627\u0647"
+        "Sh\u0101h"
     ],
     "name:arg_x_preferred":[
         "Xah"
@@ -227,7 +227,7 @@
         }
     ],
     "wof:id":1277078367,
-    "wof:lastmodified":1566581588,
+    "wof:lastmodified":1663959527,
     "wof:name":"Shah",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

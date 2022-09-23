@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u064a\u0635\u0629"
+    ],
     "name:und_x_variant":[
         "Ar Rufay\u015fah"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326552251,
-    "wof:lastmodified":1663694466,
+    "wof:lastmodified":1663959519,
     "wof:name":"Ar Rufaysah",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

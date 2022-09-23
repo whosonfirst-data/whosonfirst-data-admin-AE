@@ -13,6 +13,9 @@
     "lbl:longitude":56.351732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0644\u0627\u0644\u0627"
+    ],
     "name:eng_x_preferred":[
         "Ghalala"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"313ae454d8d630b0ef873f0e0f03d36e",
     "wof:hierarchy":[],
     "wof:id":1796314659,
-    "wof:lastmodified":1663693032,
+    "wof:lastmodified":1663959551,
     "wof:name":"Ghalala",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":55.975034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0628\u064a"
+    ],
     "name:eng_x_preferred":[
         "Al Uraibi"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"a86f0489d904f3db5bbd06f03ff8d81f",
     "wof:hierarchy":[],
     "wof:id":1796314597,
-    "wof:lastmodified":1663693031,
+    "wof:lastmodified":1663959558,
     "wof:name":"Al Uraibi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

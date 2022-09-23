@@ -13,6 +13,9 @@
     "lbl:longitude":55.537625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0641 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Jerf Industrial"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"b52c7f25de49fe13f06814ab21426fb4",
     "wof:hierarchy":[],
     "wof:id":1796314505,
-    "wof:lastmodified":1663693028,
+    "wof:lastmodified":1663959557,
     "wof:name":"Al Jerf Industrial",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

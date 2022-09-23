@@ -13,6 +13,9 @@
     "lbl:longitude":55.572481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0633\u0645\u064a\u0646"
+    ],
     "name:eng_x_preferred":[
         "Yasmeen"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"0577edc9e08891b0f188b1b6afd74a4e",
     "wof:hierarchy":[],
     "wof:id":1796314729,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959553,
     "wof:name":"Yasmeen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

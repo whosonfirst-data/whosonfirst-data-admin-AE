@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u064a\u0628 \u062d\u0648\u0641"
+    ],
     "name:und_x_variant":[
         "Wayb \u1e28awf"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260388283,
-    "wof:lastmodified":1566581592,
+    "wof:lastmodified":1663959531,
     "wof:name":"Wayb Hawf",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

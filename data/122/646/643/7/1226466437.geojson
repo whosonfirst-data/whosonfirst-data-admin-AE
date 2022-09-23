@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0639\u0634\u0627\u0634\u0629"
+    ],
     "name:und_x_variant":[
         "\u2018Ashashah"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226466437,
-    "wof:lastmodified":1566581610,
+    "wof:lastmodified":1663959560,
     "wof:name":"`Ashashah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

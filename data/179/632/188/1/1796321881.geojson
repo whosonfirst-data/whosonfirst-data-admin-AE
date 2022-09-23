@@ -13,6 +13,9 @@
     "lbl:longitude":55.402802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0634\u062a"
+    ],
     "name:eng_x_preferred":[
         "Al Fisht"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"699e76e31c95ef4e44e94c3af4d57f04",
     "wof:hierarchy":[],
     "wof:id":1796321881,
-    "wof:lastmodified":1663693039,
+    "wof:lastmodified":1663959544,
     "wof:name":"Al Fisht",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

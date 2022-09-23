@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
         "Al Kh\u0101r\u012b"
     ],
     "name:fas_x_preferred":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293691775,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1663959526,
     "wof:name":"Al Khari",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

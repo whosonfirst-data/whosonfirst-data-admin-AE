@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0645\u0629"
+    ],
     "name:und_x_variant":[
         "Q\u012bm\u00e1",
         "Qimh",
@@ -46,7 +49,7 @@
         "gn:id":291152
     },
     "wof:country":"AE",
-    "wof:geomhash":"da9f9c51430124fe13253e5eb8ed5732",
+    "wof:geomhash":"b8a06ec0f548f883915f197f1e4f9eff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259494897,
-    "wof:lastmodified":1566581609,
+    "wof:lastmodified":1663959559,
     "wof:name":"Qimah",
     "wof:parent_id":85667983,
     "wof:placetype":"locality",
@@ -66,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.14143000000001,
+    56.14143,
     24.78668,
-    56.14143000000001,
+    56.14143,
     24.78668
 ],
-  "geometry": {"coordinates":[56.14143000000001,24.78668],"type":"Point"}
+  "geometry": {"coordinates":[56.14143,24.78668],"type":"Point"}
 }

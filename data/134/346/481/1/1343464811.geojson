@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0633\u0645\u0627\u0631\u064a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,7 +43,7 @@
         "gn:id":7632358
     },
     "wof:country":"AE",
-    "wof:geomhash":"cdb6e182b3fa3945e10ad7c774ada6f7",
+    "wof:geomhash":"342a968980c250822b487857b7c00211",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343464811,
-    "wof:lastmodified":1566581576,
+    "wof:lastmodified":1663959520,
     "wof:name":"Al Gissemari",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",
@@ -61,9 +64,9 @@
 },
   "bbox": [
     56.2484,
-    25.14342000000001,
+    25.14342,
     56.2484,
-    25.14342000000001
+    25.14342
 ],
-  "geometry": {"coordinates":[56.2484,25.14342000000001],"type":"Point"}
+  "geometry": {"coordinates":[56.2484,25.14342],"type":"Point"}
 }

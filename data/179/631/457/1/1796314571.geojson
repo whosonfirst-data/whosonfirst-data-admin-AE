@@ -13,6 +13,9 @@
     "lbl:longitude":55.909114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u063a\u0627\u0641\u0629"
+    ],
     "name:eng_x_preferred":[
         "Um Ghafah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"5af1b249230af9483315091a17c97992",
     "wof:hierarchy":[],
     "wof:id":1796314571,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959557,
     "wof:name":"Um Ghafah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

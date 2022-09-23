@@ -24,10 +24,10 @@
         "Sharjah"
     ],
     "name:ara_x_preferred":[
-        "\u0625\u0645\u0627\u0631\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629"
+        "\u0627\u0644\u0634\u0627\u0631\u0642\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0634\u0627\u0631\u0642\u0629"
+        "\u0625\u0645\u0627\u0631\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0631\u0642\u0647"
@@ -410,7 +410,7 @@
         }
     ],
     "wof:id":421168683,
-    "wof:lastmodified":1663614755,
+    "wof:lastmodified":1663959537,
     "wof:name":"Sharjah",
     "wof:parent_id":421171391,
     "wof:placetype":"locality",

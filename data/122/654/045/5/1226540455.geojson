@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0633\u0639\u064a\u0641"
+    ],
+    "name:ara_x_variant":[
         "S\u0101\u2019if"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226540455,
-    "wof:lastmodified":1566581611,
+    "wof:lastmodified":1663959560,
     "wof:name":"Sa'if",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

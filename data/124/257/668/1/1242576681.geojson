@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u063a\u0627"
+    ],
     "name:und_x_variant":[
         "Gargaha",
         "Gh\u0101ghah"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1242576681,
-    "wof:lastmodified":1566581607,
+    "wof:lastmodified":1663959541,
     "wof:name":"Ghaghah",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

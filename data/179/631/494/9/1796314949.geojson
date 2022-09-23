@@ -13,6 +13,9 @@
     "lbl:longitude":55.434842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0644\u062c"
+    ],
     "name:eng_x_preferred":[
         "Al Falaj"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"67a28a6fc6a3b18c5f5ad095bad06f99",
     "wof:hierarchy":[],
     "wof:id":1796314949,
-    "wof:lastmodified":1663693038,
+    "wof:lastmodified":1663959556,
     "wof:name":"Al Falaj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

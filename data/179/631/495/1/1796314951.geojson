@@ -13,6 +13,9 @@
     "lbl:longitude":55.445352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0631\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Azra"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"7c99c57c2b0ebac547611b23b09d95e0",
     "wof:hierarchy":[],
     "wof:id":1796314951,
-    "wof:lastmodified":1663693038,
+    "wof:lastmodified":1663959557,
     "wof:name":"Al Azra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

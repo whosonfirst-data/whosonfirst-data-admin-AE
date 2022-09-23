@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648 \u0631\u0627\u064a\u0632"
+    ],
     "name:und_x_variant":[
         "B\u016b Rays"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293112347,
-    "wof:lastmodified":1663804084,
+    "wof:lastmodified":1663959527,
     "wof:name":"Bu Rays",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

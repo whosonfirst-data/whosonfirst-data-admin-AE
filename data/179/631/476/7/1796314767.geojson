@@ -13,6 +13,9 @@
     "lbl:longitude":55.928329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u064a\u062a \u0627\u0644\u062c\u0646\u0648\u0628\u064a"
+    ],
     "name:eng_x_preferred":[
         "Al Dhait South"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"78aaeed41736029916ce16e8912d54d0",
     "wof:hierarchy":[],
     "wof:id":1796314767,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959548,
     "wof:name":"Al Dhait South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

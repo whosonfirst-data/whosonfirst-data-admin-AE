@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0633\u064a\u0644\u064a"
+    ],
     "name:und_x_variant":[
         "Lisaili",
         "Al Usayl\u012b"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292999939,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1663959527,
     "wof:name":"Al Usayli",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

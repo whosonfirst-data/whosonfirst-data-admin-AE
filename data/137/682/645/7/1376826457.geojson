@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Kharran"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1376826457,
-    "wof:lastmodified":1663623587,
+    "wof:lastmodified":1663959533,
     "wof:name":"Kharran",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

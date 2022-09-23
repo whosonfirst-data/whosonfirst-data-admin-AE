@@ -13,6 +13,9 @@
     "lbl:longitude":55.966284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u0627\u0639"
+    ],
     "name:eng_x_preferred":[
         "Sa'"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"3bba669e06a8ddab02b798c2d4ac9b15",
     "wof:hierarchy":[],
     "wof:id":1796314685,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959557,
     "wof:name":"Sa'",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

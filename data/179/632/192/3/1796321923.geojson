@@ -13,6 +13,9 @@
     "lbl:longitude":55.239996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627 1"
+    ],
     "name:eng_x_preferred":[
         "Al Safa 1"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"892bd2a5d1d8b984d5d9fe44c6f247c0",
     "wof:hierarchy":[],
     "wof:id":1796321923,
-    "wof:lastmodified":1663693040,
+    "wof:lastmodified":1663959543,
     "wof:name":"Al Safa 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

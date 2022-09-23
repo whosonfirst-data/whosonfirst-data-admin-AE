@@ -26,10 +26,10 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0637\u0648\u0627\u0631 1"
+        "\u0627\u0644\u0637\u0648\u0627\u0631"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0637\u0648\u0627\u0631"
+        "\u0627\u0644\u0637\u0648\u0627\u0631 1"
     ],
     "name:eng_x_preferred":[
         "Al Twar"
@@ -88,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663623594,
+    "wof:lastmodified":1663959521,
     "wof:name":"Al Twar",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

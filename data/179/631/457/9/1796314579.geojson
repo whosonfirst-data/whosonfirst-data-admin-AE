@@ -13,6 +13,9 @@
     "lbl:longitude":55.671066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u062e\u0631"
+    ],
     "name:eng_x_preferred":[
         "Zakhir"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"1355d1bd577da415366da881603cc785",
     "wof:hierarchy":[],
     "wof:id":1796314579,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959557,
     "wof:name":"Zakhir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

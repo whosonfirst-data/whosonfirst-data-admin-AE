@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0627\u064a"
+    ],
     "name:und_x_variant":[
         "Al Fiyy\u00e1",
         "Al Fuyay\u2019",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310222635,
-    "wof:lastmodified":1566581593,
+    "wof:lastmodified":1663959531,
     "wof:name":"Al Fiyay",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

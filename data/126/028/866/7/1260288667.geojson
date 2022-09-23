@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062a\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
         "Al A\u0163\u012br"
     ],
     "name:und_x_variant":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1260288667,
-    "wof:lastmodified":1566581592,
+    "wof:lastmodified":1663959531,
     "wof:name":"Al Atir",
     "wof:parent_id":85667981,
     "wof:placetype":"locality",

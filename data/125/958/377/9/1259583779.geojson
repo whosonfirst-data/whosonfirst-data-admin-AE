@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0631\u0629"
+    ],
     "name:nno_x_preferred":[
         "Hafarah"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259583779,
-    "wof:lastmodified":1663694466,
+    "wof:lastmodified":1663959559,
     "wof:name":"Hafarah",
     "wof:parent_id":1376826397,
     "wof:placetype":"locality",

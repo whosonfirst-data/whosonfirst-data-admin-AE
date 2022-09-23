@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u064a\u0647\u064a\u0646"
+    ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0634\u0648\u064a\u062d\u064a\u064a\u0646"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663623594,
+    "wof:lastmodified":1663959523,
     "wof:name":"Al Shuwayheen",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

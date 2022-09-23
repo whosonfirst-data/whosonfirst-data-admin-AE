@@ -33,10 +33,10 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
-        "\u062c\u0628\u0644 \u0639\u0644\u064a\u200e"
+        "\u062c\u0628\u0644 \u0639\u0644\u064a"
     ],
     "name:ara_x_variant":[
-        "\u062c\u0628\u0644 \u0639\u0644\u064a"
+        "\u062c\u0628\u0644 \u0639\u0644\u064a\u200e"
     ],
     "name:cat_x_preferred":[
         "Jebel Ali"
@@ -243,7 +243,7 @@
         }
     ],
     "wof:id":1141906809,
-    "wof:lastmodified":1663614755,
+    "wof:lastmodified":1663959560,
     "wof:name":"Jebel Ali",
     "wof:parent_id":1376833603,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0629"
+    ],
     "name:ara_x_variant":[
         "Bid\u00e1"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1376826547,
-    "wof:lastmodified":1663694933,
+    "wof:lastmodified":1663959536,
     "wof:name":"Bida",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

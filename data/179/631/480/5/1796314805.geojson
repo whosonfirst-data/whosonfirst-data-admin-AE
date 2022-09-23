@@ -13,6 +13,9 @@
     "lbl:longitude":55.535742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u064a\u062b\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Haditha"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"cd5161b0aa450cbbe4133a59574d820e",
     "wof:hierarchy":[],
     "wof:id":1796314805,
-    "wof:lastmodified":1663693035,
+    "wof:lastmodified":1663959554,
     "wof:name":"Al Haditha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

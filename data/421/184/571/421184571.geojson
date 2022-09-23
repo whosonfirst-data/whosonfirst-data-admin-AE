@@ -17,9 +17,11 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:ara_x_variant":[
-        "\u2018Ay\u0101l N\u0101\u015fir",
+    "name:ara_x_preferred":[
         "\u0639\u064a\u0627\u0644 \u0646\u0627\u0635\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ay\u0101l N\u0101\u015fir"
     ],
     "name:eng_x_preferred":[
         "Ayal Nasir"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":421184571,
-    "wof:lastmodified":1663623584,
+    "wof:lastmodified":1663959539,
     "wof:name":"Ayal Nasir",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

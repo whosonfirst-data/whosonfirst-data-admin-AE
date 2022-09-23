@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0641\u0642\u064a"
+    ],
+    "name:ara_x_variant":[
         "F\u0101q\u012b"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242700521,
-    "wof:lastmodified":1566581607,
+    "wof:lastmodified":1663959542,
     "wof:name":"Faqi",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

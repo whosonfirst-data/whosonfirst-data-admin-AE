@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0634\u0627\u0621 2"
+    ],
     "name:eng_x_preferred":[
         "Al Barshaa 2"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663623595,
+    "wof:lastmodified":1663959523,
     "wof:name":"Al Barshaa 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

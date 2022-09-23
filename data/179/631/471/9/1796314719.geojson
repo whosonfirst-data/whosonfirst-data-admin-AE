@@ -13,6 +13,9 @@
     "lbl:longitude":55.571684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Rowdah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"a8e8ce6482b5f44f92f286c0e00323ac",
     "wof:hierarchy":[],
     "wof:id":1796314719,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959547,
     "wof:name":"Al Rowdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

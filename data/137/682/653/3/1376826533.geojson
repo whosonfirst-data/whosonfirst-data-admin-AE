@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0631\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Heerah"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1376826533,
-    "wof:lastmodified":1663694933,
+    "wof:lastmodified":1663959536,
     "wof:name":"Al Heerah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

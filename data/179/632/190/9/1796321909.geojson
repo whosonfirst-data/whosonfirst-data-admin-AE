@@ -13,6 +13,9 @@
     "lbl:longitude":55.234763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0648\u0628 \u0627\u0644\u0628\u0631\u0634\u0627\u0621 1"
+    ],
     "name:eng_x_preferred":[
         "Al Barsha South 1"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"133386677e10175cba474a7e22d09298",
     "wof:hierarchy":[],
     "wof:id":1796321909,
-    "wof:lastmodified":1663693039,
+    "wof:lastmodified":1663959545,
     "wof:name":"Al Barsha South 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

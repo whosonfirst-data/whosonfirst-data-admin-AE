@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u0648\u0632 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 4"
+    ],
     "name:eng_x_preferred":[
         "Al Quoz Industrial Area 4"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663623596,
+    "wof:lastmodified":1663959523,
     "wof:name":"Al Quoz Industrial Area 4",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

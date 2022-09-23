@@ -26,6 +26,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0627\u0639"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0641\u0627\u0639\u0629"
     ],
     "name:eng_x_preferred":[
@@ -95,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663623597,
+    "wof:lastmodified":1663959523,
     "wof:name":"Al Rifa'a",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",

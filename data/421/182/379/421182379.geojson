@@ -17,9 +17,11 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:ara_x_variant":[
-        "Al \u1e28i\u015fn",
+    "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Al \u1e28i\u015fn"
     ],
     "name:eng_x_preferred":[
         "Al Hisn"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":421182379,
-    "wof:lastmodified":1663623584,
+    "wof:lastmodified":1663959540,
     "wof:name":"Al Hisn",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

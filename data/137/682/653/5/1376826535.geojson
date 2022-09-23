@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u064a\u0645\u064a"
+    ],
     "name:ara_x_variant":[
         "Al Q\u012bm\u012b"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1376826535,
-    "wof:lastmodified":1663623590,
+    "wof:lastmodified":1663959536,
     "wof:name":"Al Jimi",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

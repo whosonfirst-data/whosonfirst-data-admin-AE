@@ -13,6 +13,9 @@
     "lbl:longitude":55.402933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0633\u0644\u0648\u0646"
+    ],
     "name:eng_x_preferred":[
         "Maysaloon"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"1110e7d860d512fec4ec1763dc7ec9e3",
     "wof:hierarchy":[],
     "wof:id":1796314921,
-    "wof:lastmodified":1663693038,
+    "wof:lastmodified":1663959558,
     "wof:name":"Maysaloon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

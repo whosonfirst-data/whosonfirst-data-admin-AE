@@ -13,6 +13,9 @@
     "lbl:longitude":55.281813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Layan"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"3f08157ba46a4f3f05f52beee8a280fa",
     "wof:hierarchy":[],
     "wof:id":1796314549,
-    "wof:lastmodified":1663693029,
+    "wof:lastmodified":1663959551,
     "wof:name":"Layan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

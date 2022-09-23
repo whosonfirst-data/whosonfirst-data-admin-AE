@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0641\u064a\u0631"
+    ],
     "name:und_x_variant":[
         "Nefair",
         "Naf\u012br"
@@ -45,7 +48,7 @@
         "gn:id":291270
     },
     "wof:country":"AE",
-    "wof:geomhash":"3c42f6ca833c1b470e6526fdc719af12",
+    "wof:geomhash":"b9cef1fab99d7c9bf3e0b12895958af0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209014031,
-    "wof:lastmodified":1566581590,
+    "wof:lastmodified":1663959529,
     "wof:name":"Nafir",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",
@@ -66,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.78919000000001,
+    53.78919,
     23.10393,
-    53.78919000000001,
+    53.78919,
     23.10393
 ],
-  "geometry": {"coordinates":[53.78919000000001,23.10393],"type":"Point"}
+  "geometry": {"coordinates":[53.78919,23.10393],"type":"Point"}
 }

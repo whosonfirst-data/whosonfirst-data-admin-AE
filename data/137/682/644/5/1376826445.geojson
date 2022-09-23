@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Dayah"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1376826445,
-    "wof:lastmodified":1663623586,
+    "wof:lastmodified":1663959533,
     "wof:name":"Dayah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

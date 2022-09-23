@@ -13,6 +13,9 @@
     "lbl:longitude":55.450235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u064a\u0644\u062d"
+    ],
     "name:eng_x_preferred":[
         "Muwailih"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e5742d2fbfa5adf59f0780b3d37afe8c",
     "wof:hierarchy":[],
     "wof:id":1796314751,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959553,
     "wof:name":"Muwailih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

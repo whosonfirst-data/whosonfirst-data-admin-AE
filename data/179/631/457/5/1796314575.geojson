@@ -13,6 +13,9 @@
     "lbl:longitude":55.742358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u0632\u0631\u0629 \u0627\u0644\u062e\u0636\u0631\u0627\u0621"
+    ],
     "name:eng_x_preferred":[
         "Mbazzarah Al Khadra"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"93b003eedd277972785e8efddc3df8d3",
     "wof:hierarchy":[],
     "wof:id":1796314575,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959557,
     "wof:name":"Mbazzarah Al Khadra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

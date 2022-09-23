@@ -13,6 +13,9 @@
     "lbl:longitude":55.624117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u062c\u0639\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Saja'a Industrial"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"28988a308997b6ae81cafcb48b841e0c",
     "wof:hierarchy":[],
     "wof:id":1796314747,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959554,
     "wof:name":"Al Saja'a Industrial",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

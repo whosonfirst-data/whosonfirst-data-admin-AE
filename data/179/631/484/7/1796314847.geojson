@@ -13,6 +13,9 @@
     "lbl:longitude":54.346485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0644\u0624\u0644\u0624"
+    ],
     "name:eng_x_preferred":[
         "Al Lulu Island"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"5690fcb9b2acc77b707e1fc04f6c0cf2",
     "wof:hierarchy":[],
     "wof:id":1796314847,
-    "wof:lastmodified":1663693036,
+    "wof:lastmodified":1663959549,
     "wof:name":"Al Lulu Island",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

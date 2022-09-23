@@ -13,6 +13,9 @@
     "lbl:longitude":55.509492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+    ],
     "name:eng_x_preferred":[
         "Al Zahraa"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"393586c63c2f82d6d60ee676fd368279",
     "wof:hierarchy":[],
     "wof:id":1796314715,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959547,
     "wof:name":"Al Zahraa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

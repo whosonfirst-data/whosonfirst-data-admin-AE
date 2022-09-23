@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0641\u0631\u0641\u0631"
+    ],
+    "name:ara_x_variant":[
         "Furf\u0101r"
     ],
     "name:und_x_variant":[
@@ -47,7 +50,7 @@
         "gn:id":292187
     },
     "wof:country":"AE",
-    "wof:geomhash":"8f205432db345386cf3eb7b14ce6d44a",
+    "wof:geomhash":"aace595d303a35599ab9643f4d0df1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276878953,
-    "wof:lastmodified":1566581588,
+    "wof:lastmodified":1663959528,
     "wof:name":"Furfar",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.22241999999999,
+    56.22242,
     25.14844,
-    56.22241999999999,
+    56.22242,
     25.14844
 ],
-  "geometry": {"coordinates":[56.22241999999999,25.14844],"type":"Point"}
+  "geometry": {"coordinates":[56.22242,25.14844],"type":"Point"}
 }

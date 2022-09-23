@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0642\u0631"
+    ],
+    "name:ara_x_variant":[
         "Q\u016br"
     ],
     "name:und_x_variant":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259688763,
-    "wof:lastmodified":1566581609,
+    "wof:lastmodified":1663959559,
     "wof:name":"Qur",
     "wof:parent_id":85667951,
     "wof:placetype":"locality",

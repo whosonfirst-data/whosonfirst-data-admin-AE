@@ -26,10 +26,10 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:ara_x_preferred":[
-        "\u0627\u0645 \u0627\u0644\u0634\u064a\u0641"
+        "\u0623\u0645 \u0627\u0644\u0634\u064a\u0641"
     ],
     "name:ara_x_variant":[
-        "\u0623\u0645 \u0627\u0644\u0634\u064a\u0641"
+        "\u0627\u0645 \u0627\u0644\u0634\u064a\u0641"
     ],
     "name:eng_x_preferred":[
         "Umm Al Sheif"
@@ -101,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663623597,
+    "wof:lastmodified":1663959523,
     "wof:name":"Umm Al Sheif",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

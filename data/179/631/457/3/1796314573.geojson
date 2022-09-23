@@ -13,6 +13,9 @@
     "lbl:longitude":55.723917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628\u0629 \u0627\u0644\u0648\u0637\u0627\u0647"
+    ],
     "name:eng_x_preferred":[
         "Shi'bat Al Wutah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"4008de8372c57e1ee790844eb197dbe2",
     "wof:hierarchy":[],
     "wof:id":1796314573,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959557,
     "wof:name":"Shi'bat Al Wutah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

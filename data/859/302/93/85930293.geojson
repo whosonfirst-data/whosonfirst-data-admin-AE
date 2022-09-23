@@ -27,6 +27,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:ara_x_preferred":[
+        "\u0623\u0645 \u0633\u0642\u064a\u0645 2"
+    ],
+    "name:ara_x_variant":[
         "\u0623\u0645 \u0633\u0642\u064a\u0645"
     ],
     "name:eng_x_preferred":[
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1663959524,
     "wof:name":"Umm Suqeim 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":55.696645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Tiwayya"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"9c2c22bb80f3142bf20496516525e306",
     "wof:hierarchy":[],
     "wof:id":1796314663,
-    "wof:lastmodified":1663693032,
+    "wof:lastmodified":1663959558,
     "wof:name":"Al Tiwayya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

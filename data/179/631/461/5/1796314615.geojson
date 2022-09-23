@@ -13,6 +13,9 @@
     "lbl:longitude":55.994219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062d \u0627\u0644\u062d\u0636\u064a\u0628\u0629"
+    ],
     "name:eng_x_preferred":[
         "Saih Al Hudiabah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"80f2a864e7420c64b2aea02fdd0e938d",
     "wof:hierarchy":[],
     "wof:id":1796314615,
-    "wof:lastmodified":1663693031,
+    "wof:lastmodified":1663959558,
     "wof:name":"Saih Al Hudiabah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

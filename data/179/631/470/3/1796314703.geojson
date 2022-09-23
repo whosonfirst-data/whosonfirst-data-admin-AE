@@ -13,6 +13,9 @@
     "lbl:longitude":55.570509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0642\u064a\u0628"
+    ],
     "name:eng_x_preferred":[
         "Ragayeb"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"954dad8d33d260f2a6b1d0ad894d03d3",
     "wof:hierarchy":[],
     "wof:id":1796314703,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959549,
     "wof:name":"Ragayeb",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

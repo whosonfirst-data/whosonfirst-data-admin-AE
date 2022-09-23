@@ -13,6 +13,9 @@
     "lbl:longitude":55.553556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Reqqah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"430bfc734df2302fdd32e97d5600870b",
     "wof:hierarchy":[],
     "wof:id":1796314813,
-    "wof:lastmodified":1663693035,
+    "wof:lastmodified":1663959552,
     "wof:name":"Al Reqqah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

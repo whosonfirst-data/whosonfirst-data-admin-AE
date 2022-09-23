@@ -13,6 +13,9 @@
     "lbl:longitude":55.286233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062d\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Waha"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"240af293eaed8bde25250f4eb55e3dd8",
     "wof:hierarchy":[],
     "wof:id":1796314529,
-    "wof:lastmodified":1663693029,
+    "wof:lastmodified":1663959550,
     "wof:name":"Al Waha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

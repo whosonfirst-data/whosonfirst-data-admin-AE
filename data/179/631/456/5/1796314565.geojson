@@ -13,6 +13,9 @@
     "lbl:longitude":55.931523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Dahan"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"d292f84c431b3bda8a00d7489d3e53ff",
     "wof:hierarchy":[],
     "wof:id":1796314565,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959556,
     "wof:name":"Dahan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

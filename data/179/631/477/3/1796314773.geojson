@@ -13,6 +13,9 @@
     "lbl:longitude":55.997401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0628"
+    ],
     "name:eng_x_preferred":[
         "Al Ghubb"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"c49ebb4699a2814791a26c484b75405e",
     "wof:hierarchy":[],
     "wof:id":1796314773,
-    "wof:lastmodified":1663693034,
+    "wof:lastmodified":1663959548,
     "wof:name":"Al Ghubb",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

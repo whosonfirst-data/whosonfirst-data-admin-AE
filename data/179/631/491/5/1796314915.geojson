@@ -13,6 +13,9 @@
     "lbl:longitude":55.397201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u064a\u0639\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Gulayaa"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e52005eb47fc0274f6e7acea49489552",
     "wof:hierarchy":[],
     "wof:id":1796314915,
-    "wof:lastmodified":1663693038,
+    "wof:lastmodified":1663959552,
     "wof:name":"Al Gulayaa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

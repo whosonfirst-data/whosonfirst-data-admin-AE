@@ -13,6 +13,9 @@
     "lbl:longitude":55.850645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631"
+    ],
     "name:eng_x_preferred":[
         "Al Dhahir"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"3d1a820d044c944344cc71e25d8b6132",
     "wof:hierarchy":[],
     "wof:id":1796314569,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959556,
     "wof:name":"Al Dhahir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":54.377945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0647\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Zahiyah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"79170ec8f42cab1aad8a7ae11241ccb7",
     "wof:hierarchy":[],
     "wof:id":1796321957,
-    "wof:lastmodified":1663693041,
+    "wof:lastmodified":1663959543,
     "wof:name":"Al Zahiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

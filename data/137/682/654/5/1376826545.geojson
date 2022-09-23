@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u062b\u0628\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Wathbah"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1376826545,
-    "wof:lastmodified":1663623591,
+    "wof:lastmodified":1663959536,
     "wof:name":"Al Wathbah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

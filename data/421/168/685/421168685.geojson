@@ -24,10 +24,10 @@
         "Fujairah"
     ],
     "name:ara_x_preferred":[
-        "\u0641\u062c\u064a\u0631\u0629"
+        "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
+        "\u0641\u062c\u064a\u0631\u0629"
     ],
     "name:ast_x_preferred":[
         "Fuyaira"
@@ -398,7 +398,7 @@
         }
     ],
     "wof:id":421168685,
-    "wof:lastmodified":1663614755,
+    "wof:lastmodified":1663959537,
     "wof:name":"Fujairah",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

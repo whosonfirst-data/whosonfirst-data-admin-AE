@@ -36,10 +36,10 @@
         "Abu Dhabi"
     ],
     "name:ara_x_preferred":[
-        "\u0623\u0628\u0648\u0638\u0628\u064a"
+        "\u0623\u0628\u0648 \u0638\u0628\u064a"
     ],
     "name:ara_x_variant":[
-        "\u0623\u0628\u0648 \u0638\u0628\u064a"
+        "\u0623\u0628\u0648\u0638\u0628\u064a"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0628\u0648 \u0638\u0628\u0649"
@@ -682,7 +682,7 @@
         }
     ],
     "wof:id":421179641,
-    "wof:lastmodified":1663614754,
+    "wof:lastmodified":1663959540,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":421172075,
     "wof:placetype":"locality",

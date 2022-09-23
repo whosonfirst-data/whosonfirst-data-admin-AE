@@ -13,6 +13,9 @@
     "lbl:longitude":55.449717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0631\u0641"
+    ],
     "name:eng_x_preferred":[
         "Mushrif"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"e2337b4c22a3f51b33909e18939bea44",
     "wof:hierarchy":[],
     "wof:id":1796321913,
-    "wof:lastmodified":1663693040,
+    "wof:lastmodified":1663959545,
     "wof:name":"Mushrif",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

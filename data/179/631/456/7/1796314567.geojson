@@ -13,6 +13,9 @@
     "lbl:longitude":55.907652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062f\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Nadiyah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"6101ed10d38a0631f4980b05527763c9",
     "wof:hierarchy":[],
     "wof:id":1796314567,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959556,
     "wof:name":"Al Nadiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

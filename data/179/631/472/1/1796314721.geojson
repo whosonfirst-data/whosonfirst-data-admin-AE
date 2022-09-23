@@ -13,6 +13,9 @@
     "lbl:longitude":55.558298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Haweah"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"1b69a92ebfedc999a4ed598c31ecba4e",
     "wof:hierarchy":[],
     "wof:id":1796314721,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959553,
     "wof:name":"Al Haweah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

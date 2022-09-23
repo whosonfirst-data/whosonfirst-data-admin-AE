@@ -18,6 +18,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0623\u0645 \u0627\u0644\u062b\u0639\u0648\u0628"
+    ],
+    "name:ara_x_variant":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0645 \u0627\u0644\u062b\u0639\u0648\u0628 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
     ],
     "name:eng_x_preferred":[
@@ -45,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        1376833609,
-        85667955
+        85667955,
+        1376833609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421175777,
-    "wof:lastmodified":1601423094,
+    "wof:lastmodified":1663959539,
     "wof:name":"Umm Al Thuoob Industrial Area",
     "wof:parent_id":1376833609,
     "wof:placetype":"locality",

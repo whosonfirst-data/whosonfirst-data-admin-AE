@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0633\u0648\u0645\u0628\u0631\u0627\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
         "\u0635\u0645\u0628\u0631\u064a\u062f"
     ],
     "name:eng_x_preferred":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1260080705,
-    "wof:lastmodified":1566581592,
+    "wof:lastmodified":1663959531,
     "wof:name":"Sumbrair",
     "wof:parent_id":85667959,
     "wof:placetype":"locality",

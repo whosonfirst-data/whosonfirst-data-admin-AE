@@ -13,6 +13,9 @@
     "lbl:longitude":55.800738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u062d\u0641\u064a\u062a"
+    ],
     "name:eng_x_preferred":[
         "Jabal Hafeet"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"705d16b7813894f724e532e92d1015b7",
     "wof:hierarchy":[],
     "wof:id":1796314587,
-    "wof:lastmodified":1663693030,
+    "wof:lastmodified":1663959555,
     "wof:name":"Jabal Hafeet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "lbl:longitude":55.427852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 11"
+    ],
     "name:eng_x_preferred":[
         "Industrial Area 11"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"1d79acb69edf8a692183dc6305fdc074",
     "wof:hierarchy":[],
     "wof:id":1796322019,
-    "wof:lastmodified":1663693195,
+    "wof:lastmodified":1663959546,
     "wof:name":"Industrial Area 11",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

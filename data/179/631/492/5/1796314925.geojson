@@ -13,6 +13,9 @@
     "lbl:longitude":55.408473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Nasseria"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"d2fa1003b2187b364943c5d89c27818e",
     "wof:hierarchy":[],
     "wof:id":1796314925,
-    "wof:lastmodified":1663693038,
+    "wof:lastmodified":1663959558,
     "wof:name":"Al Nasseria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

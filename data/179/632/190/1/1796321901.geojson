@@ -13,6 +13,9 @@
     "lbl:longitude":55.214315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u0631\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Manara"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"10a17542693a6ebc356878a1de8f5e61",
     "wof:hierarchy":[],
     "wof:id":1796321901,
-    "wof:lastmodified":1663693039,
+    "wof:lastmodified":1663959545,
     "wof:name":"Al Manara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

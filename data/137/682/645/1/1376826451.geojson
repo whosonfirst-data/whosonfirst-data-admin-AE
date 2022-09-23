@@ -30,10 +30,11 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "\u062e\u0627\u0646"
+        "\u0627\u0644\u062e\u0627\u0646"
     ],
     "name:ara_x_variant":[
-        "Al Kh\u0101n"
+        "Al Kh\u0101n",
+        "\u062e\u0627\u0646"
     ],
     "name:eng_x_preferred":[
         "Al Khan"
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1376826451,
-    "wof:lastmodified":1663623588,
+    "wof:lastmodified":1663959533,
     "wof:name":"Al Khan",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

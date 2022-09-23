@@ -13,6 +13,9 @@
     "lbl:longitude":55.613955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
     "name:eng_x_preferred":[
         "Al Bateen"
     ],
@@ -24,7 +27,7 @@
     "wof:geomhash":"54a74f56637602fb438d0575f15f7dec",
     "wof:hierarchy":[],
     "wof:id":1796314691,
-    "wof:lastmodified":1663693033,
+    "wof:lastmodified":1663959556,
     "wof:name":"Al Bateen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"9a68a610d48e78cd6d5bb8d1751ac027",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796321895,
+            "region_id":85667983
+        }
+    ],
     "wof:id":1796321895,
-    "wof:lastmodified":1663966364,
+    "wof:lastmodified":1663973312,
     "wof:name":"Al Barsha South 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

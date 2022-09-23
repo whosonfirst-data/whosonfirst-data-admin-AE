@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"e039a0baa6221d7d566e431e077fb363",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1796314609,
+            "region_id":85667951
+        }
+    ],
     "wof:id":1796314609,
-    "wof:lastmodified":1663966375,
+    "wof:lastmodified":1663973098,
     "wof:name":"Az Zahrah",
-    "wof:parent_id":-1,
+    "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

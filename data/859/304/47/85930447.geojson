@@ -56,11 +56,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663694348,
+    "wof:lastmodified":1663973495,
     "wof:name":"\u0627\u0644\u0628\u0637\u064a\u0646",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

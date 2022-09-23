@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"8640889a13489fda3ad8f06056220903",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314577,
+            "region_id":85667981
+        }
+    ],
     "wof:id":1796314577,
-    "wof:lastmodified":1663966377,
+    "wof:lastmodified":1663973080,
     "wof:name":"Ni'mah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

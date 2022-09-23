@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1141906809,
+        1376833603,
+        85667983
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"69de894922d587e2abc0b9bd9f6c1a03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":1141906809,
+            "neighbourhood_id":1796314463,
+            "region_id":85667983
+        }
+    ],
     "wof:id":1796314463,
-    "wof:lastmodified":1663966369,
+    "wof:lastmodified":1663973014,
     "wof:name":"Jebel Ali Hills",
-    "wof:parent_id":-1,
+    "wof:parent_id":1141906809,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

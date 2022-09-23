@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168685,
+        1376833611,
+        85667959
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"8fb2cecf5198ec6f9ce3385171a9c2aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314629,
+            "region_id":85667959
+        }
+    ],
     "wof:id":1796314629,
-    "wof:lastmodified":1663966372,
+    "wof:lastmodified":1663973110,
     "wof:name":"Fujairah International Airport",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168685,
     "wof:placetype":"neighbourhood",
     "wof:placetype_alt":"campus",
     "wof:repo":"whosonfirst-data-admin-ae",

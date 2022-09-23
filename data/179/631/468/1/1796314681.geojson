@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"55139c29405c6eaaf5906fb16fa26f70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314681,
+            "region_id":85667981
+        }
+    ],
     "wof:id":1796314681,
-    "wof:lastmodified":1663966377,
+    "wof:lastmodified":1663973140,
     "wof:name":"Al Shuwaymah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

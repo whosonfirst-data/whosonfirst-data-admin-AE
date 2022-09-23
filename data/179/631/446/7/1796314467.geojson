@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1141906809,
+        1376833603,
+        85667983
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"a6c1926ef9b45df92c525255e48d0a7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":1141906809,
+            "neighbourhood_id":1796314467,
+            "region_id":85667983
+        }
+    ],
     "wof:id":1796314467,
-    "wof:lastmodified":1663966369,
+    "wof:lastmodified":1663973017,
     "wof:name":"Dubai Techno Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1141906809,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

@@ -84,11 +84,11 @@
     "wd:longitude":55.346369,
     "wd:wordcount":173,
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663968882,
+    "wof:lastmodified":1663972910,
     "wof:name":"Nadd Al Shiba",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

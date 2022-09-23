@@ -68,11 +68,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":272,
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":421184567,
-    "wof:lastmodified":1663694350,
+    "wof:lastmodified":1663973463,
     "wof:name":"Al Baharna",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

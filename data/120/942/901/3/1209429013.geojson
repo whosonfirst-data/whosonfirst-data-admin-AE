@@ -36,9 +36,7 @@
         "Far\u012bq"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[
-        85632573
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":292184
@@ -47,14 +45,16 @@
     "wof:geomhash":"aec86a6025735b154ccf68f149e1f384",
     "wof:hierarchy":[
         {
-            "country_id":85632573,
-            "locality_id":1209429013
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209429013,
+            "region_id":-1
         }
     ],
     "wof:id":1209429013,
-    "wof:lastmodified":1663959530,
+    "wof:lastmodified":1663973574,
     "wof:name":"Fariq",
-    "wof:parent_id":85632573,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

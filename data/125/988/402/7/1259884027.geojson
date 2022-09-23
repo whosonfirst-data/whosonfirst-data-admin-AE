@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191569
+        102191569,
+        85632573,
+        85667981,
+        421200931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,16 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":-1,
+            "country_id":85632573,
+            "county_id":421200931,
             "locality_id":1259884027,
-            "region_id":-1
+            "region_id":85667981
         }
     ],
     "wof:id":1259884027,
-    "wof:lastmodified":1663959559,
+    "wof:lastmodified":1663973675,
     "wof:name":"Za`bah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421200931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

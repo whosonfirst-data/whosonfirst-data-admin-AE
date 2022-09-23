@@ -27,18 +27,31 @@
     "reversegeo:longitude":51.760032,
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        1376826403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q766444"
     },
     "wof:country":"AE",
     "wof:geomhash":"8732f539ea90bf5fce10eee30fc91895",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826403,
+            "locality_id":1796329103,
+            "region_id":85667981
+        }
+    ],
     "wof:id":1796329103,
-    "wof:lastmodified":1663970769,
+    "wof:lastmodified":1663973425,
     "wof:name":"As-Sila",
-    "wof:parent_id":-1,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

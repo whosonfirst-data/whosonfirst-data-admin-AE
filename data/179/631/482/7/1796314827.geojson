@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1293711159,
+        1376826401,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"ee6f06c0e8a8a7264a57f95041310021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826401,
+            "locality_id":1293711159,
+            "neighbourhood_id":1796314827,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796314827,
-    "wof:lastmodified":1663966367,
+    "wof:lastmodified":1663973224,
     "wof:name":"Hamriya Free Zone",
-    "wof:parent_id":-1,
+    "wof:parent_id":1293711159,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

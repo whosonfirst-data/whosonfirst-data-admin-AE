@@ -50,7 +50,12 @@
     ],
     "src:geom_via":"geonames",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        1376826403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":292795
@@ -62,16 +67,17 @@
     "wof:geomhash":"048fac60b985e2176e9fbdb9920803ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826403,
             "locality_id":1243468403,
-            "region_id":-1
+            "region_id":85667981
         }
     ],
     "wof:id":1243468403,
-    "wof:lastmodified":1663970769,
+    "wof:lastmodified":1663973398,
     "wof:name":"Al Marfa'",
-    "wof:parent_id":-1,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667959
+        85667959,
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833611,
             "locality_id":1293889493,
             "region_id":85667959
         }
     ],
     "wof:id":1293889493,
-    "wof:lastmodified":1663959527,
+    "wof:lastmodified":1663973764,
     "wof:name":"Rul Dadna",
-    "wof:parent_id":85667959,
+    "wof:parent_id":1376833611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

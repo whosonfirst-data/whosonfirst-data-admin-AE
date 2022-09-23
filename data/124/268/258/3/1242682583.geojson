@@ -41,7 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667951
+        85667951,
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833605,
             "locality_id":1242682583,
             "region_id":85667951
         }
     ],
     "wof:id":1242682583,
-    "wof:lastmodified":1663959541,
+    "wof:lastmodified":1663973628,
     "wof:name":"Ash Sha`m",
-    "wof:parent_id":85667951,
+    "wof:parent_id":1376833605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

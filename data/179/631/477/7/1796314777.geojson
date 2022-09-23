@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1293711159,
+        1376826401,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"e1b75d2dc4c72a5e3cc1543b6d05563c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826401,
+            "locality_id":1293711159,
+            "neighbourhood_id":1796314777,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796314777,
-    "wof:lastmodified":1663966368,
+    "wof:lastmodified":1663973195,
     "wof:name":"Investment Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":1293711159,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

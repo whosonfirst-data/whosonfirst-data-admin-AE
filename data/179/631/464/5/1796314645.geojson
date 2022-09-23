@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168685,
+        1376833611,
+        85667959
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"b74e6f16243c3bf399c7c40ae3f100d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314645,
+            "region_id":85667959
+        }
+    ],
     "wof:id":1796314645,
-    "wof:lastmodified":1663966370,
+    "wof:lastmodified":1663973119,
     "wof:name":"Al Sharia",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168685,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

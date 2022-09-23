@@ -54,11 +54,10 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667959,
         102191569,
         85632573,
-        421168685,
-        1376833611
+        1376833611,
+        85667959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,15 +74,15 @@
             "continent_id":102191569,
             "country_id":85632573,
             "county_id":1376833611,
-            "locality_id":421168685,
+            "locality_id":-1,
             "neighbourhood_id":1376826481,
             "region_id":85667959
         }
     ],
     "wof:id":1376826481,
-    "wof:lastmodified":1663959535,
+    "wof:lastmodified":1663973867,
     "wof:name":"Al Qurayyah",
-    "wof:parent_id":421168685,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

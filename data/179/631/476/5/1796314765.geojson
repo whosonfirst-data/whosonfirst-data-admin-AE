@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1126024975,
+        1376833607,
+        85667969
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"7ca87a3a1746f929b0e6dc09050f3552",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833607,
+            "locality_id":1126024975,
+            "neighbourhood_id":1796314765,
+            "region_id":85667969
+        }
+    ],
     "wof:id":1796314765,
-    "wof:lastmodified":1663966367,
+    "wof:lastmodified":1663973187,
     "wof:name":"Free Zone",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455645,
+        1376833609,
+        85667955
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"10241c6ed0e5548bc1fe3579ab3d36d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":890455645,
+            "neighbourhood_id":1796314823,
+            "region_id":85667955
+        }
+    ],
     "wof:id":1796314823,
-    "wof:lastmodified":1663966367,
+    "wof:lastmodified":1663973221,
     "wof:name":"Umm Al Quwain Marina",
-    "wof:parent_id":-1,
+    "wof:parent_id":890455645,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

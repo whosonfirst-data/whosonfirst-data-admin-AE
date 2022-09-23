@@ -87,11 +87,11 @@
     "wd:longitude":55.329167,
     "wd:wordcount":222,
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663968882,
+    "wof:lastmodified":1663972902,
     "wof:name":"Port Saeed",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

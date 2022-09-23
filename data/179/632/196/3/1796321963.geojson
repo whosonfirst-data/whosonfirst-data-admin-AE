@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421179641,
+        421172075,
+        85667981
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"c110955ba8bdd051d3c8507098a0dbbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":1796321963,
+            "region_id":85667981
+        }
+    ],
     "wof:id":1796321963,
-    "wof:lastmodified":1663966364,
+    "wof:lastmodified":1663973352,
     "wof:name":"Al Muzoon",
-    "wof:parent_id":-1,
+    "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

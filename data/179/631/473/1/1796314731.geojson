@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1126024975,
+        1376833607,
+        85667969
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"2830a2d87e78e653796650accdf72507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833607,
+            "locality_id":1126024975,
+            "neighbourhood_id":1796314731,
+            "region_id":85667969
+        }
+    ],
     "wof:id":1796314731,
-    "wof:lastmodified":1663966373,
+    "wof:lastmodified":1663973168,
     "wof:name":"Al Helio",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

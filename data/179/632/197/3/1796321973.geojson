@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421174961,
+        1376833603,
+        85667983
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"7488246dc4a0a1b470ae4058a652dc1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796321973,
+            "region_id":85667983
+        }
+    ],
     "wof:id":1796321973,
-    "wof:lastmodified":1663966365,
+    "wof:lastmodified":1663973358,
     "wof:name":"Muhaisnah 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

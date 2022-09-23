@@ -65,11 +65,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667977,
         102191569,
         85632573,
         421168683,
-        421171391
+        421171391,
+        85667977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663968885,
+    "wof:lastmodified":1663972961,
     "wof:name":"Al Soor",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

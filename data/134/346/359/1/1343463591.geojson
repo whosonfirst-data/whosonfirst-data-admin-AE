@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667951
+        85667951,
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833605,
             "locality_id":1343463591,
             "region_id":85667951
         }
     ],
     "wof:id":1343463591,
-    "wof:lastmodified":1663959520,
+    "wof:lastmodified":1663973825,
     "wof:name":"Ra's",
-    "wof:parent_id":85667951,
+    "wof:parent_id":1376833605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

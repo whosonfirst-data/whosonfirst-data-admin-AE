@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        1376826403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826403,
             "locality_id":1343679547,
             "region_id":85667981
         }
     ],
     "wof:id":1343679547,
-    "wof:lastmodified":1663959520,
+    "wof:lastmodified":1663973834,
     "wof:name":"`Attab",
-    "wof:parent_id":85667981,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

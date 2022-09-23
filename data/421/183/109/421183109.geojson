@@ -67,11 +67,11 @@
     "wd:longitude":55.363881,
     "wd:wordcount":182,
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":421183109,
-    "wof:lastmodified":1663966361,
+    "wof:lastmodified":1663972860,
     "wof:name":"Al Twar 2",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

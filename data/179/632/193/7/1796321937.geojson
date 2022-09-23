@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1746480475,
+        1376833603,
+        85667983
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"c2939363d9ba74bf55f1212e31af3c4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":1746480475,
+            "neighbourhood_id":1796321937,
+            "region_id":85667983
+        }
+    ],
     "wof:id":1796321937,
-    "wof:lastmodified":1663966363,
+    "wof:lastmodified":1663973337,
     "wof:name":"Expo 2020 Dubai",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746480475,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

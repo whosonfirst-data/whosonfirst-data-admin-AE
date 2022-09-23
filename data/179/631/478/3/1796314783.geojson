@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        890455647,
+        1376833605,
+        85667951
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"8b214db1114563ac953e7c483b7af1b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1796314783,
+            "region_id":85667951
+        }
+    ],
     "wof:id":1796314783,
-    "wof:lastmodified":1663966366,
+    "wof:lastmodified":1663973198,
     "wof:name":"Al Dhait North",
-    "wof:parent_id":-1,
+    "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

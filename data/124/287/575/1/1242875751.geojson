@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667983
+        85667983,
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833603,
             "locality_id":1242875751,
             "region_id":85667983
         }
     ],
     "wof:id":1242875751,
-    "wof:lastmodified":1663959541,
+    "wof:lastmodified":1663973640,
     "wof:name":"Bab Al Shams",
-    "wof:parent_id":85667983,
+    "wof:parent_id":1376833603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

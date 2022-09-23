@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168683,
+        421171391,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"629f5275052013659190856025ea4b3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314737,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796314737,
-    "wof:lastmodified":1663966373,
+    "wof:lastmodified":1663973172,
     "wof:name":"Al Manakh",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

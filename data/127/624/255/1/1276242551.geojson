@@ -36,7 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        421200931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":421200931,
             "locality_id":1276242551,
             "region_id":85667981
         }
     ],
     "wof:id":1276242551,
-    "wof:lastmodified":1663959529,
+    "wof:lastmodified":1663973698,
     "wof:name":"Naqrah",
-    "wof:parent_id":85667981,
+    "wof:parent_id":421200931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

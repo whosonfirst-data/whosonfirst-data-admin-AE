@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"9c2c22bb80f3142bf20496516525e306",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314663,
+            "region_id":85667981
+        }
+    ],
     "wof:id":1796314663,
-    "wof:lastmodified":1663966378,
+    "wof:lastmodified":1663973129,
     "wof:name":"Al Tiwayya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

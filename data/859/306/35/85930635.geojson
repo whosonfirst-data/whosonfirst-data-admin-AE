@@ -65,11 +65,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667981,
         102191569,
         85632573,
         421168687,
-        421200931
+        421200931,
+        85667981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663968881,
+    "wof:lastmodified":1663972971,
     "wof:name":"Al Owainah",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

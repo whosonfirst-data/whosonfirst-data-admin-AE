@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168683,
+        421171391,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"345433840ca04ef5c484d6bee0e468ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796321887,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796321887,
-    "wof:lastmodified":1663966364,
+    "wof:lastmodified":1663973309,
     "wof:name":"Al Subaikha",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

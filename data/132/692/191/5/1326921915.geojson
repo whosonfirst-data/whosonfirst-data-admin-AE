@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667955
+        85667955,
+        1376833609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833609,
             "locality_id":1326921915,
             "region_id":85667955
         }
     ],
     "wof:id":1326921915,
-    "wof:lastmodified":1663959518,
+    "wof:lastmodified":1663973809,
     "wof:name":"Al `Adhib",
-    "wof:parent_id":85667955,
+    "wof:parent_id":1376833609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

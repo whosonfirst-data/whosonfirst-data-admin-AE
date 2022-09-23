@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168687,
+        421200931,
+        85667981
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"aff3ef7a33b445779689b450a800a9fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314669,
+            "region_id":85667981
+        }
+    ],
     "wof:id":1796314669,
-    "wof:lastmodified":1663966378,
+    "wof:lastmodified":1663973133,
     "wof:name":"Asharej",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

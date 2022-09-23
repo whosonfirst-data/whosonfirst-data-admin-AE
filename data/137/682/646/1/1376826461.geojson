@@ -67,11 +67,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1376826461,
-    "wof:lastmodified":1663959535,
+    "wof:lastmodified":1663973864,
     "wof:name":"Al Barsha",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

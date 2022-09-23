@@ -45,6 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
+        890455647,
+        1376833605,
         85667951
     ],
     "wof:breaches":[],
@@ -59,15 +61,16 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
-            "locality_id":-1,
+            "county_id":1376833605,
+            "locality_id":890455647,
             "neighbourhood_id":1376826411,
             "region_id":85667951
         }
     ],
     "wof:id":1376826411,
-    "wof:lastmodified":1663694349,
+    "wof:lastmodified":1663973427,
     "wof:name":"Ras Al Khaimah",
-    "wof:parent_id":-1,
+    "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

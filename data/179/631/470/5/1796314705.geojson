@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        1126024975,
+        1376833607,
+        85667969
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"b1a06953dce8564eb9b691d3798b49ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833607,
+            "locality_id":1126024975,
+            "neighbourhood_id":1796314705,
+            "region_id":85667969
+        }
+    ],
     "wof:id":1796314705,
-    "wof:lastmodified":1663966369,
+    "wof:lastmodified":1663973154,
     "wof:name":"Al Zawarah",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

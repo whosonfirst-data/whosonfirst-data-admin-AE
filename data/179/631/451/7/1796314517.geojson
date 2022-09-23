@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421187069,
+        421182269,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"f6844bd3a0686758bf8a3717e3518754",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421182269,
+            "locality_id":421187069,
+            "neighbourhood_id":1796314517,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796314517,
-    "wof:lastmodified":1663966376,
+    "wof:lastmodified":1663973045,
     "wof:name":"Al Khaledya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421187069,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

@@ -72,11 +72,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667981,
         102191569,
         85632573,
         421179641,
-        421172075
+        421172075,
+        85667981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +104,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663968883,
+    "wof:lastmodified":1663972939,
     "wof:name":"Umm Al Nar",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

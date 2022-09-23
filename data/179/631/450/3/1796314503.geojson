@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168685,
+        1376833611,
+        85667959
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"5eee59a268f104a33efb9dcaa3998498",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314503,
+            "region_id":85667959
+        }
+    ],
     "wof:id":1796314503,
-    "wof:lastmodified":1663966377,
+    "wof:lastmodified":1663973037,
     "wof:name":"Fujairah Port",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168685,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

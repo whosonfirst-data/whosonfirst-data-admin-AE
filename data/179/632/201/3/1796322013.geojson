@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168683,
+        421171391,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"7b5c7a4742634365c961caba94fb94c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796322013,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796322013,
-    "wof:lastmodified":1663966366,
+    "wof:lastmodified":1663973381,
     "wof:name":"Industrial Area 9",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

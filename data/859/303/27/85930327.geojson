@@ -68,11 +68,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667977,
         102191569,
         85632573,
-        421168683,
-        421171391
+        421174961,
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,19 +90,19 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
-            "county_id":421171391,
-            "locality_id":421168683,
+            "county_id":1376833603,
+            "locality_id":421174961,
             "neighbourhood_id":85930327,
-            "region_id":85667977
+            "region_id":85667983
         }
     ],
     "wof:id":85930327,
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663968883,
+    "wof:lastmodified":1663972922,
     "wof:name":"Al Nahda",
-    "wof:parent_id":421168683,
+    "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

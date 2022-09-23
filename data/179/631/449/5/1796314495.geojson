@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421187069,
+        421182269,
+        85667977
+    ],
     "wof:breaches":[],
     "wof:country":"AE",
     "wof:geomhash":"246fc43680c4158ea193ef7256bd61c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421182269,
+            "locality_id":421187069,
+            "neighbourhood_id":1796314495,
+            "region_id":85667977
+        }
+    ],
     "wof:id":1796314495,
-    "wof:lastmodified":1663966368,
+    "wof:lastmodified":1663973032,
     "wof:name":"Al Burdi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421187069,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

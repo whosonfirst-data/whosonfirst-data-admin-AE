@@ -78,6 +78,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"e40f8b5058dbdede63dc5088d4cca735",
@@ -95,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966352,
+    "wof:lastmodified":1663968884,
     "wof:name":"Al Jafiliya",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

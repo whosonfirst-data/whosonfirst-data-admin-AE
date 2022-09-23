@@ -84,6 +84,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"369268a59eb0b5725e62927b42a3b73b",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966351,
+    "wof:lastmodified":1663968883,
     "wof:name":"Al Khalidiyah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

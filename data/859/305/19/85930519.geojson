@@ -84,6 +84,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"ce66ddc18286b591364b118c712235df",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966352,
+    "wof:lastmodified":1663968884,
     "wof:name":"Al Dhafrah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

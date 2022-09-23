@@ -98,6 +98,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"e41f1c68cd94d6fd27830c85332b9762",
@@ -115,7 +117,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966350,
+    "wof:lastmodified":1663968882,
     "wof:name":"Al Rashidiya",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

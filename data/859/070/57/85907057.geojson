@@ -65,6 +65,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"be2262ba27d0ce6a7e1f12dbac1fd1d0",
@@ -82,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966350,
+    "wof:lastmodified":1663968882,
     "wof:name":"Al Ras",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

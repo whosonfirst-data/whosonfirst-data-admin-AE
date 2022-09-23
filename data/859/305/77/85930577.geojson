@@ -78,6 +78,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"e862c208e29cec55811c31c0fa94761c",
@@ -95,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966353,
+    "wof:lastmodified":1663968885,
     "wof:name":"Al Soor",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

@@ -390,6 +390,9 @@
         85667959
     ],
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7ca3506bed3b38b0e3f6ff0067aeba05",
     "wof:hierarchy":[
         {
@@ -406,7 +409,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663966358,
+    "wof:lastmodified":1663968885,
     "wof:name":"Fujairah",
     "wof:parent_id":85667959,
     "wof:placetype":"county",

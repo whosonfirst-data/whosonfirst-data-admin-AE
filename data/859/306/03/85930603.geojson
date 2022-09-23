@@ -94,6 +94,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"27bece0a45dbcc72b1221b98f88bb6e3",
@@ -111,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663966349,
+    "wof:lastmodified":1663968881,
     "wof:name":"Umm Ramool",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

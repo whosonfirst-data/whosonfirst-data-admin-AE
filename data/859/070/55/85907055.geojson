@@ -84,6 +84,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"9112a6c39d4f281c47d24e4e5d247e22",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966350,
+    "wof:lastmodified":1663968882,
     "wof:name":"Al Hamriya",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

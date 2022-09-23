@@ -71,6 +71,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"c7325b9b03dc6b744c8acbccb42083da",
@@ -88,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966350,
+    "wof:lastmodified":1663968882,
     "wof:name":"Al Twar",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

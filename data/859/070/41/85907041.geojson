@@ -78,6 +78,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"97481bd7e41029c8ee5746c827ecfb1e",
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663966350,
+    "wof:lastmodified":1663968882,
     "wof:name":"Za'abeel",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

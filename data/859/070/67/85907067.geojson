@@ -100,6 +100,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"6a39414b1c05a38a40d4692ff41eb8e4",
@@ -117,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663966350,
+    "wof:lastmodified":1663968882,
     "wof:name":"Nadd Al Shiba",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

@@ -78,6 +78,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"10b302835109098d1205383f118129b9",
@@ -95,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966349,
+    "wof:lastmodified":1663968881,
     "wof:name":"Al Owainah",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",

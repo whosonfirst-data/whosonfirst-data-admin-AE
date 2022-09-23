@@ -84,6 +84,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"da218c311b7df5cfb3c9be1301cc34fe",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966351,
+    "wof:lastmodified":1663968883,
     "wof:name":"Al Bateen",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

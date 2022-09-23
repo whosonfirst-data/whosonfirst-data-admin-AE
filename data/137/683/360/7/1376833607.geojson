@@ -399,6 +399,9 @@
         85667969
     ],
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6e56dbff4e8fdc6de87bb7c22974260",
     "wof:hierarchy":[
         {
@@ -415,7 +418,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663966358,
+    "wof:lastmodified":1663968885,
     "wof:name":"Ajman",
     "wof:parent_id":85667969,
     "wof:placetype":"county",

@@ -81,6 +81,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"b5217e523113f2fa38a0a60d6fe6ce45",
@@ -98,7 +100,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966352,
+    "wof:lastmodified":1663968884,
     "wof:name":"Al Rifa'a",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",

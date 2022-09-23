@@ -87,6 +87,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"7e79887945e93265487e76dd0e08fbda",
@@ -104,7 +106,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966351,
+    "wof:lastmodified":1663968883,
     "wof:name":"Al Maqtaa",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

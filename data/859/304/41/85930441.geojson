@@ -84,6 +84,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"c7f68389764b38c22726c98f9b0eab0b",
@@ -101,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966352,
+    "wof:lastmodified":1663968884,
     "wof:name":"Al Shuwayheen",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

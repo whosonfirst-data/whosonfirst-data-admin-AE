@@ -81,6 +81,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"c704e5894d6c461d974fe7de0dd89751",
@@ -98,7 +100,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966349,
+    "wof:lastmodified":1663968881,
     "wof:name":"Al Manhal",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

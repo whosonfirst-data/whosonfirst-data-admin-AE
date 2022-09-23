@@ -1252,8 +1252,7 @@
     "wof:country_alpha3":"ARE",
     "wof:geom_alt":[
         "naturalearth",
-        "quattroshapes",
-        "naturalearth-display-terrestrial-zoom6"
+        "quattroshapes"
     ],
     "wof:geomhash":"a56b6ec39a2436a1575398b3711ab068",
     "wof:hierarchy":[
@@ -1269,7 +1268,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663966353,
+    "wof:lastmodified":1663968885,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

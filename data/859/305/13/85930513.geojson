@@ -79,6 +79,8 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
         "mz"
     ],
     "wof:geomhash":"d726d0cc3999b227ce9baa37f040f54b",
@@ -96,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663966353,
+    "wof:lastmodified":1663968885,
     "wof:name":"Al Rumailah",
     "wof:parent_id":1126024975,
     "wof:placetype":"neighbourhood",

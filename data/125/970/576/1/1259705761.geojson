@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0635\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
         "\u015e\u016br"
     ],
     "name:hun_x_preferred":[
@@ -39,7 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667959
+        85667959,
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833611,
             "locality_id":1259705761,
             "region_id":85667959
         }
     ],
     "wof:id":1259705761,
-    "wof:lastmodified":1636494751,
+    "wof:lastmodified":1663973670,
     "wof:name":"Sur",
-    "wof:parent_id":85667959,
+    "wof:parent_id":1376833611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

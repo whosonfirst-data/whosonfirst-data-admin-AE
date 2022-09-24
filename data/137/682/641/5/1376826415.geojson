@@ -3,15 +3,15 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-01-29",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002103,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.649429,24.425582,54.649429,24.425582",
-    "geom:latitude":24.425582,
-    "geom:longitude":54.649429,
+    "geom:bbox":"54.707168,24.414526,54.766199,24.461167",
+    "geom:latitude":24.43818,
+    "geom:longitude":54.734567,
     "iso:country":"AE",
-    "lbl:bbox":"54.644429,24.420582,54.654429,24.430582",
+    "lbl:latitude":24.438966,
+    "lbl:longitude":54.734005,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -41,11 +41,19 @@
     "qs:qs_id":21633,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55922613,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.438966,
+    "reversegeo:longitude":54.734005,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667981,
         102191569,
         85632573,
-        85667981
+        421179641,
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,20 +62,24 @@
     },
     "wof:country":"AE",
     "wof:created":1459009167,
-    "wof:geomhash":"f4b5bccf8674bfd9cac5e3208014f47e",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"6d50623d7ffb2f7514a1fb12014c4235",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
-            "locality_id":-1,
+            "county_id":421172075,
+            "locality_id":421179641,
             "neighbourhood_id":1376826415,
             "region_id":85667981
         }
     ],
     "wof:id":1376826415,
-    "wof:lastmodified":1601423083,
+    "wof:lastmodified":1663974535,
     "wof:name":"Al Fallah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -77,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.649429,
-    24.425582,
-    54.649429,
-    24.425582
+    54.707168,
+    24.414526,
+    54.766199,
+    24.461167
 ],
-  "geometry": {"coordinates":[54.649429,24.425582],"type":"Point"}
+  "geometry": {"coordinates":[[[54.71458,24.414526],[54.712572,24.425674],[54.710694,24.43836],[54.709984,24.442986],[54.708519,24.45242],[54.707168,24.461167],[54.708931,24.461087],[54.710465,24.461041],[54.717048,24.46095],[54.721479,24.460893],[54.726872,24.460858],[54.730124,24.460881],[54.736707,24.460904],[54.741047,24.460973],[54.744092,24.460961],[54.749992,24.460818],[54.749995,24.456241],[54.751604,24.450775],[54.754114,24.446743],[54.763758,24.435819],[54.76505,24.434016],[54.765951,24.431822],[54.766199,24.428875],[54.765162,24.425518],[54.763024,24.419312],[54.758137,24.419115],[54.750382,24.418884],[54.748263,24.418754],[54.746606,24.41861],[54.744256,24.418308],[54.733907,24.417025],[54.732221,24.416823],[54.718485,24.415021],[54.71458,24.414526]]],"type":"Polygon"}
 }

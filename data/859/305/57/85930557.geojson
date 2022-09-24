@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000149,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.289541,25.230055,55.289541,25.230055",
-    "geom:latitude":25.230055,
-    "geom:longitude":55.289541,
+    "geom:bbox":"55.278853,25.229882,55.295268,25.24655",
+    "geom:latitude":25.237619,
+    "geom:longitude":55.286865,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.284541,25.225055,55.294541,25.235055",
-    "lbl:latitude":25.230055,
-    "lbl:longitude":55.289541,
+    "lbl:latitude":25.237392,
+    "lbl:longitude":55.286741,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.234208,
     "mps:longitude":55.287705,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u062c\u0627\u0641\u0644\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Jafiliya"
-    ],
-    "name:eng_x_variant":[
         "Al Jafiliya"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.237392,
+    "reversegeo:longitude":55.286741,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -80,9 +79,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"8c3d3bb03f5bcf821f64285bddaa28c5",
+    "wof:geomhash":"e40f8b5058dbdede63dc5088d4cca735",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +97,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u062c\u0627\u0641\u0644\u064a\u0629",
+    "wof:lastmodified":1663974530,
+    "wof:name":"Al Jafiliya",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.289541,
-    25.230055,
-    55.289541,
-    25.230055
+    55.278853,
+    25.229882,
+    55.295268,
+    25.24655
 ],
-  "geometry": {"coordinates":[55.289541,25.230055],"type":"Point"}
+  "geometry": {"coordinates":[[[55.278853,25.23507],[55.279662,25.237013],[55.280126,25.238227],[55.280312,25.238745],[55.28041,25.238961],[55.281605,25.240948],[55.282701,25.242808],[55.28411,25.245235],[55.284551,25.246038],[55.284924,25.24655],[55.285168,25.246282],[55.28646,25.244804],[55.287272,25.244031],[55.288241,25.243414],[55.291227,25.241907],[55.293683,25.240586],[55.295268,25.239594],[55.293901,25.237116],[55.292038,25.233826],[55.290595,25.231279],[55.289527,25.229882],[55.284811,25.231762],[55.283868,25.232174],[55.283218,25.232503],[55.281959,25.233218],[55.279606,25.234573],[55.278853,25.23507]]],"type":"Polygon"}
 }

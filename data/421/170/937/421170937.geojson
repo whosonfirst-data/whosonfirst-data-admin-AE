@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u064a\u062d\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0644\u0627\u064a\u062d\u0629"
     ],
     "name:eng_x_preferred":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421170937,
-    "wof:lastmodified":1619191315,
+    "wof:lastmodified":1663974538,
     "wof:name":"Al Malayha",
     "wof:parent_id":1376826393,
     "wof:placetype":"locality",

@@ -1,0 +1,61 @@
+{
+  "id": 1796314921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:bbox":"55.397021,25.356689,55.408587,25.365941",
+    "geom:latitude":25.361547,
+    "geom:longitude":55.402845,
+    "iso:country":"AE",
+    "lbl:latitude":25.361503,
+    "lbl:longitude":55.402933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0633\u0644\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Maysaloon"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"1110e7d860d512fec4ec1763dc7ec9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314921,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314921,
+    "wof:lastmodified":1663974556,
+    "wof:name":"Maysaloon",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.397021,
+    25.356689,
+    55.408587,
+    25.365941
+],
+  "geometry": {"coordinates":[[[55.408587,25.362872],[55.407511,25.361453],[55.405842,25.359228],[55.404232,25.357047],[55.403933,25.356689],[55.402944,25.357206],[55.40181,25.357921],[55.399325,25.359835],[55.398718,25.360283],[55.398068,25.360601],[55.397021,25.360977],[55.397251,25.361319],[55.399317,25.363637],[55.401339,25.365941],[55.408587,25.362872]]],"type":"Polygon"}
+}

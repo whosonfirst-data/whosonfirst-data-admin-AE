@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000324,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.26947,25.164677,55.26947,25.164677",
-    "geom:latitude":25.164677,
-    "geom:longitude":55.26947,
+    "geom:bbox":"55.239669,25.158369,55.267352,25.18029",
+    "geom:latitude":25.168537,
+    "geom:longitude":55.253511,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.26447,25.159677,55.27447,25.169677",
-    "lbl:latitude":25.164677,
-    "lbl:longitude":55.26947,
+    "lbl:latitude":25.168284,
+    "lbl:longitude":55.253511,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.161459,
     "mps:longitude":55.27034,
@@ -51,12 +50,15 @@
         "Al Quoz"
     ],
     "qs:gn_id":0,
-    "src:geom":"mz",
+    "reversegeo:latitude":25.168284,
+    "reversegeo:longitude":55.253511,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -73,9 +75,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"f61a3603302b89d4b2b1621549a627e0",
+    "wof:geomhash":"e04c9024a9e17cd954dc7f68933ab1df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,8 +93,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0642\u0648\u0632 1",
+    "wof:lastmodified":1663974528,
+    "wof:name":"Al Quoz 1",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -100,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.26947,
-    25.164677,
-    55.26947,
-    25.164677
+    55.239669,
+    25.158369,
+    55.267352,
+    25.18029
 ],
-  "geometry": {"coordinates":[55.26947,25.164677],"type":"Point"}
+  "geometry": {"coordinates":[[[55.249577,25.18029],[55.250883,25.179386],[55.256896,25.175184],[55.26276,25.171249],[55.267352,25.168382],[55.265075,25.165955],[55.263753,25.164482],[55.263216,25.163724],[55.262562,25.162589],[55.262096,25.161462],[55.261863,25.160455],[55.261691,25.159426],[55.261663,25.158741],[55.259232,25.158597],[55.256861,25.158427],[55.255701,25.158369],[55.254958,25.158441],[55.25415,25.158656],[55.25359,25.158962],[55.252691,25.15962],[55.251479,25.160558],[55.249004,25.162473],[55.246674,25.164281],[55.244915,25.16561],[55.243339,25.166809],[55.241586,25.168164],[55.239669,25.169632],[55.243841,25.174137],[55.249115,25.179787],[55.249577,25.18029]]],"type":"Polygon"}
 }

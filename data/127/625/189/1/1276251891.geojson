@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u062f"
+    ],
     "name:nno_x_preferred":[
         "Mawrid"
     ],
@@ -36,7 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667959
+        85667959,
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
         "wk:page":"Mawrid"
     },
     "wof:country":"AE",
-    "wof:geomhash":"1cc7224b41582f1f02ad6c3c1e228b1d",
+    "wof:geomhash":"b806d3e4e1a56173bbfc46bfb03e8d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833611,
             "locality_id":1276251891,
             "region_id":85667959
         }
     ],
     "wof:id":1276251891,
-    "wof:lastmodified":1566581589,
+    "wof:lastmodified":1663973699,
     "wof:name":"Mawrid",
-    "wof:parent_id":85667959,
+    "wof:parent_id":1376833611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -64,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.11456999999999,
+    56.11457,
     25.42871,
-    56.11456999999999,
+    56.11457,
     25.42871
 ],
-  "geometry": {"coordinates":[56.11456999999999,25.42871],"type":"Point"}
+  "geometry": {"coordinates":[56.11457,25.42871],"type":"Point"}
 }

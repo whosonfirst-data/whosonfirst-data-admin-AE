@@ -70,7 +70,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667959
+        85667959,
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +84,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833611,
             "locality_id":1276335169,
             "region_id":85667959
         }
     ],
     "wof:id":1276335169,
-    "wof:lastmodified":1566581589,
+    "wof:lastmodified":1663973703,
     "wof:name":"Dibba Al-Fujairah",
-    "wof:parent_id":85667959,
+    "wof:parent_id":1376833611,
     "wof:placetype":"locality",
     "wof:population":30000,
     "wof:population_rank":7,

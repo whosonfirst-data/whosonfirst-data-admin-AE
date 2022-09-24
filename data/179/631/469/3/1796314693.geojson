@@ -1,0 +1,62 @@
+{
+  "id": 1796314693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002599,
+    "geom:bbox":"55.590932,24.229806,55.639635,24.301148",
+    "geom:latitude":24.267051,
+    "geom:longitude":55.615471,
+    "iso:country":"AE",
+    "lbl:latitude":24.267846,
+    "lbl:longitude":55.615007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ain International Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667981,
+        102191569,
+        85632573,
+        421168687,
+        421200931
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"f156dd96317b5be8a38307806c5442f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314693,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796314693,
+    "wof:lastmodified":1663974554,
+    "wof:name":"Al Ain International Airport",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:placetype_alt":"campus",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.590932,
+    24.229806,
+    55.639635,
+    24.301148
+],
+  "geometry": {"coordinates":[[[55.634329,24.25949],[55.634334,24.257978],[55.629719,24.257249],[55.630987,24.251635],[55.631446,24.248558],[55.631338,24.246372],[55.631014,24.244212],[55.630366,24.242242],[55.629503,24.240245],[55.626992,24.235845],[55.623513,24.229806],[55.62266,24.230899],[55.59818,24.233733],[55.590932,24.233244],[55.601929,24.301148],[55.639635,24.30108],[55.634329,24.25949]]],"type":"Polygon"}
+}

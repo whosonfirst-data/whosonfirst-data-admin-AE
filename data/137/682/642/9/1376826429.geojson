@@ -4,19 +4,23 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000117,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.328521,25.274503,55.328521,25.274503",
-    "geom:latitude":25.274503,
-    "geom:longitude":55.328521,
+    "geom:bbox":"55.321792,25.278652,55.338591,25.292438",
+    "geom:latitude":25.2855,
+    "geom:longitude":55.329251,
     "iso:country":"AE",
-    "lbl:bbox":"55.323521,25.269503,55.333521,25.279503",
+    "lbl:latitude":25.284956,
+    "lbl:longitude":55.329378,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0647\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0628\u0648 \u0647\u064a\u0644"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +44,19 @@
     "qs:qs_id":900256,
     "qs:woe_adm0":23424738,
     "qs:woe_id":1940040,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.284956,
+    "reversegeo:longitude":55.329378,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
-        1376833603,
         421174961,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +65,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459010046,
-    "wof:geomhash":"c52c8a4afa637f2a0bc8fee84d025483",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"7fa9e7b887b6ec46c6d744a9ef7c05b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1376826429,
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1663974533,
     "wof:name":"Abu Hail",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -79,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.328521,
-    25.274503,
-    55.328521,
-    25.274503
+    55.321792,
+    25.278652,
+    55.338591,
+    25.292438
 ],
-  "geometry": {"coordinates":[55.328521,25.274503],"type":"Point"}
+  "geometry": {"coordinates":[[[55.321792,25.288044],[55.32428,25.290299],[55.325343,25.291187],[55.32591,25.291507],[55.32626,25.291711],[55.326827,25.291959],[55.327768,25.292438],[55.329596,25.29083],[55.331792,25.289149],[55.335021,25.286574],[55.336139,25.285691],[55.337702,25.284516],[55.338591,25.28374],[55.335787,25.282493],[55.333171,25.281359],[55.330607,25.280246],[55.328697,25.279326],[55.327154,25.278652],[55.325428,25.281768],[55.3246,25.283392],[55.323415,25.285599],[55.322833,25.286743],[55.322117,25.287703],[55.321792,25.288044]]],"type":"Polygon"}
 }

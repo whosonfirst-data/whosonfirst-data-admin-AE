@@ -1,0 +1,61 @@
+{
+  "id": 1796314771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00027,
+    "geom:bbox":"55.954308,25.747694,55.975887,25.764942",
+    "geom:latitude":25.755792,
+    "geom:longitude":55.964388,
+    "iso:country":"AE",
+    "lbl:latitude":25.755922,
+    "lbl:longitude":55.964594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0631\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Tharfah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667951,
+        102191569,
+        85632573,
+        890455647,
+        1376833605
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a4176ef74816374354eac33d9de3b686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1796314771,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1796314771,
+    "wof:lastmodified":1663974546,
+    "wof:name":"Al Tharfah",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.954308,
+    25.747694,
+    55.975887,
+    25.764942
+],
+  "geometry": {"coordinates":[[[55.975887,25.748545],[55.961558,25.747694],[55.960573,25.749692],[55.960411,25.749813],[55.954414,25.750176],[55.954506,25.750563],[55.955005,25.752861],[55.955151,25.754463],[55.955234,25.756117],[55.955182,25.756803],[55.955057,25.757698],[55.954735,25.759456],[55.954308,25.761931],[55.954319,25.762285],[55.954878,25.76235],[55.959507,25.76312],[55.966376,25.764267],[55.970114,25.764942],[55.971437,25.760556],[55.973063,25.755124],[55.973798,25.752924],[55.974581,25.751277],[55.975391,25.749658],[55.975887,25.748545]]],"type":"Polygon"}
+}

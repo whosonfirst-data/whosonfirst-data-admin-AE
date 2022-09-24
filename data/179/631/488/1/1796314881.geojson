@@ -1,0 +1,61 @@
+{
+  "id": 1796314881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001348,
+    "geom:bbox":"54.385105,24.470867,54.426963,24.519963",
+    "geom:latitude":24.494975,
+    "geom:longitude":54.407483,
+    "iso:country":"AE",
+    "lbl:latitude":24.498515,
+    "lbl:longitude":54.405789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0631\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Reem Island"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667981,
+        102191569,
+        85632573,
+        421179641,
+        421172075
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"dbbe4e22cb58897b6e53eb71b7c2c6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":1796314881,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796314881,
+    "wof:lastmodified":1663974550,
+    "wof:name":"Al Reem Island",
+    "wof:parent_id":421179641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.385105,
+    24.470867,
+    54.426963,
+    24.519963
+],
+  "geometry": {"coordinates":[[[54.405531,24.519963],[54.422062,24.5064],[54.423408,24.502076],[54.422927,24.49756],[54.423984,24.493621],[54.426578,24.487279],[54.426963,24.479112],[54.426216,24.47092],[54.424354,24.471554],[54.419499,24.471371],[54.413133,24.470867],[54.411347,24.471829],[54.408691,24.474852],[54.399165,24.482821],[54.395364,24.485339],[54.392891,24.486347],[54.390418,24.488408],[54.38767,24.491614],[54.386525,24.494453],[54.385105,24.499216],[54.3857,24.503659],[54.386744,24.506007],[54.388082,24.509017],[54.390692,24.512452],[54.394081,24.513917],[54.400127,24.515841],[54.405531,24.519963]]],"type":"Polygon"}
+}

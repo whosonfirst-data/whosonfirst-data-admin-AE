@@ -23,22 +23,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.98581,25.71661,55.99581,25.72661",
+    "lbl:latitude":25.72161,
+    "lbl:longitude":55.99081,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Salihiyah"
+    ],
     "name:und_x_variant":[
         "A\u015f \u015e\u0101li\u1e29\u012byah",
         "\u015e\u0101li\u1e29\u012byah"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.72161,
+    "reversegeo:longitude":55.99081,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667951,
         102191569,
         85632573,
         890455647,
-        1376833605
+        1376833605,
+        85667951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +59,9 @@
         "wk:page":"Salihiyah_%28Ras_al-Khaimah%29"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"dc8edcbd901dd48556fdc580230f65bb",
     "wof:hierarchy":[
         {
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1376826497,
-    "wof:lastmodified":1566581595,
+    "wof:lastmodified":1663973871,
     "wof:name":"Salihiyah",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

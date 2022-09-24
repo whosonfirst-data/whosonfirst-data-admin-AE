@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0638\u0647\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
         "\u1e10\u0101hir"
     ],
     "src:geom":"geonames",
@@ -45,7 +48,7 @@
         "wk:page":"Dahir,_Fujairah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"9250d717031330476f1cf62daea33770",
+    "wof:geomhash":"0bd75381b18fba86b073c48afd20b421",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1210040735,
-    "wof:lastmodified":1566581591,
+    "wof:lastmodified":1663973588,
     "wof:name":"Dahir",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",
@@ -66,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.15499000000001,
+    56.15499,
     25.53342,
-    56.15499000000001,
+    56.15499,
     25.53342
 ],
-  "geometry": {"coordinates":[56.15499000000001,25.53342],"type":"Point"}
+  "geometry": {"coordinates":[56.15499,25.53342],"type":"Point"}
 }

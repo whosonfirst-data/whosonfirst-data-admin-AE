@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0627\u0639\u0641\u0629"
     ],
     "name:und_x_variant":[
@@ -40,7 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667955
+        85667955,
+        1376833609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833609,
             "locality_id":1343879485,
             "region_id":85667955
         }
     ],
     "wof:id":1343879485,
-    "wof:lastmodified":1566581576,
+    "wof:lastmodified":1663973836,
     "wof:name":"Ar Ra`fah",
-    "wof:parent_id":85667955,
+    "wof:parent_id":1376833609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

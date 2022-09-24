@@ -1,0 +1,18 @@
+{
+  "id": 85930521,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"mz",
+    "src:geom":"mz",
+    "wof:geomhash":"d597a440b2a1658a9dc2ebc0f4abecf2",
+    "wof:id":85930521,
+    "wof:repo":"whosonfirst-data-admin-ae"
+},
+  "bbox": [
+    55.204336,
+    25.103188,
+    55.204336,
+    25.103188
+],
+  "geometry": {"coordinates":[55.204336,25.103188],"type":"Point"}
+}

@@ -4,20 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000176,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.292,25.23812,55.292,25.23812",
-    "geom:latitude":25.23812,
-    "geom:longitude":55.292,
+    "geom:bbox":"55.284924,25.239594,55.304329,25.258199",
+    "geom:latitude":25.24903,
+    "geom:longitude":55.294929,
     "iso:country":"AE",
-    "lbl:bbox":"55.287,25.23312,55.297,25.24312",
+    "lbl:latitude":25.24865,
+    "lbl:longitude":55.294782,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062e\u0648\u0644"
+    ],
+    "name:ara_x_variant":[
         "\u0645\u0646\u062e\u0648\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mankhul"
+    ],
+    "name:eng_x_variant":[
+        "Mankhool"
     ],
     "name:und_x_variant":[
         "Mankh\u016bl"
@@ -40,7 +50,13 @@
     "qs:qs_id":1191395,
     "qs:woe_adm0":23424738,
     "qs:woe_id":22724556,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.24865,
+    "reversegeo:longitude":55.294782,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -56,7 +72,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459008856,
-    "wof:geomhash":"d5cfc0f8aa3666799846b4c149f3feb1",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"999b13981cea7e08abc8a3f8fca06df8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,8 +87,8 @@
         }
     ],
     "wof:id":421170515,
-    "wof:lastmodified":1566581604,
-    "wof:name":"\u0645\u0646\u062e\u0648\u0644",
+    "wof:lastmodified":1663974538,
+    "wof:name":"Al Mankhul",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -78,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.292,
-    25.23812,
-    55.292,
-    25.23812
+    55.284924,
+    25.239594,
+    55.304329,
+    25.258199
 ],
-  "geometry": {"coordinates":[55.292,25.23812],"type":"Point"}
+  "geometry": {"coordinates":[[[55.284924,25.24655],[55.285535,25.247212],[55.286318,25.247912],[55.287556,25.249038],[55.288912,25.250261],[55.290517,25.2517],[55.292391,25.253443],[55.294214,25.255112],[55.296294,25.25704],[55.2975,25.258199],[55.298587,25.257649],[55.304329,25.254777],[55.304119,25.254434],[55.302324,25.251444],[55.300806,25.248837],[55.299236,25.246238],[55.297733,25.243706],[55.296343,25.241361],[55.295268,25.239594],[55.293683,25.240586],[55.291227,25.241907],[55.288241,25.243414],[55.287272,25.244031],[55.28646,25.244804],[55.285168,25.246282],[55.284924,25.24655]]],"type":"Polygon"}
 }

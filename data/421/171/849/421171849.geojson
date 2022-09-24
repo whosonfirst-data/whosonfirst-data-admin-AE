@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000078,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.27805,25.24151,55.27805,25.24151",
-    "geom:latitude":25.24151,
-    "geom:longitude":55.27805,
+    "geom:bbox":"55.272669,25.23507,55.284924,25.249885",
+    "geom:latitude":25.242535,
+    "geom:longitude":55.27919,
     "iso:country":"AE",
-    "lbl:bbox":"55.27305,25.23651,55.28305,25.24651",
+    "lbl:latitude":25.242505,
+    "lbl:longitude":55.279283,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -19,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0636\u064a\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0647\u0636\u064a\u0628\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Hudaiba"
+    ],
+    "name:eng_x_variant":[
+        "Al Hudheiba"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062d\u0636\u06cc\u0628\u0629"
@@ -52,7 +59,13 @@
     "qs:qs_id":1269239,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872530,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.242505,
+    "reversegeo:longitude":55.279283,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -70,7 +83,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459008909,
-    "wof:geomhash":"823d0cc152604408c8bc1d2bdf085d53",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"a5156b17f8544baa7ee5c37633663b72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,8 +98,8 @@
         }
     ],
     "wof:id":421171849,
-    "wof:lastmodified":1566581605,
-    "wof:name":"\u0627\u0644\u0647\u0636\u064a\u0628\u0629",
+    "wof:lastmodified":1663974539,
+    "wof:name":"Al Hudaiba",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -92,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.27805,
-    25.24151,
-    55.27805,
-    25.24151
+    55.272669,
+    25.23507,
+    55.284924,
+    25.249885
 ],
-  "geometry": {"coordinates":[55.27805,25.24151],"type":"Point"}
+  "geometry": {"coordinates":[[[55.284924,25.24655],[55.284551,25.246038],[55.28411,25.245235],[55.282701,25.242808],[55.281605,25.240948],[55.28041,25.238961],[55.280312,25.238745],[55.280126,25.238227],[55.279662,25.237013],[55.278853,25.23507],[55.277596,25.2359],[55.27635,25.23678],[55.275352,25.237448],[55.274253,25.238052],[55.272669,25.238895],[55.273147,25.239577],[55.273881,25.240175],[55.274596,25.240664],[55.275262,25.241281],[55.275692,25.241897],[55.276192,25.242857],[55.277562,25.245421],[55.27857,25.247252],[55.2795,25.248681],[55.280381,25.249885],[55.281967,25.248935],[55.283357,25.248054],[55.284296,25.247242],[55.284924,25.24655]]],"type":"Polygon"}
 }

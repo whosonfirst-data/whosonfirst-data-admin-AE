@@ -1,0 +1,61 @@
+{
+  "id": 1796314805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:bbox":"55.529045,25.529536,55.542285,25.546462",
+    "geom:latitude":25.537832,
+    "geom:longitude":55.535843,
+    "iso:country":"AE",
+    "lbl:latitude":25.538142,
+    "lbl:longitude":55.535742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u064a\u062b\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Haditha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667955,
+        102191569,
+        85632573,
+        890455645,
+        1376833609
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"cd5161b0aa450cbbe4133a59574d820e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":890455645,
+            "neighbourhood_id":1796314805,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1796314805,
+    "wof:lastmodified":1663974552,
+    "wof:name":"Al Haditha",
+    "wof:parent_id":890455645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.529045,
+    25.529536,
+    55.542285,
+    25.546462
+],
+  "geometry": {"coordinates":[[[55.531879,25.532717],[55.529681,25.533508],[55.529045,25.533764],[55.534504,25.543461],[55.535899,25.546462],[55.53614,25.546369],[55.53769,25.545664],[55.537783,25.545849],[55.542285,25.54422],[55.540956,25.541024],[55.53882,25.535984],[55.538428,25.534977],[55.538128,25.53404],[55.537952,25.53301],[55.537936,25.532173],[55.538021,25.531389],[55.538336,25.530167],[55.535651,25.529536],[55.535036,25.529835],[55.531256,25.531241],[55.531879,25.532717]]],"type":"Polygon"}
+}

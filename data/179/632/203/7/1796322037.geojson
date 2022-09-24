@@ -1,0 +1,61 @@
+{
+  "id": 1796322037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:bbox":"55.390397,25.301987,55.411595,25.322305",
+    "geom:latitude":25.312134,
+    "geom:longitude":55.400999,
+    "iso:country":"AE",
+    "lbl:latitude":25.312159,
+    "lbl:longitude":55.400999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 2"
+    ],
+    "name:eng_x_preferred":[
+        "Industrial Area 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"9c22fc3141bffb13e6154f1247e33567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796322037,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796322037,
+    "wof:lastmodified":1663974541,
+    "wof:name":"Industrial Area 2",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.390397,
+    25.301987,
+    55.411595,
+    25.322305
+],
+  "geometry": {"coordinates":[[[55.398379,25.301987],[55.390397,25.308127],[55.399997,25.318518],[55.403555,25.322305],[55.411595,25.31609],[55.408111,25.312316],[55.402728,25.306547],[55.398379,25.301987]]],"type":"Polygon"}
+}

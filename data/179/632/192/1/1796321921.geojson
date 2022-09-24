@@ -1,0 +1,61 @@
+{
+  "id": 1796321921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:bbox":"55.215888,25.149384,55.234954,25.16964",
+    "geom:latitude":25.159586,
+    "geom:longitude":55.225395,
+    "iso:country":"AE",
+    "lbl:latitude":25.159443,
+    "lbl:longitude":55.225251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627 2"
+    ],
+    "name:eng_x_preferred":[
+        "Al Safa 2"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667983,
+        102191569,
+        85632573,
+        421174961,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a0eb7de73cc856c62896e74097f2a675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796321921,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1796321921,
+    "wof:lastmodified":1663974540,
+    "wof:name":"Al Safa 2",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.215888,
+    25.149384,
+    55.234954,
+    25.16964
+],
+  "geometry": {"coordinates":[[[55.227686,25.16964],[55.231149,25.167425],[55.232088,25.166786],[55.233325,25.165796],[55.234954,25.164522],[55.232887,25.162266],[55.23173,25.160989],[55.230257,25.159216],[55.230164,25.159085],[55.22889,25.157307],[55.227402,25.154948],[55.22392,25.149384],[55.215888,25.154725],[55.220828,25.160893],[55.223623,25.164447],[55.225704,25.167084],[55.227686,25.16964]]],"type":"Polygon"}
+}

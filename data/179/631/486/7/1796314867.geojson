@@ -1,0 +1,61 @@
+{
+  "id": 1796314867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:bbox":"55.405111,25.337878,55.421075,25.352894",
+    "geom:latitude":25.34532,
+    "geom:longitude":55.41315,
+    "iso:country":"AE",
+    "lbl:latitude":25.345436,
+    "lbl:longitude":55.41315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0628\u064a\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ghubaiba"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"ff78e24769d9972263236d3f1a169c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314867,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314867,
+    "wof:lastmodified":1663974551,
+    "wof:name":"Al Ghubaiba",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.405111,
+    25.337878,
+    55.421075,
+    25.352894
+],
+  "geometry": {"coordinates":[[[55.421075,25.346142],[55.415042,25.337878],[55.414949,25.337934],[55.405111,25.343553],[55.409221,25.349797],[55.410738,25.352025],[55.411106,25.352581],[55.411391,25.352894],[55.415252,25.35074],[55.415848,25.350393],[55.416303,25.350075],[55.416877,25.349602],[55.419225,25.347652],[55.421075,25.346142]]],"type":"Polygon"}
+}

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-09-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -13,7 +14,7 @@
     "lbl:bbox":"54.36209,24.45535,54.37209,24.46535",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -42,11 +43,11 @@
     "qs:woe_id":55872585,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85667981,
         102191569,
         85632573,
         421179641,
-        421172075
+        421172075,
+        85667981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":421183221,
-    "wof:lastmodified":1566581604,
+    "wof:lastmodified":1663973461,
     "wof:name":"\u0627\u0644\u0631\u0648\u0636\u0629",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",

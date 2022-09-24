@@ -23,21 +23,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"56.05917,25.90639,56.06917,25.91639",
+    "lbl:latitude":25.91139,
+    "lbl:longitude":56.06417,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Qurm"
+    ],
     "name:nno_x_preferred":[
         "Qurm"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.91139,
+    "reversegeo:longitude":56.06417,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667951,
         102191569,
         85632573,
         890455647,
-        1376833605
+        1376833605,
+        85667951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +58,9 @@
         "wk:page":"Qurm"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"c441c84eabeee8f50ec6cb76c52fa969",
     "wof:hierarchy":[
         {
@@ -57,7 +73,7 @@
         }
     ],
     "wof:id":1376826473,
-    "wof:lastmodified":1566581596,
+    "wof:lastmodified":1663973866,
     "wof:name":"Qurm",
     "wof:parent_id":890455647,
     "wof:placetype":"neighbourhood",

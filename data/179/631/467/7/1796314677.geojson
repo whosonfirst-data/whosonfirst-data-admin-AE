@@ -1,0 +1,61 @@
+{
+  "id": 1796314677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:bbox":"55.745351,24.204995,55.760115,24.220747",
+    "geom:latitude":24.213876,
+    "geom:longitude":55.752212,
+    "iso:country":"AE",
+    "lbl:latitude":24.213741,
+    "lbl:longitude":55.751614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0647\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jahili"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667981,
+        102191569,
+        85632573,
+        421168687,
+        421200931
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a2d80c5c4f97db3841bc2b9cee5dd5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314677,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796314677,
+    "wof:lastmodified":1663974553,
+    "wof:name":"Al Jahili",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.745351,
+    24.204995,
+    55.760115,
+    24.220747
+],
+  "geometry": {"coordinates":[[[55.760115,24.211793],[55.758313,24.210989],[55.756953,24.210344],[55.755139,24.20928],[55.753256,24.207955],[55.752244,24.207362],[55.751355,24.206769],[55.750431,24.206089],[55.75003,24.205618],[55.749599,24.205119],[55.748178,24.204995],[55.747065,24.204995],[55.74668,24.207865],[55.746357,24.210875],[55.7461,24.212778],[55.74552,24.218108],[55.745351,24.220215],[55.749238,24.219762],[55.750817,24.219627],[55.751447,24.219671],[55.755995,24.220379],[55.758533,24.220747],[55.759282,24.217758],[55.759707,24.215774],[55.75993,24.213547],[55.760115,24.211793]]],"type":"Polygon"}
+}

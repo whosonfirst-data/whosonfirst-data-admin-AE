@@ -1,0 +1,61 @@
+{
+  "id": 1796314645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"56.344921,25.152,56.353331,25.16035",
+    "geom:latitude":25.154935,
+    "geom:longitude":56.349041,
+    "iso:country":"AE",
+    "lbl:latitude":25.154861,
+    "lbl:longitude":56.349121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Sharia"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667959,
+        102191569,
+        85632573,
+        421168685,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"b74e6f16243c3bf399c7c40ae3f100d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314645,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1796314645,
+    "wof:lastmodified":1663974548,
+    "wof:name":"Al Sharia",
+    "wof:parent_id":421168685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.344921,
+    25.152,
+    56.353331,
+    25.16035
+],
+  "geometry": {"coordinates":[[[56.353331,25.152056],[56.344957,25.152],[56.344931,25.154446],[56.344921,25.154918],[56.347682,25.157377],[56.35103,25.16035],[56.351254,25.158474],[56.351594,25.1568],[56.352109,25.155013],[56.352675,25.153513],[56.353331,25.152056]]],"type":"Polygon"}
+}

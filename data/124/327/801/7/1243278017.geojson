@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u064a\u0641"
+    ],
     "name:und_x_variant":[
         "\u1e28af\u012bf"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243278017,
-    "wof:lastmodified":1566581608,
+    "wof:lastmodified":1663973649,
     "wof:name":"Hafif",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

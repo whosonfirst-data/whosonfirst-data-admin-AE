@@ -1,0 +1,68 @@
+{
+  "id": 1796329103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001052,
+    "geom:bbox":"51.73797,24.041431,51.779511,24.089367",
+    "geom:latitude":24.066257,
+    "geom:longitude":51.759717,
+    "iso:country":"AE",
+    "lbl:latitude":24.066591,
+    "lbl:longitude":51.760032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0671\u0644\u0640\u0633\u0650\u0651\u0640\u0644\u064e\u0640\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "As-Sila"
+    ],
+    "name:eng_x_variant":[
+        "As Sila",
+        "Al Sila"
+    ],
+    "reversegeo:latitude":24.066591,
+    "reversegeo:longitude":51.760032,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        85667981,
+        1376826403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q766444"
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"8732f539ea90bf5fce10eee30fc91895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376826403,
+            "locality_id":1796329103,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796329103,
+    "wof:lastmodified":1663974544,
+    "wof:name":"As-Sila",
+    "wof:parent_id":1376826403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.73797,
+    24.041431,
+    51.779511,
+    24.089367
+],
+  "geometry": {"coordinates":[[[51.775952,24.073662],[51.777114,24.057545],[51.779293,24.057611],[51.779511,24.054693],[51.777259,24.048524],[51.776315,24.048524],[51.774862,24.05184],[51.765682,24.052437],[51.764732,24.041431],[51.756369,24.042347],[51.756703,24.045402],[51.761119,24.044852],[51.761788,24.052428],[51.747738,24.053345],[51.748407,24.06092],[51.73797,24.061531],[51.739107,24.075826],[51.742133,24.075736],[51.742348,24.078879],[51.752548,24.078172],[51.752677,24.079469],[51.756895,24.079154],[51.757024,24.084184],[51.759864,24.084066],[51.76026,24.089367],[51.768666,24.088707],[51.767671,24.077128],[51.775952,24.073662]]],"type":"Polygon"}
+}

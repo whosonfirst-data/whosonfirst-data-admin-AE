@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-09-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "lbl:bbox":"55.67833,24.07833,55.68833,24.08833",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Ayn al Faidah",
@@ -34,18 +35,18 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85667981,
         102191569,
         85632573,
         421168687,
-        421200931
+        421200931,
+        85667981
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":292617
     },
     "wof:country":"AE",
-    "wof:geomhash":"d09a44d9717cd0de9b7e5686fce063c8",
+    "wof:geomhash":"265b119ea22ea962d78ab9b4ae26fb84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1376826529,
-    "wof:lastmodified":1566581597,
+    "wof:lastmodified":1663973436,
     "wof:name":"`Ayn al Faydah",
     "wof:parent_id":421168687,
     "wof:placetype":"neighbourhood",
@@ -69,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.68333000000001,
+    55.68333,
     24.08333,
-    55.68333000000001,
+    55.68333,
     24.08333
 ],
-  "geometry": {"coordinates":[55.68333000000001,24.08333],"type":"Point"}
+  "geometry": {"coordinates":[55.68333,24.08333],"type":"Point"}
 }

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0642\u062f\u0641\u0639"
+    ],
     "name:und_x_variant":[
         "Qidfi\u2018",
         "Qidfa\u2018",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209507603,
-    "wof:lastmodified":1566581591,
+    "wof:lastmodified":1663973576,
     "wof:name":"Qidfa`",
     "wof:parent_id":1376833611,
     "wof:placetype":"locality",

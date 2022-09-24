@@ -1,0 +1,61 @@
+{
+  "id": 1796314535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:bbox":"55.369675,25.081302,55.393601,25.103846",
+    "geom:latitude":25.092546,
+    "geom:longitude":55.381071,
+    "iso:country":"AE",
+    "lbl:latitude":25.092452,
+    "lbl:longitude":55.381071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0645\u0639 \u062f\u0628\u064a \u0631\u064a\u0632\u064a\u062f\u0646\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Dubai Residence Complex"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667983,
+        102191569,
+        85632573,
+        421174961,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"1303c6fa6a0d64ade2d1a9006c963002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796314535,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1796314535,
+    "wof:lastmodified":1663974549,
+    "wof:name":"Dubai Residence Complex",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.369675,
+    25.081302,
+    55.393601,
+    25.103846
+],
+  "geometry": {"coordinates":[[[55.377142,25.08874],[55.372909,25.093803],[55.369675,25.0981],[55.371108,25.098935],[55.378554,25.103846],[55.380749,25.101256],[55.382639,25.098961],[55.384953,25.096183],[55.386437,25.094352],[55.388022,25.092412],[55.389771,25.090271],[55.393601,25.0883],[55.384625,25.082155],[55.383358,25.081302],[55.377142,25.08874]]],"type":"Polygon"}
+}

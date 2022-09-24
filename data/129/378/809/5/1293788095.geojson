@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u064a\u0642 \u0637\u0631\u064a\u0641"
+    ],
     "name:und_x_variant":[
         "Far\u012bq \u0162ar\u012bf"
     ],
@@ -36,26 +39,28 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        421172075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":292182
     },
     "wof:country":"AE",
-    "wof:geomhash":"622eb19ab18af9b2bfa113d184ce4a93",
+    "wof:geomhash":"3b62673d1df62ce58454cd0b46efbeda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":421172075,
             "locality_id":1293788095,
             "region_id":85667981
         }
     ],
     "wof:id":1293788095,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1663973758,
     "wof:name":"Fariq Tarif",
-    "wof:parent_id":85667981,
+    "wof:parent_id":421172075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -63,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.78333000000001,
+    53.78333,
     24.05,
-    53.78333000000001,
+    53.78333,
     24.05
 ],
-  "geometry": {"coordinates":[53.78333000000001,24.05],"type":"Point"}
+  "geometry": {"coordinates":[53.78333,24.05],"type":"Point"}
 }

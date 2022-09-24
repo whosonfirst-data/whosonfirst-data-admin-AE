@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000125,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.353105,24.485712,54.353105,24.485712",
-    "geom:latitude":24.485712,
-    "geom:longitude":54.353105,
+    "geom:bbox":"54.341011,24.476312,54.357016,24.493776",
+    "geom:latitude":24.484842,
+    "geom:longitude":54.349253,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"54.348105,24.480712,54.358105,24.490712",
-    "lbl:latitude":24.485712,
-    "lbl:longitude":54.353105,
+    "lbl:latitude":24.484778,
+    "lbl:longitude":54.349374,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.492904,
     "mps:longitude":54.342666,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u063a\u0631\u0628"
     ],
     "name:eng_x_preferred":[
-        "Al Markaziyah West"
-    ],
-    "name:eng_x_variant":[
         "Al Markaziyah West"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.484778,
+    "reversegeo:longitude":54.349374,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -80,9 +79,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"e818ae0d692c8833883784353f132b1b",
+    "wof:geomhash":"2725fec87ee30d2a46712efe4269bc30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +97,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u063a\u0631\u0628",
+    "wof:lastmodified":1663974530,
+    "wof:name":"Al Markaziyah West",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.353105,
-    24.485712,
-    54.353105,
-    24.485712
+    54.341011,
+    24.476312,
+    54.357016,
+    24.493776
 ],
-  "geometry": {"coordinates":[54.353105,24.485712],"type":"Point"}
+  "geometry": {"coordinates":[[[54.341011,24.481052],[54.342404,24.482259],[54.346526,24.487938],[54.349732,24.493251],[54.350325,24.493776],[54.352809,24.491209],[54.355202,24.488404],[54.355665,24.487548],[54.356816,24.485986],[54.357016,24.48535],[54.35574,24.484454],[54.353393,24.482771],[54.351864,24.481655],[54.351315,24.48118],[54.350507,24.480315],[54.349122,24.478804],[54.348681,24.478266],[54.347994,24.477298],[54.347273,24.476312],[54.345835,24.477815],[54.345508,24.478176],[54.344901,24.478582],[54.341011,24.481052]]],"type":"Polygon"}
 }

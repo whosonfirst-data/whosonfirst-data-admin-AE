@@ -1,0 +1,61 @@
+{
+  "id": 1796314791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:bbox":"55.994197,25.821399,56.009402,25.834094",
+    "geom:latitude":25.828589,
+    "geom:longitude":56.002707,
+    "iso:country":"AE",
+    "lbl:latitude":25.831171,
+    "lbl:longitude":56.005357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0639\u0645\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Ammar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667951,
+        102191569,
+        85632573,
+        890455647,
+        1376833605
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c90d9daf9f3c1a3887375b45853e2571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833605,
+            "locality_id":890455647,
+            "neighbourhood_id":1796314791,
+            "region_id":85667951
+        }
+    ],
+    "wof:id":1796314791,
+    "wof:lastmodified":1663974547,
+    "wof:name":"Wadi Ammar",
+    "wof:parent_id":890455647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.994197,
+    25.821399,
+    56.009402,
+    25.834094
+],
+  "geometry": {"coordinates":[[[55.994197,25.82227],[55.996385,25.823674],[55.996668,25.823984],[55.997188,25.824504],[55.998591,25.826218],[56.000845,25.828957],[56.003031,25.831683],[56.005046,25.834094],[56.006604,25.833083],[56.009402,25.831179],[56.007404,25.829832],[56.004755,25.828043],[56.00178,25.826014],[55.999133,25.824241],[55.997453,25.823107],[55.99597,25.822108],[55.995253,25.821625],[55.994922,25.821399],[55.994276,25.822179],[55.994197,25.82227]]],"type":"Polygon"}
+}

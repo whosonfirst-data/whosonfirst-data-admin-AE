@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000376,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.317053,24.460817,54.317053,24.460817",
-    "geom:latitude":24.460817,
-    "geom:longitude":54.317053,
+    "geom:bbox":"54.299262,24.449089,54.324257,24.470309",
+    "geom:latitude":24.46071,
+    "geom:longitude":54.310992,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"54.312053,24.455817,54.322053,24.465817",
-    "lbl:latitude":24.460817,
-    "lbl:longitude":54.317053,
+    "lbl:latitude":24.460155,
+    "lbl:longitude":54.309504,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.456059,
     "mps:longitude":54.309463,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,15 +26,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0631\u0627\u0633 \u0627\u0644\u0627\u062e\u0636\u0631"
+        "\u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062e\u0636\u0631"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0631\u0627\u0633 \u0627\u0644\u0623\u062e\u0636\u0631"
+        "\u0627\u0644\u0631\u0627\u0633 \u0627\u0644\u0623\u062e\u0636\u0631",
+        "\u0627\u0644\u0631\u0627\u0633 \u0627\u0644\u0627\u062e\u0636\u0631"
     ],
     "name:eng_x_preferred":[
-        "Al Ras Al Akhdar"
-    ],
-    "name:eng_x_variant":[
         "Al Ras Al Akhdar"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -62,12 +59,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.460155,
+    "reversegeo:longitude":54.309504,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -82,10 +82,11 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"3b9d2544118befa555fc79fe556cdf25",
+    "wof:geomhash":"cfbd9eb60271480a650df2355b4fa4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,8 +101,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0631\u0627\u0633 \u0627\u0644\u0627\u062e\u0636\u0631",
+    "wof:lastmodified":1663974530,
+    "wof:name":"Al Ras Al Akhdar",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -110,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.317053,
-    24.460817,
-    54.317053,
-    24.460817
+    54.299262,
+    24.449089,
+    54.324257,
+    24.470309
 ],
-  "geometry": {"coordinates":[54.317053,24.460817],"type":"Point"}
+  "geometry": {"coordinates":[[[54.323057,24.46514],[54.323172,24.464521],[54.323332,24.464149],[54.323618,24.463686],[54.324257,24.462948],[54.324222,24.462924],[54.322906,24.461848],[54.32174,24.460849],[54.321222,24.460405],[54.319574,24.459031],[54.317972,24.457626],[54.318257,24.456037],[54.31765,24.454371],[54.314857,24.449089],[54.310254,24.449377],[54.308422,24.449926],[54.304483,24.451575],[54.301186,24.454781],[54.299262,24.458994],[54.299812,24.466963],[54.312452,24.469986],[54.32227,24.470309],[54.322682,24.46771],[54.323057,24.46514]]],"type":"Polygon"}
 }

@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001143,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.381018,24.49552,54.381018,24.49552",
-    "geom:latitude":24.49552,
-    "geom:longitude":54.381018,
+    "geom:bbox":"54.358159,24.506007,54.405531,24.544665",
+    "geom:latitude":24.52538,
+    "geom:longitude":54.379341,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"54.376018,24.49052,54.386018,24.50052",
-    "lbl:latitude":24.49552,
-    "lbl:longitude":54.381018,
+    "lbl:latitude":24.527953,
+    "lbl:longitude":54.378889,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.494346,
     "mps:longitude":54.38932,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0645\u064a\u0646\u0627"
     ],
     "name:eng_x_preferred":[
-        "Al Meena"
-    ],
-    "name:eng_x_variant":[
         "Al Meena"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +55,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.527953,
+    "reversegeo:longitude":54.378889,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -80,9 +79,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"a31120a46d9d8c36c47d53746dfdb1ae",
+    "wof:geomhash":"25d05c9ba7c4dfc55e9d9a51ba6e1c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +97,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0645\u064a\u0646\u0627",
+    "wof:lastmodified":1663974529,
+    "wof:name":"Al Meena",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.381018,
-    24.49552,
-    54.381018,
-    24.49552
+    54.358159,
+    24.506007,
+    54.405531,
+    24.544665
 ],
-  "geometry": {"coordinates":[54.381018,24.49552],"type":"Point"}
+  "geometry": {"coordinates":[[[54.386744,24.506007],[54.383093,24.509414],[54.379538,24.511939],[54.379125,24.512133],[54.378358,24.512362],[54.377774,24.5125],[54.376091,24.51258],[54.368784,24.507357],[54.358159,24.516516],[54.360906,24.524668],[54.359785,24.531077],[54.362302,24.537045],[54.374546,24.543205],[54.387326,24.544665],[54.39344,24.532878],[54.403241,24.522527],[54.405531,24.519963],[54.400127,24.515841],[54.394081,24.513917],[54.390692,24.512452],[54.388082,24.509017],[54.386744,24.506007]]],"type":"Polygon"}
 }

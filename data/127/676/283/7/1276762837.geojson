@@ -53,7 +53,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667959
+        85667959,
+        1376833611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,19 +62,20 @@
         "wk:page":"Dadna"
     },
     "wof:country":"AE",
-    "wof:geomhash":"d8114f1bb8a55b619ec78097e395f743",
+    "wof:geomhash":"1288af458e2436827ffcb594d23d96b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833611,
             "locality_id":1276762837,
             "region_id":85667959
         }
     ],
     "wof:id":1276762837,
-    "wof:lastmodified":1566581589,
+    "wof:lastmodified":1663973716,
     "wof:name":"Dadna",
-    "wof:parent_id":85667959,
+    "wof:parent_id":1376833611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.35868000000001,
+    56.35868,
     25.52422,
-    56.35868000000001,
+    56.35868,
     25.52422
 ],
-  "geometry": {"coordinates":[56.35868000000001,25.52422],"type":"Point"}
+  "geometry": {"coordinates":[56.35868,25.52422],"type":"Point"}
 }

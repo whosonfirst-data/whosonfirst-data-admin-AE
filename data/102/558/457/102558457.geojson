@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u062d\u0645\u0631\u0627"
+    ],
     "name:eng_x_preferred":[
         "Al Hamra Aux Airport"
     ],
@@ -36,7 +39,9 @@
         "state_id":2347109
     },
     "wof:belongsto":[
+        102191569,
         85632573,
+        1376826403,
         85667981
     ],
     "wof:breaches":[],
@@ -51,14 +56,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102558457,
+            "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826403,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85667981
         }
     ],
     "wof:id":102558457,
-    "wof:lastmodified":1631743682,
+    "wof:lastmodified":1663973549,
     "wof:name":"Al Hamra aux Airport",
-    "wof:parent_id":85667981,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

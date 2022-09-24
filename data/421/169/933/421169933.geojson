@@ -4,24 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000185,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.31109,25.28226,55.31109,25.28226",
-    "geom:latitude":25.28226,
-    "geom:longitude":55.31109,
+    "geom:bbox":"55.293828,25.272577,55.327768,25.295721",
+    "geom:latitude":25.283532,
+    "geom:longitude":55.310576,
     "iso:country":"AE",
-    "lbl:bbox":"55.30609,25.27726,55.31609,25.28726",
+    "lbl:latitude":25.283224,
+    "lbl:longitude":55.310824,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u0643\u0648\u0631\u0646\u064a\u0634"
+        "\u0643\u0648\u0631\u0646\u064a\u0634 \u062f\u064a\u0631\u0629"
     ],
     "name:ara_x_variant":[
         "K\u016brn\u012bsh",
-        "\u062f\u064a\u0631\u0629"
+        "\u062f\u064a\u0631\u0629",
+        "\u0643\u0648\u0631\u0646\u064a\u0634"
     ],
     "name:cat_x_preferred":[
         "Deira"
@@ -33,7 +35,11 @@
         "Dubai/Deira"
     ],
     "name:eng_x_preferred":[
-        "Deira"
+        "Corniche Deira"
+    ],
+    "name:eng_x_variant":[
+        "Deira",
+        "Corniche"
     ],
     "name:epo_x_preferred":[
         "Dejra"
@@ -110,7 +116,13 @@
     "qs:qs_id":502227,
     "qs:woe_adm0":23424738,
     "qs:woe_id":22724588,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.283224,
+    "reversegeo:longitude":55.310824,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":213,
     "wof:belongsto":[
         85667983,
@@ -128,7 +140,10 @@
     },
     "wof:country":"AE",
     "wof:created":1459008830,
-    "wof:geomhash":"fceef77d97b3815d958dfe2e56c45457",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"91a01c7035677f0b3717028f55c73e22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,8 +155,8 @@
         }
     ],
     "wof:id":421169933,
-    "wof:lastmodified":1566581600,
-    "wof:name":"Corniche",
+    "wof:lastmodified":1663974537,
+    "wof:name":"Corniche Deira",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -150,10 +165,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.31109,
-    25.28226,
-    55.31109,
-    25.28226
+    55.293828,
+    25.272577,
+    55.327768,
+    25.295721
 ],
-  "geometry": {"coordinates":[55.31109,25.28226],"type":"Point"}
+  "geometry": {"coordinates":[[[55.310142,25.279828],[55.309701,25.279557],[55.306544,25.277729],[55.304871,25.276837],[55.303118,25.275858],[55.302163,25.275357],[55.301567,25.275129],[55.301209,25.274991],[55.299207,25.274251],[55.297398,25.273529],[55.294912,25.272577],[55.294612,25.27438],[55.293828,25.27691],[55.305502,25.282902],[55.306915,25.283791],[55.314007,25.288251],[55.317781,25.291011],[55.322722,25.294623],[55.323866,25.295721],[55.325846,25.294099],[55.327634,25.292556],[55.327768,25.292438],[55.326827,25.291959],[55.32626,25.291711],[55.32591,25.291507],[55.325343,25.291187],[55.32428,25.290299],[55.321792,25.288044],[55.320619,25.286944],[55.319614,25.285925],[55.318828,25.285139],[55.318232,25.284709],[55.316405,25.283341],[55.31484,25.282431],[55.314367,25.282067],[55.314039,25.281827],[55.312594,25.281012],[55.312201,25.280844],[55.311517,25.280575],[55.310142,25.279828]]],"type":"Polygon"}
 }

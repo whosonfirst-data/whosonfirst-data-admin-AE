@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000084,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.303239,25.257205,55.303239,25.257205",
-    "geom:latitude":25.257205,
-    "geom:longitude":55.303239,
+    "geom:bbox":"55.2975,25.254777,55.311215,25.266316",
+    "geom:latitude":25.260807,
+    "geom:longitude":55.304049,
     "gn:latitude":25.28868,
     "gn:longitude":55.33409,
     "iso:country":"AE",
-    "lbl:bbox":"55.298239,25.252205,55.308239,25.262205",
-    "lbl:latitude":25.257205,
-    "lbl:longitude":55.303239,
+    "lbl:latitude":25.261035,
+    "lbl:longitude":55.304049,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.257117,
     "mps:longitude":55.301779,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0627\u0644\u062d\u0645\u0631\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Hamriya"
-    ],
-    "name:eng_x_variant":[
         "Al Hamriya"
     ],
     "name:und_x_variant":[
@@ -64,12 +60,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.261035,
+    "reversegeo:longitude":55.304049,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -85,10 +84,11 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"ce5a100347b2050f2e8593ea4f6037d3",
+    "wof:geomhash":"9112a6c39d4f281c47d24e4e5d247e22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,8 +103,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u062d\u0645\u0631\u064a\u0629",
+    "wof:lastmodified":1663974528,
+    "wof:name":"Al Hamriya",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -113,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.303239,
-    25.257205,
-    55.303239,
-    25.257205
+    55.2975,
+    25.254777,
+    55.311215,
+    25.266316
 ],
-  "geometry": {"coordinates":[55.303239,25.257205],"type":"Point"}
+  "geometry": {"coordinates":[[[55.2975,25.258199],[55.298238,25.259152],[55.298938,25.260132],[55.299689,25.261181],[55.300101,25.261776],[55.300303,25.262128],[55.300362,25.262508],[55.30044,25.26292],[55.300852,25.263374],[55.301493,25.264353],[55.301292,25.264596],[55.300971,25.264953],[55.301018,25.266316],[55.302876,25.266206],[55.303446,25.266061],[55.306062,25.265394],[55.308436,25.263892],[55.3106,25.261878],[55.311215,25.261133],[55.309108,25.259957],[55.307958,25.259175],[55.306967,25.258364],[55.306268,25.257522],[55.305321,25.256403],[55.304329,25.254777],[55.298587,25.257649],[55.2975,25.258199]]],"type":"Polygon"}
 }

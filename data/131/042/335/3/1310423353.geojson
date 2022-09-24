@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u0627\u062d\u0629"
+    ],
     "name:und_x_variant":[
         "Istaihah",
         "Isteiha",
@@ -38,26 +41,28 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        1376826403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":291835
     },
     "wof:country":"AE",
-    "wof:geomhash":"4713521374f58611b4f91c69770ca219",
+    "wof:geomhash":"776ae6be8607598c0261dc38809ffb4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826403,
             "locality_id":1310423353,
             "region_id":85667981
         }
     ],
     "wof:id":1310423353,
-    "wof:lastmodified":1566581593,
+    "wof:lastmodified":1663973788,
     "wof:name":"Istayhah",
-    "wof:parent_id":85667981,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -65,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.06718000000001,
+    54.06718,
     23.3161,
-    54.06718000000001,
+    54.06718,
     23.3161
 ],
-  "geometry": {"coordinates":[54.06718000000001,23.3161],"type":"Point"}
+  "geometry": {"coordinates":[54.06718,23.3161],"type":"Point"}
 }

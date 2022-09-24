@@ -1,0 +1,61 @@
+{
+  "id": 1796314711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000709,
+    "geom:bbox":"55.457592,25.3646,55.496088,25.39645",
+    "geom:latitude":25.381018,
+    "geom:longitude":55.479205,
+    "iso:country":"AE",
+    "lbl:latitude":25.380924,
+    "lbl:longitude":55.479205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "New Industrial"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667969,
+        102191569,
+        85632573,
+        1126024975,
+        1376833607
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"86f66a6ae1d929624a65197630193068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833607,
+            "locality_id":1126024975,
+            "neighbourhood_id":1796314711,
+            "region_id":85667969
+        }
+    ],
+    "wof:id":1796314711,
+    "wof:lastmodified":1663974545,
+    "wof:name":"New Industrial",
+    "wof:parent_id":1126024975,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.457592,
+    25.3646,
+    55.496088,
+    25.39645
+],
+  "geometry": {"coordinates":[[[55.480422,25.3646],[55.477989,25.365733],[55.457592,25.375795],[55.461762,25.380272],[55.464448,25.383293],[55.467107,25.386028],[55.469598,25.388673],[55.471143,25.390378],[55.471984,25.391437],[55.47312,25.391446],[55.474017,25.391717],[55.474971,25.392142],[55.477275,25.39272],[55.482995,25.394091],[55.486788,25.394919],[55.490463,25.395719],[55.493883,25.39645],[55.494166,25.3943],[55.495387,25.385337],[55.495791,25.382657],[55.496088,25.381429],[55.495047,25.380324],[55.490981,25.376063],[55.489811,25.374683],[55.484827,25.369512],[55.480589,25.364787],[55.480422,25.3646]]],"type":"Polygon"}
+}

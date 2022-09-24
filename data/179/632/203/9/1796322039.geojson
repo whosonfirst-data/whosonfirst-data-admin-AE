@@ -1,0 +1,61 @@
+{
+  "id": 1796322039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000226,
+    "geom:bbox":"55.398379,25.294768,55.420918,25.31609",
+    "geom:latitude":25.30546,
+    "geom:longitude":55.409665,
+    "iso:country":"AE",
+    "lbl:latitude":25.305449,
+    "lbl:longitude":55.409665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 3"
+    ],
+    "name:eng_x_preferred":[
+        "Industrial Area 3"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"d4257e9da4bb78e56dbc447326330202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796322039,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796322039,
+    "wof:lastmodified":1663974541,
+    "wof:name":"Industrial Area 3",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.398379,
+    25.294768,
+    55.420918,
+    25.31609
+],
+  "geometry": {"coordinates":[[[55.407694,25.294768],[55.407058,25.295267],[55.40167,25.299505],[55.398379,25.301987],[55.402728,25.306547],[55.408111,25.312316],[55.411595,25.31609],[55.420918,25.309066],[55.407694,25.294768]]],"type":"Polygon"}
+}

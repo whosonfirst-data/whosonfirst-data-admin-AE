@@ -1,0 +1,61 @@
+{
+  "id": 1796322021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:bbox":"55.427503,25.281513,55.447229,25.296556",
+    "geom:latitude":25.288483,
+    "geom:longitude":55.437751,
+    "iso:country":"AE",
+    "lbl:latitude":25.288767,
+    "lbl:longitude":55.437901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 15"
+    ],
+    "name:eng_x_preferred":[
+        "Industrial Area 15"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"a6749729ce5bbbfadd5b9dc746768c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796322021,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796322021,
+    "wof:lastmodified":1663974541,
+    "wof:name":"Industrial Area 15",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.427503,
+    25.281513,
+    55.447229,
+    25.296556
+],
+  "geometry": {"coordinates":[[[55.447229,25.288689],[55.446555,25.287783],[55.445387,25.28656],[55.440629,25.281513],[55.427503,25.286463],[55.429794,25.289033],[55.437037,25.296556],[55.447229,25.288689]]],"type":"Polygon"}
+}

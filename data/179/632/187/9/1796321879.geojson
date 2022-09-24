@@ -1,0 +1,61 @@
+{
+  "id": 1796321879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:bbox":"55.402094,25.373281,55.418711,25.386798",
+    "geom:latitude":25.380264,
+    "geom:longitude":55.410452,
+    "iso:country":"AE",
+    "lbl:latitude":25.380426,
+    "lbl:longitude":55.410326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0642\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sharqan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"fe9de16acf200af81add3bfd54912f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796321879,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796321879,
+    "wof:lastmodified":1663974541,
+    "wof:name":"Sharqan",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.402094,
+    25.373281,
+    55.418711,
+    25.386798
+],
+  "geometry": {"coordinates":[[[55.418711,25.381424],[55.415796,25.379836],[55.414609,25.37917],[55.41406,25.378823],[55.41268,25.3778],[55.410993,25.376431],[55.409864,25.375408],[55.408871,25.374405],[55.407876,25.373281],[55.402569,25.376433],[55.402094,25.376716],[55.402722,25.377448],[55.406196,25.381473],[55.407605,25.383098],[55.40799,25.383498],[55.408371,25.383879],[55.408834,25.384251],[55.409312,25.384559],[55.409895,25.384858],[55.410754,25.385191],[55.412172,25.385683],[55.415302,25.386798],[55.416602,25.384761],[55.418711,25.381424]]],"type":"Polygon"}
+}

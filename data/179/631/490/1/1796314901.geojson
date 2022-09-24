@@ -1,0 +1,61 @@
+{
+  "id": 1796314901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000876,
+    "geom:bbox":"54.634967,24.447021,54.678771,24.490326",
+    "geom:latitude":24.469811,
+    "geom:longitude":54.658924,
+    "iso:country":"AE",
+    "lbl:latitude":24.469953,
+    "lbl:longitude":54.658592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Reef"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667981,
+        102191569,
+        85632573,
+        421179641,
+        421172075
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"0ab069fd8bf212f29612669a0309e541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":421179641,
+            "neighbourhood_id":1796314901,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796314901,
+    "wof:lastmodified":1663974548,
+    "wof:name":"Al Reef",
+    "wof:parent_id":421179641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.634967,
+    24.447021,
+    54.678771,
+    24.490326
+],
+  "geometry": {"coordinates":[[[54.678635,24.447021],[54.667525,24.454385],[54.650844,24.462671],[54.634967,24.473279],[54.643941,24.484936],[54.648061,24.490326],[54.676513,24.470738],[54.677302,24.464403],[54.677719,24.461268],[54.678245,24.457015],[54.678639,24.45353],[54.678771,24.45011],[54.678635,24.447021]]],"type":"Polygon"}
+}

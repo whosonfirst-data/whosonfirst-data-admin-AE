@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0627\u064a"
+    ],
     "name:und_x_variant":[
         "Al Fiyy\u00e1",
         "Al Fuyay\u2019",
@@ -36,9 +39,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191569,
-        85632573,
-        85667981
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +50,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632573,
+            "country_id":-1,
             "locality_id":1310222635,
-            "region_id":85667981
+            "region_id":-1
         }
     ],
     "wof:id":1310222635,
-    "wof:lastmodified":1566581593,
+    "wof:lastmodified":1663973783,
     "wof:name":"Al Fiyay",
-    "wof:parent_id":85667981,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

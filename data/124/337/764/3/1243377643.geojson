@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648 \u062d\u0635\u0627"
+    ],
     "name:und_x_variant":[
         "B\u016b \u1e28a\u015f\u0101"
     ],
@@ -36,26 +39,28 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        1376826403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":416468
     },
     "wof:country":"AE",
-    "wof:geomhash":"e9545ab8de25146d4c6f5c260cb5a0d9",
+    "wof:geomhash":"d336b509e25861ce52afa5bfadc14bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826403,
             "locality_id":1243377643,
             "region_id":85667981
         }
     ],
     "wof:id":1243377643,
-    "wof:lastmodified":1566581606,
+    "wof:lastmodified":1663973656,
     "wof:name":"Bu Hasa",
-    "wof:parent_id":85667981,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -63,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.31388000000001,
+    53.31388,
     23.55386,
-    53.31388000000001,
+    53.31388,
     23.55386
 ],
-  "geometry": {"coordinates":[53.31388000000001,23.55386],"type":"Point"}
+  "geometry": {"coordinates":[53.31388,23.55386],"type":"Point"}
 }

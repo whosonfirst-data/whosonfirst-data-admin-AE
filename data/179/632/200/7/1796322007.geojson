@@ -1,0 +1,61 @@
+{
+  "id": 1796322007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:bbox":"55.380623,25.292063,55.396622,25.302234",
+    "geom:latitude":25.297724,
+    "geom:longitude":55.389737,
+    "iso:country":"AE",
+    "lbl:latitude":25.297797,
+    "lbl:longitude":55.389858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0635 \u0645\u0646\u0637\u0642\u0629 \u0635\u0646\u0627\u0639\u064a\u0629 3"
+    ],
+    "name:eng_x_preferred":[
+        "Al Quasis Industrial Area 3"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667983,
+        102191569,
+        85632573,
+        421174961,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"7f2a668968cb96df27ab7903e92fc745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796322007,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1796322007,
+    "wof:lastmodified":1663974543,
+    "wof:name":"Al Quasis Industrial Area 3",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.380623,
+    25.292063,
+    55.396622,
+    25.302234
+],
+  "geometry": {"coordinates":[[[55.380623,25.29951],[55.385845,25.302234],[55.386618,25.301884],[55.396622,25.298111],[55.396305,25.296657],[55.395945,25.294804],[55.395812,25.293937],[55.395538,25.29315],[55.394798,25.292063],[55.389461,25.295163],[55.388427,25.295752],[55.387384,25.29638],[55.386173,25.297041],[55.385342,25.297486],[55.384492,25.297813],[55.383524,25.298081],[55.382294,25.298284],[55.381183,25.298323],[55.380848,25.299033],[55.380623,25.29951]]],"type":"Polygon"}
+}

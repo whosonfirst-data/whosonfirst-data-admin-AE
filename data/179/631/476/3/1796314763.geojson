@@ -1,0 +1,61 @@
+{
+  "id": 1796314763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:bbox":"55.376489,25.347077,55.384768,25.357881",
+    "geom:latitude":25.352238,
+    "geom:longitude":55.380066,
+    "iso:country":"AE",
+    "lbl:latitude":25.351958,
+    "lbl:longitude":55.380129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jubail"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"dcb483ba7c0fc79fecb68a73d8aa3d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314763,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314763,
+    "wof:lastmodified":1663974545,
+    "wof:name":"Al Jubail",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.376489,
+    25.347077,
+    55.384768,
+    25.357881
+],
+  "geometry": {"coordinates":[[[55.376946,25.34943],[55.376518,25.352565],[55.376489,25.353172],[55.377934,25.357216],[55.378468,25.357881],[55.379234,25.357014],[55.380021,25.356429],[55.382311,25.354717],[55.383993,25.353489],[55.384239,25.353258],[55.38442,25.353049],[55.384768,25.352457],[55.384581,25.352188],[55.382484,25.34923],[55.380965,25.347077],[55.376946,25.34943]]],"type":"Polygon"}
+}

@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
         "Al Q\u012br"
     ],
     "name:fas_x_preferred":[
@@ -45,7 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632573,
-        85667951
+        85667951,
+        1376833605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +62,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833605,
             "locality_id":1309802765,
             "region_id":85667951
         }
     ],
     "wof:id":1309802765,
-    "wof:lastmodified":1566581598,
+    "wof:lastmodified":1663973766,
     "wof:name":"Al Qir",
-    "wof:parent_id":85667951,
+    "wof:parent_id":1376833605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

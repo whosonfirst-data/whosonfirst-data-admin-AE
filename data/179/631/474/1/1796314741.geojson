@@ -1,0 +1,61 @@
+{
+  "id": 1796314741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:bbox":"55.386573,25.336758,55.398647,25.352133",
+    "geom:latitude":25.344956,
+    "geom:longitude":55.392192,
+    "iso:country":"AE",
+    "lbl:latitude":25.345089,
+    "lbl:longitude":55.391781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0633\u0645\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qasimia"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8da4131f0ef72569680df96e14343e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314741,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314741,
+    "wof:lastmodified":1663974552,
+    "wof:name":"Al Qasimia",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.386573,
+    25.336758,
+    55.398647,
+    25.352133
+],
+  "geometry": {"coordinates":[[[55.391279,25.352133],[55.397712,25.348638],[55.398368,25.348359],[55.398647,25.347211],[55.396901,25.344597],[55.396115,25.34342],[55.395479,25.342586],[55.394509,25.341086],[55.39368,25.339823],[55.393034,25.338921],[55.392156,25.338043],[55.391437,25.337518],[55.390037,25.336758],[55.389518,25.337695],[55.388548,25.340167],[55.387522,25.343436],[55.387156,25.344654],[55.386955,25.345185],[55.386573,25.345897],[55.387167,25.346465],[55.387442,25.346749],[55.387644,25.346968],[55.388367,25.347911],[55.389264,25.349111],[55.390693,25.35118],[55.391279,25.352133]]],"type":"Polygon"}
+}

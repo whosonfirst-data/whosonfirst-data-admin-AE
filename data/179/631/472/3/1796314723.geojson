@@ -1,0 +1,61 @@
+{
+  "id": 1796314723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000241,
+    "geom:bbox":"55.541736,25.553428,55.564699,25.578511",
+    "geom:latitude":25.567114,
+    "geom:longitude":55.553398,
+    "iso:country":"AE",
+    "lbl:latitude":25.570879,
+    "lbl:longitude":55.556094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0623\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Raas"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667955,
+        102191569,
+        85632573,
+        890455645,
+        1376833609
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"e85dced76b9653a4d7781c9c6b52d5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":890455645,
+            "neighbourhood_id":1796314723,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1796314723,
+    "wof:lastmodified":1663974551,
+    "wof:name":"Al Raas",
+    "wof:parent_id":890455645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.541736,
+    25.553428,
+    55.564699,
+    25.578511
+],
+  "geometry": {"coordinates":[[[55.553687,25.578511],[55.554159,25.578275],[55.55936,25.575624],[55.560659,25.574963],[55.564699,25.57291],[55.564577,25.572159],[55.564085,25.569839],[55.563886,25.569217],[55.56364,25.568702],[55.563348,25.568195],[55.562518,25.566835],[55.559898,25.562548],[55.556422,25.564307],[55.55341,25.565805],[55.55258,25.564153],[55.551036,25.560742],[55.54953,25.557408],[55.547671,25.553428],[55.545996,25.554565],[55.54323,25.556563],[55.542938,25.556109],[55.541736,25.556677],[55.541892,25.557146],[55.542206,25.558056],[55.543078,25.559678],[55.544392,25.562223],[55.552103,25.576124],[55.553687,25.578511]]],"type":"Polygon"}
+}

@@ -4,17 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000068,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.318238,25.272312,55.318238,25.272312",
-    "geom:latitude":25.272312,
-    "geom:longitude":55.318238,
+    "geom:bbox":"55.303386,25.261133,55.316447,25.27006",
+    "geom:latitude":25.26657,
+    "geom:longitude":55.310337,
     "gn:latitude":25.26797,
     "gn:longitude":55.31272,
     "iso:country":"AE",
-    "lbl:bbox":"55.313238,25.267312,55.323238,25.277312",
-    "lbl:latitude":25.272312,
-    "lbl:longitude":55.318238,
+    "lbl:latitude":25.266276,
+    "lbl:longitude":55.310782,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.272867,
     "mps:longitude":55.317974,
@@ -76,12 +75,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.266276,
+    "reversegeo:longitude":55.310782,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -100,9 +102,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"fb871cf58fbb1416c045ea153ecb1dfb",
+    "wof:geomhash":"ee6ae66f978998936d213e43eb63d77e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,8 +120,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0631\u0642\u0629",
+    "wof:lastmodified":1663974528,
+    "wof:name":"Al Rigga",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -127,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.318238,
-    25.272312,
-    55.318238,
-    25.272312
+    55.303386,
+    25.261133,
+    55.316447,
+    25.27006
 ],
-  "geometry": {"coordinates":[55.318238,25.272312],"type":"Point"}
+  "geometry": {"coordinates":[[[55.303446,25.266061],[55.303436,25.267621],[55.303419,25.268493],[55.303386,25.268908],[55.303715,25.268928],[55.304698,25.268938],[55.305426,25.268955],[55.30593,25.268989],[55.306671,25.269057],[55.307675,25.269241],[55.308448,25.269415],[55.308863,25.2695],[55.309404,25.269575],[55.309989,25.269639],[55.310533,25.269707],[55.310778,25.269707],[55.311438,25.269677],[55.312126,25.269673],[55.312854,25.269728],[55.313636,25.269799],[55.314562,25.269888],[55.315617,25.269983],[55.316447,25.27006],[55.316187,25.268538],[55.316161,25.268007],[55.315993,25.267261],[55.315886,25.267046],[55.31514,25.26582],[55.314367,25.264579],[55.31373,25.263634],[55.313159,25.262873],[55.311215,25.261133],[55.3106,25.261878],[55.308436,25.263892],[55.306062,25.265394],[55.303446,25.266061]]],"type":"Polygon"}
 }

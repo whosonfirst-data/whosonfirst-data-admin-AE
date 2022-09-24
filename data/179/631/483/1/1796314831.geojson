@@ -1,0 +1,61 @@
+{
+  "id": 1796314831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000137,
+    "geom:bbox":"55.538336,25.521993,55.556921,25.533994",
+    "geom:latitude":25.52816,
+    "geom:longitude":55.548314,
+    "iso:country":"AE",
+    "lbl:latitude":25.528028,
+    "lbl:longitude":55.548314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0633\u0643\u0631 \u0627\u0644\u062f\u0641\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Defence Camp"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667955,
+        102191569,
+        85632573,
+        890455645,
+        1376833609
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8c592b755a390152504f29ce41890895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":890455645,
+            "neighbourhood_id":1796314831,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1796314831,
+    "wof:lastmodified":1663974546,
+    "wof:name":"Defence Camp",
+    "wof:parent_id":890455645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.538336,
+    25.521993,
+    55.556921,
+    25.533994
+],
+  "geometry": {"coordinates":[[[55.556921,25.525604],[55.552342,25.524832],[55.547722,25.52353],[55.542446,25.521993],[55.54197,25.523391],[55.541616,25.524421],[55.541286,25.525281],[55.54071,25.526303],[55.539649,25.527909],[55.538827,25.529176],[55.538336,25.530167],[55.555753,25.533994],[55.556583,25.528016],[55.556921,25.525604]]],"type":"Polygon"}
+}

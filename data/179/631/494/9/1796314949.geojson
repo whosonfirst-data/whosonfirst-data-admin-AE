@@ -1,0 +1,61 @@
+{
+  "id": 1796314949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:bbox":"55.427957,25.350384,55.441582,25.365097",
+    "geom:latitude":25.357424,
+    "geom:longitude":55.434842,
+    "iso:country":"AE",
+    "lbl:latitude":25.357285,
+    "lbl:longitude":55.434842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0644\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Al Falaj"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"67a28a6fc6a3b18c5f5ad095bad06f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314949,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314949,
+    "wof:lastmodified":1663974553,
+    "wof:name":"Al Falaj",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.427957,
+    25.350384,
+    55.441582,
+    25.365097
+],
+  "geometry": {"coordinates":[[[55.435995,25.350384],[55.434359,25.351232],[55.433678,25.351668],[55.431518,25.353225],[55.429876,25.354435],[55.427957,25.355809],[55.433271,25.363294],[55.434281,25.364734],[55.434571,25.365097],[55.439952,25.359728],[55.440521,25.359209],[55.44099,25.358829],[55.441582,25.358405],[55.440778,25.357361],[55.43955,25.355631],[55.438412,25.353934],[55.437139,25.35212],[55.435995,25.350384]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1796314547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000525,
+    "geom:bbox":"55.220449,24.97877,55.259906,25.011177",
+    "geom:latitude":24.994287,
+    "geom:longitude":55.241334,
+    "iso:country":"AE",
+    "lbl:latitude":24.992419,
+    "lbl:longitude":55.23969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0631\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Remraam"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667983,
+        102191569,
+        85632573,
+        421174961,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"75af04eea82eb09fce0af934988a5b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796314547,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1796314547,
+    "wof:lastmodified":1663974549,
+    "wof:name":"Remraam",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.220449,
+    24.97877,
+    55.259906,
+    25.011177
+],
+  "geometry": {"coordinates":[[[55.220449,24.987868],[55.235523,24.998871],[55.251698,25.011177],[55.255065,25.007545],[55.259906,25.002397],[55.256386,24.999107],[55.251044,24.99407],[55.247705,24.990425],[55.244532,24.98614],[55.242529,24.982494],[55.240911,24.97877],[55.235656,24.980664],[55.230373,24.983014],[55.220449,24.987868]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1796321875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:bbox":"55.462574,25.343121,55.479631,25.359917",
+    "geom:latitude":25.351509,
+    "geom:longitude":55.471183,
+    "iso:country":"AE",
+    "lbl:latitude":25.351571,
+    "lbl:longitude":55.471184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0627\u0641\u062c\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Muwafjah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c5094d81052fc033895e41813eff4cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796321875,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796321875,
+    "wof:lastmodified":1663974541,
+    "wof:name":"Muwafjah",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.462574,
+    25.343121,
+    55.479631,
+    25.359917
+],
+  "geometry": {"coordinates":[[[55.471543,25.343121],[55.462574,25.348638],[55.470997,25.359917],[55.474223,25.357886],[55.479631,25.354575],[55.479414,25.354269],[55.477293,25.351098],[55.476076,25.349335],[55.474954,25.3478],[55.471996,25.343742],[55.471543,25.343121]]],"type":"Polygon"}
+}

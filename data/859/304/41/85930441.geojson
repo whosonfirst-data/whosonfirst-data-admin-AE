@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000031,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.385389,25.359356,55.385389,25.359356",
-    "geom:latitude":25.359356,
-    "geom:longitude":55.385389,
+    "geom:bbox":"55.3826,25.357544,55.391009,25.364873",
+    "geom:latitude":25.361218,
+    "geom:longitude":55.387213,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.380389,25.354356,55.390389,25.364356",
-    "lbl:latitude":25.359356,
-    "lbl:longitude":55.385389,
+    "lbl:latitude":25.361122,
+    "lbl:longitude":55.387277,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.363371,
     "mps:longitude":55.386114,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,10 +26,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u064a\u0647\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0634\u0648\u064a\u062d\u064a\u064a\u0646"
     ],
     "name:eng_x_preferred":[
-        "Al Shuwaiheyen"
+        "Al Shuwayheen"
     ],
     "name:eng_x_variant":[
         "Al Shuwaiheyen"
@@ -59,12 +61,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940119,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.361122,
+    "reversegeo:longitude":55.387277,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -80,9 +85,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"6e126c8ea5268af4f548921eb33c8da2",
+    "wof:geomhash":"c7f68389764b38c22726c98f9b0eab0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +103,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313357,
-    "wof:name":"\u0627\u0644\u0634\u0648\u064a\u062d\u064a\u064a\u0646",
+    "wof:lastmodified":1663974530,
+    "wof:name":"Al Shuwayheen",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.385389,
-    25.359356,
-    55.385389,
-    25.359356
+    55.3826,
+    25.357544,
+    55.391009,
+    25.364873
 ],
-  "geometry": {"coordinates":[55.385389,25.359356],"type":"Point"}
+  "geometry": {"coordinates":[[[55.388268,25.357544],[55.387005,25.358308],[55.3826,25.360784],[55.384969,25.362633],[55.387265,25.364873],[55.38832,25.364064],[55.391009,25.36233],[55.390815,25.36201],[55.390684,25.361753],[55.39051,25.36139],[55.389855,25.360043],[55.389729,25.359786],[55.389574,25.359524],[55.389361,25.359151],[55.388721,25.35823],[55.388268,25.357544]]],"type":"Polygon"}
 }

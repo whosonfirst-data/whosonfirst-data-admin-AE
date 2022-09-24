@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000684,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.47499,24.413126,54.47499,24.413126",
-    "geom:latitude":24.413126,
-    "geom:longitude":54.47499,
+    "geom:bbox":"54.486145,24.390144,54.538546,24.420736",
+    "geom:latitude":24.404461,
+    "geom:longitude":54.508746,
     "gn:latitude":24.40618,
     "gn:longitude":54.48137,
     "iso:country":"AE",
-    "lbl:bbox":"54.46999,24.408126,54.47999,24.418126",
-    "lbl:latitude":24.413126,
-    "lbl:longitude":54.47499,
+    "lbl:latitude":24.40462,
+    "lbl:longitude":54.508746,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.409893,
     "mps:longitude":54.476341,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -28,12 +27,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064e\u0642\u0637\u064e\u0639"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0642\u0637\u0639"
     ],
     "name:eng_x_preferred":[
-        "Al Maqtaa"
-    ],
-    "name:eng_x_variant":[
         "Al Maqtaa"
     ],
     "name:und_x_variant":[
@@ -64,12 +63,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.40462,
+    "reversegeo:longitude":54.508746,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -85,10 +87,11 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"55accbce5263243e86bde53b9650f605",
+    "wof:geomhash":"7e79887945e93265487e76dd0e08fbda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,8 +106,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0645\u0642\u0637\u0639",
+    "wof:lastmodified":1663974529,
+    "wof:name":"Al Maqtaa",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -113,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.47499,
-    24.413126,
-    54.47499,
-    24.413126
+    54.486145,
+    24.390144,
+    54.538546,
+    24.420736
 ],
-  "geometry": {"coordinates":[54.47499,24.413126],"type":"Point"}
+  "geometry": {"coordinates":[[[54.48615,24.420414],[54.488826,24.420684],[54.489439,24.420736],[54.489977,24.42065],[54.490503,24.420495],[54.491105,24.420249],[54.494041,24.418904],[54.507764,24.412807],[54.514885,24.409635],[54.519511,24.40754],[54.522671,24.406166],[54.525007,24.405021],[54.526083,24.404357],[54.527113,24.403372],[54.529369,24.400853],[54.533376,24.396354],[54.538546,24.390504],[54.535706,24.390144],[54.534149,24.390144],[54.531814,24.390634],[54.528442,24.391498],[54.523922,24.392715],[54.51495,24.395131],[54.496962,24.400175],[54.486145,24.403217],[54.486256,24.40338],[54.487795,24.405653],[54.489294,24.409573],[54.488833,24.412686],[54.48615,24.420414]]],"type":"Polygon"}
 }

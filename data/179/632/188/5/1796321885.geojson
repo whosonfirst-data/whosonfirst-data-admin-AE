@@ -1,0 +1,61 @@
+{
+  "id": 1796321885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:bbox":"55.414472,25.364693,55.427714,25.376559",
+    "geom:latitude":25.370598,
+    "geom:longitude":55.421117,
+    "iso:country":"AE",
+    "lbl:latitude":25.370598,
+    "lbl:longitude":55.421117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0627\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hazana"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"c2e6d62c954495a26250e59b3f182d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796321885,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796321885,
+    "wof:lastmodified":1663974542,
+    "wof:name":"Al Hazana",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.414472,
+    25.364693,
+    55.427714,
+    25.376559
+],
+  "geometry": {"coordinates":[[[55.422963,25.376559],[55.427714,25.371876],[55.419516,25.364693],[55.414472,25.368926],[55.415412,25.369813],[55.416963,25.371374],[55.418252,25.37259],[55.419183,25.373516],[55.419687,25.373937],[55.420394,25.374529],[55.422963,25.376559]]],"type":"Polygon"}
+}

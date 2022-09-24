@@ -1,0 +1,61 @@
+{
+  "id": 1796314657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:bbox":"56.334577,25.121989,56.343666,25.135935",
+    "geom:latitude":25.128089,
+    "geom:longitude":56.33791,
+    "iso:country":"AE",
+    "lbl:latitude":25.128071,
+    "lbl:longitude":56.337997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mahatta"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667959,
+        102191569,
+        85632573,
+        421168685,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"8b49649f59a52ada5e098772b6c583be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314657,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1796314657,
+    "wof:lastmodified":1663974549,
+    "wof:name":"Al Mahatta",
+    "wof:parent_id":421168685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.334577,
+    25.121989,
+    56.343666,
+    25.135935
+],
+  "geometry": {"coordinates":[[[56.343666,25.126933],[56.34072,25.126073],[56.340644,25.121989],[56.339957,25.121992],[56.337036,25.122048],[56.334577,25.122083],[56.334668,25.128346],[56.334782,25.135935],[56.336482,25.134976],[56.338261,25.133961],[56.339603,25.132836],[56.343666,25.126933]]],"type":"Polygon"}
+}

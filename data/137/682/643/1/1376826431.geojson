@@ -3,15 +3,15 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-01-29",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.643936,24.429489,54.643936,24.429489",
-    "geom:latitude":24.429489,
-    "geom:longitude":54.643936,
+    "geom:bbox":"54.686809,24.554814,54.686809,24.554814",
+    "geom:latitude":24.554814,
+    "geom:longitude":54.686809,
     "iso:country":"AE",
-    "lbl:bbox":"54.638936,24.424489,54.648936,24.434489",
+    "lbl:latitude":24.554814,
+    "lbl:longitude":54.686809,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -41,10 +41,17 @@
     "qs:qs_id":230849,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55922637,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.554814,
+    "reversegeo:longitude":54.686809,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85632573,
+        421172075,
         85667981
     ],
     "wof:breaches":[],
@@ -54,18 +61,22 @@
     },
     "wof:country":"AE",
     "wof:created":1459010146,
-    "wof:geomhash":"f89e8080850fe2e4b57a6230c1076363",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"8dfdb59be8b691143da428b84794e6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":421172075,
             "locality_id":-1,
             "neighbourhood_id":1376826431,
             "region_id":85667981
         }
     ],
     "wof:id":1376826431,
-    "wof:lastmodified":1601423086,
+    "wof:lastmodified":1663973861,
     "wof:name":"Al Shahama Al Jadeeda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -77,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.643936,
-    24.429489,
-    54.643936,
-    24.429489
+    54.686809,
+    24.554814,
+    54.686809,
+    24.554814
 ],
-  "geometry": {"coordinates":[54.643936,24.429489],"type":"Point"}
+  "geometry": {"coordinates":[54.686809,24.554814],"type":"Point"}
 }

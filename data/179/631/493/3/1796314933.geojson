@@ -1,0 +1,61 @@
+{
+  "id": 1796314933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000633,
+    "geom:bbox":"55.484781,25.260272,55.522952,25.290478",
+    "geom:latitude":25.274897,
+    "geom:longitude":55.503889,
+    "iso:country":"AE",
+    "lbl:latitude":25.275333,
+    "lbl:longitude":55.503889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Al Noaf"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"1187040a9d4320acb646f552f97ec621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314933,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314933,
+    "wof:lastmodified":1663974553,
+    "wof:name":"Al Noaf",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.484781,
+    25.260272,
+    55.522952,
+    25.290478
+],
+  "geometry": {"coordinates":[[[55.484781,25.269458],[55.485741,25.271468],[55.49123,25.279268],[55.499038,25.290478],[55.500497,25.289799],[55.503978,25.288109],[55.509511,25.285408],[55.522952,25.278777],[55.510052,25.260272],[55.484781,25.269458]]],"type":"Polygon"}
+}

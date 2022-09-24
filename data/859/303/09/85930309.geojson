@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000209,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.341484,24.473472,54.341484,24.473472",
-    "geom:latitude":24.473472,
-    "geom:longitude":54.341484,
+    "geom:bbox":"54.335626,24.456494,54.361294,24.481052",
+    "geom:latitude":24.468998,
+    "geom:longitude":54.349006,
     "gn:latitude":24.46769,
     "gn:longitude":54.34959,
     "iso:country":"AE",
-    "lbl:bbox":"54.336484,24.468472,54.346484,24.478472",
-    "lbl:latitude":24.473472,
-    "lbl:longitude":54.341484,
+    "lbl:latitude":24.468862,
+    "lbl:longitude":54.349002,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.474113,
     "mps:longitude":54.343039,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,9 +30,6 @@
         "\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Khalidiyah"
-    ],
-    "name:eng_x_variant":[
         "Al Khalidiyah"
     ],
     "name:und_x_variant":[
@@ -64,12 +60,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940330,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.468862,
+    "reversegeo:longitude":54.349002,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667981,
         102191569,
@@ -85,10 +84,11 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"8579d4e3ccb353439f90a83552afcfbf",
+    "wof:geomhash":"369268a59eb0b5725e62927b42a3b73b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,8 +103,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629",
+    "wof:lastmodified":1663974529,
+    "wof:name":"Al Khalidiyah",
     "wof:parent_id":421179641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -113,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.341484,
-    24.473472,
-    54.341484,
-    24.473472
+    54.335626,
+    24.456494,
+    54.361294,
+    24.481052
 ],
-  "geometry": {"coordinates":[54.341484,24.473472],"type":"Point"}
+  "geometry": {"coordinates":[[[54.347273,24.476312],[54.34801,24.475542],[54.34943,24.474042],[54.350827,24.472611],[54.351952,24.471455],[54.352292,24.471106],[54.353889,24.469451],[54.355475,24.467797],[54.357248,24.4659],[54.358874,24.464194],[54.361294,24.461777],[54.361264,24.461751],[54.358276,24.459077],[54.357125,24.458058],[54.355614,24.456615],[54.355473,24.456494],[54.354317,24.457726],[54.350676,24.461453],[54.349337,24.46289],[54.348197,24.464046],[54.345372,24.466963],[54.344127,24.46826],[54.343829,24.468643],[54.343704,24.468858],[54.34342,24.469542],[54.343331,24.46978],[54.343188,24.470172],[54.343014,24.470572],[54.342725,24.471088],[54.342038,24.471878],[54.340927,24.472977],[54.339932,24.474187],[54.335626,24.47942],[54.339656,24.479878],[54.341011,24.481052],[54.344901,24.478582],[54.345508,24.478176],[54.345835,24.477815],[54.347273,24.476312]]],"type":"Polygon"}
 }

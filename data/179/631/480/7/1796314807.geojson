@@ -1,0 +1,61 @@
+{
+  "id": 1796314807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000213,
+    "geom:bbox":"55.520564,25.513957,55.542446,25.533764",
+    "geom:latitude":25.523896,
+    "geom:longitude":55.530913,
+    "iso:country":"AE",
+    "lbl:latitude":25.525024,
+    "lbl:longitude":55.530769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Madar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667955,
+        102191569,
+        85632573,
+        890455645,
+        1376833609
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"5c7c5d772bad9a6079960859ab46a8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833609,
+            "locality_id":890455645,
+            "neighbourhood_id":1796314807,
+            "region_id":85667955
+        }
+    ],
+    "wof:id":1796314807,
+    "wof:lastmodified":1663974552,
+    "wof:name":"Al Madar",
+    "wof:parent_id":890455645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.520564,
+    25.513957,
+    55.542446,
+    25.533764
+],
+  "geometry": {"coordinates":[[[55.524882,25.513957],[55.520706,25.518144],[55.520564,25.518286],[55.522888,25.522528],[55.52613,25.528774],[55.526618,25.529222],[55.529045,25.533764],[55.529681,25.533508],[55.531879,25.532717],[55.531256,25.531241],[55.535036,25.529835],[55.535651,25.529536],[55.538336,25.530167],[55.538827,25.529176],[55.539649,25.527909],[55.54071,25.526303],[55.541286,25.525281],[55.541616,25.524421],[55.54197,25.523391],[55.542446,25.521993],[55.532063,25.519294],[55.530834,25.518956],[55.529236,25.517758],[55.524882,25.513957]]],"type":"Polygon"}
+}

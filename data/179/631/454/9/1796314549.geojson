@@ -1,0 +1,61 @@
+{
+  "id": 1796314549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"55.277121,25.022015,55.28517,25.031136",
+    "geom:latitude":25.026089,
+    "geom:longitude":55.281752,
+    "iso:country":"AE",
+    "lbl:latitude":25.025894,
+    "lbl:longitude":55.281813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Layan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667983,
+        102191569,
+        85632573,
+        421174961,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"3f08157ba46a4f3f05f52beee8a280fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796314549,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1796314549,
+    "wof:lastmodified":1663974549,
+    "wof:name":"Layan",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.277121,
+    25.022015,
+    55.28517,
+    25.031136
+],
+  "geometry": {"coordinates":[[[55.283865,25.031136],[55.283972,25.030953],[55.284546,25.028779],[55.284915,25.027096],[55.28517,25.025902],[55.28278,25.023594],[55.28111,25.022015],[55.278467,25.023712],[55.277121,25.024455],[55.2796,25.026927],[55.28248,25.029766],[55.283865,25.031136]]],"type":"Polygon"}
+}

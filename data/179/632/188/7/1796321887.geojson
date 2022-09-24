@@ -1,0 +1,61 @@
+{
+  "id": 1796321887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:bbox":"55.422963,25.371876,55.442408,25.388276",
+    "geom:latitude":25.38033,
+    "geom:longitude":55.432411,
+    "iso:country":"AE",
+    "lbl:latitude":25.380388,
+    "lbl:longitude":55.43241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u064a\u062e\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Subaikha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"345433840ca04ef5c484d6bee0e468ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796321887,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796321887,
+    "wof:lastmodified":1663974542,
+    "wof:name":"Al Subaikha",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.422963,
+    25.371876,
+    55.442408,
+    25.388276
+],
+  "geometry": {"coordinates":[[[55.427714,25.371876],[55.422963,25.376559],[55.433732,25.385947],[55.434631,25.3868],[55.436383,25.388276],[55.442408,25.384762],[55.437996,25.380864],[55.427714,25.371876]]],"type":"Polygon"}
+}

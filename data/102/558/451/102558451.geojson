@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0645\u0646\u0647\u0627\u062f \u0627\u0644\u0639\u0633\u0643\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u0642\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0646\u0647\u0627\u062f \u0627\u0644\u062c\u0648\u064a\u0629"
     ],
     "name:ceb_x_preferred":[
@@ -68,8 +71,11 @@
         "state_id":2347111
     },
     "wof:belongsto":[
+        85667983,
+        102191569,
         85632573,
-        85667983
+        421174961,
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +90,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102558451,
+            "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":-1,
             "region_id":85667983
         }
     ],
     "wof:id":102558451,
-    "wof:lastmodified":1631743682,
+    "wof:lastmodified":1663973547,
     "wof:name":"Minhad Air Base",
-    "wof:parent_id":85667983,
+    "wof:parent_id":421174961,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

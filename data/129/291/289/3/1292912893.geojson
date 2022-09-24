@@ -30,13 +30,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0639\u0648\u0627\u0641\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u2018Aw\u0101f\u012b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        1376826403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826403,
             "locality_id":1292912893,
             "region_id":85667981
         }
     ],
     "wof:id":1292912893,
-    "wof:lastmodified":1566581587,
+    "wof:lastmodified":1663973731,
     "wof:name":"`Awafi",
-    "wof:parent_id":85667981,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000089,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.31421,25.2601,55.31421,25.2601",
-    "geom:latitude":25.2601,
-    "geom:longitude":55.31421,
+    "geom:bbox":"55.311215,25.251896,55.326464,25.264579",
+    "geom:latitude":25.258359,
+    "geom:longitude":55.318565,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.30921,25.2551,55.31921,25.2651",
-    "lbl:latitude":25.2601,
-    "lbl:longitude":55.31421,
+    "lbl:latitude":25.258353,
+    "lbl:longitude":55.31845,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.258509,
     "mps:longitude":55.315635,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -26,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0631\u0642\u0629 \u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
     "name:eng_x_preferred":[
         "Riggat Al Buteen"
     ],
@@ -55,12 +57,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.258353,
+    "reversegeo:longitude":55.31845,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -75,10 +80,11 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"5b48b25ce7047831cd27babc0dee7018",
+    "wof:geomhash":"ea8a3a69db5f0a6843a6c15bfb59241b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582313358,
+    "wof:lastmodified":1663974530,
     "wof:name":"Riggat Al Buteen",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
@@ -103,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.31421,
-    25.2601,
-    55.31421,
-    25.2601
+    55.311215,
+    25.251896,
+    55.326464,
+    25.264579
 ],
-  "geometry": {"coordinates":[55.31421,25.2601],"type":"Point"}
+  "geometry": {"coordinates":[[[55.311215,25.261133],[55.313159,25.262873],[55.31373,25.263634],[55.314367,25.264579],[55.314947,25.264215],[55.31859,25.262057],[55.321079,25.260564],[55.321743,25.260213],[55.322435,25.259974],[55.324159,25.259374],[55.326464,25.258673],[55.325459,25.257364],[55.324325,25.255889],[55.321126,25.251896],[55.317782,25.254365],[55.314417,25.256949],[55.312163,25.259985],[55.311215,25.261133]]],"type":"Polygon"}
 }

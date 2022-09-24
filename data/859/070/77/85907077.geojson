@@ -11,14 +11,13 @@
     "geom:longitude":55.299449,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.294449,25.258675,55.304449,25.268675",
     "lbl:latitude":25.263675,
     "lbl:longitude":55.299449,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.26364,
     "mps:longitude":55.299561,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -26,8 +25,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0633\u062a\u0643\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Bastakia"
+    ],
+    "name:eng_x_variant":[
+        "Al Fahidi"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -52,18 +57,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.263675,
+    "reversegeo:longitude":55.299449,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603
+        1376833603,
+        85667983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,8 +80,9 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
     "wof:geomhash":"8e0eb5d784ed0270f1050539c1751e8c",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582313356,
+    "wof:lastmodified":1663973918,
     "wof:name":"Bastakia",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

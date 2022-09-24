@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u062e\u0637"
+    ],
+    "name:ara_x_variant":[
         "\u062e\u062a"
     ],
     "name:fas_x_preferred":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1242777045,
-    "wof:lastmodified":1566581607,
+    "wof:lastmodified":1663973632,
     "wof:name":"Khatt",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

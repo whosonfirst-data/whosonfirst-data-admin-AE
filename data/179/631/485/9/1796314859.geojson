@@ -1,0 +1,61 @@
+{
+  "id": 1796314859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:bbox":"55.433896,25.321593,55.449256,25.33467",
+    "geom:latitude":25.328344,
+    "geom:longitude":55.441459,
+    "iso:country":"AE",
+    "lbl:latitude":25.32849,
+    "lbl:longitude":55.441342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0627\u0631\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Darari"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"25d591d1cbc48b149fc2dc2d5914c9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314859,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314859,
+    "wof:lastmodified":1663974545,
+    "wof:name":"Al Darari",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.433896,
+    25.321593,
+    55.449256,
+    25.33467
+],
+  "geometry": {"coordinates":[[[55.449256,25.330552],[55.442531,25.321593],[55.433896,25.326703],[55.439744,25.33467],[55.444692,25.33255],[55.449256,25.330552]]],"type":"Polygon"}
+}

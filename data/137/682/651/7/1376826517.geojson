@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000061,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.34773,25.36043,56.34773,25.36043",
-    "geom:latitude":25.36043,
-    "geom:longitude":56.34773,
+    "geom:bbox":"56.34209,25.34902,56.353016,25.357102",
+    "geom:latitude":25.353419,
+    "geom:longitude":56.347235,
     "gn:admin1_code":"06",
     "gn:asciiname":"Hiyawah",
     "gn:country_code":"AE",
@@ -23,16 +23,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"56.34273,25.35543,56.35273,25.36543",
+    "lbl:latitude":25.3529,
+    "lbl:longitude":56.347339,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0627\u0648\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Hiyawah"
+    ],
+    "name:eng_x_variant":[
+        "Al Hayawah"
+    ],
     "name:und_x_variant":[
         "Hiyawa",
         "\u1e28iy\u0101wah"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.3529,
+    "reversegeo:longitude":56.347339,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667977,
         102191569,
@@ -46,7 +62,10 @@
         "wk:page":"Hiyawah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"cb3f416dcd1bb0fb0b703a63e5c3ef87",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8fe3e834e22b84507e8db74ae999bcc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +77,7 @@
         }
     ],
     "wof:id":1376826517,
-    "wof:lastmodified":1566581595,
+    "wof:lastmodified":1663974534,
     "wof:name":"Hiyawah",
     "wof:parent_id":421187069,
     "wof:placetype":"neighbourhood",
@@ -70,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.34773000000001,
-    25.36043,
-    56.34773000000001,
-    25.36043
+    56.34209,
+    25.34902,
+    56.353016,
+    25.357102
 ],
-  "geometry": {"coordinates":[56.34773000000001,25.36043],"type":"Point"}
+  "geometry": {"coordinates":[[[56.342698,25.356427],[56.347089,25.356411],[56.348922,25.356596],[56.351436,25.357102],[56.353016,25.354803],[56.350911,25.351922],[56.350592,25.351265],[56.350181,25.3508],[56.349344,25.350009],[56.348321,25.34902],[56.344123,25.350488],[56.34209,25.351192],[56.342449,25.35436],[56.342698,25.356427]]],"type":"Polygon"}
 }

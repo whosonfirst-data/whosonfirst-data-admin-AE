@@ -1,0 +1,61 @@
+{
+  "id": 1796314521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000283,
+    "geom:bbox":"55.452187,25.354575,55.496002,25.375795",
+    "geom:latitude":25.36505,
+    "geom:longitude":55.470339,
+    "iso:country":"AE",
+    "lbl:latitude":25.364872,
+    "lbl:longitude":55.470339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hamraa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"07ab00bb32a6428b0f5fb993fd1ab8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314521,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314521,
+    "wof:lastmodified":1663974548,
+    "wof:name":"Al Hamraa",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.452187,
+    25.354575,
+    55.496002,
+    25.375795
+],
+  "geometry": {"coordinates":[[[55.480422,25.3646],[55.485247,25.362352],[55.490939,25.35966],[55.493683,25.358467],[55.496002,25.357868],[55.491481,25.358522],[55.488144,25.358957],[55.486715,25.359002],[55.485241,25.358812],[55.483913,25.358422],[55.482551,25.357707],[55.481457,25.356915],[55.480698,25.356077],[55.479631,25.354575],[55.474223,25.357886],[55.470997,25.359917],[55.467335,25.361692],[55.461743,25.364511],[55.454191,25.368731],[55.452645,25.369719],[55.452187,25.369977],[55.45442,25.372409],[55.457592,25.375795],[55.477989,25.365733],[55.480422,25.3646]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1796314627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0007,
+    "geom:bbox":"56.289639,25.130077,56.337837,25.154742",
+    "geom:latitude":25.141698,
+    "geom:longitude":56.31135,
+    "iso:country":"AE",
+    "lbl:latitude":25.141305,
+    "lbl:longitude":56.310891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Rumaila"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667959,
+        102191569,
+        85632573,
+        421168685,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"286dff46093c98961cf9e62f4d9cafd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314627,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1796314627,
+    "wof:lastmodified":1663974550,
+    "wof:name":"Rumaila",
+    "wof:parent_id":421168685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.289639,
+    25.130077,
+    56.337837,
+    25.154742
+],
+  "geometry": {"coordinates":[[[56.317043,25.130077],[56.302173,25.130238],[56.294814,25.133778],[56.292425,25.135207],[56.289639,25.137498],[56.3029,25.154742],[56.324369,25.14863],[56.329007,25.148663],[56.332295,25.149889],[56.335123,25.151842],[56.334963,25.151364],[56.334788,25.15112],[56.334509,25.150701],[56.334265,25.150248],[56.334457,25.149829],[56.334753,25.149585],[56.335259,25.149655],[56.336183,25.149829],[56.336776,25.149585],[56.337837,25.148609],[56.336364,25.147297],[56.329302,25.141028],[56.321655,25.134184],[56.317043,25.130077]]],"type":"Polygon"}
+}

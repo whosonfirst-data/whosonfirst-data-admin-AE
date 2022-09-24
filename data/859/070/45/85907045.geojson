@@ -4,17 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000373,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.27527,25.195779,55.27527,25.195779",
-    "geom:latitude":25.195779,
-    "geom:longitude":55.27527,
+    "geom:bbox":"55.242686,25.185931,55.270864,25.212042",
+    "geom:latitude":25.198281,
+    "geom:longitude":55.256405,
     "gn:latitude":25.19881,
     "gn:longitude":55.25565,
     "iso:country":"AE",
-    "lbl:bbox":"55.27027,25.190779,55.28027,25.200779",
-    "lbl:latitude":25.195779,
-    "lbl:longitude":55.27527,
+    "lbl:latitude":25.198252,
+    "lbl:longitude":55.256618,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.192401,
     "mps:longitude":55.273357,
@@ -48,12 +47,15 @@
     "name:vie_x_preferred":[
         "Al Wasl"
     ],
-    "src:geom":"mz",
+    "reversegeo:latitude":25.198252,
+    "reversegeo:longitude":55.256618,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -71,10 +73,11 @@
     },
     "wof:country":"AE",
     "wof:geom_alt":[
+        "quattroshapes_pg",
         "quattroshapes",
-        "quattroshapes_pg"
+        "mz"
     ],
-    "wof:geomhash":"ea8640bc5a9b2ae363176719dffa89b0",
+    "wof:geomhash":"a97c7a3538a5b1692097f121e85d44bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,8 +92,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0627\u0644\u0648\u0635\u0644",
+    "wof:lastmodified":1663974528,
+    "wof:name":"Al Wasl",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -99,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.27527,
-    25.195779,
-    55.27527,
-    25.195779
+    55.242686,
+    25.185931,
+    55.270864,
+    25.212042
 ],
-  "geometry": {"coordinates":[55.27527,25.195779],"type":"Point"}
+  "geometry": {"coordinates":[[[55.242686,25.191068],[55.24638,25.196379],[55.248202,25.199007],[55.249576,25.200967],[55.251297,25.203366],[55.253641,25.206772],[55.257235,25.212042],[55.261106,25.21],[55.263029,25.208883],[55.265758,25.2074],[55.26856,25.206008],[55.270864,25.204826],[55.270573,25.204385],[55.269168,25.202432],[55.267462,25.19996],[55.265817,25.197901],[55.264646,25.196607],[55.263037,25.194828],[55.259603,25.191117],[55.254749,25.185931],[55.254551,25.186025],[55.252628,25.186175],[55.250254,25.186055],[55.248631,25.186385],[55.247128,25.187437],[55.245746,25.188639],[55.243882,25.189391],[55.242951,25.190503],[55.242686,25.191068]]],"type":"Polygon"}
 }

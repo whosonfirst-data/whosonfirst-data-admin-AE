@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.467267,25.0066335,55.467267,25.0066335",
+    "geom:bbox":"55.467267,25.006633,55.467267,25.006633",
     "geom:latitude":25.006633,
     "geom:longitude":55.467267,
     "iso:country":"AE",
@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0646\u0647\u062f"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -49,7 +52,7 @@
     },
     "wof:country":"AE",
     "wof:created":1459009143,
-    "wof:geomhash":"166b1cc22706de4b6b9cdc3ee21005ab",
+    "wof:geomhash":"03f99bd57debea8ec0a83aec311116ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421177393,
-    "wof:lastmodified":1566581604,
+    "wof:lastmodified":1663973895,
     "wof:name":"Umm Nahad",
     "wof:parent_id":1376833603,
     "wof:placetype":"locality",
@@ -71,9 +74,9 @@
 },
   "bbox": [
     55.467267,
-    25.0066335,
+    25.006633,
     55.467267,
-    25.0066335
+    25.006633
 ],
-  "geometry": {"coordinates":[55.467267,25.0066335],"type":"Point"}
+  "geometry": {"coordinates":[55.467267,25.006633],"type":"Point"}
 }

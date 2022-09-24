@@ -1,0 +1,61 @@
+{
+  "id": 1796314745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006119,
+    "geom:bbox":"55.564224,25.207389,55.678456,25.301815",
+    "geom:latitude":25.255591,
+    "geom:longitude":55.618967,
+    "iso:country":"AE",
+    "lbl:latitude":25.254055,
+    "lbl:longitude":55.615073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u0648\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Al Seyouh"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"58d4f5fc024bf8efb75b6d2abb61377c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314745,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314745,
+    "wof:lastmodified":1663974552,
+    "wof:name":"Al Seyouh",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.564224,
+    25.207389,
+    55.678456,
+    25.301815
+],
+  "geometry": {"coordinates":[[[55.595698,25.301815],[55.600285,25.299925],[55.607131,25.297125],[55.6203,25.291679],[55.6276,25.288629],[55.629653,25.287896],[55.633159,25.286814],[55.63959,25.285839],[55.649921,25.286647],[55.657142,25.287581],[55.663064,25.286403],[55.678456,25.279705],[55.632675,25.207389],[55.564224,25.234149],[55.566215,25.23842],[55.588812,25.287045],[55.595698,25.301815]]],"type":"Polygon"}
+}

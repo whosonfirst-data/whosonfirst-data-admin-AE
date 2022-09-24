@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.45555,25.3334,55.45555,25.3334",
-    "geom:latitude":25.3334,
-    "geom:longitude":55.45555,
+    "geom:bbox":"55.289397,25.229712,55.311909,25.239594",
+    "geom:latitude":25.234146,
+    "geom:longitude":55.298015,
     "iso:country":"AE",
-    "lbl:bbox":"55.45055,25.3284,55.46055,25.3384",
+    "lbl:latitude":25.235033,
+    "lbl:longitude":55.296906,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -49,16 +50,22 @@
     "qs:qs_id":1104188,
     "qs:woe_adm0":23424738,
     "qs:woe_id":55872740,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":25.235033,
+    "reversegeo:longitude":55.296906,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":25.235322,
     "wd:longitude":55.296506,
     "wd:wordcount":124,
     "wof:belongsto":[
-        85667977,
+        85667983,
         102191569,
         85632573,
-        421168683,
-        421171391
+        421174961,
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,21 +76,24 @@
     },
     "wof:country":"AE",
     "wof:created":1459009579,
-    "wof:geomhash":"6da6b0b66bec2dd2a654de010d708e44",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"a851492c9183f177dd4ee22da106ad1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
-            "county_id":421171391,
-            "locality_id":421168683,
+            "county_id":1376833603,
+            "locality_id":421174961,
             "neighbourhood_id":421188805,
-            "region_id":85667977
+            "region_id":85667983
         }
     ],
     "wof:id":421188805,
-    "wof:lastmodified":1566581601,
+    "wof:lastmodified":1663974537,
     "wof:name":"Al Kifaf",
-    "wof:parent_id":421168683,
+    "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -91,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.45555,
-    25.3334,
-    55.45555,
-    25.3334
+    55.289397,
+    25.229712,
+    55.311909,
+    25.239594
 ],
-  "geometry": {"coordinates":[55.45555,25.3334],"type":"Point"}
+  "geometry": {"coordinates":[[[55.30455,25.234765],[55.311909,25.231176],[55.308892,25.232003],[55.306096,25.232392],[55.30382,25.232466],[55.300239,25.232021],[55.297599,25.231495],[55.293847,25.230672],[55.291356,25.230153],[55.289397,25.229712],[55.289527,25.229882],[55.290595,25.231279],[55.292038,25.233826],[55.293901,25.237116],[55.295268,25.239594],[55.299953,25.237105],[55.303222,25.235412],[55.30455,25.234765]]],"type":"Polygon"}
 }

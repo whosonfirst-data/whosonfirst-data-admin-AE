@@ -1,0 +1,61 @@
+{
+  "id": 1796314641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001725,
+    "geom:bbox":"55.582508,24.090373,55.643484,24.137538",
+    "geom:latitude":24.112951,
+    "geom:longitude":55.616912,
+    "iso:country":"AE",
+    "lbl:latitude":24.1118,
+    "lbl:longitude":55.61749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0633\u064a\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qisees"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667981,
+        102191569,
+        85632573,
+        421168687,
+        421200931
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"6e701531e9431e21848aec126ab48126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314641,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796314641,
+    "wof:lastmodified":1663974548,
+    "wof:name":"Al Qisees",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.582508,
+    24.090373,
+    55.643484,
+    24.137538
+],
+  "geometry": {"coordinates":[[[55.582508,24.115914],[55.584255,24.117312],[55.591648,24.119195],[55.606645,24.128333],[55.614614,24.131838],[55.621021,24.134616],[55.624584,24.136222],[55.627377,24.137477],[55.627559,24.137538],[55.627674,24.137538],[55.627775,24.137437],[55.629671,24.135237],[55.635906,24.126735],[55.639705,24.128762],[55.641001,24.125955],[55.643484,24.113593],[55.632364,24.094808],[55.61785,24.090373],[55.609007,24.093832],[55.601491,24.097179],[55.59818,24.098654],[55.594785,24.101501],[55.587971,24.110625],[55.584545,24.114317],[55.582508,24.115914]]],"type":"Polygon"}
+}

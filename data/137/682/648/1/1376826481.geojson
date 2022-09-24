@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.36128,25.23779,56.36128,25.23779",
-    "geom:latitude":25.23779,
-    "geom:longitude":56.36128,
+    "geom:bbox":"56.360732,25.26537,56.360732,25.26537",
+    "geom:latitude":25.26537,
+    "geom:longitude":56.360732,
     "gn:admin1_code":"04",
     "gn:asciiname":"Al Qurayyah",
     "gn:country_code":"AE",
@@ -23,11 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"56.35628,25.23279,56.36628,25.24279",
+    "lbl:latitude":25.26537,
+    "lbl:longitude":56.360732,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qurayyah"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0631\u06cc\u0627\u0647"
     ],
@@ -39,13 +46,18 @@
         "Qurayyah",
         "Qaraiyat"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.26537,
+    "reversegeo:longitude":56.360732,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667959,
         102191569,
         85632573,
-        421168685,
-        1376833611
+        1376833611,
+        85667959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,21 +65,24 @@
         "wk:page":"Al_Qurayyah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"b8b2882927c4f7889fa49fb1a4ffd5d0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d8190770bf608f967537bfdcd2f094c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632573,
             "county_id":1376833611,
-            "locality_id":421168685,
+            "locality_id":-1,
             "neighbourhood_id":1376826481,
             "region_id":85667959
         }
     ],
     "wof:id":1376826481,
-    "wof:lastmodified":1566581596,
+    "wof:lastmodified":1663973867,
     "wof:name":"Al Qurayyah",
-    "wof:parent_id":421168685,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],
@@ -77,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.36128000000001,
-    25.23779,
-    56.36128000000001,
-    25.23779
+    56.360732,
+    25.26537,
+    56.360732,
+    25.26537
 ],
-  "geometry": {"coordinates":[56.36128000000001,25.23779],"type":"Point"}
+  "geometry": {"coordinates":[56.360732,25.26537],"type":"Point"}
 }

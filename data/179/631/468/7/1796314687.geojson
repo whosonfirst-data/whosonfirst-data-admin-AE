@@ -1,0 +1,61 @@
+{
+  "id": 1796314687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:bbox":"55.749599,24.205119,55.769916,24.214502",
+    "geom:latitude":24.208734,
+    "geom:longitude":55.761882,
+    "iso:country":"AE",
+    "lbl:latitude":24.208806,
+    "lbl:longitude":55.761882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0648\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mutawaa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667981,
+        102191569,
+        85632573,
+        421168687,
+        421200931
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"46dc299316ccd0763b9cb246620681d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421200931,
+            "locality_id":421168687,
+            "neighbourhood_id":1796314687,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":1796314687,
+    "wof:lastmodified":1663974555,
+    "wof:name":"Al Mutawaa",
+    "wof:parent_id":421168687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.749599,
+    24.205119,
+    55.769916,
+    24.214502
+],
+  "geometry": {"coordinates":[[[55.760115,24.211793],[55.762115,24.212107],[55.763107,24.21237],[55.764045,24.212943],[55.764761,24.213551],[55.765516,24.214286],[55.765989,24.214475],[55.766562,24.214502],[55.767142,24.2143],[55.767871,24.213854],[55.768492,24.213477],[55.7688,24.21332],[55.768789,24.2113],[55.769916,24.205735],[55.766144,24.205632],[55.760766,24.205518],[55.75357,24.205285],[55.750189,24.20517],[55.749599,24.205119],[55.75003,24.205618],[55.750431,24.206089],[55.751355,24.206769],[55.752244,24.207362],[55.753256,24.207955],[55.755139,24.20928],[55.756953,24.210344],[55.758313,24.210989],[55.760115,24.211793]]],"type":"Polygon"}
+}

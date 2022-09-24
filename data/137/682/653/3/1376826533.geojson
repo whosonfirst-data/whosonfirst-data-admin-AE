@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.41955,25.38148,55.41955,25.38148",
-    "geom:latitude":25.38148,
-    "geom:longitude":55.41955,
+    "geom:bbox":"55.41726,25.38372,55.41726,25.38372",
+    "geom:latitude":25.38372,
+    "geom:longitude":55.41726,
     "gn:admin1_code":"06",
     "gn:asciiname":"Al Hayrah",
     "gn:country_code":"AE",
@@ -23,11 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dubai",
     "iso:country":"AE",
-    "lbl:bbox":"55.41455,25.37648,55.42455,25.38648",
+    "lbl:latitude":25.38372,
+    "lbl:longitude":55.41726,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Heerah"
+    ],
+    "name:eng_x_variant":[
+        "Al Hayrah"
+    ],
     "name:und_x_variant":[
         "Hayrah",
         "Al Hairah",
@@ -37,13 +47,19 @@
         "Hair",
         "Al \u1e28ayrah"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.38372,
+    "reversegeo:longitude":55.41726,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85667977,
         102191569,
         85632573,
         421168683,
-        421171391
+        421171391,
+        85667977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +67,10 @@
         "wk:page":"Al_Hayrah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"7610ecbcbc248bb3cab22ce114fa3560",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"edd29a6b9aaa60553be2aca0b2c1dc31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,8 +82,8 @@
         }
     ],
     "wof:id":1376826533,
-    "wof:lastmodified":1566581597,
-    "wof:name":"Al Hayrah",
+    "wof:lastmodified":1663973878,
+    "wof:name":"Al Heerah",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -75,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.41955,
-    25.38148,
-    55.41955,
-    25.38148
+    55.41726,
+    25.38372,
+    55.41726,
+    25.38372
 ],
-  "geometry": {"coordinates":[55.41955,25.38148],"type":"Point"}
+  "geometry": {"coordinates":[55.41726,25.38372],"type":"Point"}
 }

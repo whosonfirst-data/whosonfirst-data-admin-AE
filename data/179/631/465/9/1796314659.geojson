@@ -1,0 +1,61 @@
+{
+  "id": 1796314659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:bbox":"56.343666,25.12181,56.358691,25.129259",
+    "geom:latitude":25.125534,
+    "geom:longitude":56.351732,
+    "iso:country":"AE",
+    "lbl:latitude":25.125538,
+    "lbl:longitude":56.351732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0644\u0627\u0644\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Ghalala"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667959,
+        102191569,
+        85632573,
+        421168685,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"313ae454d8d630b0ef873f0e0f03d36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":1796314659,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":1796314659,
+    "wof:lastmodified":1663974549,
+    "wof:name":"Ghalala",
+    "wof:parent_id":421168685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.343666,
+    25.12181,
+    56.358691,
+    25.129259
+],
+  "geometry": {"coordinates":[[[56.343666,25.126933],[56.34571,25.128091],[56.346586,25.128608],[56.34714,25.128825],[56.347806,25.128997],[56.348532,25.129042],[56.353002,25.129214],[56.354536,25.129222],[56.358691,25.129259],[56.358685,25.128942],[56.357789,25.128868],[56.357269,25.128862],[56.357233,25.128062],[56.357314,25.12725],[56.357709,25.127258],[56.357779,25.126237],[56.358139,25.125819],[56.358171,25.124779],[56.358242,25.122808],[56.358383,25.12181],[56.355367,25.121859],[56.34715,25.121974],[56.343666,25.126933]]],"type":"Polygon"}
+}

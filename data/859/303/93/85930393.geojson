@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00064,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.357067,25.221646,55.357067,25.221646",
-    "geom:latitude":25.221646,
-    "geom:longitude":55.357067,
+    "geom:bbox":"55.337784,25.202882,55.376625,25.240902",
+    "geom:latitude":25.218151,
+    "geom:longitude":55.358341,
     "gn:id":"",
     "iso:country":"AE",
-    "lbl:bbox":"55.352067,25.216646,55.362067,25.226646",
-    "lbl:latitude":25.221646,
-    "lbl:longitude":55.357067,
+    "lbl:latitude":25.217165,
+    "lbl:longitude":55.357017,
     "lbl:max_zoom":18.0,
     "mps:latitude":25.217342,
     "mps:longitude":55.366554,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,12 +26,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:ara_x_preferred":[
+        "\u0641\u064a\u0633\u062a\u064a\u0641\u0627\u0644 \u0633\u064a\u062a\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u0641\u064a\u0633\u062a\u064a\u0641\u0627\u0644 \u0633\u064a\u062a\u0649"
     ],
     "name:eng_x_preferred":[
-        "Festival City"
-    ],
-    "name:eng_x_variant":[
         "Festival City"
     ],
     "qs:gn_adm0_cc":"AE",
@@ -59,12 +58,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940345,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":25.217165,
+    "reversegeo:longitude":55.357017,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85667983,
         102191569,
@@ -80,9 +82,10 @@
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"f693482829e94ebb95db396ea283a745",
+    "wof:geomhash":"74b2b6de15199906b4441c17cbdc1c41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +100,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313356,
-    "wof:name":"\u0641\u064a\u0633\u062a\u064a\u0641\u0627\u0644 \u0633\u064a\u062a\u0649",
+    "wof:lastmodified":1663974529,
+    "wof:name":"Festival City",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ae",
@@ -107,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.357067,
-    25.221646,
-    55.357067,
-    25.221646
+    55.337784,
+    25.202882,
+    55.376625,
+    25.240902
 ],
-  "geometry": {"coordinates":[55.357067,25.221646],"type":"Point"}
+  "geometry": {"coordinates":[[[55.353042,25.230183],[55.353505,25.229603],[55.354535,25.228585],[55.356824,25.227207],[55.361348,25.224985],[55.369191,25.221211],[55.376585,25.217089],[55.376625,25.215456],[55.376605,25.214418],[55.376512,25.213689],[55.376378,25.21296],[55.376217,25.212183],[55.376177,25.211748],[55.37615,25.211119],[55.376251,25.210008],[55.376344,25.209212],[55.376472,25.207767],[55.376492,25.206609],[55.376391,25.204909],[55.376264,25.203865],[55.376023,25.202882],[55.355967,25.207457],[55.348081,25.210229],[55.343085,25.213281],[55.344469,25.214966],[55.347354,25.220285],[55.347565,25.2232],[55.347294,25.225394],[55.346423,25.227137],[55.345912,25.228159],[55.343478,25.229812],[55.339511,25.231945],[55.337784,25.233336],[55.338995,25.234666],[55.339598,25.235444],[55.340162,25.236494],[55.340512,25.237681],[55.34061,25.239178],[55.340396,25.240462],[55.340214,25.240902],[55.342486,25.2391],[55.343848,25.238011],[55.34447,25.237515],[55.345278,25.237029],[55.346192,25.236591],[55.347524,25.235823],[55.348477,25.235133],[55.349138,25.234617],[55.349887,25.233917],[55.350529,25.233256],[55.351404,25.232186],[55.353042,25.230183]]],"type":"Polygon"}
 }

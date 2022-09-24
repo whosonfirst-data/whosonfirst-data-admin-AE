@@ -1,0 +1,61 @@
+{
+  "id": 1796322009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:bbox":"55.377721,25.303319,55.390397,25.313583",
+    "geom:latitude":25.308666,
+    "geom:longitude":55.384092,
+    "iso:country":"AE",
+    "lbl:latitude":25.308726,
+    "lbl:longitude":55.384188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 7"
+    ],
+    "name:eng_x_preferred":[
+        "Industrial Area 7"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"7c5659771b4e4d50687f8eee45faf1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796322009,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796322009,
+    "wof:lastmodified":1663974543,
+    "wof:name":"Industrial Area 7",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.377721,
+    25.303319,
+    55.390397,
+    25.313583
+],
+  "geometry": {"coordinates":[[[55.381464,25.313583],[55.38195,25.31324],[55.382409,25.313075],[55.382989,25.312955],[55.383779,25.312946],[55.384423,25.312744],[55.385158,25.312174],[55.390397,25.308127],[55.388776,25.306373],[55.387117,25.304557],[55.386781,25.304231],[55.386468,25.304051],[55.384963,25.303319],[55.384667,25.30355],[55.384433,25.303763],[55.3841,25.304164],[55.383857,25.30453],[55.383624,25.304843],[55.382975,25.305478],[55.382116,25.306137],[55.379469,25.308185],[55.377721,25.309578],[55.381464,25.313583]]],"type":"Polygon"}
+}

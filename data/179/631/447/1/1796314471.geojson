@@ -1,0 +1,61 @@
+{
+  "id": 1796314471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000675,
+    "geom:bbox":"55.239749,25.002397,55.28111,25.035472",
+    "geom:latitude":25.020132,
+    "geom:longitude":55.260127,
+    "iso:country":"AE",
+    "lbl:latitude":25.019935,
+    "lbl:longitude":55.26044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0645\u0627\u0643 \u0647\u064a\u0644\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "Damac Hills"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667983,
+        102191569,
+        85632573,
+        421174961,
+        1376833603
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"6dbb67dfa17a028c22919a660cb36ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833603,
+            "locality_id":421174961,
+            "neighbourhood_id":1796314471,
+            "region_id":85667983
+        }
+    ],
+    "wof:id":1796314471,
+    "wof:lastmodified":1663974544,
+    "wof:name":"Damac Hills",
+    "wof:parent_id":421174961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.239749,
+    25.002397,
+    55.28111,
+    25.035472
+],
+  "geometry": {"coordinates":[[[55.272609,25.026926],[55.275239,25.025493],[55.277121,25.024455],[55.278467,25.023712],[55.28111,25.022015],[55.278717,25.019761],[55.271009,25.012582],[55.265333,25.007434],[55.259906,25.002397],[55.255065,25.007545],[55.251698,25.011177],[55.244824,25.018592],[55.239749,25.024218],[55.258981,25.034898],[55.260024,25.035472],[55.263635,25.032227],[55.265583,25.030808],[55.267531,25.029528],[55.272609,25.026926]]],"type":"Polygon"}
+}

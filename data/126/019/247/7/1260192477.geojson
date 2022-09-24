@@ -30,13 +30,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0635"
+    ],
+    "name:ara_x_variant":[
         "Al Kh\u012bs"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632573,
-        85667981
+        85667981,
+        1376826403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,15 @@
         {
             "continent_id":102191569,
             "country_id":85632573,
+            "county_id":1376826403,
             "locality_id":1260192477,
             "region_id":85667981
         }
     ],
     "wof:id":1260192477,
-    "wof:lastmodified":1566581592,
+    "wof:lastmodified":1663973682,
     "wof:name":"Al Khis",
-    "wof:parent_id":85667981,
+    "wof:parent_id":1376826403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:superseded_by":[],

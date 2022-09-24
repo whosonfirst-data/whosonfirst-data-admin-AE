@@ -1,0 +1,62 @@
+{
+  "id": 1796314939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001491,
+    "geom:bbox":"55.465209,25.313825,55.543985,25.354575",
+    "geom:latitude":25.332861,
+    "geom:longitude":55.502019,
+    "iso:country":"AE",
+    "lbl:latitude":25.335952,
+    "lbl:longitude":55.499364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0634\u0627\u0631\u0642\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Sharjah International Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85667977,
+        102191569,
+        85632573,
+        421168683,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:country":"AE",
+    "wof:geomhash":"bf19ba7120bff627862e7355214f34db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":1796314939,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":1796314939,
+    "wof:lastmodified":1663974553,
+    "wof:name":"Sharjah International Airport",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:placetype_alt":"campus",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.465209,
+    25.313825,
+    55.543985,
+    25.354575
+],
+  "geometry": {"coordinates":[[[55.486513,25.325428],[55.479385,25.327526],[55.476727,25.328451],[55.465209,25.33432],[55.467553,25.337647],[55.471543,25.343121],[55.471996,25.343742],[55.474954,25.3478],[55.476076,25.349335],[55.477293,25.351098],[55.479414,25.354269],[55.479631,25.354575],[55.490768,25.348116],[55.494292,25.352623],[55.507236,25.344995],[55.513187,25.339044],[55.542454,25.322634],[55.543985,25.315295],[55.543855,25.313825],[55.540773,25.314308],[55.534997,25.315175],[55.529522,25.316022],[55.525081,25.316704],[55.518808,25.317659],[55.518077,25.317781],[55.514795,25.318297],[55.51348,25.318521],[55.512477,25.318706],[55.511269,25.319008],[55.505497,25.320606],[55.500072,25.322096],[55.486513,25.325428]]],"type":"Polygon"}
+}

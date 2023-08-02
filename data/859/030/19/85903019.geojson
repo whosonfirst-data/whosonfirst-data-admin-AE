@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Al Satwa"
     ],
+    "name:epo_x_preferred":[
+        "Alsat\u016da"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u0637\u0648\u0629"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Satwa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0633\u0637\u0648\u06c1"
     ],
     "name:vie_x_preferred":[
         "Al Satwa"
@@ -102,7 +108,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663974529,
+    "wof:lastmodified":1690848513,
     "wof:name":"Al Satwa",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

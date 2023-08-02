@@ -47,6 +47,9 @@
     "name:ita_x_preferred":[
         "Al Rigga"
     ],
+    "name:nld_x_preferred":[
+        "Al Rigga"
+    ],
     "name:und_x_variant":[
         "Ar Riqqah"
     ],
@@ -120,7 +123,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1663974528,
+    "wof:lastmodified":1690848510,
     "wof:name":"Al Rigga",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

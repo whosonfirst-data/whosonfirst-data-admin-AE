@@ -35,14 +35,26 @@
         "Umm Suqeim 1",
         "Community 356"
     ],
+    "name:epo_x_preferred":[
+        "Um Sukejm"
+    ],
     "name:fas_x_preferred":[
         "\u0623\u0645 \u0633\u0642\u06cc\u0645"
     ],
     "name:ind_x_preferred":[
         "Umm Suqeim"
     ],
+    "name:ita_x_preferred":[
+        "Umm Suqeim"
+    ],
+    "name:nld_x_preferred":[
+        "Umm Suqeim"
+    ],
     "name:swe_x_preferred":[
         "Umm Suqeim"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u0633\u0642\u06cc\u0645"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -113,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663974529,
+    "wof:lastmodified":1690848513,
     "wof:name":"Umm Suqeim",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

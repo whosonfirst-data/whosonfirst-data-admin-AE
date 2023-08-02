@@ -26,6 +26,9 @@
     "name:afr_x_preferred":[
         "Doebai"
     ],
+    "name:aka_x_preferred":[
+        "Dubai"
+    ],
     "name:als_x_preferred":[
         "Dubai"
     ],
@@ -41,6 +44,9 @@
     "name:arg_x_preferred":[
         "Dubai"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u0628\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0628\u0649"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:ast_x_variant":[
         "Dub\u00e1i"
+    ],
+    "name:ava_x_preferred":[
+        "\u0414\u0443\u0431\u0430\u0439"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u06cc"
@@ -104,6 +113,9 @@
     "name:che_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
     ],
+    "name:chu_x_preferred":[
+        "\u0414\u043e\u0443\u0431\u0430\u0438"
+    ],
     "name:chv_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
     ],
@@ -113,7 +125,13 @@
     "name:cor_x_preferred":[
         "Dubai"
     ],
+    "name:crh_x_preferred":[
+        "Dubay"
+    ],
     "name:cym_x_preferred":[
+        "Dubai"
+    ],
+    "name:dag_x_preferred":[
         "Dubai"
     ],
     "name:dan_x_preferred":[
@@ -136,6 +154,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03ac\u03b9"
+    ],
+    "name:eml_x_preferred":[
+        "Dubai"
     ],
     "name:eng_ca_x_preferred":[
         "Dubai"
@@ -188,6 +209,9 @@
     "name:fry_x_variant":[
         "D\u00fbbai"
     ],
+    "name:gla_x_preferred":[
+        "Dubai"
+    ],
     "name:gle_x_preferred":[
         "Dubai"
     ],
@@ -236,6 +260,9 @@
     "name:ido_x_preferred":[
         "Dubai"
     ],
+    "name:ile_x_preferred":[
+        "Dubai"
+    ],
     "name:ilo_x_preferred":[
         "Dubai"
     ],
@@ -269,11 +296,17 @@
     "name:kan_x_preferred":[
         "\u0ca6\u0cc1\u0cac\u0cc8"
     ],
+    "name:kas_x_preferred":[
+        "\u062f\u064f\u0628\u0627\u06cc\u0620"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10e3\u10d1\u10d0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
+    ],
+    "name:khm_x_preferred":[
+        "\u178c\u17bc\u1794\u17c3"
     ],
     "name:kik_x_preferred":[
         "Dubai"
@@ -299,6 +332,12 @@
     "name:lez_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
     ],
+    "name:lij_x_preferred":[
+        "Dubai"
+    ],
+    "name:lim_x_preferred":[
+        "Dubai"
+    ],
     "name:lit_x_preferred":[
         "Dubajus"
     ],
@@ -323,8 +362,17 @@
     "name:mkd_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0438"
     ],
+    "name:mlt_x_preferred":[
+        "Dubaj"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd7\uabe8\uabd5\uabe5\uabe2"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439 \u0445\u043e\u0442"
+    ],
+    "name:mri_x_preferred":[
+        "T\u016bpai"
     ],
     "name:msa_x_preferred":[
         "Dubai"
@@ -395,6 +443,9 @@
     "name:pus_x_preferred":[
         "\u062f\u0648\u0628\u06cd"
     ],
+    "name:que_x_preferred":[
+        "Thupayi"
+    ],
     "name:ron_x_preferred":[
         "Dubai"
     ],
@@ -419,6 +470,9 @@
     "name:sgs_x_preferred":[
         "Dubajos"
     ],
+    "name:sgs_x_variant":[
+        "Dobajos"
+    ],
     "name:sin_x_preferred":[
         "\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2"
     ],
@@ -441,6 +495,9 @@
         "Dub\u00e1i"
     ],
     "name:sqi_x_preferred":[
+        "Dubai"
+    ],
+    "name:srd_x_preferred":[
         "Dubai"
     ],
     "name:srp_x_preferred":[
@@ -467,6 +524,9 @@
     "name:tel_x_preferred":[
         "\u0c26\u0c41\u0c2c\u0c3e\u0c2f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0443\u0431\u0430\u0439"
+    ],
     "name:tgl_x_preferred":[
         "Dubai"
     ],
@@ -482,6 +542,9 @@
     "name:uig_x_preferred":[
         "\u062f\u06c7\u0628\u0627\u0626\u0649"
     ],
+    "name:uig_x_variant":[
+        "\u062f\u06c7\u0628\u06d5\u064a"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u0430\u0439"
     ],
@@ -494,11 +557,17 @@
     "name:uzb_x_preferred":[
         "Dubay"
     ],
+    "name:vec_x_preferred":[
+        "Dubai"
+    ],
     "name:vep_x_preferred":[
         "Dubai"
     ],
     "name:vie_x_preferred":[
         "Dubai"
+    ],
+    "name:vol_x_preferred":[
+        "Dubayy"
     ],
     "name:war_x_preferred":[
         "Dubai"
@@ -675,7 +744,7 @@
         }
     ],
     "wof:id":421174961,
-    "wof:lastmodified":1663974537,
+    "wof:lastmodified":1690848521,
     "wof:megacity":1,
     "wof:name":"Dubai",
     "wof:parent_id":1376833603,

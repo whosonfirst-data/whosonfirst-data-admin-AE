@@ -27,6 +27,12 @@
         "\u062e\u0648\u0631\u0641\u0643\u0627\u0646",
         "\u0645\u062f\u064a\u0646\u0629 \u062e\u0648\u0631 \u0641\u0643\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0648\u0631\u0641\u0643\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0996\u09cb\u09b0 \u09ab\u09be\u0995\u09cd\u0995\u09be\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Khor Fakkan"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:ces_x_preferred":[
         "Ch\u00f3r Fakk\u00e1n"
+    ],
+    "name:dan_x_preferred":[
+        "Khor Fakkan"
     ],
     "name:deu_x_preferred":[
         "Chaur Fakkan"
@@ -57,6 +66,9 @@
     "name:hye_x_preferred":[
         "\u053d\u0578\u0580-\u0556\u0561\u056f\u056f\u0561\u0576"
     ],
+    "name:ind_x_preferred":[
+        "Khor Fakkan"
+    ],
     "name:ita_x_preferred":[
         "Khawr Fakk\u0101n"
     ],
@@ -65,6 +77,9 @@
     ],
     "name:lit_x_preferred":[
         "Chor Fakanas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d4b\u0d30\u0d4d\u200d\u0d2b\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0443\u0440 \u0435\u043b \u0424\u0430\u043a\u0430\u043d"
@@ -105,6 +120,12 @@
     ],
     "name:tgl_x_preferred":[
         "Khawr Fakkan"
+    ],
+    "name:tur_x_preferred":[
+        "Havr Fakkan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440-\u0424\u0430\u043a\u043a\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Khor al Fakkan"
@@ -176,7 +197,7 @@
         }
     ],
     "wof:id":421187069,
-    "wof:lastmodified":1663974537,
+    "wof:lastmodified":1690848522,
     "wof:name":"Khor Fakkan",
     "wof:parent_id":421182269,
     "wof:placetype":"locality",

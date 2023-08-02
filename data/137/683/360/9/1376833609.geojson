@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Emiratu d'Umm al-Qaywayn"
     ],
+    "name:aze_x_preferred":[
+        "\u00dcmm \u0259l-Qeyveyn \u0259mirliyi"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u0423\u043c-\u044d\u043b\u044c-\u041a\u0430\u0439\u0432\u0430\u0439\u043d"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:ben_x_preferred":[
         "\u0989\u09ae\u09cd\u09ae\u09c1\u09b2 \u0995\u09c1\u09af\u09bc\u09be\u0987\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u0989\u09ae\u09cd\u09ae \u0986\u09b2 \u0995\u09cb\u09af\u09bc\u09be\u0987\u09a8 \u0986\u09ae\u09bf\u09b0\u09be\u09a4"
+    ],
+    "name:bos_x_preferred":[
+        "Umm al-Quwain"
     ],
     "name:bre_x_preferred":[
         "Umm al-Qaywayn"
@@ -63,6 +72,9 @@
     "name:dan_x_preferred":[
         "Umm Al Quwain"
     ],
+    "name:dan_x_variant":[
+        "Emiratet Umm Al Quwain"
+    ],
     "name:deu_x_preferred":[
         "Umm al-Qaiwain"
     ],
@@ -74,10 +86,14 @@
     ],
     "name:eng_x_variant":[
         "Umm al Qaywayn",
-        "Umm al-Quwain"
+        "Umm al-Quwain",
+        "Emirate of Umm Al Quwain"
     ],
     "name:epo_x_preferred":[
         "Um-al-Kajvajno"
+    ],
+    "name:epo_x_variant":[
+        "Umalkajvajno"
     ],
     "name:est_x_preferred":[
         "Umm al-Qaywayni emiraat"
@@ -250,6 +266,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e2d\u0e38\u0e21\u0e21\u0e4c\u0e2d\u0e31\u0e25\u0e44\u0e01\u0e44\u0e27\u0e19\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e2d\u0e38\u0e21\u0e21\u0e4c\u0e2d\u0e31\u0e25\u0e01\u0e38\u0e40\u0e27\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Umm\u00fcl-Kayveyn Emirli\u011fi"
     ],
@@ -265,6 +284,12 @@
     "name:vie_x_preferred":[
         "Umm al-Quwain"
     ],
+    "name:war_x_preferred":[
+        "Emirato han Umm Al Quwain"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u59c6\u76d6\u4e07\u914b\u957f\u56fd"
+    ],
     "name:xmf_x_preferred":[
         "\u10e3\u10db-\u10d4\u10da-\u10e5\u10d0\u10d8\u10d5\u10d0\u10d8\u10dc\u10d8\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
@@ -274,11 +299,15 @@
     "name:yue_x_preferred":[
         "\u6b50\u59c6\u53e4\u6eab\u914b\u9577\u570b"
     ],
+    "name:yue_x_variant":[
+        "\u70cf\u59c6\u84cb\u842c\u914b\u9577\u570b"
+    ],
     "name:zho_x_preferred":[
         "\u70cf\u59c6\u84cb\u842c"
     ],
     "name:zho_x_variant":[
-        "\u6b27\u59c6\u53e4\u6e29"
+        "\u6b27\u59c6\u53e4\u6e29",
+        "\u4e4c\u59c6\u76d6\u4e07\u914b\u957f\u56fd"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -415,7 +444,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974536,
+    "wof:lastmodified":1690848518,
     "wof:name":"Umm Al Quwain",
     "wof:parent_id":85667955,
     "wof:placetype":"county",

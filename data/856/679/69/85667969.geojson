@@ -58,6 +58,12 @@
     "name:ben_x_preferred":[
         "\u0986\u099c\u09ae\u09be\u09a8 \u098f\u09ae\u09bf\u09b0\u09be\u09a4"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u099c\u09ae\u09be\u09a8 \u0986\u09ae\u09bf\u09b0\u09be\u09a4"
+    ],
+    "name:bos_x_preferred":[
+        "Ajman"
+    ],
     "name:bre_x_preferred":[
         "Ajman"
     ],
@@ -73,14 +79,23 @@
     "name:ces_x_preferred":[
         "Ad\u017em\u00e1n"
     ],
+    "name:dag_x_preferred":[
+        "Ajman"
+    ],
     "name:dan_x_preferred":[
         "Ajman"
+    ],
+    "name:dan_x_variant":[
+        "Emiratet Ajman"
     ],
     "name:deu_x_preferred":[
         "Adschman"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03ca\u03bc\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c4\u03b6\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ajman"
@@ -194,6 +209,9 @@
     "name:nan_x_preferred":[
         "Ajman Th\u00e2u-l\u00e2ng-kok"
     ],
+    "name:nep_x_preferred":[
+        "\u0905\u091c\u092e\u093e\u0928 \u0907\u092e\u093f\u0930\u0947\u091f\u094d\u0938"
+    ],
     "name:nld_x_preferred":[
         "Ajman"
     ],
@@ -272,6 +290,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e08\u0e21\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e08\u0e0d\u0e4c\u0e21\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Acman"
     ],
@@ -287,6 +308,9 @@
     "name:vie_x_preferred":[
         "Ajman"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u6cbb\u66fc\u914b\u957f\u56fd"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10ef\u10db\u10d0\u10dc\u10d8\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
@@ -298,6 +322,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5409\u66fc"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u6cbb\u66fc\u914b\u957f\u56fd"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -430,7 +457,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974531,
+    "wof:lastmodified":1690848515,
     "wof:name":"Ajman",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

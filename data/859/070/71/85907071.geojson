@@ -29,12 +29,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0641\u0627\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0627\u0639\u0647"
+    ],
     "name:eng_x_preferred":[
         "Al Raffa"
     ],
     "name:eng_x_variant":[
         "Al Rifa'a",
         "Al Rifa"
+    ],
+    "name:epo_x_preferred":[
+        "Alrafa"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0631\u0641\u0627\u0639\u0629"
@@ -50,6 +56,9 @@
     ],
     "name:und_x_variant":[
         "Ar Rif\u0101\u2018ah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0627\u0639\u06c1"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_fcode":"PPLX",
@@ -120,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1663974528,
+    "wof:lastmodified":1690848512,
     "wof:name":"Al Raffa",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

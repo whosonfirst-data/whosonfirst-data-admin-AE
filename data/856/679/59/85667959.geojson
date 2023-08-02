@@ -43,8 +43,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0645\u0627\u0631\u0629 \u0627\u0644\u0641\u062c\u064a\u0631\u0629"
+    ],
     "name:aze_x_preferred":[
         "\u018fl-F\u00fcceyr\u0259 \u0259mirliyi"
+    ],
+    "name:bak_x_preferred":[
+        "\u04d8\u043b-\u0424\u04af\u0436\u04d9\u0439\u0440\u04d9"
     ],
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u042d\u043b\u044c-\u0424\u0443\u0434\u0436\u0430\u0439\u0440\u0430"
@@ -54,6 +60,12 @@
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u099c\u09be\u09af\u09bc\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09c1\u099c\u09be\u0987\u09b0\u09be\u09b9 \u0986\u09ae\u09bf\u09b0\u09be\u09a4"
+    ],
+    "name:bos_x_preferred":[
+        "Fujairah"
     ],
     "name:bre_x_preferred":[
         "Fujayrah"
@@ -72,6 +84,9 @@
     ],
     "name:dan_x_preferred":[
         "Fujairah"
+    ],
+    "name:dan_x_variant":[
+        "Emiratet Fujairah"
     ],
     "name:deu_x_preferred":[
         "Fudschaira"
@@ -128,6 +143,9 @@
     "name:ind_x_preferred":[
         "Fujairah"
     ],
+    "name:isl_x_preferred":[
+        "F\u00fadsa\u00edra"
+    ],
     "name:ita_x_preferred":[
         "Fujaira"
     ],
@@ -136,6 +154,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cab\u0cc1\u0c9c\u0cc8\u0cb0\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da-\u10e4\u10e3\u10ef\u10d0\u10d8\u10e0\u10d0\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ud478\uc790\uc774\ub77c \ud1a0\ud6c4\uad6d"
@@ -275,6 +296,9 @@
     "name:vie_x_preferred":[
         "Fujairah"
     ],
+    "name:wuu_x_preferred":[
+        "\u5bcc\u67e5\u4f0a\u62c9\u914b\u957f\u56fd"
+    ],
     "name:xmf_x_preferred":[
         "\u10d4\u10da-\u10e4\u10e3\u10ef\u10d0\u10d8\u10e0\u10d0\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
@@ -286,6 +310,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5bcc\u5409\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u5bcc\u67e5\u4f0a\u62c9\u914b\u957f\u56fd"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -421,7 +448,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974531,
+    "wof:lastmodified":1690848515,
     "wof:name":"Fujairah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

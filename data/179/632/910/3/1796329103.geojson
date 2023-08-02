@@ -16,12 +16,40 @@
     "name:ara_x_preferred":[
         "\u0671\u0644\u0640\u0633\u0650\u0651\u0640\u0644\u064e\u0640\u0639"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0644\u0639"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0639"
+    ],
+    "name:deu_x_preferred":[
+        "Sila"
+    ],
     "name:eng_x_preferred":[
         "As-Sila"
     ],
     "name:eng_x_variant":[
         "As Sila",
-        "Al Sila"
+        "Al Sila",
+        "Sila"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Sila"
+    ],
+    "name:ita_x_preferred":[
+        "Sila"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d4d\u0d35\u0d3f\u0d32"
+    ],
+    "name:nld_x_preferred":[
+        "Sila"
+    ],
+    "name:pol_x_preferred":[
+        "Sila"
     ],
     "reversegeo:latitude":24.066591,
     "reversegeo:longitude":51.760032,
@@ -49,7 +77,7 @@
         }
     ],
     "wof:id":1796329103,
-    "wof:lastmodified":1663974544,
+    "wof:lastmodified":1690848525,
     "wof:name":"As-Sila",
     "wof:parent_id":1376826403,
     "wof:placetype":"locality",

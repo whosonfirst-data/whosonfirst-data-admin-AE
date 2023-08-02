@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u062d\u0645\u0631\u0627"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Al Hamra Aux"
+    ],
     "name:eng_x_preferred":[
         "Al Hamra Aux Airport"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102558457,
-    "wof:lastmodified":1663973549,
+    "wof:lastmodified":1690848510,
     "wof:name":"Al Hamra aux Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

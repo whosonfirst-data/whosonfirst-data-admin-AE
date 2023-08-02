@@ -32,6 +32,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0631\u0642\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Sharjah"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0627\u0631\u062c\u0647"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bel_x_variant":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09b0\u099c\u09be\u09b9"
     ],
     "name:bre_x_preferred":[
         "Charjah"
@@ -91,6 +97,12 @@
     ],
     "name:frp_x_preferred":[
         "Ch\u00b7ardj\u00b7a"
+    ],
+    "name:gle_x_preferred":[
+        "Sharjah"
+    ],
+    "name:hau_x_preferred":[
+        "Sharjah"
     ],
     "name:hbs_x_preferred":[
         "\u0160ard\u017ea"
@@ -161,6 +173,9 @@
     "name:mkd_x_preferred":[
         "\u0428\u0430\u0440\u045f\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Sharjah"
+    ],
     "name:nld_x_preferred":[
         "Sharjah"
     ],
@@ -179,6 +194,9 @@
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0631\u062c\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0634\u0627\u0631\u062c\u0627"
+    ],
     "name:pol_x_preferred":[
         "Szard\u017ca"
     ],
@@ -187,6 +205,9 @@
     ],
     "name:por_x_variant":[
         "Xarja"
+    ],
+    "name:pus_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0647"
     ],
     "name:ron_x_preferred":[
         "Sharjah"
@@ -233,6 +254,9 @@
     "name:tur_x_preferred":[
         "\u015earika"
     ],
+    "name:uig_x_preferred":[
+        "\u0634\u0627\u0631\u062c\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
     ],
@@ -242,11 +266,20 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u0631\u062c\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Sharja"
+    ],
+    "name:vec_x_preferred":[
+        "Sharja"
+    ],
     "name:vie_x_preferred":[
         "Sharjah"
     ],
     "name:war_x_preferred":[
         "Sharjah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c99\u8fe6"
     ],
     "name:xmf_x_preferred":[
         "\u10e8\u10d0\u10e0\u10ef\u10d0"
@@ -410,7 +443,7 @@
         }
     ],
     "wof:id":421168683,
-    "wof:lastmodified":1663974536,
+    "wof:lastmodified":1690848520,
     "wof:name":"Sharjah",
     "wof:parent_id":421171391,
     "wof:placetype":"locality",

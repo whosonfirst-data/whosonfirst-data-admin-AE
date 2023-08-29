@@ -61,6 +61,9 @@
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09b0\u099c\u09be\u09b9 \u0986\u09ae\u09bf\u09b0\u09be\u09a4"
     ],
+    "name:bos_x_preferred":[
+        "Sharjah"
+    ],
     "name:bre_x_preferred":[
         "Charjah"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:dan_x_preferred":[
         "Sharjah"
+    ],
+    "name:dan_x_variant":[
+        "Emiratet Sharjah"
     ],
     "name:deu_x_preferred":[
         "Schardscha"
@@ -189,6 +195,9 @@
     "name:msa_x_preferred":[
         "Sharjah"
     ],
+    "name:msa_x_variant":[
+        "Emiriah Sharjah"
+    ],
     "name:nan_x_preferred":[
         "Sharjah Th\u00e2u-l\u00e2ng-kok"
     ],
@@ -282,8 +291,14 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u0631\u062c\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Sharja amirligi"
+    ],
     "name:vie_x_preferred":[
         "Sharjah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c99\u8fe6\u914b\u957f\u56fd"
     ],
     "name:xmf_x_preferred":[
         "\u10e8\u10d0\u10e0\u10ef\u10d0\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
@@ -296,6 +311,9 @@
     ],
     "name:zho_x_preferred":[
         "\u590f\u5c14\u8fe6"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u8fe6\u914b\u9577\u570b"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -425,7 +443,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974532,
+    "wof:lastmodified":1690848517,
     "wof:name":"Sharjah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

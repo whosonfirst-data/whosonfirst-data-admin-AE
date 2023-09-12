@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007115,
-    "geom:area_square_m":78799290.62319,
+    "geom:area_square_m":79431038.66692,
     "geom:bbox":"55.472113,25.41801,55.647704,25.518144",
     "geom:latitude":25.461303,
     "geom:longitude":55.549551,
@@ -14,7 +14,10 @@
         "\u0627\ufedf\ufea4\ufee4\ufeae\ufef3\ufe94\u200e"
     ],
     "label:eng_x_preferred_longname":[
-        "Al Hamriya"
+        "Al Hamriya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.475449,
     "lbl:longitude":55.526287,
@@ -51,7 +54,7 @@
         1293711159
     ],
     "wof:country":"AE",
-    "wof:geomhash":"b9dcc6c6637b8f952c2edb0de431e1fb",
+    "wof:geomhash":"4b6ccaf9fc332404f4a07567581013f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974534,
+    "wof:lastmodified":1694493025,
     "wof:name":"Al Hamriya",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00176,
-    "geom:area_square_m":13300666.967784,
+    "geom:area_square_m":19736764.733009,
     "geom:bbox":"56.270498,24.908506,56.349971,24.951449",
     "geom:latitude":24.926697,
     "geom:longitude":56.304444,
@@ -17,7 +17,7 @@
         "Neutral Zone"
     ],
     "label:eng_x_preferred_placetype":[
-        "emirate"
+        "municipality"
     ],
     "lbl:latitude":24.921689,
     "lbl:longitude":56.300531,
@@ -176,7 +176,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93621401dc16e339d9e006841b7e31cc",
+    "wof:geomhash":"a7b5fa24a76a531010be3fe8abc7d76c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,7 +191,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974532,
+    "wof:lastmodified":1694493264,
     "wof:name":"Neutral Zone",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

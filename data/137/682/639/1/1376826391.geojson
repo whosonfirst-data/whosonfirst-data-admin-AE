@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048764,
-    "geom:area_square_m":545609400.703127,
+    "geom:area_square_m":545609400.703119,
     "geom:bbox":"55.632675,25.039884,55.836072,25.395943",
     "geom:latitude":25.194389,
     "geom:longitude":55.738141,
@@ -14,7 +14,10 @@
         "\u0627\u0644\u0628\u0637\u0627\u0626\u062d"
     ],
     "label:eng_x_preferred_longname":[
-        "Al Bataeh"
+        "Al Bataeh Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.191472,
     "lbl:longitude":55.735575,
@@ -46,7 +49,7 @@
         1730008653
     ],
     "wof:country":"AE",
-    "wof:geomhash":"579213b84b73459be5559b9275a4550b",
+    "wof:geomhash":"84644a4bb77f1f49f4713f287572a627",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +65,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974535,
+    "wof:lastmodified":1694493025,
     "wof:name":"Al Bataeh",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

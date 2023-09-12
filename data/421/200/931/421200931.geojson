@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.317889,
-    "geom:area_square_m":14918277487.598757,
+    "geom:area_square_m":14918280737.00338,
     "geom:bbox":"54.534126,22.631514,56.018126,24.708983",
     "geom:latitude":23.708045,
     "geom:longitude":55.224452,
@@ -14,7 +14,10 @@
         "\u0627\u0644\u0639\u064a\u0646"
     ],
     "label:eng_x_preferred_longname":[
-        "Al Ain"
+        "Al Ain Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":23.688012,
     "lbl:longitude":55.235742,
@@ -23,7 +26,7 @@
     "mps:latitude":23.688012,
     "mps:longitude":55.235742,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -291,7 +294,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6db5b65cb71ee1100f8da0c7d62c2446",
+    "wof:geomhash":"9f36c38115de79bb59871d0a5b320a07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421200931,
-    "wof:lastmodified":1663974538,
+    "wof:lastmodified":1694492303,
     "wof:name":"Al Ain",
     "wof:parent_id":85667981,
     "wof:placetype":"county",

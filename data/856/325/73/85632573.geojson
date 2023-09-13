@@ -1302,8 +1302,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_date":"2018",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"971",
     "statoids:ds":"",
     "statoids:fifa":"UAE",
@@ -1374,7 +1373,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694492219,
+    "wof:lastmodified":1694639673,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

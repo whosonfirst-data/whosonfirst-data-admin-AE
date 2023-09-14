@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.056015,
-    "geom:area_square_m":11998563469.558533,
+    "geom:area_square_m":11915305064.668636,
     "geom:bbox":"53.666536,23.414589,55.148086,25.251249",
     "geom:latitude":24.152819,
     "geom:longitude":54.59426,
@@ -14,7 +14,10 @@
         "\u0623\u0628\u0648 \u0638\u0628\u064a"
     ],
     "label:eng_x_preferred_longname":[
-        "Abu Dhabi"
+        "Abu Dhabi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":24.028276,
     "lbl:longitude":54.521643,
@@ -554,7 +557,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb343853f595d66b67ae90935198f581",
+    "wof:geomhash":"7ef05ce83cd3c11e7f4f50348d7dedba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -564,7 +567,7 @@
         }
     ],
     "wof:id":421172075,
-    "wof:lastmodified":1663974538,
+    "wof:lastmodified":1694493025,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85667981,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023283,
-    "geom:area_square_m":260738025.220396,
+    "geom:area_square_m":260738025.220434,
     "geom:bbox":"55.80687,24.98868,55.978733,25.179646",
     "geom:latitude":25.089107,
     "geom:longitude":55.890176,
@@ -14,7 +14,10 @@
         "\u0645\u0644\u064a\u062d\u0629"
     ],
     "label:eng_x_preferred_longname":[
-        "Mleeha"
+        "Mleeha Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.089853,
     "lbl:longitude":55.88322,
@@ -46,7 +49,7 @@
         421170937
     ],
     "wof:country":"AE",
-    "wof:geomhash":"e5c3cd614ea5833423107140dbc6bb22",
+    "wof:geomhash":"1e86f45f5a99409eef05995d7430576f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +65,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974535,
+    "wof:lastmodified":1694493025,
     "wof:name":"Mleeha",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

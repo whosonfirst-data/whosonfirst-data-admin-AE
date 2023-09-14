@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043556,
-    "geom:area_square_m":486346768.767667,
+    "geom:area_square_m":486832187.85336,
     "geom:bbox":"55.349781,25.207389,55.728079,25.436357",
     "geom:latitude":25.322706,
     "geom:longitude":55.558596,
@@ -14,7 +14,10 @@
         "\u0627\u0644\u0634\u0627\u0631\u0642\u0629"
     ],
     "label:eng_x_preferred_longname":[
-        "Sharjah"
+        "Sharjah Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.295749,
     "lbl:longitude":55.593044,
@@ -295,7 +298,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53a49bdffc64eb920d72f97076b30690",
+    "wof:geomhash":"5e6616e05391ac4f0264bf8cc74430ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":421171391,
-    "wof:lastmodified":1663974539,
+    "wof:lastmodified":1694493025,
     "wof:name":"Sharjah",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075987,
-    "geom:area_square_m":846487918.762875,
+    "geom:area_square_m":848167058.620829,
     "geom:bbox":"55.520564,25.277036,55.928142,25.662297",
     "geom:latitude":25.485378,
     "geom:longitude":55.73519,
@@ -15,7 +15,10 @@
         "\u0623\u0645 \u0627\u0644\u0642\u064a\u0648\u064a\u0646"
     ],
     "label:eng_x_preferred_longname":[
-        "Umm Al Quwain"
+        "Umm Al Quwain Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.529785,
     "lbl:longitude":55.718218,
@@ -428,7 +431,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7bbaa97731b1a1d672fa92e41d2a1b28",
+    "wof:geomhash":"b61c3d5313932a845d5415a7bb65d439",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -444,7 +447,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848518,
+    "wof:lastmodified":1694493025,
     "wof:name":"Umm Al Quwain",
     "wof:parent_id":85667955,
     "wof:placetype":"county",

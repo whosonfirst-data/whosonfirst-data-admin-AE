@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009316,
-    "geom:area_square_m":111007348.857573,
+    "geom:area_square_m":104109357.125281,
     "geom:bbox":"56.198367,25.25611,56.381701,25.4223",
     "geom:latitude":25.335757,
     "geom:longitude":56.305717,
@@ -14,7 +14,10 @@
         "\u0645\u062f\u064a\u0646\u0629 \u062e\u0648\u0631 \u0641\u0643\u0627\u0646"
     ],
     "label:eng_x_preferred_longname":[
-        "Khor Fakkan"
+        "Khor Fakkan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.350408,
     "lbl:longitude":56.324664,
@@ -158,7 +161,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4fc5a81274734a7ea8dcc73dced8280",
+    "wof:geomhash":"90fdfd2227b47d1ed72dc2ab6abaf1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421182269,
-    "wof:lastmodified":1663974539,
+    "wof:lastmodified":1694493025,
     "wof:name":"Khor Fakkan",
     "wof:parent_id":85667977,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149435,
-    "geom:area_square_m":1666839414.110822,
+    "geom:area_square_m":1669805651.929403,
     "geom:bbox":"55.965711,24.871949,56.376705,25.662314",
     "geom:latitude":25.354051,
     "geom:longitude":56.19775,
@@ -15,7 +15,10 @@
         "\u0627\u0644\u0641\u062c\u064a\u0631\u0629"
     ],
     "label:eng_x_preferred_longname":[
-        "Fujairah"
+        "Fujairah Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.488,
     "lbl:longitude":56.23775,
@@ -420,7 +423,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ca3506bed3b38b0e3f6ff0067aeba05",
+    "wof:geomhash":"ca045dceba98d6b8dae677ce0b6d1331",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -436,7 +439,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848518,
+    "wof:lastmodified":1694493025,
     "wof:name":"Fujairah",
     "wof:parent_id":85667959,
     "wof:placetype":"county",

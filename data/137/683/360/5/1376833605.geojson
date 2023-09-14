@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223142,
-    "geom:area_square_m":2493995968.558377,
+    "geom:area_square_m":2491299947.195134,
     "geom:bbox":"55.729594,24.820372,56.274683,26.069654",
     "geom:latitude":25.455256,
     "geom:longitude":56.033528,
@@ -15,7 +15,10 @@
         "\u0631\u0623\u0633 \u0627\u0644\u062e\u064a\u0645\u0629"
     ],
     "label:eng_x_preferred_longname":[
-        "Ras al Khaimah"
+        "Ras al Khaimah Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":25.693159,
     "lbl:longitude":55.978066,
@@ -447,7 +450,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f051375c26ac061c53074ee2b554b53",
+    "wof:geomhash":"0859c7ed36ea7a0cadc706837b49bde1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -463,7 +466,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848519,
+    "wof:lastmodified":1694493025,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85667951,
     "wof:placetype":"county",

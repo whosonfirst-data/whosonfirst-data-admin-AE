@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.967109,
-    "geom:area_square_m":33086551415.292885,
+    "geom:area_square_m":33651000672.950272,
     "geom:bbox":"51.497112,22.705883,54.805579,25.160418",
     "geom:latitude":23.480338,
     "geom:longitude":53.321064,
@@ -17,10 +17,10 @@
         "\u0645\u0650\u0646\u0652\u0637\u064e\u0642\u064e\u0629"
     ],
     "label:eng_x_preferred_longname":[
-        "Al Dhafra Region"
+        "Al Dhafra Municipality"
     ],
     "label:eng_x_preferred_placetype":[
-        "region"
+        "municipality"
     ],
     "lbl:latitude":23.487457,
     "lbl:longitude":53.321558,
@@ -70,7 +70,7 @@
         "wk:page":"Al_Dhafra,_Abu_Dhabi"
     },
     "wof:country":"AE",
-    "wof:geomhash":"834ccf115a6562964a55d7144f992d61",
+    "wof:geomhash":"8506f52a759879d7184dbed2cabd75b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +86,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1663974534,
+    "wof:lastmodified":1694493025,
     "wof:name":"Al Dhafra",
     "wof:parent_id":85667981,
     "wof:placetype":"county",

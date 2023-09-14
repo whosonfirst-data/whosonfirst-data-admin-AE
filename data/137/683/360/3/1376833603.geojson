@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.377227,
-    "geom:area_square_m":4217539246.642838,
+    "geom:area_square_m":4229791501.20676,
     "geom:bbox":"54.890707,24.595088,56.204439,25.358089",
     "geom:latitude":24.931955,
     "geom:longitude":55.367371,
@@ -15,7 +15,10 @@
         "\u062f\u0628\u064a"
     ],
     "label:eng_x_preferred_longname":[
-        "Dubai"
+        "Dubai Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
     ],
     "lbl:latitude":24.915976,
     "lbl:longitude":55.3572,
@@ -668,7 +671,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"45045eb8cef38e92e73457d202739f37",
+    "wof:geomhash":"41917d55b8926d2a98dc89494ea86e08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -684,7 +687,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848519,
+    "wof:lastmodified":1694493025,
     "wof:name":"Dubai",
     "wof:parent_id":85667983,
     "wof:placetype":"county",

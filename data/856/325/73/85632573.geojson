@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":6.427518,
-    "geom:area_square_m":72739981312.205124,
+    "geom:area_square_m":72642125847.361862,
     "geom:bbox":"51.497112,22.631514,56.381701,26.069654",
     "geom:latitude":23.925674,
     "geom:longitude":54.330681,
@@ -19,6 +19,9 @@
     "iso:country":"AE",
     "itu:country_code":[
         "971"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "UAE"
@@ -1298,8 +1301,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2018",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"971",
     "statoids:ds":"",
     "statoids:fifa":"UAE",
@@ -1356,7 +1359,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"c03ac90945748097d6b5af2f20ebd24f",
+    "wof:geomhash":"de84e1bba1d69a582e87c346f1237c10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1370,12 +1373,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848514,
+    "wof:lastmodified":1694639673,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":9599353,
-    "wof:population_rank":13,
+    "wof:population":9770529,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ae",
     "wof:shortcode":"UAE",
     "wof:superseded_by":[],

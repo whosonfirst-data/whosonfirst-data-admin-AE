@@ -1340,6 +1340,7 @@
         "hasc:id":"AE",
         "icao:code":"A6",
         "ioc:id":"UAE",
+        "iso:code":"AE",
         "itu:id":"UAE",
         "loc:id":"n79086806",
         "m49:code":"784",
@@ -1353,6 +1354,7 @@
         "wk:page":"United Arab Emirates",
         "wmo:id":"ER"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AE",
     "wof:country_alpha3":"ARE",
     "wof:geom_alt":[
@@ -1373,7 +1375,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639673,
+    "wof:lastmodified":1695881332,
     "wof:name":"United Arab Emirates",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

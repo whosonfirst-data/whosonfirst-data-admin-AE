@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":0.235556,
-    "geom:area_square_m":2621511590.517756,
+    "geom:area_square_m":2636993642.457028,
     "geom:bbox":"55.349781,24.690845,56.381701,25.629307",
     "geom:latitude":25.129963,
     "geom:longitude":55.799277,
@@ -419,16 +419,18 @@
         "gn:id":292673,
         "gp:id":2347114,
         "hasc:id":"AE.SH",
+        "iso:code":"AE-SH",
         "iso:id":"AE-SH",
         "qs_pg:id":1091222,
         "wd:id":"Q188810",
         "wk:page":"Emirate of Sharjah"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc14dcb620c8a05ba080ccda99d20627",
+    "wof:geomhash":"f23e94ea43fad8d79da064ee39a97ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -443,7 +445,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848517,
+    "wof:lastmodified":1695885135,
     "wof:name":"Sharjah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

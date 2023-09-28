@@ -439,10 +439,15 @@
         "gn:id":291075,
         "gp:id":2347113,
         "hasc:id":"AE.RK",
+        "iso:code":"AE-RK",
         "iso:id":"AE-RK",
         "qs_pg:id":1135358,
         "wd:id":"Q170024"
     },
+    "wof:concordances_official":"iso:code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         85667951
     ],
@@ -466,7 +471,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493025,
+    "wof:lastmodified":1695886557,
     "wof:name":"Ras Al Khaimah",
     "wof:parent_id":85667951,
     "wof:placetype":"county",

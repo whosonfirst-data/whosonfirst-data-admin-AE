@@ -420,11 +420,16 @@
         "gn:id":292933,
         "gp:id":2347110,
         "hasc:id":"AE.AJ",
+        "iso:code":"AE-AJ",
         "iso:id":"AE-AJ",
         "qs_pg:id":1311801,
         "wd:id":"Q159477",
         "wk:page":"Emirate of Ajman"
     },
+    "wof:concordances_official":"iso:code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         85667969
     ],
@@ -448,7 +453,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493025,
+    "wof:lastmodified":1695886557,
     "wof:name":"Ajman",
     "wof:parent_id":85667969,
     "wof:placetype":"county",

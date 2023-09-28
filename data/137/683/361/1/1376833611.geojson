@@ -410,12 +410,17 @@
         "gn:id":292879,
         "gp:id":2347112,
         "hasc:id":"AE.FU",
+        "iso:code":"AE-FU",
         "iso:id":"AE-FU",
         "qs_pg:id":218188,
         "unlc:id":"AE-FU",
         "wd:id":"Q4091",
         "wk:page":"Fujairah"
     },
+    "wof:concordances_official":"iso:code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         85667959
     ],
@@ -439,7 +444,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493025,
+    "wof:lastmodified":1695886558,
     "wof:name":"Fujairah",
     "wof:parent_id":85667959,
     "wof:placetype":"county",

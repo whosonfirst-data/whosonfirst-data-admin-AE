@@ -658,12 +658,17 @@
         "gn:id":292224,
         "gp:id":2347111,
         "hasc:id":"AE.DU",
+        "iso:code":"AE-DU",
         "iso:id":"AE-DU",
         "qs_pg:id":1278641,
         "unlc:id":"AE-DU",
         "wd:id":"Q613",
         "wk:page":"Emirate of Dubai"
     },
+    "wof:concordances_official":"iso:code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         85667983
     ],
@@ -687,7 +692,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493025,
+    "wof:lastmodified":1695886556,
     "wof:name":"Dubai",
     "wof:parent_id":85667983,
     "wof:placetype":"county",

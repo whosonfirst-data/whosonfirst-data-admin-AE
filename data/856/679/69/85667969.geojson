@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":0.015847,
-    "geom:area_square_m":193540648.101557,
+    "geom:area_square_m":177033414.975196,
     "geom:bbox":"55.423316,25.282049,56.033211,25.45088",
     "geom:latitude":25.38614,
     "geom:longitude":55.615532,
@@ -430,11 +430,13 @@
         "gn:id":292933,
         "gp:id":2347110,
         "hasc:id":"AE.AJ",
+        "iso:code":"AE-AJ",
         "iso:id":"AE-AJ",
         "qs_pg:id":1311801,
         "wd:id":"Q159477",
         "wk:page":"Emirate of Ajman"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1376833607
     ],
@@ -442,7 +444,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b240f21a55c95a2d35ab456cc9e9d1cc",
+    "wof:geomhash":"b17fbdb00ef64dec95b804ba9b392103",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -457,7 +459,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848515,
+    "wof:lastmodified":1695885135,
     "wof:name":"Ajman",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

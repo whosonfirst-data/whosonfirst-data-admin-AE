@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":5.341013,
-    "geom:area_square_m":60581876606.696526,
+    "geom:area_square_m":60484586474.621964,
     "geom:bbox":"51.497112,22.631514,56.018126,25.251249",
     "geom:latitude":23.669486,
     "geom:longitude":54.042457,
@@ -480,17 +480,19 @@
         "gn:id":292969,
         "gp:id":2347109,
         "hasc:id":"AE.AZ",
+        "iso:code":"AE-AZ",
         "iso:id":"AE-AZ",
         "loc:id":"n81147503",
         "qs_pg:id":218190,
         "wd:id":"Q187712",
         "wk:page":"Emirate of Abu Dhabi"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2b9fe1603873efa13231262ac6c892e",
+    "wof:geomhash":"f93ee4a9a90b1ae9026e78babece2ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -505,7 +507,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848516,
+    "wof:lastmodified":1695885136,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

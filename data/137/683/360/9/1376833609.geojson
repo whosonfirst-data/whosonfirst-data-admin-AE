@@ -417,6 +417,7 @@
         "gn:id":290595,
         "gp:id":2347115,
         "hasc:id":"AE.UQ",
+        "iso:code":"AE-UQ",
         "iso:id":"AE-UQ",
         "nyt:id":"84442786730790533851",
         "qs_pg:id":890102,
@@ -424,6 +425,10 @@
         "wd:id":"Q175021",
         "wk:page":"Umm al-Quwain"
     },
+    "wof:concordances_official":"iso:code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         85667955
     ],
@@ -447,7 +452,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493025,
+    "wof:lastmodified":1695886557,
     "wof:name":"Umm Al Quwain",
     "wof:parent_id":85667955,
     "wof:placetype":"county",

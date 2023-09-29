@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":0.149435,
-    "geom:area_square_m":1666840514.60322,
+    "geom:area_square_m":1669805651.929381,
     "geom:bbox":"55.965711,24.871949,56.376705,25.662314",
     "geom:latitude":25.354051,
     "geom:longitude":56.19775,
@@ -420,12 +420,14 @@
         "gn:id":292879,
         "gp:id":2347112,
         "hasc:id":"AE.FU",
+        "iso:code":"AE-FU",
         "iso:id":"AE-FU",
         "qs_pg:id":218188,
         "unlc:id":"AE-FU",
         "wd:id":"Q4091",
         "wk:page":"Fujairah"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1376833611
     ],
@@ -433,7 +435,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e37db7984cc6e0f9c946bf7d6b57b761",
+    "wof:geomhash":"dd30bc8f9b874799b1305af99fe06d33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -448,7 +450,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690848515,
+    "wof:lastmodified":1695885135,
     "wof:name":"Fujairah",
     "wof:parent_id":85632573,
     "wof:placetype":"region",
